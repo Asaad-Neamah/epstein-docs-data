@@ -1,0 +1,131 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_014310.txt",
+  "file_name": "HOUSE_OVERSIGHT_014310.txt",
+  "processed_at": "2025-11-15T02:36:25.984816",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-15",
+      "subject": "SPX put contingent on higher rates",
+      "document_id": "",
+      "sender": "Amanda Ens",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]",
+        "Richard Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Amanda Ens",
+        "Jeffrey E.",
+        "Richard Kahn",
+        "Trump"
+      ],
+      "organizations": [
+        "Bank of America Merrill Lynch",
+        "Merrill Lynch, Pierce, Fenner & Smith Incorporated"
+      ],
+      "locations": [
+        "New York, NY",
+        "One Bryant Park, 5th Floor, New York, NY 10036"
+      ],
+      "financial_entities": [
+        "Bank of America Merrill Lynch",
+        "SPX",
+        "US Treasury",
+        "US 10Y CMS"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Financial advisor providing investment advice to client"
+      },
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Richard Kahn",
+        "relationship_type": "professional",
+        "description": "Colleagues or both recipients of financial advice"
+      },
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Bank of America Merrill Lynch",
+        "relationship_type": "employment",
+        "description": "Director at the financial institution"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "0.87%",
+        "2.5%",
+        "2.11%",
+        "2,164.2",
+        "95%",
+        "70% discount",
+        "5%",
+        "60%",
+        "20%"
+      ],
+      "transactions": [
+        "SPX Apr-17 95% put conditional on US 10Y CMS > 2.5%",
+        "hedge long-equities"
+      ],
+      "assets": [
+        "SPX options",
+        "US Treasury bonds",
+        "Long Bond futures",
+        "equities"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, analytical, advisory",
+      "emotional_indicators": [
+        "confidence in analysis",
+        "urgency marked by 'High Importance'"
+      ],
+      "purpose": "To provide investment advice and hedging strategies following Trump election volatility",
+      "significance": "Shows financial advisory relationship and investment strategies being discussed post-2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "We are recording unprecedented divergences in falling equity vol with rising rates vol post Trump's win.",
+      "Stabilizing rates volatility from here is key to markets remaining calm and while equity upside may continue, it is not without higher risks",
+      "We like cheap optionality to hedge long-equities if rates continue to move sharply"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - purely professional financial communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains legitimate financial analysis and investment advice with no illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard financial market analysis following 2016 US election - similar analysis was widely available through financial media outlets"
+    },
+    "summary": "Amanda Ens from Bank of America Merrill Lynch sends investment advice to Jeffrey Epstein and Richard Kahn regarding post-Trump election market volatility, recommending SPX put options contingent on interest rates as a hedging strategy for equity portfolios."
+  }
+}

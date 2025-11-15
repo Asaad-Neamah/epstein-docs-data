@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033163.txt",
+  "file_name": "HOUSE_OVERSIGHT_033163.txt",
+  "processed_at": "2025-11-15T02:57:05.725150",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-03-24",
+      "subject": "10:00pm Tonight - CNBC Feature",
+      "document_id": "",
+      "sender": "Eric Roth",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Eric Roth",
+        "Jeffrey E.",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "CNBC",
+        "International Jet"
+      ],
+      "locations": [
+        "Long Island MacArthur Airport",
+        "Ronkonkoma",
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Eric Roth",
+        "entity_2": "International Jet",
+        "relationship_type": "employment",
+        "description": "Eric Roth is President of International Jet"
+      },
+      {
+        "entity_1": "International Jet",
+        "entity_2": "Donald Trump",
+        "relationship_type": "business",
+        "description": "International Jet performed S-76 helicopter refurbishment for Donald Trump"
+      },
+      {
+        "entity_1": "Eric Roth",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Eric Roth is sharing information about a TV feature with Jeffrey E."
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "S-76 helicopter"
+      ]
+    },
+    "analysis": {
+      "tone": "casual, professional",
+      "emotional_indicators": [
+        "friendly",
+        "informative"
+      ],
+      "purpose": "To inform Jeffrey E. about a CNBC television feature showcasing International Jet's helicopter refurbishment work for Donald Trump",
+      "significance": "Shows business relationship between International Jet and Donald Trump, and communication between Eric Roth and Jeffrey Epstein about media coverage"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Should you be bored this evening, we will be featured on CNBC's 'Secret Lives of The Super Rich' showcasing our S-76 refurbishment for Donald Trump."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be a routine professional communication about media coverage"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced - this is a routine email about television media coverage"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC's 'Secret Lives of The Super Rich' television feature showcasing S-76 helicopter refurbishment for Donald Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This email references a television feature that was broadcast on CNBC, making the information publicly available through media coverage"
+    },
+    "summary": "Eric Roth, President of International Jet, emails Jeffrey Epstein to inform him about a CNBC television feature airing that evening showcasing their company's S-76 helicopter refurbishment work for Donald Trump."
+  }
+}

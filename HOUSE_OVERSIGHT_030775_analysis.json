@@ -1,0 +1,121 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030775.txt",
+  "file_name": "HOUSE_OVERSIGHT_030775.txt",
+  "processed_at": "2025-11-15T02:50:34.054911",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-18",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "jeffrey E. (jeeyacation@gmail.com)",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jeffrey E.",
+        "Michael Wolff",
+        "Bannon",
+        "Trump",
+        "Ira Rosen"
+      ],
+      "organizations": [
+        "Congress",
+        "60 Minutes",
+        "House Oversight"
+      ],
+      "locations": [
+        "DC",
+        "LA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Media strategy discussions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "professional",
+        "description": "Communicating about political strategy and coordination"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Bannon",
+        "relationship_type": "professional",
+        "description": "Wolff has insider knowledge about Bannon's plans and communications"
+      },
+      {
+        "entity_1": "Bannon",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Former allies, now potentially breaking relationship"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "few million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conspiratorial, strategic",
+      "emotional_indicators": [
+        "excitement",
+        "urgency",
+        "secrecy concern"
+      ],
+      "purpose": "To coordinate strategy for an upcoming meeting/event and discuss political developments involving Bannon and Trump",
+      "significance": "Shows coordination between Epstein and journalist Michael Wolff regarding political strategy and potential insider knowledge of Bannon's plans"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"prefer no details on email\"",
+      "\"we discussed what color shirt he should wear at the hearing. :)/. as you recognize there is the one major inflection point\"",
+      "\"Bannon's 'nationalist-populist' platform is coherent, rational, and, apparently appealing to a great many people\""
+    ],
+    "red_flags": [
+      "Request to avoid email details suggests awareness of sensitive nature of discussions",
+      "Coordination between Epstein and journalist on political strategy",
+      "Multiple confidentiality disclaimers despite being personal email"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "No illegal activity discussed - this is political strategy discussion and coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff is a journalist",
+        "Reference to 60 Minutes producer Ira Rosen",
+        "Discussion of media appearances and book promotion"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private correspondence between Epstein and journalist Michael Wolff during the period when Wolff was writing 'Fire and Fury' about the Trump administration, showing Epstein's involvement in political strategy discussions"
+    },
+    "summary": "Email exchange between Jeffrey Epstein and journalist Michael Wolff discussing political strategy, including coordination for an upcoming meeting and analysis of Steve Bannon's potential break with Trump, with explicit instructions to avoid detailed discussions over email due to sensitivity."
+  }
+}

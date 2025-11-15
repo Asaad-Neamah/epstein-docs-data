@@ -1,0 +1,121 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033479.txt",
+  "file_name": "HOUSE_OVERSIGHT_033479.txt",
+  "processed_at": "2025-11-15T02:58:57.479168",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2010-03-14",
+      "subject": "Pompeo Is Chosen to Lead State Dept. / Haspel Ousted as Trump Silences Dissent in Cabinet",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Gina Haspel",
+        "Donald Trump",
+        "Rex Tillerson",
+        "Mike Pompeo",
+        "Gary Cohn",
+        "Adam Goldman",
+        "Mark Landler",
+        "Maggie Haberman",
+        "Gardiner Harris"
+      ],
+      "organizations": [
+        "C.I.A.",
+        "Trump Administration",
+        "New York Times",
+        "State Department",
+        "Tea Party"
+      ],
+      "locations": [
+        "Washington",
+        "Thailand",
+        "Cat's Eye prison"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Employment/staffing",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Rex Tillerson",
+        "relationship_type": "employment",
+        "description": "President firing Secretary of State"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Mike Pompeo",
+        "relationship_type": "political",
+        "description": "President appointing new Secretary of State"
+      },
+      {
+        "entity_1": "Gina Haspel",
+        "entity_2": "C.I.A.",
+        "relationship_type": "employment",
+        "description": "Clandestine officer involved in counterterrorism operations"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, investigative",
+      "emotional_indicators": [],
+      "purpose": "To report on Trump administration personnel changes and Gina Haspel's background",
+      "significance": "Documents significant cabinet reshuffling and controversial CIA appointment related to interrogation programs"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Mentions of waterboarding and brutal interrogation techniques",
+        "Reference to CIA's rendition, detention and interrogation program"
+      ]
+    },
+    "notable_quotes": [
+      "\"the agency's rendition, detention and interrogation program, which shaped her career\"",
+      "\"waterboarded a Qaeda suspect three times and subjected him to brutal interrogation techniques\""
+    ],
+    "red_flags": [
+      "Controversial interrogation techniques",
+      "Rapid personnel changes suggesting instability",
+      "Appointment of official involved in secret prison operations"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a New York Times article reporting on government activities and personnel changes, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article by Adam Goldman, Mark Landler, Maggie Haberman and Gardiner Harris",
+        "New York Times publication"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a published New York Times article about Trump administration personnel changes and CIA interrogation programs that were publicly reported"
+    },
+    "summary": "New York Times article reporting on President Trump replacing Secretary of State Rex Tillerson with CIA Director Mike Pompeo, while also covering Gina Haspel's background running a secret CIA prison in Thailand where waterboarding and brutal interrogation techniques were used."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026998.txt",
+  "file_name": "HOUSE_OVERSIGHT_026998.txt",
+  "processed_at": "2025-11-15T02:45:29.634390",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-06-25",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 026998",
+      "sender": "Jonathan Farkas",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jonathan Farkas",
+        "Trump",
+        "Xi"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jonathan Farkas",
+        "entity_2": "jeevacation@gmail.com recipient",
+        "relationship_type": "personal",
+        "description": "Farkas expresses frustration about being introduced to someone he can't stop thinking about"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "Xi",
+        "relationship_type": "political",
+        "description": "Reference to political relationship between US and Chinese leaders"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal, slightly frustrated",
+      "emotional_indicators": [
+        "frustration",
+        "obsession",
+        "excitement about a story"
+      ],
+      "purpose": "Personal communication expressing frustration about an introduction and mentioning a story about F-35 aircraft",
+      "significance": "Shows personal relationship dynamics and reference to geopolitical matters"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I hate you for introducing me to her can't get her out of my mind",
+      "have a great f 35 story but not for e mail and it's no state secret"
+    ],
+    "red_flags": [
+      "Mentions sensitive F-35 story but states it's not for email"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be casual personal communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Personal email with casual conversation about relationships and vague reference to F-35 story"
+    },
+    "summary": "Jonathan Farkas emails an unknown recipient expressing frustration about being introduced to someone he can't stop thinking about, mentions a lunch meeting in early July, and references having a story about F-35 aircraft that he considers inappropriate for email but not classified."
+  }
+}

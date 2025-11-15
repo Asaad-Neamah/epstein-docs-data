@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_016698.txt",
+  "file_name": "HOUSE_OVERSIGHT_016698.txt",
+  "processed_at": "2025-11-15T02:38:06.608202",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "mailing list",
+      "date": "",
+      "subject": "Property Owner Mailing List",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Donald J Trump",
+        "Ivana Trump"
+      ],
+      "organizations": [
+        "City National Bank of Florida",
+        "Palm Beach Town Of",
+        "Breakers Palm Beach Inc",
+        "Palm Beach Country Club",
+        "Palm Beach Day School",
+        "Town of Palm Beach United Way",
+        "Palm Beach Board of Realtors"
+      ],
+      "locations": [
+        "Palm Beach, FL",
+        "New York, NY",
+        "358 El Brillo Way",
+        "124 Woodbridge Rd",
+        "1094 S Ocean Blvd",
+        "721 Fifth Avenue",
+        "725 5th Ave"
+      ],
+      "financial_entities": [
+        "City National Bank of Florida",
+        "First National Palm Beach Trust",
+        "Chase Manhattan Bank",
+        "United States Trust Co"
+      ]
+    },
+    "themes": [
+      "Real estate/properties",
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "358 El Brillo Way",
+        "relationship_type": "property ownership",
+        "description": "Jeffrey Epstein listed as property owner at 358 El Brillo Way, Palm Beach FL"
+      },
+      {
+        "entity_1": "Donald J Trump",
+        "entity_2": "124 Woodbridge Rd",
+        "relationship_type": "property ownership",
+        "description": "Donald Trump listed with property at 124 Woodbridge Rd and mailing address at 721 Fifth Avenue, New York"
+      },
+      {
+        "entity_1": "Donald J Trump",
+        "entity_2": "1094 S Ocean Blvd",
+        "relationship_type": "property ownership",
+        "description": "Donald Trump listed with property at 1094 S Ocean Blvd and mailing address at 725 5th Ave, New York"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Multiple residential and commercial properties throughout Palm Beach"
+      ]
+    },
+    "analysis": {
+      "tone": "Administrative",
+      "emotional_indicators": [],
+      "purpose": "To provide a comprehensive mailing list of property owners in Palm Beach, Florida for administrative or mailing purposes",
+      "significance": "Documents property ownership patterns in an affluent area, including high-profile individuals like Jeffrey Epstein and Donald Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "Multiple LLCs and trusts holding property, which could indicate asset protection strategies"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this property ownership list"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity evidenced - this is a straightforward property ownership mailing list"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Property ownership records are typically public information available through county recorder offices"
+    },
+    "summary": "This document is a comprehensive mailing list of property owners in Palm Beach, Florida, including high-profile individuals such as Jeffrey Epstein and Donald Trump, showing their property addresses and mailing addresses for administrative purposes."
+  }
+}

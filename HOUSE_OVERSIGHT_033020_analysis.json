@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033020.txt",
+  "file_name": "HOUSE_OVERSIGHT_033020.txt",
+  "processed_at": "2025-11-15T02:56:52.435463",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email chain",
+      "date": "2017-09-03",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "jeffrey E. <jeevacation@gmail.com>",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jared",
+        "Trump",
+        "jeffrey E."
+      ],
+      "organizations": [
+        "White House"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "professional/communication",
+        "description": "Email correspondence regarding scheduling and a book nomination"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jared",
+        "relationship_type": "professional",
+        "description": "Wolff is waiting to hear from Jared regarding scheduling"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump",
+        "relationship_type": "professional",
+        "description": "Wolff is waiting to hear from Trump regarding scheduling"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "urgency",
+        "anticipation"
+      ],
+      "purpose": "To coordinate scheduling for a potential White House meeting and share information about a book nomination",
+      "significance": "Shows communication between Jeffrey Epstein and journalist Michael Wolff regarding access to Trump administration officials"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "sent you his book cover, he has been nominated for the Nobel Peace Prize. on the short list.",
+      "Probably won't know until tomorrow. Waiting on both Jared and Trump. Can you chat? have something to ask."
+    ],
+    "red_flags": [
+      "Informal communication about accessing high-level White House officials",
+      "Use of personal email for potentially sensitive communications"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "No evidence of illegal activity in this email exchange - appears to be routine scheduling communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff is a journalist/author",
+        "Reference to book nomination for Nobel Peace Prize",
+        "Discussion of access to White House officials"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is known for his books about the Trump administration; this email shows Epstein's connections to Wolff and attempts to facilitate White House access"
+    },
+    "summary": "Email exchange between Jeffrey Epstein and journalist Michael Wolff discussing scheduling a White House meeting, with Wolff waiting to hear from Jared Kushner and Donald Trump, and Epstein mentioning someone's Nobel Peace Prize nomination."
+  }
+}

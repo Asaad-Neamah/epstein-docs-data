@@ -1,0 +1,123 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030612.txt",
+  "file_name": "HOUSE_OVERSIGHT_030612.txt",
+  "processed_at": "2025-11-15T02:49:53.699810",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2010-01-28",
+      "subject": "Re: Re:",
+      "document_id": "",
+      "sender": "Jeffrey Epstein",
+      "recipients": [
+        "Boris Nikolic"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Boris Nikolic",
+        "Andrew",
+        "Bill Clinton",
+        "Sarkozy",
+        "Prince Andrew",
+        "Nathan Wolf"
+      ],
+      "organizations": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Boris Nikolic",
+        "relationship_type": "personal/business",
+        "description": "Friendly communication with Epstein giving advice and instructions"
+      },
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Prince Andrew",
+        "relationship_type": "professional",
+        "description": "Meeting arranged to discuss Microsoft-related questions"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Prince Andrew",
+        "relationship_type": "personal",
+        "description": "Epstein refers to Prince Andrew as 'your friend' and instructs Nikolic to tell Andrew they are friends"
+      },
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "professional",
+        "description": "Nikolic met with Bill Clinton"
+      },
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Sarkozy",
+        "relationship_type": "professional",
+        "description": "Nikolic followed up with Sarkozy after meeting Clinton"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, friendly, advisory",
+      "emotional_indicators": [
+        "lighthearted",
+        "friendly concern",
+        "mild frustration (Nikolic getting sick of meetings)"
+      ],
+      "purpose": "Personal check-in and coordination regarding meetings with high-profile individuals",
+      "significance": "Shows Epstein's connections to powerful political figures and his advisory role in Nikolic's interactions with them"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "you can tell andrew we are friends",
+      "Met your friend bill clinton yesterday followed up with sarkozy. Later in day meeting your other friend prince andrew",
+      "yes you do, you need to laugh and have fun, he is good at that."
+    ],
+    "red_flags": [
+      "Epstein instructing Nikolic to characterize their relationship to Prince Andrew",
+      "Access to multiple high-profile political figures"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Email is from Jeffrey Epstein but contains no discussion or evidence of illegal activity - only social coordination and relationship management"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Epstein's connections to political figures like Bill Clinton and Prince Andrew became widely reported after his legal troubles became public"
+    },
+    "summary": "This email exchange between Jeffrey Epstein and Boris Nikolic shows Epstein advising Nikolic on social interactions with high-profile figures including Prince Andrew, Bill Clinton, and Sarkozy, with Epstein specifically instructing Nikolic to tell Prince Andrew that they are friends."
+  }
+}

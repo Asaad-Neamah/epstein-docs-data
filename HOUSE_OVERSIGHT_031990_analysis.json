@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_031990.txt",
+  "file_name": "HOUSE_OVERSIGHT_031990.txt",
+  "processed_at": "2025-11-15T02:53:26.578018",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2010-12-27",
+      "subject": "Fw: Ken Starr Aiming High as Head of Baylor",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "jeff epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Ken Starr",
+        "Bill Clinton"
+      ],
+      "organizations": [
+        "Newsmax.com",
+        "Baylor University"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Ken Starr",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "legal",
+        "description": "Ken Starr was Whitewater prosecutor and described as Bill Clinton's legal nemesis"
+      },
+      {
+        "entity_1": "Ken Starr",
+        "entity_2": "Baylor University",
+        "relationship_type": "employment",
+        "description": "Ken Starr is president of Baylor University"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "Forwarding a news article about Ken Starr's role as president of Baylor University",
+      "significance": "Shows interest in Ken Starr's career progression from Whitewater prosecutor to university president"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Bill Clinton's one-time legal nemesis is earning high marks for his new role as president of Texas' Baylor University",
+      "Whitewater prosecutor Ken Starr is helping to heal divisions at the nation's largest Baptist school as he seeks to raise its academic stature"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains a forwarded news article about Ken Starr's career, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Newsmax.com article about Ken Starr's role at Baylor University"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Ken Starr's role as Baylor University president and his history as Whitewater prosecutor were publicly reported news"
+    },
+    "summary": "This email forwards a Newsmax.com article about Ken Starr's successful tenure as president of Baylor University, highlighting his transition from being Bill Clinton's legal nemesis during the Whitewater investigation to his current academic leadership role."
+  }
+}

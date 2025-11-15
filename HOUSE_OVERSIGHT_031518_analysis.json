@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031518.txt",
+  "file_name": "HOUSE_OVERSIGHT_031518.txt",
+  "processed_at": "2025-11-15T02:52:23.347641",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-11",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Zubair Khan",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Zubair Khan",
+        "jeffrey E.",
+        "Clinton",
+        "Trump"
+      ],
+      "organizations": [
+        "FBI",
+        "Facebook",
+        "Twitter"
+      ],
+      "locations": [
+        "NY",
+        "WI",
+        "US",
+        "French",
+        "Brazil"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "business/professional",
+        "description": "Zubair is reporting on election prediction results and project status to Jeffrey E."
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, analytical, somewhat disappointed",
+      "emotional_indicators": [
+        "frustration about project funding",
+        "disappointment in prediction accuracy"
+      ],
+      "purpose": "To report on election prediction results, explain methodology, and inform about project shutdown due to financial constraints",
+      "significance": "Shows interaction about election prediction analytics and financial challenges of data collection projects"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Out of 13 states we got 11 right. The ones we got wrong are NY and WI.",
+      "Based on this we predicted on our Facebook page on 30th October that Trump will be next president of US.",
+      "I have to shut down this project as getting data from Twitter is expensive and the start up is running out of money."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail, coercion, or leverage being used. This is a straightforward business/professional communication about election prediction analytics."
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced. This is a legitimate discussion about election prediction analytics and project funding challenges."
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Election prediction analytics and social media data analysis were common topics in 2016, though this specific project and its results were likely not widely known."
+    },
+    "summary": "Zubair Khan reports to Jeffrey E. on election prediction results, noting they correctly predicted 11 of 13 states but missed NY and WI, explains their methodology using social media data analysis, and announces he must shut down the project due to financial constraints from expensive Twitter data access costs."
+  }
+}

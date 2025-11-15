@@ -1,0 +1,126 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030880.txt",
+  "file_name": "HOUSE_OVERSIGHT_030880.txt",
+  "processed_at": "2025-11-15T02:50:54.320962",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-11",
+      "subject": "FYI",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "President",
+        "Melania",
+        "Madeleine Westerhout",
+        "Bannon"
+      ],
+      "organizations": [
+        "White House",
+        "Trump Tower"
+      ],
+      "locations": [
+        "Mar-a-Lago",
+        "White House",
+        "West Wing"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/correspondence",
+        "description": "Wolff is sending draft content to Epstein for feedback/opinion"
+      },
+      {
+        "entity_1": "President",
+        "entity_2": "Madeleine Westerhout",
+        "relationship_type": "employment/alleged personal",
+        "description": "President's personal secretary, with alleged inappropriate relationship"
+      },
+      {
+        "entity_1": "President",
+        "entity_2": "Melania",
+        "relationship_type": "marital",
+        "description": "Married couple with apparent marital tensions"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Mar-a-Lago",
+        "Trump Tower"
+      ]
+    },
+    "analysis": {
+      "tone": "informal, speculative, gossipy",
+      "emotional_indicators": [
+        "curiosity",
+        "speculative interest"
+      ],
+      "purpose": "To share draft content about White House dynamics and get Epstein's opinion/feedback",
+      "significance": "Shows Michael Wolff sharing sensitive political content with Jeffrey Epstein, suggesting Epstein was consulted on media/political matters"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential defamation/libel concerns regarding allegations about presidential conduct"
+      ]
+    },
+    "notable_quotes": [
+      "Trump was 'clearly a guy who had never dealt with a seven-year-old.'",
+      "Now the president was telling friends that he wasn't staying at the White House because of the shutdown—he was staying because he was 'banging' Madeleine."
+    ],
+    "red_flags": [
+      "Sharing unverified personal allegations about the President",
+      "Journalist sharing sensitive draft content with Jeffrey Epstein",
+      "Potential exploitation of personal relationships for information"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "possible",
+      "evidence": [
+        "Sharing potentially compromising information about powerful figures",
+        "Content could be used as leverage"
+      ],
+      "description": "While no explicit blackmail is mentioned, the sharing of sensitive, unverified allegations about the President could potentially be used as leverage or compromising material"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "draft_journalistic_content",
+      "description": "This is draft journalistic content being shared for feedback, not evidence of first-hand illegal activity by the sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff is a journalist sharing draft content",
+        "Content appears to be for publication/book project"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is known for his books on Trump administration; this appears to be draft content from one of his projects"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein draft content about President Trump's alleged inappropriate relationship with his personal secretary Madeleine Westerhout and marital tensions with Melania, seeking Epstein's opinion on the material."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030710.txt",
+  "file_name": "HOUSE_OVERSIGHT_030710.txt",
+  "processed_at": "2025-11-15T02:50:12.335047",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-15",
+      "subject": "Corker 'hopeful' on approving new war-powers authorization for Trump administration - POLITICO",
+      "document_id": "HOUSE OVERSIGHT 030710",
+      "sender": "Steve Bannon",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Steve Bannon",
+        "Jeffrey E.",
+        "Corker",
+        "Trump"
+      ],
+      "organizations": [
+        "POLITICO",
+        "Trump administration"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Steve Bannon",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Communication",
+        "description": "Bannon is sending a political news article to Jeffrey Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Informative, urgent",
+      "emotional_indicators": [
+        "Marked as 'High' importance suggesting urgency"
+      ],
+      "purpose": "To share a political news article about war-powers authorization with Jeffrey Epstein",
+      "significance": "Shows communication between Steve Bannon and Jeffrey Epstein regarding Trump administration political matters"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High-level political operative (Bannon) sharing sensitive political information with convicted sex offender (Epstein)"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a POLITICO news article about Senator Corker and war-powers authorization - not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to POLITICO article about Senator Corker and war-powers authorization for Trump administration"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available political news coverage from POLITICO"
+    },
+    "summary": "Steve Bannon emails Jeffrey Epstein a POLITICO article about Senator Corker being hopeful about approving new war-powers authorization for the Trump administration, marked with high importance."
+  }
+}

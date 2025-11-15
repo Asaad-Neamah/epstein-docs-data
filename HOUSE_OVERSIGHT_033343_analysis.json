@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033343.txt",
+  "file_name": "HOUSE_OVERSIGHT_033343.txt",
+  "processed_at": "2025-11-15T02:58:35.082272",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-13",
+      "subject": "POTUS",
+      "document_id": "HOUSE OVERSIGHT 033343",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)",
+        "Seth"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Pres Trump",
+        "Seth"
+      ],
+      "organizations": [],
+      "locations": [
+        "PBI (Palm Beach International Airport)",
+        "Puerta Plata"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Providing travel logistics information"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Seth",
+        "relationship_type": "professional",
+        "description": "Copying on travel information"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To inform about President Trump's travel schedule and potential impact on their own travel plans",
+      "significance": "Shows coordination of travel logistics around presidential movements, potentially indicating access to presidential schedule information"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Pres Trump arrives PBI Friday the 15th at 6pm, He departs Monday 18th 4:30pm",
+      "May effect our PBI arrival from Puerta Plata if we travel on Monday, just heads up"
+    ],
+    "red_flags": [
+      "Access to presidential travel schedule",
+      "Coordination of private travel around presidential movements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - purely logistical communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced - routine travel logistics communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows coordination between private individuals and presidential travel schedules, which could be of media interest given the context of the Epstein investigation and connections to political figures"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein (and copies Seth) with President Trump's travel schedule to Palm Beach, noting that the presidential departure on Monday may affect their own arrival from Puerta Plata, serving as a logistical heads-up about potential travel conflicts."
+  }
+}

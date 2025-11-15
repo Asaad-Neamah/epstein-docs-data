@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031729.txt",
+  "file_name": "HOUSE_OVERSIGHT_031729.txt",
+  "processed_at": "2025-11-15T02:52:57.119460",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-13",
+      "subject": "Fwd: epstein",
+      "document_id": "",
+      "sender": "Tonja Haddad Coleman",
+      "recipients": [
+        "Jeffrey Epstein",
+        "Darren Indyke"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Tonja Haddad Coleman",
+        "Jeffrey Epstein",
+        "Darren Indyke",
+        "Dan Christensen",
+        "Kogan",
+        "Hart"
+      ],
+      "organizations": [
+        "Florida Bulldog",
+        "Tonja Haddad, PA"
+      ],
+      "locations": [
+        "Fort Lauderdale, FL",
+        "Miami"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Legal matters/litigation",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal_representation",
+        "description": "Attorney-client relationship"
+      },
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Dan Christensen",
+        "relationship_type": "media_contact",
+        "description": "Attorney communicating with journalist"
+      },
+      {
+        "entity_1": "Dan Christensen",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "investigative",
+        "description": "Journalist investigating Epstein/Trump story"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "urgency",
+        "professional restraint"
+      ],
+      "purpose": "Forward journalist inquiry about Epstein/Trump story to Epstein and his associate, and provide legal clarification about an affidavit",
+      "significance": "Shows attorney handling media inquiries related to Jeffrey Epstein and Donald Trump, with historical context of legal matters"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Working on a story about Epstein/Trump. Can you please get in touch asap. Story is to run tomorrow and I'd like to get your thoughts.",
+      "He verified the affidavit- like a notary- verifying/swearing to only the fact that the officer who filled it out and signed it was who he purports to be."
+    ],
+    "red_flags": [
+      "Urgent media inquiry about Epstein/Trump relationship",
+      "Historical legal matter involving resisting arrest charge"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity - this is attorney communication about media inquiries and legal clarification"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Dan Christensen from Florida Bulldog working on Epstein/Trump story",
+        "Urgent deadline - story to run tomorrow",
+        "Historical inquiry about resisting arrest charge involving Kogan and Hart"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Epstein-Trump connections were widely reported in media; this appears to be routine journalist inquiry about a known relationship"
+    },
+    "summary": "Attorney Tonja Haddad Coleman forwards a 2017 urgent media inquiry from Florida Bulldog editor Dan Christensen about an Epstein/Trump story to Jeffrey Epstein and Darren Indyke, while also including historical 2014 email exchanges clarifying legal procedures regarding an affidavit verification in what appears to be a resisting arrest case."
+  }
+}

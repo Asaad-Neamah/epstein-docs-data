@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031427.txt",
+  "file_name": "HOUSE_OVERSIGHT_031427.txt",
+  "processed_at": "2025-11-15T02:52:07.547602",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-12",
+      "subject": "New York Attorney General Opens Investigation of Trump Projects - The New York Times",
+      "document_id": "HOUSE OVERSIGHT 031427",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "New York Attorney General",
+        "The New York Times",
+        "Deutsche Bank"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "financial_entities": [
+        "Deutsche Bank"
+      ]
+    },
+    "themes": [
+      "Political connections/influence",
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Associate",
+        "description": "Ribis is sending Epstein news about legal investigations involving Trump"
+      },
+      {
+        "entity_1": "New York Attorney General",
+        "entity_2": "Trump Projects",
+        "relationship_type": "Investigative",
+        "description": "Legal investigation being opened into Trump business projects"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Trump Projects"
+      ]
+    },
+    "analysis": {
+      "tone": "Alert/Concerned",
+      "emotional_indicators": [
+        "Sense of urgency",
+        "Anticipation of trouble"
+      ],
+      "purpose": "To inform Jeffrey Epstein about a significant legal investigation being opened against Trump projects",
+      "significance": "Shows communication about high-profile legal matters involving Donald Trump's business interests"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Legal investigation of Trump business projects by New York Attorney General"
+      ]
+    },
+    "notable_quotes": [
+      "This is the start of big problem for him!"
+    ],
+    "red_flags": [
+      "Sharing of sensitive legal investigation information",
+      "Potential insider awareness of legal troubles"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be informational sharing about a public legal development"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a New York Times article about a legal investigation of Trump projects - not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to New York Times article about Deutsche Bank and Trump investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to the New York Attorney General's investigation into Trump Organization projects, which was widely reported in 2019"
+    },
+    "summary": "Nicholas Ribis emails Jeffrey Epstein about a New York Times article reporting that the New York Attorney General has opened an investigation into Trump projects, characterizing it as 'the start of big problem for him' and including a link to the news article."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030431.txt",
+  "file_name": "HOUSE_OVERSIGHT_030431.txt",
+  "processed_at": "2025-11-15T02:49:41.142378",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-24",
+      "subject": "My datebook",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "SB",
+        "DJT",
+        "Brad Karp"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Wolff is sharing his activities and professional contacts with Epstein"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "SB",
+        "relationship_type": "professional",
+        "description": "Met for three hours discussing political matters"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Brad Karp",
+        "relationship_type": "professional",
+        "description": "Karp is offering help on Wolff's next book"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "confidence in sharing information",
+        "familiarity with recipient"
+      ],
+      "purpose": "To update Jeffrey Epstein on Michael Wolff's recent activities and professional connections",
+      "significance": "Shows ongoing communication between Wolff and Epstein, including political commentary and book project collaboration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Three hours with SB who believes DJT won't last to the mid terms.",
+      "Brad Karp who is super menchy and offering much help on next book."
+    ],
+    "red_flags": [
+      "Sharing political insider information with Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this brief email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known author who wrote 'Fire and Fury' about the Trump administration; communication with Jeffrey Epstein could be of media interest"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein to share updates about his recent meetings, including three hours with someone referred to as 'SB' who believes President Trump won't last until midterms, and a meeting with Brad Karp who is helping with Wolff's next book."
+  }
+}

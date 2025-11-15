@@ -1,0 +1,85 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033344.txt",
+  "file_name": "HOUSE_OVERSIGHT_033344.txt",
+  "processed_at": "2025-11-15T02:58:33.538760",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-18",
+      "subject": "POTUS",
+      "document_id": "HOUSE OVERSIGHT 033344",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "President Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "Islip"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Je vacation",
+        "relationship_type": "professional/communication",
+        "description": "Sender informing recipient about presidential travel logistics"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [],
+      "purpose": "To inform the recipient about the location and schedule of President Trump's transportation",
+      "significance": "Shows monitoring and reporting of presidential travel logistics by someone with access to this information"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Appears President Trump 6757 is in Islip, we are parked right in front of it",
+      "it came here on Tuesday and is due to depart Wednesday this week"
+    ],
+    "red_flags": [
+      "Monitoring and reporting of presidential travel details to personal email"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward logistical reporting"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced - simply reporting travel logistics"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Presidential travel details are typically protected information for security reasons, making this potentially sensitive"
+    },
+    "summary": "Larry Visoski emails an individual at a Gmail address to report that President Trump's transportation (referenced as '6757') is located in Islip, arrived on Tuesday, and is scheduled to depart on Wednesday, noting they are parked directly in front of it."
+  }
+}

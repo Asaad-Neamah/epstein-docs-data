@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032706.txt",
+  "file_name": "HOUSE_OVERSIGHT_032706.txt",
+  "processed_at": "2025-11-15T02:55:19.955328",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-04",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Kathy Ruemmler",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Legal matters/litigation"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Email correspondence about legal matter"
+      },
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Forwarded message about Trump's lawyers"
+      },
+      {
+        "entity_1": "Trump's lawyers",
+        "entity_2": "Michael Wolff's publisher",
+        "relationship_type": "legal",
+        "description": "Sent letter demanding book not be published"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "brief, confirmatory",
+      "emotional_indicators": [],
+      "purpose": "To confirm receipt of forwarded message about legal action against Michael Wolff's book publisher",
+      "significance": "Shows communication about legal pressure being applied to prevent publication of a book about Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Now being reported that Trump's lawyers sent a letter to MW's publisher demanding that they not publish the book."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "The email contains forwarded news reporting about legal actions, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Michael Wolff's book being subject to legal action from Trump's lawyers"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Wolff's book 'Fire and Fury' about the Trump administration was widely reported in January 2018, including legal attempts to block its publication"
+    },
+    "summary": "Michael Wolff confirms receipt of a forwarded message from Kathy Ruemmler reporting that Trump's lawyers sent a letter to Wolff's publisher demanding they not publish his book, which appears to reference the controversial 'Fire and Fury' publication about the Trump administration."
+  }
+}

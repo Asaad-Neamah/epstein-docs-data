@@ -1,0 +1,122 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026788.txt",
+  "file_name": "HOUSE_OVERSIGHT_026788.txt",
+  "processed_at": "2025-11-15T02:45:30.885847",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-13",
+      "subject": "Weekly Update",
+      "document_id": "",
+      "sender": "Carolyn Rangel",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Carolyn Rangel",
+        "Deepak Chopra",
+        "Kabir Sehgal",
+        "Reince Priebus",
+        "Donald Trump",
+        "Oprah",
+        "Maria Shriver",
+        "Wayne Jonas"
+      ],
+      "organizations": [
+        "Deepak Chopra LLC",
+        "The Chopra Foundation",
+        "SFGATE",
+        "San Francisco Chronicle",
+        "General Motors",
+        "Google",
+        "Intel",
+        "Congress",
+        "White House"
+      ],
+      "locations": [
+        "New York City",
+        "America"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Carolyn Rangel",
+        "entity_2": "Deepak Chopra LLC",
+        "relationship_type": "employment",
+        "description": "Carolyn Rangel is President of Deepak Chopra LLC"
+      },
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "The Chopra Foundation",
+        "relationship_type": "affiliation",
+        "description": "Deepak Chopra is associated with The Chopra Foundation"
+      },
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "Oprah",
+        "relationship_type": "professional",
+        "description": "Collaborating on meditation events together"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, promotional, political commentary",
+      "emotional_indicators": [
+        "concern about political climate",
+        "optimism about healing",
+        "frustration with current administration"
+      ],
+      "purpose": "Weekly update promoting meditation events and sharing political commentary articles",
+      "significance": "Shows connection between wellness promotion and political commentary in Chopra organization communications"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "A survey of 117 historians recently ranked Donald Trump the worst President in history, which seems right after only one year in office.",
+      "Trumpism is the product of collective consciousness, and although one hears about 'the wisdom of crowds,' but when collective consciousness veers as close to lunacy as this administration, healing is the only answer.",
+      "If as we often hear, America isn't a place on the map but an idea, the idea is in trouble."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this promotional email with political commentary"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a promotional email about meditation events with political commentary"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to SFGATE articles",
+        "Archive of Deepak's articles published by San Francisco Chronicle",
+        "Media coverage of political commentary"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Content includes public political commentary and promotional material for public meditation events that would typically be shared publicly"
+    },
+    "summary": "This is a weekly update email from Carolyn Rangel of Deepak Chopra LLC promoting meditation events featuring Deepak Chopra and Oprah, while also including political commentary criticizing the Trump administration and discussing the need for healing in American society."
+  }
+}

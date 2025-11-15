@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_019300.txt",
+  "file_name": "HOUSE_OVERSIGHT_019300.txt",
+  "processed_at": "2025-11-15T02:38:55.035749",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "promotional document",
+      "date": "",
+      "subject": "WE Talks - Women Empowerment: Women to Women Talks",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Barack Obama",
+        "Kenneth Lay",
+        "Jeff Skilling"
+      ],
+      "organizations": [
+        "WE Talks",
+        "White House",
+        "Obama administration",
+        "Department of Justice",
+        "Latham & Watkins",
+        "Enron"
+      ],
+      "locations": [
+        "NYC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Employment/staffing",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Barack Obama",
+        "relationship_type": "professional",
+        "description": "Ruemmler served as White House Counsel to President Obama"
+      },
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Latham & Watkins",
+        "relationship_type": "employment",
+        "description": "Ruemmler is global co-chair at Latham & Watkins"
+      },
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Enron executives",
+        "relationship_type": "legal",
+        "description": "Ruemmler helped secure convictions of Enron executives"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, inspirational, promotional",
+      "emotional_indicators": [
+        "enthusiastic",
+        "confident"
+      ],
+      "purpose": "To promote WE Talks seminars and announce Kathy Ruemmler as the first speaker",
+      "significance": "Describes a women's empowerment seminar series with high-profile speakers including former White House officials"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Our mission is to support and enhance women's professional and personal growth and fulfillment.",
+      "Obama has said she has 'an uncanny ability to see around the corners that no one else anticipates.'"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this promotional document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a promotional document for women's empowerment seminars"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Information about Kathy Ruemmler's professional background is publicly available through her role in the Obama administration and high-profile legal cases"
+    },
+    "summary": "This document promotes WE Talks, a women's empowerment seminar series described as 'TED Talks for Women,' with the first event featuring Kathy Ruemmler, former White House Counsel to President Obama and current co-chair at Latham & Watkins, who will speak about professional and personal success."
+  }
+}

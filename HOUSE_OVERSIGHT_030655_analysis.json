@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030655.txt",
+  "file_name": "HOUSE_OVERSIGHT_030655.txt",
+  "processed_at": "2025-11-15T02:50:14.954896",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-08-18",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Bannon",
+        "Spicer",
+        "Priebus",
+        "Trump",
+        "Kelly",
+        "Jared",
+        "Ivanka"
+      ],
+      "organizations": [
+        "Republican"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Bannon",
+        "relationship_type": "professional",
+        "description": "Had a two-hour phone conversation discussing White House matters"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Spicer",
+        "relationship_type": "professional",
+        "description": "Met with Spicer this week"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Priebus",
+        "relationship_type": "professional",
+        "description": "Met with Priebus this week"
+      },
+      {
+        "entity_1": "Kelly",
+        "entity_2": "Trump",
+        "relationship_type": "professional",
+        "description": "Kelly trying to make Trump understand that Jared and Ivanka have to go"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "confidential, insider",
+      "emotional_indicators": [
+        "confidence in sources",
+        "sense of urgency"
+      ],
+      "purpose": "To share insider information about White House dynamics and Republican plans regarding Trump",
+      "significance": "Reveals internal White House turmoil and potential Republican efforts to remove Trump from office during his first six months"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "nearly 100% of the non-family senior staff of the first six months now believe that Trump can't function in this job",
+      "I think they all become part of a Republican initiative to take him down",
+      "I hear Kelly trying to make Trump understand that Jared and Ivanka have to go"
+    ],
+    "red_flags": [
+      "Internal White House discord",
+      "Potential political coup planning",
+      "Family members being targeted for removal"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be sharing insider political intelligence"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is political insider information sharing"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Wolff is a journalist/author who wrote 'Fire and Fury' about the Trump White House. This email appears to be research/sourcing for that book, which became publicly known."
+    },
+    "summary": "Michael Wolff shares insider information from conversations with Bannon, Spicer and Priebus, revealing that nearly all non-family senior White House staff believe Trump cannot function in his job and are part of a Republican initiative to remove him, with Kelly pushing for Jared and Ivanka's removal."
+  }
+}

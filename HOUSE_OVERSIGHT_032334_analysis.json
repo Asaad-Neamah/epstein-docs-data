@@ -1,0 +1,93 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032334.txt",
+  "file_name": "HOUSE_OVERSIGHT_032334.txt",
+  "processed_at": "2025-11-15T02:54:13.854794",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-05",
+      "subject": "Re: told you",
+      "document_id": "1:16-cv-07673-RA",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "jeffrey E.",
+        "Jane Doe",
+        "Thomas Meagher"
+      ],
+      "organizations": [
+        "U.S. District Court Southern District of New York",
+        "Judicial Conference of the United States"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding legal case dismissal"
+      },
+      {
+        "entity_1": "Jane Doe",
+        "entity_2": "All Defendants",
+        "relationship_type": "legal",
+        "description": "Plaintiff-defendant relationship in dismissed lawsuit"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, matter-of-fact",
+      "emotional_indicators": [],
+      "purpose": "To forward notification of voluntary dismissal in Doe v. Trump et al case",
+      "significance": "Documents communication about dismissal of a high-profile lawsuit involving Donald Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "NOTICE OF VOLUNTARY DISMISSAL Pursuant to Rule 41(a)(1)(A)(i) of the Federal Rules of Civil Procedure, the plaintiff(s) and or their counsel(s), hereby give notice that the above-captioned action is voluntarily dismissed, against the defendant(s) All Defendants."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "court_document",
+      "description": "Document contains forwarded court notification about case dismissal, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Doe v. Trump et al was a publicly known lawsuit that received media attention; the dismissal would be of public interest"
+    },
+    "summary": "Kathy Ruemmler forwards an automated court notification to Jeffrey Epstein regarding the voluntary dismissal of the Doe v. Trump et al lawsuit filed in the Southern District of New York."
+  }
+}

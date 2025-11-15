@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027067.txt",
+  "file_name": "HOUSE_OVERSIGHT_027067.txt",
+  "processed_at": "2025-11-15T02:45:41.505459",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-08-23",
+      "subject": "Re: Trump@War",
+      "document_id": "",
+      "sender": "Sean Banno",
+      "recipients": [
+        "Steve Bannon",
+        "jeevacations@gmail.com",
+        "Dan Fleuette"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Sean Banno",
+        "Steve Bannon",
+        "Jeffrey",
+        "Dan Fleuette"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sean Banno",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding film project"
+      },
+      {
+        "entity_1": "Steve Bannon",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Requesting latest version of film from Jeffrey"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional",
+      "emotional_indicators": [],
+      "purpose": "To inform Steve Bannon that a document/film version has been sent via ProtonMail",
+      "significance": "Shows communication about a film project potentially related to Trump, using secure email service"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Just sent to you from my ProtonMail",
+      "Can we get Jeffrey latest version of film"
+    ],
+    "red_flags": [
+      "Use of ProtonMail (encrypted email service) for communication"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Communication involving Steve Bannon and reference to 'Trump@War' film project could be of media interest given Bannon's role in Trump administration"
+    },
+    "summary": "Sean Banno emails Steve Bannon confirming he has sent something via ProtonMail, responding to Bannon's request for Jeffrey's latest version of a film project potentially related to Trump."
+  }
+}

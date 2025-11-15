@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033262.txt",
+  "file_name": "HOUSE_OVERSIGHT_033262.txt",
+  "processed_at": "2025-11-15T02:58:02.600840",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-12-05",
+      "subject": "Mueller Subpoenas Trump Deutsche Bank Records",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Trump",
+        "Mueller"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Deutsche Bank"
+      ],
+      "locations": [
+        "New York, NY 10022",
+        "575 Lexington Avenue, 4th Floor"
+      ],
+      "financial_entities": [
+        "Deutsche Bank"
+      ]
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Financial transactions/money flow",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein a news article about legal developments"
+      },
+      {
+        "entity_1": "Robert Mueller",
+        "entity_2": "Donald Trump",
+        "relationship_type": "legal",
+        "description": "Mueller is investigating Trump via subpoena of bank records"
+      },
+      {
+        "entity_1": "Deutsche Bank",
+        "entity_2": "Donald Trump",
+        "relationship_type": "financial",
+        "description": "Bank that held Trump's records being subpoenaed"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Trump Deutsche Bank Records"
+      ]
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency indicated by 'Importance: High'"
+      ],
+      "purpose": "To inform Jeffrey Epstein about a significant legal development involving Robert Mueller's investigation into Donald Trump's financial records",
+      "significance": "Documents awareness of major political/legal investigation involving Trump's finances during Mueller probe"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "Sharing of sensitive legal investigation information",
+      "High importance marking suggests this is significant to recipient"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be informational sharing of public news"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a Bloomberg news article about legal proceedings involving third parties (Mueller investigation of Trump)"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Bloomberg news article about Mueller subpoena of Trump's Deutsche Bank records"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to the well-publicized Mueller investigation into Russian interference in the 2016 election and potential Trump campaign connections"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a Bloomberg news article about Robert Mueller subpoenaing Deutsche Bank for Donald Trump's financial records, marking the message as high importance regarding this significant legal development in the Mueller investigation."
+  }
+}

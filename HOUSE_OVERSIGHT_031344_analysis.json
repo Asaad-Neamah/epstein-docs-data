@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031344.txt",
+  "file_name": "HOUSE_OVERSIGHT_031344.txt",
+  "processed_at": "2025-11-15T02:51:36.482528",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-06",
+      "subject": "Jerrold Nadler's investigation seems rigged to me: Why are two leading Trump foes heading up his probe? - New York Daily News",
+      "document_id": "",
+      "sender": "DAVID SCHOEN",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "DAVID SCHOEN",
+        "Jerrold Nadler",
+        "Trump"
+      ],
+      "organizations": [
+        "New York Daily News",
+        "U.S. House Committee"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "DAVID SCHOEN",
+        "entity_2": "jeevacation@gmail.com",
+        "relationship_type": "communication",
+        "description": "Sender sharing news article with recipient"
+      },
+      {
+        "entity_1": "Jerrold Nadler",
+        "entity_2": "Trump",
+        "relationship_type": "political opposition",
+        "description": "Article discusses Nadler's investigation of Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, sharing",
+      "emotional_indicators": [
+        "concern about political bias"
+      ],
+      "purpose": "To share a news article criticizing Jerrold Nadler's investigation as potentially biased",
+      "significance": "Shows communication about political investigations and potential bias concerns during Trump presidency"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about political investigations, not containing any first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing New York Daily News opinion article about Jerrold Nadler's investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing a publicly available news article from New York Daily News about political investigations during the Trump presidency"
+    },
+    "summary": "David Schoen emails an article from New York Daily News that criticizes Jerrold Nadler's investigation as potentially biased, sharing it with the recipient and marking it as high importance."
+  }
+}

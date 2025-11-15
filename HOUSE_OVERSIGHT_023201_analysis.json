@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_023201.txt",
+  "file_name": "HOUSE_OVERSIGHT_023201.txt",
+  "processed_at": "2025-11-15T02:41:21.896102",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-07-29",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Jeffrey E.",
+        "Andrea Mitchell",
+        "Trump"
+      ],
+      "organizations": [
+        "DOJ (Department of Justice)"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Real estate/properties",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about apartment viewing and media appearances"
+      },
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Andrea Mitchell",
+        "relationship_type": "professional",
+        "description": "Appeared on her show to discuss Trump/DOJ matters"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "apartment (likely real estate property)"
+      ]
+    },
+    "analysis": {
+      "tone": "casual, professional",
+      "emotional_indicators": [
+        "stress (describing week as 'totally bananas')"
+      ],
+      "purpose": "To confirm apartment viewing appointment and briefly update on media appearance",
+      "significance": "Shows communication between Ruemmler and Epstein regarding real estate and political media commentary"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "This week was totally bananas. Did Andrea Mitchell yesterday to discuss Trump/DOJ.",
+      "Apartment appointment is Aug. 2 at 4 pm."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email exchange"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Andrea Mitchell interview about Trump/DOJ matters"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Kathy Ruemmler was White House Counsel under Obama; communication with Jeffrey Epstein about media appearances and real estate could be of media interest"
+    },
+    "summary": "Kathy Ruemmler confirms an August 2nd apartment viewing appointment with Jeffrey Epstein and mentions appearing on Andrea Mitchell's show to discuss Trump/DOJ matters, describing her week as 'totally bananas'."
+  }
+}

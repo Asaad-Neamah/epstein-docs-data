@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029269.txt",
+  "file_name": "HOUSE_OVERSIGHT_029269.txt",
+  "processed_at": "2025-11-15T02:47:28.341502",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-05-04",
+      "subject": "Fwd: woody and deadline",
+      "document_id": "",
+      "sender": "jeffrey E. [jeevacation@gmail.com]",
+      "recipients": [
+        "soon yi previn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Lisa New",
+        "Woody",
+        "Irwin Tenenbaum",
+        "Bill Clinton",
+        "Joe Biden",
+        "soon yi previn"
+      ],
+      "organizations": [
+        "Harvard University",
+        "American Public Television"
+      ],
+      "locations": [
+        "Cambridge, MA",
+        "12 Quincy Street",
+        "148 Barker Center"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Communications/correspondence",
+      "Employment/staffing"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Lisa New is communicating with Epstein about a business agreement involving Woody"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Woody",
+        "relationship_type": "professional",
+        "description": "Negotiating an agreement for Woody to appear in Harvard content and television show"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "soon yi previn",
+        "relationship_type": "communication",
+        "description": "Epstein forwarded this email to Soon-Yi Previn"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "excitement",
+        "urgency"
+      ],
+      "purpose": "To forward an email about negotiating an agreement for Woody to appear in Harvard content and a television show, with time pressure due to editing deadlines",
+      "significance": "Shows Epstein's involvement in media/content production deals involving high-profile individuals like Bill Clinton and Joe Biden"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "We can absolutely agree that we will not give Woody larger or more important billing than Bill Clinton or Joe Biden",
+      "The Harvard week of content in which Woody will appear, if we can sign this, needs to be edited in the next week-10 days. We are out of time",
+      "The television show has been picked up by American Public Television, they will distribute nationally, and they've asked for another 5 episodes"
+    ],
+    "red_flags": [
+      "Mention of high-profile political figures (Bill Clinton, Joe Biden) in context of media billing agreements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be standard business communication about media production agreements"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": true,
+      "content_type": "forwarded_email",
+      "description": "Email is FROM Jeffrey Epstein but only contains forwarded business communication about media production agreements - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Involvement of high-profile political figures (Clinton, Biden) in media deals with Epstein could be of media interest given Epstein's later legal troubles"
+    },
+    "summary": "Jeffrey Epstein forwards an email from Harvard professor Lisa New discussing a time-sensitive agreement for 'Woody' to appear in Harvard content and a nationally distributed television show, with billing considerations involving Bill Clinton and Joe Biden."
+  }
+}

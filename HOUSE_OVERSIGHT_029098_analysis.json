@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029098.txt",
+  "file_name": "HOUSE_OVERSIGHT_029098.txt",
+  "processed_at": "2025-11-15T02:47:15.878750",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-07-25",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Nowak, Martin A.",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Martin A. Nowak",
+        "Masha Drokova",
+        "jeffrey E."
+      ],
+      "organizations": [
+        "MIT Technology Review",
+        "Nature",
+        "Washington Post",
+        "Science",
+        "Wall Street Journal",
+        "WIRED",
+        "Bloomberg",
+        "Congress"
+      ],
+      "locations": [
+        "Moscow"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Martin A. Nowak",
+        "entity_2": "Masha Drokova",
+        "relationship_type": "professional",
+        "description": "Nowak is being asked to contact someone via Skype, likely Drokova based on context"
+      },
+      {
+        "entity_1": "Masha Drokova",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Drokova is providing information and media contacts to Jeffrey Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "urgency (importance: high)"
+      ],
+      "purpose": "Coordinate communication about federal science funding and media outreach strategy",
+      "significance": "Shows Epstein's involvement in science funding advocacy and media strategy coordination"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "i will talk to here this morning her Skype contact is in moscow.",
+      "Found this looking for the details of what is happening with the federal budget for science"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news articles and media strategy discussions about science funding, no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "List of media outlets to approach: MIT Technology Review, Nature, Washington Post, Science, Wall Street Journal, WIRED",
+        "Bloomberg article about Trump slashing science funding",
+        "Media strategy discussion about bridging funding gap"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Discusses publicly available information about federal science budget and mainstream media outlets"
+    },
+    "summary": "Email chain discussing coordination of a Skype call with someone in Moscow and media outreach strategy regarding federal science funding cuts, including a list of major media outlets to approach with the story."
+  }
+}

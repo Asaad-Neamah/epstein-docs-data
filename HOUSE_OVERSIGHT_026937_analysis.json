@@ -1,0 +1,93 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026937.txt",
+  "file_name": "HOUSE_OVERSIGHT_026937.txt",
+  "processed_at": "2025-11-15T02:45:24.918649",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-08",
+      "subject": "Tax expert tells Congress there is 'a lot to find' in Trump's returns",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Trump"
+      ],
+      "organizations": [
+        "Congress",
+        "HBRK Associates Inc.",
+        "NBC News"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue, 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Communication",
+        "description": "Kahn is sending Epstein a news article about Trump's tax returns"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Informative, professional",
+      "emotional_indicators": [
+        "Urgency (marked as High Importance)"
+      ],
+      "purpose": "To share a news article with Jeffrey Epstein about Congressional interest in Trump's tax returns",
+      "significance": "Shows communication about political matters involving Trump's financial disclosures during Congressional investigations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "Sharing politically sensitive information marked as high importance"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news article content about third-party activities (Trump's tax returns), not first-hand illegal activity by sender/participants"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to NBC News article about Trump's tax returns and Congressional investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Trump's tax returns were a subject of significant public and media interest during this period, with ongoing Congressional investigations"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a news article from NBC News about a tax expert's testimony to Congress regarding potential findings in Trump's tax returns, marking the message as high importance."
+  }
+}

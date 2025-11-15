@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032314.txt",
+  "file_name": "HOUSE_OVERSIGHT_032314.txt",
+  "processed_at": "2025-11-15T02:54:05.492884",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-10",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Andres Serrano",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Andres Serrano",
+        "Jeffrey E.",
+        "Trump",
+        "Bill C"
+      ],
+      "organizations": [
+        "Arts Council of Northern Ireland"
+      ],
+      "locations": [
+        "Ireland"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Andres Serrano",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "personal",
+        "description": "Email correspondence discussing personal opinions and sharing photos"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "disgust",
+        "sympathy"
+      ],
+      "purpose": "Personal email exchange sharing photos and discussing political opinions about the 2016 US presidential election",
+      "significance": "Shows personal relationship between Serrano and Epstein, including discussion of controversial political topics"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"I was prepared to vote against Trump for all the right reasons but I'm so disgusted by the outrage over 'grab them by the pussy' that I may give him my sympathy vote.\"",
+      "\"I'm sure Bill C said things, too.\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be casual personal correspondence"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is personal political commentary and photo sharing"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Serrano's art exhibition 'Torture' in Ireland and media coverage of his controversial work"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Andres Serrano is a well-known controversial artist; the 'grab them by the pussy' comment by Trump was widely publicized during the 2016 election"
+    },
+    "summary": "Email exchange between artist Andres Serrano and Jeffrey Epstein discussing Serrano's art exhibition in Ireland and sharing personal political opinions about the 2016 US presidential election, particularly expressing disgust over the public reaction to Trump's controversial comments while suggesting Bill Clinton likely made similar remarks."
+  }
+}

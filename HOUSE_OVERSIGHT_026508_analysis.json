@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026508.txt",
+  "file_name": "HOUSE_OVERSIGHT_026508.txt",
+  "processed_at": "2025-11-15T02:45:00.499979",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-09-12",
+      "subject": "Re: This morning",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Larry Summers"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Summers",
+        "Eric Maskin",
+        "Adam Friedman",
+        "Bernie Sanders",
+        "Donald Trump",
+        "Hillary Clinton",
+        "Ralph Nader",
+        "George Bush",
+        "Bloomberg"
+      ],
+      "organizations": [
+        "Cato Institute"
+      ],
+      "locations": [
+        "Michigan",
+        "Wisconsin",
+        "Pennsylvania"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Eric Maskin",
+        "relationship_type": "professional",
+        "description": "Academic colleagues discussing voting theory and political analysis"
+      },
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Adam Friedman",
+        "relationship_type": "professional",
+        "description": "Summers admires Friedman's determination regarding a project"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "10,000"
+      ],
+      "transactions": [
+        "Larry Summers gave $10,000 to an unspecified recipient"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "academic, analytical, casual",
+      "emotional_indicators": [
+        "interest",
+        "admiration",
+        "skepticism"
+      ],
+      "purpose": "To discuss the merits and potential impacts of ranked-choice voting systems on political outcomes and voter turnout",
+      "significance": "Shows academic discussion about electoral reform between prominent economists, including analysis of how ranked-choice voting might have changed the 2016 presidential election outcome"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "If RCV had been used in 2016, Bernie Sanders could have run as an independent in the general election without fear of guaranteeing a Trump victory.",
+      "I gave them 10,000.",
+      "looking at the arguments on both sides, I would have to conclude in your words a big nothingburger"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is an academic discussion about voting systems"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a legitimate academic and political discussion"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Discussion of ranked-choice voting is a public policy topic, though the specific conversation between these individuals was likely private"
+    },
+    "summary": "Email chain between Larry Summers and Eric Maskin discussing the theoretical and practical implications of ranked-choice voting systems, including analysis of how it might have affected the 2016 presidential election outcome and a mention of Summers providing $10,000 to an unspecified project related to this topic."
+  }
+}

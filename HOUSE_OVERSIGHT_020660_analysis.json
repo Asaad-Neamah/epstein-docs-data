@@ -1,0 +1,124 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_020660.txt",
+  "file_name": "HOUSE_OVERSIGHT_020660.txt",
+  "processed_at": "2025-11-15T02:39:19.411007",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-22",
+      "subject": "Missing message",
+      "document_id": "",
+      "sender": "Robert Trivers",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Robert Trivers",
+        "Jeffrey Epstein",
+        "Amy Jacobson",
+        "Trump"
+      ],
+      "organizations": [
+        "Enhanced Learning Foundation",
+        "Texas A&M biology"
+      ],
+      "locations": [
+        "New Jersey",
+        "Jamaica",
+        "Pakistan",
+        "Turkey",
+        "Saudi Arabia",
+        "India",
+        "Iraq",
+        "New Orleans"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Research/academic work",
+      "Financial transactions/money flow",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Robert Trivers",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Academic collaborator and correspondent discussing research projects and funding"
+      },
+      {
+        "entity_1": "Robert Trivers",
+        "entity_2": "Amy Jacobson",
+        "relationship_type": "professional",
+        "description": "Research assistant working on honor killings project"
+      },
+      {
+        "entity_1": "Robert Trivers",
+        "entity_2": "Enhanced Learning Foundation",
+        "relationship_type": "funding",
+        "description": "Research foundation that supported Trivers' work on honor killings"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$100,000",
+        "$30,000"
+      ],
+      "transactions": [
+        "ELF paying Amy Jacobson $30,000 for year of work",
+        "Personal financial losses from stock market"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, academic, slightly frustrated",
+      "emotional_indicators": [
+        "frightened by stock market losses",
+        "frustration with academic resistance",
+        "determination to complete research"
+      ],
+      "purpose": "Update Jeffrey Epstein on research progress and discuss funding for honor killings project",
+      "significance": "Shows academic research collaboration and funding relationships involving Epstein's foundation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "i do feel like Trump is nothing but bad news for them, which frightens me, given that he has 2 more years—it has cost me >$100,000 recently",
+      "Texas A&M biology showed interest in hiring me but faculty were critical of my honour killing work—particularly my claim that victims were often beautiful",
+      "met a very attractive 42 year old woman in New Orleans... she had a fantasy of being f—kid by a male -> female trans because she preferred a cock in her but also liked a female figure"
+    ],
+    "red_flags": [
+      "Unusual personal anecdote about sexual fantasies included in professional email",
+      "Academic resistance to controversial research topics"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - this is an academic update email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is academic research correspondence"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Academic research correspondence that would typically remain private unless released through investigations"
+    },
+    "summary": "Robert Trivers emails Jeffrey Epstein with an update on his research into honor killings, discussing funding from the Enhanced Learning Foundation, his $100,000 stock market losses under Trump, and including personal anecdotes about academic resistance and sexual fantasies."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032633.txt",
+  "file_name": "HOUSE_OVERSIGHT_032633.txt",
+  "processed_at": "2025-11-15T02:55:20.439085",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-09-27",
+      "subject": "Got another call from Connelly..",
+      "document_id": "",
+      "sender": "Landon Thomas, Jr.",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Landon Thomas, Jr.",
+        "Jeffrey Epstein",
+        "Connelly",
+        "Ken Starr",
+        "Trump"
+      ],
+      "organizations": [
+        "New York Times"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Landon Thomas, Jr.",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/communication",
+        "description": "Reporter communicating with Epstein about investigative inquiries"
+      },
+      {
+        "entity_1": "Connelly",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "investigative",
+        "description": "Journalist/investigator asking questions about Epstein's activities"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ken Starr",
+        "relationship_type": "employment/legal",
+        "description": "Epstein hired Ken Starr, suggesting legal representation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, cautious",
+      "emotional_indicators": [
+        "concern",
+        "awareness of scrutiny"
+      ],
+      "purpose": "To inform Jeffrey Epstein about investigative inquiries from a journalist",
+      "significance": "Shows Epstein was subject to media scrutiny and had hired Ken Starr for legal representation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "He is digging around again -- not clear if its another book/or expanded paperback version.",
+      "Was asking me all sorts of questions about why you hired Ken Starr."
+    ],
+    "red_flags": [
+      "Media investigation into Epstein's activities",
+      "Hiring of high-profile attorney Ken Starr suggesting legal concerns"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity - this is a reporter informing Epstein about media inquiries"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Connelly (journalist/investigator) making inquiries about Epstein",
+        "Potential book project investigation",
+        "Trump-related digging mentioned"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication about ongoing media investigations into Epstein's activities, which would later become major public news"
+    },
+    "summary": "Landon Thomas Jr. of the New York Times emails Jeffrey Epstein to inform him that a journalist/investigator named Connelly is making inquiries about why Epstein hired attorney Ken Starr, potentially for a book project that may also involve Trump-related investigations."
+  }
+}

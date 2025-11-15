@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026165.txt",
+  "file_name": "HOUSE_OVERSIGHT_026165.txt",
+  "processed_at": "2025-11-15T02:44:10.916233",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-08-25",
+      "subject": "Re: Re:",
+      "document_id": "",
+      "sender": "Boris Nikolic",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Boris Nikolic",
+        "jeffrey E.",
+        "Bill",
+        "Neil deGrasse Tyson"
+      ],
+      "organizations": [
+        "Huffington Post"
+      ],
+      "locations": [
+        "LA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing media coverage and potential involvement of others"
+      },
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Bill",
+        "relationship_type": "referenced",
+        "description": "Suggests Bill should join the effort for broader media coverage"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, enthusiastic",
+      "emotional_indicators": [
+        "excitement",
+        "urgency"
+      ],
+      "purpose": "To coordinate media coverage strategy and encourage broader participation in supporting science funding",
+      "significance": "Shows coordination between individuals regarding media strategy and potential involvement of high-profile figures in response to political budget decisions"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Can you get a bigger coverage (beside Huff post)??",
+      "Bill and others should join!"
+    ],
+    "red_flags": [
+      "Coordination of media strategy involving high-profile individuals"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be straightforward coordination for media coverage"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news article about science funding, no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of Huffington Post coverage",
+        "Request for broader media coverage beyond Huff Post",
+        "Coordination of media strategy"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Discusses public Huffington Post article about private donor funding scientists in response to Trump's proposed budget cuts"
+    },
+    "summary": "Email exchange between Boris Nikolic and Jeffrey Epstein discussing a Huffington Post article about private funding for scientists in response to Trump's proposed budget cuts, with Nikolic requesting broader media coverage and suggesting Bill and others should join the effort."
+  }
+}

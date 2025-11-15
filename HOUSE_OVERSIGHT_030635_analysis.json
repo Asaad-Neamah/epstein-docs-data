@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030635.txt",
+  "file_name": "HOUSE_OVERSIGHT_030635.txt",
+  "processed_at": "2025-11-15T02:49:57.419947",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-06-24",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Faith Kates",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Faith Kates",
+        "jeffrey E.",
+        "Trump"
+      ],
+      "organizations": [
+        "JEE"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Faith Kates",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal/professional",
+        "description": "Direct email communication suggesting familiarity"
+      },
+      {
+        "entity_1": "Faith Kates",
+        "entity_2": "Trump",
+        "relationship_type": "referential",
+        "description": "Faith mentions Trump's statements about an unspecified event"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, frustrated, concerned",
+      "emotional_indicators": [
+        "frustration",
+        "urgency",
+        "concern",
+        "confusion"
+      ],
+      "purpose": "To establish contact with Jeffrey E. and express concern about an unspecified event involving Trump",
+      "significance": "Shows direct communication about Trump's public statements and concern about an event"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "What the f... Does going to open lk down not good... Trump is saying its a great thing really???",
+      "Is this the right # says its disconnected"
+    ],
+    "red_flags": [
+      "Urgent tone suggesting concern about Trump's statements",
+      "Communication difficulties with Jeffrey E."
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private email exchange expressing personal concern about Trump's statements"
+    },
+    "summary": "Faith Kates emails Jeffrey E. urgently trying to contact him, expressing frustration that his phone appears disconnected and concern about Trump's positive statements regarding an unspecified event that she views negatively."
+  }
+}

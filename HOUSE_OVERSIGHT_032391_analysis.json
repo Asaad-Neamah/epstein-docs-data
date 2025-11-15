@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032391.txt",
+  "file_name": "HOUSE_OVERSIGHT_032391.txt",
+  "processed_at": "2025-11-15T02:54:25.101167",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-15",
+      "subject": "RE: Re:",
+      "document_id": "",
+      "sender": "Pritzker, Tom",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Tom Pritzker",
+        "Jeffrey E.",
+        "MBS",
+        "Karyyna",
+        "Tilerson",
+        "Trump"
+      ],
+      "organizations": [
+        "CSIS"
+      ],
+      "locations": [
+        "Japan",
+        "Aspen"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Tom Pritzker",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Personal/Business",
+        "description": "Friendly email exchange with informal tone and inside jokes"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "MBS",
+        "relationship_type": "Connection",
+        "description": "MBS sent Jeffrey E. a tent with carpets as a gift"
+      },
+      {
+        "entity_1": "Tom Pritzker",
+        "entity_2": "Tilerson",
+        "relationship_type": "Professional",
+        "description": "Pritzker knows Tilerson from CSIS and endorses him as 'the real deal'"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Casual, informal, joking",
+      "emotional_indicators": [
+        "Humorous",
+        "Friendly",
+        "Relaxed"
+      ],
+      "purpose": "Personal communication discussing travel plans, political appointments, and gifts",
+      "significance": "Shows informal relationship between Tom Pritzker and Jeffrey E., including reference to MBS sending a gift"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Will call Japan tonite. A tent? Hmmm... I think that is code for 'I love you'. Or, maybe code for 'go pound sand'.\"",
+      "\"can you belive MBS sent me a TENT carpets and all.\"",
+      "\"Tilerson is a good move for Trump. Have gotten to know him at CSIS, he's the real deal.\""
+    ],
+    "red_flags": [
+      "Informal communication about foreign leader (MBS) sending gifts"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be friendly personal communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is personal communication about gifts, travel, and political appointments"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email involves prominent business figure Tom Pritzker and references to MBS (likely Mohammed bin Salman) and Trump administration appointments"
+    },
+    "summary": "This email exchange between Tom Pritzker and Jeffrey E. shows a casual personal relationship, discussing travel plans to Aspen, Pritzker's endorsement of Rex Tillerson for Trump's administration, and a gift of a tent with carpets that Jeffrey E. received from MBS (Mohammed bin Salman)."
+  }
+}

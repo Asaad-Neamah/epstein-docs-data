@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030883.txt",
+  "file_name": "HOUSE_OVERSIGHT_030883.txt",
+  "processed_at": "2025-11-15T02:50:48.539586",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-05-05",
+      "subject": "Trump Is Said to Know of Stormy Daniels Payment Months Before He Denied It - The New York Times",
+      "document_id": "",
+      "sender": "Steve Bannon",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Steve Bannon",
+        "Trump",
+        "Stormy Daniels"
+      ],
+      "organizations": [
+        "The New York Times"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Steve Bannon",
+        "entity_2": "jeevacation@gmail.com",
+        "relationship_type": "communication",
+        "description": "Sender forwarding news article to recipient"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "Stormy Daniels",
+        "relationship_type": "alleged",
+        "description": "Subject of news article about hush payment"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency indicated by high importance flag"
+      ],
+      "purpose": "To share breaking news article about Trump's alleged knowledge of Stormy Daniels payment",
+      "significance": "Shows communication about politically sensitive news story involving presidential hush payment allegations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "Sharing politically sensitive information",
+      "High importance marking suggests urgency"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be sharing news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains shared news article content about alleged activities of others, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "New York Times article about Trump and Stormy Daniels payment"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Stormy Daniels hush payment scandal was widely reported in 2018 and involved allegations of payments to silence an adult film actress about an affair with Donald Trump"
+    },
+    "summary": "Steve Bannon forwards a New York Times article to Jeffrey Epstein's email address regarding allegations that President Trump knew about hush payments to Stormy Daniels months before he publicly denied them, marked as high importance."
+  }
+}

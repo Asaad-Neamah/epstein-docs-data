@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032511.txt",
+  "file_name": "HOUSE_OVERSIGHT_032511.txt",
+  "processed_at": "2025-11-15T02:54:40.106446",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-05",
+      "subject": "TSA",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Trump"
+      ],
+      "organizations": [
+        "TSA"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is communicating logistical information to Jeffrey about flight departure timing"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "unknown",
+        "description": "Mention of Trump's departure timing affecting flight scheduling"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, professional",
+      "emotional_indicators": [
+        "urgency",
+        "need for quick response"
+      ],
+      "purpose": "To coordinate flight departure timing with TSA inspection schedule and avoid conflict with Trump's departure",
+      "significance": "Shows coordination of private flight logistics with government security operations and potential connection to high-profile individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "TSA called me. They inform closing TSA inspection at 3pm.",
+      "Otherwise it would be after Trump's departure between 4 and 5pm"
+    ],
+    "red_flags": [
+      "Coordination with government security for private flight operations"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows coordination between private flight operations and government security, with mention of Trump's schedule, which could be of media interest given the context of Epstein's connections"
+    },
+    "summary": "Larry Visoski urgently emails Jeffrey Epstein about TSA inspection scheduling, requesting approval for a 2:30pm departure to avoid conflict with Trump's departure between 4-5pm, indicating coordination of private flight logistics with government security operations."
+  }
+}

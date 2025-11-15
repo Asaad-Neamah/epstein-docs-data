@@ -1,0 +1,130 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_028501.txt",
+  "file_name": "HOUSE_OVERSIGHT_028501.txt",
+  "processed_at": "2025-11-15T02:46:45.476860",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-16",
+      "subject": "Re: 2017 IFP Gotham Awards",
+      "document_id": "",
+      "sender": "Steven Pfeiffer",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]",
+        "Peggy Siegal"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Steven Pfeiffer",
+        "Jeffrey E. (Epstein)",
+        "Peggy Siegal",
+        "Nicole Kidman",
+        "Dustin Hoffman",
+        "Sofia Coppola",
+        "Ed Lachman",
+        "Jason Blum",
+        "Al Gore",
+        "Willem Dafoe",
+        "Adam Sandler",
+        "Robert Pattison",
+        "Margot Robbie",
+        "Lois Smith",
+        "Mary J. Blige"
+      ],
+      "organizations": [
+        "Independent Filmmaker Project (IFP)",
+        "Made in NY Media Center by IFP",
+        "Blumhouse Productions"
+      ],
+      "locations": [
+        "New York City",
+        "Brooklyn, NY",
+        "Cipriani Wall Street",
+        "30 John Street, Brooklyn, NY 11201"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Peggy Siegal",
+        "relationship_type": "business",
+        "description": "Epstein directs donation to be processed through Siegal's company"
+      },
+      {
+        "entity_1": "Steven Pfeiffer",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "business",
+        "description": "Development director coordinating donation for IFP Gotham Awards"
+      },
+      {
+        "entity_1": "IFP",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "donor",
+        "description": "Epstein making $10,000 donation for event chairs"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$10,000"
+      ],
+      "transactions": [
+        "$10,000 donation for chairs at IFP Gotham Awards"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, business-like, courteous",
+      "emotional_indicators": [
+        "enthusiastic about event",
+        "grateful for donation"
+      ],
+      "purpose": "Coordinate Jeffrey Epstein's $10,000 donation and seating arrangements for the IFP Gotham Awards",
+      "significance": "Shows Epstein's continued philanthropic activities and social connections in 2017, including access to high-profile events"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"happy to buy your 10k of chairs and will need me plus 3 seats\"",
+      "\"just send to peggy. you her co. its better for her\"",
+      "\"this year's ceremony looks to be the most star studded ever\""
+    ],
+    "red_flags": [
+      "Unusual donation routing through Peggy Siegal's company rather than directly",
+      "Epstein's continued access to high-profile events despite known history"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be a standard donation transaction"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine donation coordination for charitable event"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "IFP Gotham Awards are public events with media coverage; Epstein's associations with high-profile individuals were widely reported"
+    },
+    "summary": "Email chain coordinating Jeffrey Epstein's $10,000 donation for chairs at the 2017 IFP Gotham Awards, with Epstein requesting the donation be processed through Peggy Siegal's company and securing four seats for the star-studded event honoring celebrities including Nicole Kidman, Dustin Hoffman, and Al Gore."
+  }
+}

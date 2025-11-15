@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033430.txt",
+  "file_name": "HOUSE_OVERSIGHT_033430.txt",
+  "processed_at": "2025-11-15T02:58:47.314276",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-21",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 033430",
+      "sender": "Weingarten, Reid",
+      "recipients": [
+        "J [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Weingarten, Reid",
+        "J",
+        "Michael Cohen"
+      ],
+      "organizations": [
+        "CNBC"
+      ],
+      "locations": [
+        "dc"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Legal matters/litigation"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Weingarten, Reid",
+        "entity_2": "J",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding scheduling and sharing news articles"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, direct",
+      "emotional_indicators": [
+        "urgency (importance: high)"
+      ],
+      "purpose": "To inquire about someone's schedule in DC and share a news article about Michael Cohen's prison surrender date",
+      "significance": "Shows communication about legal proceedings involving Michael Cohen and coordination of schedules"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Is she in dc today or tomorrow?",
+      "https://www.cnbc.com/2019/02/20/ex-trump-lawyer-michael-cohen-gets-prison-surrender-date-delayed-two-months-to-may-6.html"
+    ],
+    "red_flags": [
+      "Urgent communication about scheduling with vague references to an unidentified person"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains a shared news article about Michael Cohen's legal case, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC news article about Michael Cohen's prison surrender date being delayed"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's legal case was widely covered in media; this appears to be sharing publicly available news"
+    },
+    "summary": "Reid Weingarten sends an urgent email inquiring about an unidentified person's schedule in DC and includes a forwarded CNBC article about Michael Cohen's prison surrender date being delayed until May 6, 2019."
+  }
+}

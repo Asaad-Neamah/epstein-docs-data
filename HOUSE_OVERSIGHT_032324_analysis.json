@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032324.txt",
+  "file_name": "HOUSE_OVERSIGHT_032324.txt",
+  "processed_at": "2025-11-15T02:54:12.592046",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "report",
+      "date": "",
+      "subject": "US Election Report",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Hillary Clinton"
+      ],
+      "organizations": [],
+      "locations": [
+        "New York",
+        "California",
+        "Texas",
+        "North Carolina",
+        "Florida",
+        "Washington",
+        "Ohio",
+        "New Jersey",
+        "Michigan",
+        "Pennsylvania",
+        "Iowa",
+        "Wisconsin",
+        "Nevada"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Hillary Clinton",
+        "relationship_type": "political",
+        "description": "Political opponents in the US presidential election"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "3 million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "analytical",
+      "emotional_indicators": [],
+      "purpose": "To report on social media sentiment analysis and election predictions based on Twitter data",
+      "significance": "Provides quantitative analysis of public sentiment during the 2016 US presidential election campaign period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this analytical report"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this analytical report"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be election analysis data from the 2016 US presidential election between Donald Trump and Hillary Clinton, which was widely covered by media"
+    },
+    "summary": "This report analyzes Twitter sentiment data from November 2016 showing Donald Trump with 45.68% negative sentiment vs Hillary Clinton's 58.77% negative sentiment, with Trump predicted to have 55% chance of winning based on state-by-state analysis."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032712.txt",
+  "file_name": "HOUSE_OVERSIGHT_032712.txt",
+  "processed_at": "2025-11-15T02:55:22.184095",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-08",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E.",
+        "SB",
+        "John McCain",
+        "James Comey",
+        "Donald Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/communication",
+        "description": "Email correspondence discussing political figures and strategy"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "SB",
+        "relationship_type": "professional",
+        "description": "Reference to someone Jeffrey should contact regarding plans"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "frustration",
+        "concern about reliability"
+      ],
+      "purpose": "Coordinate communication strategy and discuss observations about political figures",
+      "significance": "Shows communication between Wolff and Epstein about political figures and strategy, with medical speculation about public figures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"he in keeping with past tradtion said he would confirm a time around 11 . no word since\"",
+      "\"eveyone looks now with the same , WTF , look, at trump but has no idea what the future holds\""
+    ],
+    "red_flags": [
+      "Informal speculation about medical conditions of public figures",
+      "Reference to someone with \"weird ADD thing\" requiring reminders"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Communication between Michael Wolff and Jeffrey Epstein discussing political figures could be of media interest given subsequent revelations about Epstein's connections"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing communication strategy with an individual referred to as 'SB' and making observations about political figures including Trump, McCain, and Comey, including speculative medical comparisons."
+  }
+}

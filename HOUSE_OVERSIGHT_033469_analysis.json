@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033469.txt",
+  "file_name": "HOUSE_OVERSIGHT_033469.txt",
+  "processed_at": "2025-11-15T02:58:42.276137",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2018-09-24",
+      "subject": "Florida Democratic congressional candidate dies unexpectedly",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "April Freeman",
+        "Tom Rooney",
+        "Donald Trump",
+        "Terrie Rizzo",
+        "Sarah Revell"
+      ],
+      "organizations": [
+        "Democratic Party",
+        "Florida Democratic Party",
+        "Florida Department of State",
+        "CNN",
+        "Time Warner",
+        "Fox 4 Now"
+      ],
+      "locations": [
+        "Florida",
+        "Orlando",
+        "Tampa",
+        "Washington",
+        "Florida's 17th District"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "April Freeman",
+        "entity_2": "Democratic Party",
+        "relationship_type": "political",
+        "description": "Congressional candidate for Democratic Party"
+      },
+      {
+        "entity_1": "Tom Rooney",
+        "entity_2": "Republican Party",
+        "relationship_type": "political",
+        "description": "Republican representative vacating the seat"
+      },
+      {
+        "entity_1": "Terrie Rizzo",
+        "entity_2": "Florida Democratic Party",
+        "relationship_type": "organizational",
+        "description": "Chair of Florida Democratic Party"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, somber",
+      "emotional_indicators": [
+        "sadness",
+        "grief",
+        "heartache"
+      ],
+      "purpose": "To report the sudden death of congressional candidate April Freeman and explain the electoral implications",
+      "significance": "Documents the unexpected death of a political candidate during an election cycle and the procedural implications for ballot replacement"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Its (sic) with great sadness that I feel I must inform all of you that my beloved wife April passed away suddenly last night\"",
+      "\"Her work ethic and passion was an inspiration to all of us. It is a tremendous loss to the Democratic Party and to all who knew her\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this news article about a candidate's death"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a CNN news article reporting on the death of a political candidate, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNN news article by Sophie Tatum and Annie Grayer",
+        "References to Facebook announcement",
+        "Media coverage of political event"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a publicly published CNN news article about the death of a congressional candidate during an election cycle"
+    },
+    "summary": "CNN reports the sudden death of April Freeman, Democratic congressional candidate for Florida's 17th District, as announced by her husband on Facebook. The article details the electoral implications and includes statements from Florida Democratic Party leadership expressing grief over her passing."
+  }
+}

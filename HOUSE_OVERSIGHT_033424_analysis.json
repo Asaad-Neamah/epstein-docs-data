@@ -1,0 +1,103 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033424.txt",
+  "file_name": "HOUSE_OVERSIGHT_033424.txt",
+  "processed_at": "2025-11-15T02:58:32.522813",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-18",
+      "subject": "G550",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Pete",
+        "President Trump",
+        "Dave",
+        "Darren"
+      ],
+      "organizations": [],
+      "locations": [
+        "Boca"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is providing aircraft maintenance and logistics updates to Jeffrey"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Pete",
+        "relationship_type": "professional",
+        "description": "Pete is providing Larry with updates on aircraft maintenance"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Dave and Darren",
+        "relationship_type": "professional",
+        "description": "Dave and Darren appear to be pilots or ground crew under Larry's direction"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "G550 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To provide an update on aircraft maintenance progress and coordinate logistics for aircraft movement in relation to President Trump's arrival",
+      "significance": "Shows coordination of private aircraft logistics and timing related to presidential travel"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "President Trump arrives Friday at 4:30pm ish.",
+      "Should Dave and Darren move the G550 to Boca Thursday?"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this routine logistics email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine aircraft maintenance and logistics email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Routine private aircraft logistics communication"
+    },
+    "summary": "Larry Visoski emails Jeffrey with an update on G550 aircraft maintenance, indicating the plane should be ready by Wednesday evening or Thursday noon, and asks whether Dave and Darren should move the aircraft to Boca on Thursday in preparation for President Trump's arrival on Friday."
+  }
+}

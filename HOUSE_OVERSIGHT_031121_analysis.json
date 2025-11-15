@@ -1,0 +1,169 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031121.txt",
+  "file_name": "HOUSE_OVERSIGHT_031121.txt",
+  "processed_at": "2025-11-15T02:51:29.980673",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-01-11",
+      "subject": "JPM View 01/11/2013",
+      "document_id": "",
+      "sender": "us.gio@jpmorgan.com",
+      "recipients": [
+        "Undisclosed recipients"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jan Loeys",
+        "John Normand",
+        "Nikolaos Panigirtzoglou",
+        "Seamus Mac Gorain",
+        "Matthew Lehmann",
+        "Leo Evans",
+        "Shinzo Abe",
+        "Obama"
+      ],
+      "organizations": [
+        "J.P. Morgan",
+        "JP Morgan",
+        "ECB",
+        "FOMC",
+        "BoJ",
+        "Japanese gov't",
+        "NY court",
+        "Venezuelan president"
+      ],
+      "locations": [
+        "US",
+        "Europe",
+        "Asia",
+        "Japan",
+        "China",
+        "Euro area",
+        "EM Asia",
+        "UK",
+        "North Sea",
+        "Argentina",
+        "Venezuela",
+        "Australia",
+        "Russia",
+        "South Korea",
+        "Norway",
+        "Switzerland"
+      ],
+      "financial_entities": [
+        "JPMorgan",
+        "JP Morgan",
+        "bond mutual funds",
+        "ETFs",
+        "high-grade spreads",
+        "high-yield",
+        "EMBIG"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J.P. Morgan",
+        "entity_2": "global markets",
+        "relationship_type": "business",
+        "description": "J.P. Morgan providing investment analysis and recommendations on global markets"
+      },
+      {
+        "entity_1": "Japan",
+        "entity_2": "PM Shinzo Abe",
+        "relationship_type": "political",
+        "description": "Japanese government under PM Abe implementing fiscal easing policies"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$680bn",
+        "$23bn",
+        "5.9%",
+        "6.5%",
+        "12bp",
+        "2%",
+        "100",
+        "$1,550/oz",
+        "0.8%",
+        "1.5%",
+        "1.7%",
+        "1.8%",
+        "2.4%",
+        "20%",
+        "10%"
+      ],
+      "transactions": [
+        "equity fund inflows",
+        "bond mutual fund inflows",
+        "capital outflows",
+        "fiscal easing",
+        "debt monetization",
+        "QE unlimited"
+      ],
+      "assets": [
+        "equities",
+        "bonds",
+        "credit",
+        "currencies",
+        "commodities",
+        "gold",
+        "natural gas",
+        "industrial metals",
+        "agriculture",
+        "Brent crude"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, analytical, confident",
+      "emotional_indicators": [
+        "optimism",
+        "conviction",
+        "caution"
+      ],
+      "purpose": "To provide J.P. Morgan's investment outlook and recommendations for global asset allocation across various markets",
+      "significance": "Regular market analysis email from J.P. Morgan providing investment strategy recommendations to clients"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "The growth gap between East and West is widening, and has allowed us to join the Obama Pivot towards Asia.",
+      "We believe new PM Abe conviction and political power to reflate the economy are real. It has already helped the yen lose 10% versus the dollar.",
+      "The recent FOMC minutes, however, have since raised the risk of an early end to QE, reducing to need to hedge through gold."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found. This is a standard financial market analysis email."
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed. This is legitimate financial market analysis from J.P. Morgan."
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard financial market analysis that would be routinely distributed to J.P. Morgan clients and likely similar to publicly available market commentary"
+    },
+    "summary": "J.P. Morgan's weekly market analysis email providing investment recommendations across global asset classes, with a focus on going long Asian equities (particularly Japan and EM Asia) while being underweight US equities, and discussing various market trends including equity fund inflows, currency movements, and commodity positions."
+  }
+}

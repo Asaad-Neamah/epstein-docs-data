@@ -1,0 +1,92 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_011907.txt",
+  "file_name": "HOUSE_OVERSIGHT_011907.txt",
+  "processed_at": "2025-11-15T02:35:03.139867",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-07",
+      "subject": "RE:",
+      "document_id": "",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "J Deevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "Stephanie Winston-Wolkoff"
+      ],
+      "organizations": [
+        "The New York Times"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "J",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about shared concerns regarding negative news coverage"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, concerned",
+      "emotional_indicators": [
+        "concern",
+        "alarm"
+      ],
+      "purpose": "To alert the recipient about negative news coverage affecting their mutual acquaintance",
+      "significance": "Shows monitoring of media coverage and concern about public perception"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "More bad news for our friend",
+      "please note"
+    ],
+    "red_flags": [
+      "Monitoring of potentially damaging media coverage"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be sharing concerning news coverage"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is sharing a New York Times article about Stephanie Winston-Wolkoff and Trump inauguration matters - not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "New York Times article about Stephanie Winston-Wolkoff and Trump inauguration matters"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Stephanie Winston-Wolkoff was involved in Trump inauguration planning and faced scrutiny over spending; this was widely reported in 2019"
+    },
+    "summary": "Nicholas Ribis forwards an email containing a New York Times article link about Stephanie Winston-Wolkoff's involvement in Trump inauguration matters, expressing concern about 'more bad news for our friend' regarding negative media coverage."
+  }
+}

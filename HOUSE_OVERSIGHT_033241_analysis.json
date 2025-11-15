@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033241.txt",
+  "file_name": "HOUSE_OVERSIGHT_033241.txt",
+  "processed_at": "2025-11-15T02:57:53.519799",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-06-03",
+      "subject": "yikes",
+      "document_id": "",
+      "sender": "paul krassner",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "paul krassner",
+        "jeffrey E.",
+        "Kathy Griffin",
+        "Donald Trump",
+        "Bobby Edwards",
+        "Howie Ronay"
+      ],
+      "organizations": [
+        "CNN",
+        "Squatty Potty",
+        "Bravery Films",
+        "FCB",
+        "Kmart"
+      ],
+      "locations": [
+        "USA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "paul krassner",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Sender emailing recipient about current events"
+      },
+      {
+        "entity_1": "Kathy Griffin",
+        "entity_2": "Squatty Potty",
+        "relationship_type": "commercial",
+        "description": "Celebrity spokesperson for the product"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, opinionated, critical",
+      "emotional_indicators": [
+        "strong political opinions",
+        "frustration with media",
+        "support for Kathy Griffin"
+      ],
+      "purpose": "To share political commentary and media criticism regarding Kathy Griffin controversy and CNN's advertising decisions",
+      "significance": "Shows personal political views and media criticism being shared via email during a controversial period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"I'm against censorship, and that includes Kathy Griffin. CNN eats chickenshit.\"",
+      "\"What she did is nothing compared to Trump's murderous evil.\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains political commentary and sharing of commercial advertising news, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Criticism of CNN's coverage and advertising decisions",
+        "Discussion of Kathy Griffin media controversy",
+        "Reference to commercial advertising campaign"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Kathy Griffin's controversial photo with Trump effigy was major news in 2017, and Squatty Potty advertising was publicly known"
+    },
+    "summary": "Paul Krassner emails Jeffrey E. with strong political commentary defending Kathy Griffin against CNN's criticism, comparing her actions favorably to Trump's policies, and includes details about Griffin's Squatty Potty commercial that CNN was reportedly dropping due to the controversy."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029209.txt",
+  "file_name": "HOUSE_OVERSIGHT_029209.txt",
+  "processed_at": "2025-11-15T02:47:22.851848",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-07-17",
+      "subject": "Re: Reminder Ed Boyden.",
+      "document_id": "",
+      "sender": "Jeffrey Epstein",
+      "recipients": [
+        "Lesley Groff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Lesley Groff",
+        "Ed Boyden",
+        "Neil Gershenfeld"
+      ],
+      "organizations": [
+        "MIT Media Lab",
+        "McGovern Institute",
+        "MIT Center for Neurobiological Engineering",
+        "New York Stem Cell Foundation",
+        "Obama BRAIN Initiative"
+      ],
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Employment/staffing"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "employment",
+        "description": "Lesley Groff is assistant to Jeffrey Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ed Boyden",
+        "relationship_type": "professional",
+        "description": "Scheduling meetings and discussions, potentially related to scientific initiatives"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Neil Gershenfeld",
+        "relationship_type": "professional",
+        "description": "Had planned meeting/lunch at MIT"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, professional",
+      "emotional_indicators": [
+        "apologetic (from Boyden)",
+        "accommodating"
+      ],
+      "purpose": "Scheduling a call between Jeffrey Epstein and Ed Boyden from MIT",
+      "significance": "Shows Epstein's connections to prominent MIT researchers and involvement with scientific initiatives like the BRAIN Initiative"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Sorry again for that last minute cancellation in the Spring -- alas, the perils of running a new center, that I no longer control my schedule like in the good old days.",
+      "But the Obama BRAIN Initiative is running strong, and MIT has a good bid for a seat at the table, so that is good."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - routine scheduling email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced - routine professional communication about scheduling"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Shows Epstein's connections to MIT researchers and scientific initiatives, which may be of interest given his later legal troubles"
+    },
+    "summary": "Email chain regarding scheduling a call between Jeffrey Epstein and MIT professor Ed Boyden, discussing the Obama BRAIN Initiative and previous canceled meetings, with Lesley Groff coordinating as Epstein's assistant."
+  }
+}

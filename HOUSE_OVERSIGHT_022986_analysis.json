@@ -1,0 +1,85 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_022986.txt",
+  "file_name": "HOUSE_OVERSIGHT_022986.txt",
+  "processed_at": "2025-11-15T02:41:03.846261",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "",
+      "subject": "How many degrees of separation between Trump and sex offender Epstein?",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Trump",
+        "Epstein"
+      ],
+      "organizations": [
+        "Palm Beach Post"
+      ],
+      "locations": [
+        "Palm Beach"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Allegations/complaints",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Trump",
+        "entity_2": "Epstein",
+        "relationship_type": "personal/political",
+        "description": "The article headline suggests an investigation into the nature and degree of connection between Donald Trump and Jeffrey Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "investigative",
+      "emotional_indicators": [],
+      "purpose": "To investigate and report on the connections between Donald Trump and Jeffrey Epstein",
+      "significance": "This appears to be news coverage examining relationships between a prominent political figure and a convicted sex offender"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article headline"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on connections between Trump and Epstein, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "This document itself is news media content from the Palm Beach Post"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be public news coverage about the Trump-Epstein relationship, which has been widely reported"
+    },
+    "summary": "This is a news article from the Palm Beach Post investigating the connections and degrees of separation between Donald Trump and convicted sex offender Jeffrey Epstein."
+  }
+}

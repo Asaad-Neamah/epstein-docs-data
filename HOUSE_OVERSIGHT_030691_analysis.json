@@ -1,0 +1,122 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030691.txt",
+  "file_name": "HOUSE_OVERSIGHT_030691.txt",
+  "processed_at": "2025-11-15T02:50:10.835194",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-18",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 030691, HOUSE OVERSIGHT 030692",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E. (Epstein)",
+        "Bannon",
+        "Ira Rosen",
+        "Trump",
+        "Bill Maher"
+      ],
+      "organizations": [
+        "60 Minutes"
+      ],
+      "locations": [
+        "Europe",
+        "Mid East",
+        "DC",
+        "LA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Personal/Business",
+        "description": "Communicating about travel plans and political strategy discussions"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Bannon",
+        "relationship_type": "Professional",
+        "description": "Wolff reporting on Bannon's political strategy considerations"
+      },
+      {
+        "entity_1": "Ira Rosen",
+        "entity_2": "Bannon",
+        "relationship_type": "Friendship/Professional",
+        "description": "Rosen is described as a friend of Bannon's and conveyed messages"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "few million"
+      ],
+      "transactions": [
+        "Bannon's message: 'You own me a few million'"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Casual, conversational, somewhat boastful",
+      "emotional_indicators": [
+        "Excitement ('I'm thrilled for you')",
+        "Confidence ('I am everybody's darling')"
+      ],
+      "purpose": "Coordinate meeting, discuss political strategy, share information about Bannon's plans",
+      "significance": "Shows relationship between Epstein and Wolff, includes insider political information about Bannon considering breaking with Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "prefer no details on email",
+      "Bannon's 'nationalist-populist' platform is coherent, rational, and, apparently appealing to a great many people",
+      "Ira Rosen... came with a message from SB: 'You own me a few million'"
+    ],
+    "red_flags": [
+      "Request for off-email communication ('prefer no details on email')",
+      "Mention of financial obligation ('You own me a few million')"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Ira Rosen described as '60 Minutes producer'",
+        "Michael Wolff mentions doing Bill Maher show",
+        "Reference to 'small circle of journalists'"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication between Epstein and journalist Michael Wolff during a period when Wolff was writing about the Trump administration, containing insider political information"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing travel plans to the Middle East and Europe, while also sharing insider political information about Steve Bannon considering a public break with Trump and a message about financial obligations."
+  }
+}

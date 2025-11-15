@@ -1,0 +1,181 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_014972.txt",
+  "file_name": "HOUSE_OVERSIGHT_014972.txt",
+  "processed_at": "2025-11-15T02:36:57.210291",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "research_report",
+      "date": "2017-06-20",
+      "subject": "Global Equity Volatility Insights",
+      "document_id": "11756528",
+      "sender": "BofA Merrill Lynch Global Research",
+      "recipients": [
+        "amanda.ens@baml.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Benjamin Bowler",
+        "Anshul Gupta",
+        "Nitin Saksena",
+        "William Chan",
+        "Abhinandan Deb",
+        "Jason Galazidis",
+        "Clovis Couasnon",
+        "Chintan Kotecha",
+        "Michael Youngworth",
+        "Nikolay Angeloff",
+        "Janet Yellen"
+      ],
+      "organizations": [
+        "BofA Merrill Lynch",
+        "Federal Reserve",
+        "FOMC",
+        "ECB",
+        "BOE",
+        "PBOC",
+        "Bank of Japan",
+        "Santander",
+        "BNP Paribas",
+        "ING",
+        "Intesa Sanpaolo",
+        "Deutsche Bank",
+        "China Merchants Bank",
+        "Commonwealth Bank of Australia",
+        "Westpac Banking Corp",
+        "CSL Ltd"
+      ],
+      "locations": [
+        "US",
+        "Europe",
+        "Asia",
+        "China",
+        "Hong Kong",
+        "Japan",
+        "Korea",
+        "India",
+        "Taiwan",
+        "Australia",
+        "EU",
+        "UK",
+        "France",
+        "Germany",
+        "Italy",
+        "Spain"
+      ],
+      "financial_entities": [
+        "BofA Merrill Lynch",
+        "MLPF&S",
+        "MLI (UK)",
+        "Merrill Lynch (Hong Kong)",
+        "Bank of America",
+        "FINRA",
+        "OCC"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "BofA Merrill Lynch",
+        "entity_2": "Santander",
+        "relationship_type": "business",
+        "description": "BofA Merrill Lynch acts as financial adviser to Santander"
+      },
+      {
+        "entity_1": "BofA Merrill Lynch",
+        "entity_2": "BNP Paribas",
+        "relationship_type": "business",
+        "description": "BofA Merrill Lynch acts as financial adviser to BNP Paribas"
+      },
+      {
+        "entity_1": "BofA Merrill Lynch",
+        "entity_2": "Intesa Sanpaolo",
+        "relationship_type": "business",
+        "description": "BofA Merrill Lynch acts as financial adviser to Intesa Sanpaolo"
+      },
+      {
+        "entity_1": "Federal Reserve",
+        "entity_2": "US equity markets",
+        "relationship_type": "regulatory",
+        "description": "Fed monetary policy influences US equity market volatility"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "70bps",
+        "1.8%",
+        "5 vol points",
+        "410bn yuan",
+        "$60bn"
+      ],
+      "transactions": [
+        "SPX Sep 2475 put that knocks out at 2300",
+        "Long EU banks dispersion trade",
+        "HSCEI-SPX corridor variance trade"
+      ],
+      "assets": [
+        "S&P 500",
+        "ESTX50",
+        "FTSE",
+        "DAX",
+        "NKY",
+        "HSI",
+        "KOSPI",
+        "EU bank stocks",
+        "Chinese banking sector"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, analytical, strategic",
+      "emotional_indicators": [
+        "confidence in analysis",
+        "strategic positioning"
+      ],
+      "purpose": "Provide equity volatility insights and trading recommendations for global markets",
+      "significance": "Comprehensive analysis of global equity volatility trends with specific trade recommendations during period of central bank policy normalization"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "We see monetary policy as now providing a 'collar' (long put / short call) on a US equity market that has already shown a propensity over the past year for getting trapped in record tight trading ranges.",
+      "The uncertainty surrounding policy tightening will be more positive for EM volatility than for DM volatility.",
+      "With the steep drop in global risk premium, the HSCEI-SPX 18-month variance swap spread has fallen back to the lower-end of its 5-year trading range."
+    ],
+    "red_flags": [
+      "Elevated inverse VIX ETP open interest",
+      "Stretched quant fund positioning",
+      "Rapid leverage increase in Chinese banking sector"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this financial research document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains standard financial research and analysis with no evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Standard equity research report from major financial institution that would be distributed to clients and potentially covered by financial media"
+    },
+    "summary": "This BofA Merrill Lynch research report analyzes global equity volatility trends following hawkish central bank policy shifts, recommending specific volatility trading strategies including SPX knockout puts, EU bank dispersion trades, and HSCEI-SPX corridor variance spreads to capitalize on expected market conditions."
+  }
+}

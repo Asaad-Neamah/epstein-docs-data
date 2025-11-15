@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029958.txt",
+  "file_name": "HOUSE_OVERSIGHT_029958.txt",
+  "processed_at": "2025-11-15T02:48:44.971276",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-02-03",
+      "subject": "I beat Bush",
+      "document_id": "",
+      "sender": "INW",
+      "recipients": [
+        "Jeffrey Epstein [jeeyacation@gmail.com]",
+        "Jeffrey Epstein [jeyacations@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "INW",
+        "Jeb Bush",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "Iowa",
+        "St. Thomas",
+        "St. Jeff"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Travel/logistics",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "INW",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal",
+        "description": "Friendly relationship with casual tone and shared humor"
+      },
+      {
+        "entity_1": "INW",
+        "entity_2": "Jeb Bush",
+        "relationship_type": "political",
+        "description": "Political comparison regarding election results"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, humorous, boastful",
+      "emotional_indicators": [
+        "amusement",
+        "pride",
+        "familiarity"
+      ],
+      "purpose": "To share personal political achievement and travel experience with Jeffrey Epstein",
+      "significance": "Shows personal relationship between sender and Epstein, including political involvement and shared humor"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I got more votes than Jeb Bush got in Iowa, and I only had one congressional district, he had four!!",
+      "Would be totally funny (to me at least) if you put a big fake shark or statute under the water where the divers go...."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be a friendly, casual communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a personal email about politics and travel"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Personal communication about 2016 Republican primary politics and travel"
+    },
+    "summary": "INW emails Jeffrey Epstein boasting about getting more votes than Jeb Bush in Iowa's Republican primary, mentions potential delegate status for Trump, and shares details about scuba diving in St. Thomas with a humorous suggestion about placing a fake shark underwater."
+  }
+}

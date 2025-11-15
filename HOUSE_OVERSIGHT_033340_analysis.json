@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033340.txt",
+  "file_name": "HOUSE_OVERSIGHT_033340.txt",
+  "processed_at": "2025-11-15T02:58:34.366662",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-01-18",
+      "subject": "Trump-Deutsche Bank links in sights of U.S. House investigators",
+      "document_id": "HOUSE OVERSIGHT 033340",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Trump"
+      ],
+      "organizations": [
+        "U.S. House",
+        "Deutsche Bank",
+        "HBRK Associates Inc.",
+        "Reuters"
+      ],
+      "locations": [
+        "New York, NY 10022",
+        "575 Lexington Avenue 4th Floor"
+      ],
+      "financial_entities": [
+        "Deutsche Bank"
+      ]
+    },
+    "themes": [
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/business",
+        "description": "Kahn is sending Epstein a news article about Trump's banking relationships"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "Deutsche Bank",
+        "relationship_type": "financial",
+        "description": "Subject of the article - Trump's financial connections to Deutsche Bank being investigated"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [
+        "urgency (marked as high importance)"
+      ],
+      "purpose": "To share a Reuters news article about U.S. House investigators examining Trump's connections to Deutsche Bank",
+      "significance": "Shows communication about political/financial investigations involving Trump's banking relationships"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is a forwarded news article about investigations into Trump's banking relationships, not evidence of first-hand illegal activity by the sender or recipient"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reuters news article about Trump-Deutsche Bank investigation",
+        "U.S. House investigators mentioned in article"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available Reuters news coverage about congressional investigations into Trump's financial relationships with Deutsche Bank"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a Reuters news article about U.S. House investigators examining Trump's financial connections to Deutsche Bank, marked as high importance."
+  }
+}

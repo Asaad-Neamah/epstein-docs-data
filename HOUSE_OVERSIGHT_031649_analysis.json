@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031649.txt",
+  "file_name": "HOUSE_OVERSIGHT_031649.txt",
+  "processed_at": "2025-11-15T02:52:47.461179",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-11",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "jeffrey E. [jeeyacation@gmail.com]",
+      "recipients": [
+        "Larry Summers"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E. (Epstein)",
+        "Larry Summers",
+        "ehud",
+        "pritzker",
+        "woody",
+        "donald",
+        "bill",
+        "hillary"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Larry Summers",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence about scheduling meetings and discussing political matters"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "ehud",
+        "relationship_type": "associates",
+        "description": "Mentioned as someone visiting/meeting with Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "pritzker",
+        "relationship_type": "associates",
+        "description": "Mentioned as someone visiting/meeting with Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "woody",
+        "relationship_type": "associates",
+        "description": "Mentioned as dinner companion"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "frustration",
+        "disapproval"
+      ],
+      "purpose": "Scheduling coordination and political discussion about 2016 election allegations",
+      "significance": "Shows Epstein's communication with high-profile economist Larry Summers and discussion of political allegations during the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Press is so revolted by trump that I'd expect they will not be for benefit of doubt.",
+      "donald brought out four women that said bill abused them...hillary says you should give the benefit of the doubt to victims."
+    ],
+    "red_flags": [
+      "Discussion of sensitive political allegations",
+      "Multiple confidentiality disclaimers"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be routine scheduling and political discussion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "No illegal activity discussed - only political commentary and scheduling"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of press reaction to Trump and political allegations during 2016 election"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Refers to well-known 2016 election allegations involving Trump and Clinton campaigns; Epstein's associations with high-profile individuals were widely reported"
+    },
+    "summary": "Email exchange between Jeffrey Epstein and economist Larry Summers discussing meeting scheduling and political commentary about the 2016 presidential election, specifically allegations brought by Donald Trump against Bill Clinton and the media's reaction to these developments."
+  }
+}

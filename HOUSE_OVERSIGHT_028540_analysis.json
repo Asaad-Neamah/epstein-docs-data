@@ -1,0 +1,135 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_028540.txt",
+  "file_name": "HOUSE_OVERSIGHT_028540.txt",
+  "processed_at": "2025-11-15T02:46:30.297503",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "court_opinion",
+      "date": "2019-02-27",
+      "subject": "Jam et al. v. International Finance Corporation",
+      "document_id": "No. 17-1011",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Budha Ismail Jam",
+        "Chief Justice Roberts",
+        "Justice Breyer",
+        "Justice Thomas",
+        "Justice Ginsburg",
+        "Justice Alito",
+        "Justice Sotomayor",
+        "Justice Kagan",
+        "Justice Gorsuch",
+        "Justice Kavanaugh"
+      ],
+      "organizations": [
+        "U.S. Supreme Court",
+        "International Finance Corporation (IFC)",
+        "U.S. House Committee on Oversight and Accountability",
+        "World Bank",
+        "World Health Organization",
+        "United Nations",
+        "International Monetary Fund",
+        "Coastal Gujarat Power Limited",
+        "Department of State",
+        "Inter-American Development Bank",
+        "European Space Agency",
+        "UN Relief and Rehabilitation Administration (UNRRA)",
+        "Food and Agriculture Organization (FAO)",
+        "Multilateral Investment Guarantee Agency"
+      ],
+      "locations": [
+        "Gujarat, India",
+        "Washington, D.C.",
+        "United States"
+      ],
+      "financial_entities": [
+        "International Finance Corporation",
+        "World Bank",
+        "International Monetary Fund",
+        "Multilateral Investment Guarantee Agency"
+      ]
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Financial transactions/money flow"
+    ],
+    "relationships": [
+      {
+        "entity_1": "International Finance Corporation",
+        "entity_2": "Coastal Gujarat Power Limited",
+        "relationship_type": "financial",
+        "description": "IFC provided $450 million loan to finance construction of coal-fired power plant"
+      },
+      {
+        "entity_1": "Budha Ismail Jam et al.",
+        "entity_2": "International Finance Corporation",
+        "relationship_type": "legal",
+        "description": "Plaintiffs sued IFC for damages and injunctive relief over environmental harm"
+      },
+      {
+        "entity_1": "U.S. Supreme Court",
+        "entity_2": "International Finance Corporation",
+        "relationship_type": "judicial",
+        "description": "Court ruled on immunity status of international organizations"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$450 million"
+      ],
+      "transactions": [
+        "Loan agreement for power plant construction"
+      ],
+      "assets": [
+        "Coal-fired power plant in Gujarat"
+      ]
+    },
+    "analysis": {
+      "tone": "legal, analytical, formal",
+      "emotional_indicators": [],
+      "purpose": "To determine whether international organizations have absolute or restrictive immunity from suit",
+      "significance": "Landmark decision redefining immunity standards for international organizations under U.S. law"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Immunity interpretation",
+        "Jurisdictional issues"
+      ]
+    },
+    "notable_quotes": [
+      "The IOIA affords international organizations the same immunity from suit that foreign governments enjoy today under the FSIA.",
+      "The IOIA's reference to the immunity enjoyed by foreign governments is to an external body of potentially evolving law, not to a specific provision of another statute.",
+      "The privileges and immunities accorded by the IOIA are only default rules. If the work of a given international organization would be impaired by restrictive immunity, the organization's charter can always specify a different level of immunity."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this legal opinion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document is a Supreme Court opinion discussing legal immunity, not containing evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Supreme Court decisions are public documents and this ruling on international organization immunity would be of significant interest to legal communities and international organizations"
+    },
+    "summary": "The U.S. Supreme Court ruled that international organizations like the IFC are entitled to the same restrictive immunity from suit that foreign governments enjoy today under the Foreign Sovereign Immunities Act, rather than the absolute immunity they enjoyed in 1945 when the International Organizations Immunities Act was passed."
+  }
+}

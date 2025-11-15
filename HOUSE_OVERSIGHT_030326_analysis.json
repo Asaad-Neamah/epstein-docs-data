@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030326.txt",
+  "file_name": "HOUSE_OVERSIGHT_030326.txt",
+  "processed_at": "2025-11-15T02:49:13.174249",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-08-01",
+      "subject": "Congressional candidate compares Melania Trump to prostitute",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Melania Trump",
+        "Mark Roberts",
+        "Chris Perez",
+        "Charlie Kirk",
+        "Michelle Obama",
+        "Jim Moore",
+        "Nikki Haley",
+        "Kamala Harris",
+        "Greg Walden"
+      ],
+      "organizations": [
+        "HBRK Associates Inc",
+        "New York Post",
+        "Turning Point USA",
+        "Pacific University",
+        "Twitter"
+      ],
+      "locations": [
+        "Oregon",
+        "New York",
+        "Illinois"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Associate",
+        "description": "Kahn is sending Epstein a news article about political controversy"
+      },
+      {
+        "entity_1": "Mark Roberts",
+        "entity_2": "Melania Trump",
+        "relationship_type": "Political",
+        "description": "Congressional candidate making controversial comments about the First Lady"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Informative, sharing news",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about a political controversy involving a congressional candidate's comments about Melania Trump",
+      "significance": "Shows communication between Kahn and Epstein about political news, specifically controversial comments about the First Lady"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Did you know the First Lady works by the hour?\" tweeted independent House candidate Mark Roberts",
+      "\"It's that whole 1st amendment thing,\" he tweeted on Tuesday, along with an official explanation from Twitter as to why his tweet about Melania hasn't been taken down"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news article content about political controversy, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "New York Post article by Chris Perez",
+        "Twitter social media platform",
+        "Media coverage of political controversy"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a publicly available news article from the New York Post about a political controversy involving a congressional candidate's comments about Melania Trump"
+    },
+    "summary": "Richard Kahn forwards a New York Post article to Jeffrey Epstein about Oregon congressional candidate Mark Roberts who compared First Lady Melania Trump to a prostitute on Twitter, causing social media backlash and political controversy."
+  }
+}

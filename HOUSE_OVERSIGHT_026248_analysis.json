@@ -1,0 +1,158 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026248.txt",
+  "file_name": "HOUSE_OVERSIGHT_026248.txt",
+  "processed_at": "2025-11-15T02:44:38.041410",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "letter",
+      "date": "2018-02-02",
+      "subject": "Foreign Intelligence Surveillance Act Abuses at the Department of Justice and the Federal Bureau of Investigation",
+      "document_id": "",
+      "sender": "Donald F. McGahn II",
+      "recipients": [
+        "The Honorable Devin Nunes"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Donald F. McGahn II",
+        "Devin Nunes",
+        "Paul Ryan",
+        "Adam Schiff",
+        "Carter Page",
+        "Christopher Steele",
+        "James Comey",
+        "Andrew McCabe",
+        "Sally Yates",
+        "Dana Boente",
+        "Rod Rosenstein",
+        "Glenn Simpson",
+        "Michael Isikoff",
+        "David Corn",
+        "Bruce Ohr",
+        "Bill Priestap",
+        "George Papadopoulos",
+        "Pete Strzok",
+        "Lisa Page"
+      ],
+      "organizations": [
+        "The White House",
+        "House Permanent Select Committee on Intelligence",
+        "Department of Justice",
+        "Federal Bureau of Investigation",
+        "Foreign Intelligence Surveillance Court",
+        "Democratic National Committee",
+        "Hillary Clinton campaign",
+        "Perkins Coie",
+        "Fusion GPS",
+        "Yahoo News",
+        "Mother Jones",
+        "Special Counsel's Office"
+      ],
+      "locations": [
+        "Washington",
+        "Moscow"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Christopher Steele",
+        "entity_2": "Democratic National Committee",
+        "relationship_type": "contractual",
+        "description": "Steele was paid by DNC and Clinton campaign via Perkins Coie and Fusion GPS to compile opposition research"
+      },
+      {
+        "entity_1": "Bruce Ohr",
+        "entity_2": "Fusion GPS",
+        "relationship_type": "personal/business",
+        "description": "Ohr's wife was employed by Fusion GPS while Ohr maintained contact with Steele"
+      },
+      {
+        "entity_1": "Pete Strzok",
+        "entity_2": "Lisa Page",
+        "relationship_type": "professional/personal",
+        "description": "FBI colleagues with improper text messages demonstrating bias and discussing investigations"
+      },
+      {
+        "entity_1": "DOJ/FBI",
+        "entity_2": "FISC",
+        "relationship_type": "legal",
+        "description": "Government agencies seeking surveillance warrants from the Foreign Intelligence Surveillance Court"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$160,000"
+      ],
+      "transactions": [
+        "Payment to Christopher Steele by DNC and Clinton campaign"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "formal, accusatory, procedural",
+      "emotional_indicators": [
+        "concern",
+        "urgency regarding oversight",
+        "institutional criticism"
+      ],
+      "purpose": "To authorize declassification of a memorandum alleging FISA abuses by DOJ and FBI during 2016 election",
+      "significance": "Official White House authorization to release classified information about surveillance of Trump campaign advisor Carter Page"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "FISA application omissions",
+        "Failure to disclose Steele's bias and funding sources",
+        "Unauthorized media disclosures by FBI source",
+        "Potential violations of FISC procedures"
+      ]
+    },
+    "notable_quotes": [
+      "\"The President has determined that declassification of the Memorandum is appropriate\"",
+      "\"Steele admitted to Ohr his feelings against then-candidate Trump when Steele said he 'was desperate that Donald Trump not get elected and was passionate about him not being president'\"",
+      "\"Deputy Director McCabe testified that no surveillance warrant would have been sought from the FISC without the Steele dossier information\""
+    ],
+    "red_flags": [
+      "Omission of political funding sources in FISA applications",
+      "Concealment of Steele's media contacts and bias",
+      "Undisclosed relationship between Bruce Ohr and Fusion GPS",
+      "Text messages discussing 'insurance' policy against Trump's election"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document discusses alleged procedural violations and oversight concerns, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to Michael Isikoff (Yahoo News) and David Corn (Mother Jones) articles",
+        "Discussion of Steele's media contacts and leaks"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This memorandum was part of highly publicized congressional investigations into 2016 election surveillance activities"
+    },
+    "summary": "This document is the White House's formal authorization to declassify a House Intelligence Committee memorandum alleging FISA abuses by the DOJ and FBI in their surveillance of Trump campaign advisor Carter Page, focusing on omissions about the Steele dossier's political origins and biases."
+  }
+}

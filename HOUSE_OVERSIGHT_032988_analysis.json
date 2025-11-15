@@ -1,0 +1,88 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032988.txt",
+  "file_name": "HOUSE_OVERSIGHT_032988.txt",
+  "processed_at": "2025-11-15T02:56:53.577678",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-05",
+      "subject": "Re: TSA",
+      "document_id": "",
+      "sender": "Jeffrey E. [jeeyacation@gmail.com]",
+      "recipients": [
+        "Larry Visoski"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E.",
+        "Larry Visoski",
+        "Trump"
+      ],
+      "organizations": [
+        "TSA"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Larry Visoski",
+        "relationship_type": "professional",
+        "description": "Appears to be coordinating travel logistics, likely pilot/crew relationship"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, brief",
+      "emotional_indicators": [],
+      "purpose": "To confirm departure time approval for TSA inspection",
+      "significance": "Shows coordination of private travel logistics involving TSA procedures and timing around presidential movements"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Otherwise it would be after Trump's departure between 4 and 5pm",
+      "Is 2:30pm inspection / departure ok?"
+    ],
+    "red_flags": [
+      "Coordination of private travel timing around presidential movements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel logistics coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email shows Epstein coordinating travel logistics that reference President Trump's schedule, which would be of media interest given Epstein's notoriety and connections"
+    },
+    "summary": "Brief email exchange between Jeffrey Epstein and Larry Visoski coordinating TSA inspection timing for a departure, with reference to working around President Trump's travel schedule between 4-5pm."
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032239.txt",
+  "file_name": "HOUSE_OVERSIGHT_032239.txt",
+  "processed_at": "2025-11-15T02:53:48.578352",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-02-19",
+      "subject": "Re: Trump",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E. (Jeffrey Epstein)",
+        "Ehud Barak",
+        "Trump",
+        "Hillary"
+      ],
+      "organizations": [
+        "NYT (New York Times)",
+        "Hillary campaign"
+      ],
+      "locations": [
+        "Paris",
+        "NJ (New Jersey)",
+        "city (likely New York City)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about scheduling meetings and media inquiries"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ehud Barak",
+        "relationship_type": "professional",
+        "description": "Scheduled meeting between Epstein and former Israeli Prime Minister"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "connection",
+        "description": "Media inquiries about relationship with Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, urgent",
+      "emotional_indicators": [
+        "urgency (importance: High)",
+        "concern about media scrutiny"
+      ],
+      "purpose": "Coordinate meeting schedule and warn about media inquiries regarding Epstein's relationship with Trump",
+      "significance": "Shows Epstein's connections to high-profile political figures and media attention surrounding those relationships during the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "NYT called me about you and Trump. Also, Hillary campaign digging deeply.",
+      "Again, you should consider preempting."
+    ],
+    "red_flags": [
+      "Media scrutiny of Epstein's political connections during election season",
+      "Urgent tone suggesting concern about public exposure"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication - appears to be scheduling and media warning"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "NYT (New York Times) making inquiries about Epstein and Trump",
+        "Hillary campaign conducting research on Epstein"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email reveals media and political campaign scrutiny of Epstein's connections to Trump during the 2016 election, which was not widely known at the time but became more public knowledge later"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein about scheduling a meeting while warning that the New York Times and Hillary Clinton's campaign are investigating Epstein's relationship with Donald Trump, suggesting Epstein should consider preempting the media attention."
+  }
+}

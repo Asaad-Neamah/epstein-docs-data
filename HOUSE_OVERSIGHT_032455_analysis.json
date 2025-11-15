@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032455.txt",
+  "file_name": "HOUSE_OVERSIGHT_032455.txt",
+  "processed_at": "2025-11-15T02:54:44.791879",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-02-03",
+      "subject": "Re: Phillipe at Fekkai...",
+      "document_id": "",
+      "sender": "Lesley Groff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lesley Groff",
+        "Jeffrey E.",
+        "Patrick",
+        "John",
+        "Jerome",
+        "Phillipe",
+        "Lasma",
+        "Trump"
+      ],
+      "organizations": [
+        "Fekkai"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Lesley is assisting Jeffrey with scheduling an appointment"
+      },
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "Patrick",
+        "relationship_type": "professional",
+        "description": "Lesley communicated with Patrick to help schedule an appointment"
+      },
+      {
+        "entity_1": "Patrick",
+        "entity_2": "John",
+        "relationship_type": "professional",
+        "description": "Patrick had John (likely a manager) contact Lesley"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative, slightly frustrated",
+      "emotional_indicators": [
+        "frustration with scheduling difficulties",
+        "persistence in trying to accomplish the task"
+      ],
+      "purpose": "To update Jeffrey Epstein on efforts to schedule a hair appointment for Lasma with Jerome at Fekkai salon",
+      "significance": "Shows routine logistical coordination for personal services, with mention of Trump's presence affecting local traffic and appointments"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "They are 'in season' and are super busy. Once again, I am told if they get a cancellation we are the first call.",
+      "I am also told since Trump is there and traffic is bad so people may cancel as they don't want to go out in the mess."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - routine scheduling communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine communication about scheduling a salon appointment"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Routine personal scheduling email with incidental mention of Trump's presence affecting local traffic patterns"
+    },
+    "summary": "Lesley Groff updates Jeffrey Epstein on unsuccessful attempts to schedule a hair appointment for Lasma with Jerome at Fekkai salon, noting that Trump's presence in the area is causing traffic issues and potential appointment cancellations."
+  }
+}

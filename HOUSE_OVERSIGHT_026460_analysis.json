@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026460.txt",
+  "file_name": "HOUSE_OVERSIGHT_026460.txt",
+  "processed_at": "2025-11-15T02:44:35.331208",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-21",
+      "subject": "Re: TSA PBI",
+      "document_id": "",
+      "sender": "Jeffrey E. (jeeyacation@gmail.com)",
+      "recipients": [
+        "Larry Visoski"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E.",
+        "Larry Visoski",
+        "Lesley",
+        "Trump"
+      ],
+      "organizations": [
+        "TSA (Transportation Security Administration)"
+      ],
+      "locations": [
+        "PBI (Palm Beach International Airport)",
+        "St. Thomas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Larry Visoski",
+        "relationship_type": "professional",
+        "description": "Appears to be arranging travel logistics, likely pilot or travel coordinator"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Lesley",
+        "relationship_type": "professional",
+        "description": "Lesley appears to have passenger information that Jeffrey will obtain"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "brief, direct, authoritative",
+      "emotional_indicators": [
+        "urgency (importance: high)"
+      ],
+      "purpose": "To coordinate travel arrangements and passenger information for a flight during Trump's visit to PBI",
+      "significance": "Shows travel coordination involving Jeffrey Epstein during a period when Trump was present in Palm Beach"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "we will have others get names from lesley.",
+      "While Trump is in PBI, TSA only allows arrival and departures between 8am and 5pm for General Aviation."
+    ],
+    "red_flags": [
+      "Unusual TSA restrictions coinciding with Trump's presence",
+      "Passenger information being obtained through third parties rather than directly"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity in this email - appears to be routine travel coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows Epstein's travel coordination during Trump's presence in Palm Beach, which could be of media interest given the high-profile connections"
+    },
+    "summary": "Jeffrey Epstein coordinates travel arrangements with Larry Visoski for a flight from Palm Beach to St. Thomas during a period when Trump's presence restricted TSA operating hours, with passenger information to be obtained from a third party named Lesley."
+  }
+}

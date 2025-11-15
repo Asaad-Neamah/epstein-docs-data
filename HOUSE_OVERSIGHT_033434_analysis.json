@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033434.txt",
+  "file_name": "HOUSE_OVERSIGHT_033434.txt",
+  "processed_at": "2025-11-15T02:58:50.870983",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "text_message",
+      "date": "",
+      "subject": "",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "President Trump",
+        "Jack"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender",
+        "entity_2": "Jack",
+        "relationship_type": "professional/personal",
+        "description": "Sender appears to be fielding verification requests about things Jack said"
+      },
+      {
+        "entity_1": "Sender",
+        "entity_2": "President Trump",
+        "relationship_type": "comparative",
+        "description": "Sender compares their press coverage frequency to President Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "frustrated, annoyed, dismissive",
+      "emotional_indicators": [
+        "stress",
+        "annoyance",
+        "impatience"
+      ],
+      "purpose": "Expressing frustration about frequent press inquiries and media attention",
+      "significance": "Shows someone dealing with persistent media scrutiny and verification requests related to another person's statements"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"You're in the press almost as much as President Trump!\"",
+      "\"I get called every day to 'verify something Jack said.' I don't have time for this nonsense.\"",
+      "\"The recusal was such a non-event. Ridiculous.\""
+    ],
+    "red_flags": [
+      "Frequent media verification requests",
+      "Mention of a recusal that the sender considers insignificant"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Press coverage comparisons",
+        "Daily verification calls from media",
+        "Reference to recusal event coverage"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be discussing media coverage and verification requests related to public figures and events"
+    },
+    "summary": "A text message expressing frustration about frequent media inquiries where the sender is constantly asked to verify statements made by someone named Jack, with comparison to President Trump's media coverage frequency and dismissal of a recusal as a non-event."
+  }
+}

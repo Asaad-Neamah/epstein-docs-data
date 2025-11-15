@@ -1,0 +1,135 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030696.txt",
+  "file_name": "HOUSE_OVERSIGHT_030696.txt",
+  "processed_at": "2025-11-15T02:50:21.717140",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-18",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Soon-Yi",
+        "Woody Allen",
+        "Harvey Weinstein",
+        "Bannon",
+        "Steve Bannon",
+        "Ira Rosen",
+        "Bill Maher",
+        "Dylan",
+        "Mia",
+        "Ronan"
+      ],
+      "organizations": [
+        "60 Minutes"
+      ],
+      "locations": [
+        "Europe",
+        "Middle East",
+        "DC",
+        "LA",
+        "Connecticut"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Media strategy",
+      "Public relations",
+      "Celebrity scandals",
+      "Political connections",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about media strategy, celebrity scandals, and travel plans"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "professional",
+        "description": "Wolff has written about Bannon and receives messages through intermediary Ira Rosen"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Woody Allen",
+        "relationship_type": "advisory",
+        "description": "Providing advice on handling Woody Allen's sexual abuse allegations and media strategy"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "7m",
+        "few million"
+      ],
+      "transactions": [
+        "wonder wheel grossed 7m at the box office"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, advisory, sarcastic",
+      "emotional_indicators": [
+        "sarcasm",
+        "concern about media fallout",
+        "strategic thinking"
+      ],
+      "purpose": "Discussing media strategy for Woody Allen's sexual abuse allegations and planning meetings/travel",
+      "significance": "Shows Epstein and Wolff discussing crisis management for celebrity sexual misconduct cases, including Woody Allen's allegations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"He has to turn this into a love story with Soon-Yi. She's the only one who can save him.\"",
+      "\"why dont we also ask harvey weinstein to join to make sure we dont get any press :)\"",
+      "\"WE interviewed dylan Nine times. two professionals AT THE TIME. we conclude that the story is fantasy. . NOTHING ELSE is relevant.\""
+    ],
+    "red_flags": [
+      "Sarcastic suggestion to include Harvey Weinstein in group",
+      "Discussion of manipulating public narrative about sexual abuse allegations",
+      "Preference for no details on email"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No first-hand illegal activity discussed; primarily media strategy and crisis management conversation"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of media strategy for Woody Allen allegations",
+        "Reference to Connecticut report",
+        "Mention of Bill Maher show",
+        "Reference to journalists and book buyers"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Woody Allen's sexual abuse allegations and Harvey Weinstein's scandal were major public news stories in 2018. Michael Wolff's book about Trump administration was widely publicized."
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing media strategy for Woody Allen's sexual abuse allegations, with Wolff suggesting Allen should frame his relationship with Soon-Yi as a 'love story' to save his reputation, while also discussing Steve Bannon's political strategy and travel plans."
+  }
+}

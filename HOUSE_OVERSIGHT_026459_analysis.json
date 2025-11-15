@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026459.txt",
+  "file_name": "HOUSE_OVERSIGHT_026459.txt",
+  "processed_at": "2025-11-15T02:45:06.780749",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-16",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "jeffrey E. (jeevacation@gmail.com)",
+      "recipients": [
+        "Lesley Groff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jeffrey E.",
+        "Lesley Groff",
+        "larry",
+        "trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "NY",
+        "lsh"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "professional",
+        "description": "Email exchange regarding travel arrangements and scheduling"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "larry",
+        "relationship_type": "personal/professional",
+        "description": "Mentioned as traveling companion to New York"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "trump",
+        "relationship_type": "acquaintance",
+        "description": "Noted that Trump will be in town during the same week"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, brief, directive",
+      "emotional_indicators": [
+        "matter-of-fact",
+        "no emotional language"
+      ],
+      "purpose": "To coordinate travel plans and notify of schedule including presence of Donald Trump in New York",
+      "significance": "Shows Jeffrey Epstein's travel coordination and casual mention of Donald Trump's presence during his New York visit in November 2017"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "trump is in town that week",
+      "at the moment we will go to lsh on sunday the 26th early then to new york where i will stay the week"
+    ],
+    "red_flags": [
+      "Casual mention of high-profile political figure in travel plans"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail, coercion, or leverage in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Email contains only travel coordination and scheduling information with no evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Mention of Donald Trump in Jeffrey Epstein's communications would be of significant media interest given the historical context of their association"
+    },
+    "summary": "Jeffrey Epstein emails Lesley Groff to coordinate travel plans, indicating he will travel to 'lsh' on November 26th then to New York for a week, noting that Donald Trump will be in town during that same week."
+  }
+}

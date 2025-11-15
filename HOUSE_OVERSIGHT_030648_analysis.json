@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030648.txt",
+  "file_name": "HOUSE_OVERSIGHT_030648.txt",
+  "processed_at": "2025-11-15T02:50:16.284959",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-28",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Roger",
+        "Steve Bannon",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "Palm Beach"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump circle",
+        "relationship_type": "media_access",
+        "description": "Wolff claims to be the only liberal-media journalist with access to Trump's inner circle"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "business",
+        "description": "Wolff has a media idea involving Jeffrey Epstein and Saudi friends"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Roger",
+        "relationship_type": "personal/professional",
+        "description": "Epstein inquiring about Roger's location in Palm Beach"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, opportunistic",
+      "emotional_indicators": [
+        "confidence about access",
+        "opportunistic tone"
+      ],
+      "purpose": "To share media access information and propose a business/media idea involving Saudi connections",
+      "significance": "Shows media strategizing and connections between Epstein, Wolff, and political circles during Trump transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"it's suddenly made me the only liberal-media guy with access to Trump circle\"",
+      "\"I have a bit of an idea for you re media and Saudi friends\""
+    ],
+    "red_flags": [
+      "Vague reference to 'media idea' involving Saudi friends",
+      "Casual discussion of political access and international connections"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains sharing of a Hollywood Reporter article about Steve Bannon, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References Hollywood Reporter article about Steve Bannon",
+        "Discussion of media access to Trump circle",
+        "Media strategy involving Saudi connections"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email exchange during Trump presidential transition period showing media access discussions and Epstein's connections"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein about his exclusive media access to Trump's inner circle and proposes a media idea involving Saudi connections, while Epstein inquires about someone named Roger's presence in Palm Beach."
+  }
+}

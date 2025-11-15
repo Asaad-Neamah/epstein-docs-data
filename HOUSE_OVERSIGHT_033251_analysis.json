@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033251.txt",
+  "file_name": "HOUSE_OVERSIGHT_033251.txt",
+  "processed_at": "2025-11-15T02:57:55.937363",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-09-16",
+      "subject": "Cuba trip",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)",
+        "Darren Indyke",
+        "Rich Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "William McLendon",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Universal Weather and Aviation, Inc",
+        "Department of Treasury",
+        "U.S. Government"
+      ],
+      "locations": [
+        "Cuba"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Compliance issues"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is providing travel coordination services for Jeffrey's Cuba trip"
+      },
+      {
+        "entity_1": "Universal Weather and Aviation, Inc",
+        "entity_2": "Larry Visoski",
+        "relationship_type": "service_provider",
+        "description": "Universal Weather is providing trip support services for the Cuba travel arrangements"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To provide documentation and requirements for arranging a trip to Cuba, including necessary certifications and compliance with changing regulations",
+      "significance": "Shows coordination of international travel to Cuba during a period of changing US-Cuba relations policy under the Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Cuba travel regulations compliance",
+        "Department of Treasury certification requirements",
+        "Changing US-Cuba relations policies"
+      ]
+    },
+    "notable_quotes": [
+      "President Donald Trump has announced changes that are to come regarding Cuban and us relations. This means the regulations are being rewritten to reflect these changes",
+      "They will need to advise purpose of travel under section 1. If they do not fall under any of those then they will need a specific license from the Department of Treasury"
+    ],
+    "red_flags": [
+      "International travel coordination during changing regulatory environment",
+      "Potential compliance issues with Cuba travel restrictions"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely logistical communication about travel arrangements"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine travel coordination email focusing on compliance with Cuba travel regulations"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "This appears to be routine travel coordination communication that would not typically be of public interest"
+    },
+    "summary": "Larry Visoski provides Jeffrey with Cuba travel documentation and requirements from Universal Weather and Aviation, including necessary certifications for the aircraft and passengers, while noting that regulatory changes are expected due to President Trump's announced policy shifts in US-Cuba relations."
+  }
+}

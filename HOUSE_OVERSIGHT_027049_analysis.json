@@ -1,0 +1,119 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027049.txt",
+  "file_name": "HOUSE_OVERSIGHT_027049.txt",
+  "processed_at": "2025-11-15T02:45:42.662757",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-05-07",
+      "subject": "FW: Tix for Jeffrey",
+      "document_id": "",
+      "sender": "Boris Nikolic",
+      "recipients": [
+        "Jeffrey Epstein (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Boris Nikolic",
+        "Jeffrey Epstein",
+        "Kevin Frost",
+        "Magdalena Schuster",
+        "Bill",
+        "Clinton"
+      ],
+      "organizations": [
+        "LifeBall",
+        "amFAR",
+        "The Foundation for AIDS Research"
+      ],
+      "locations": [
+        "Vienna",
+        "Austria",
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/business",
+        "description": "Boris is arranging VIP event tickets for Jeffrey Epstein"
+      },
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Kevin Frost",
+        "relationship_type": "personal",
+        "description": "Boris describes Kevin as a good friend who helped with ticket arrangements"
+      },
+      {
+        "entity_1": "Kevin Frost",
+        "entity_2": "Magdalena Schuster",
+        "relationship_type": "professional",
+        "description": "Colleagues at amFAR coordinating event arrangements"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "2500 Euro per ticket",
+        "15000 Euro regular price"
+      ],
+      "transactions": [
+        "Ticket purchase for AIDS Solidarity Gala"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, helpful, slightly boastful",
+      "emotional_indicators": [
+        "Pride in securing difficult tickets",
+        "Satisfaction with VIP access"
+      ],
+      "purpose": "To arrange VIP tickets for Jeffrey Epstein to attend the AIDS Solidarity Gala in Vienna",
+      "significance": "Shows Epstein's access to high-profile events and connections to influential people including political figures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "It was not easy as people from LifeBall are very difficult. But I go it (they even now approved you - they needed to do a background check believe it or not!)",
+      "The price is 2,500Euro per ticket (this is very reduced price as I think the regular one for this is 15K and it is hard to get it)"
+    ],
+    "red_flags": [
+      "Background check requirement for Epstein",
+      "Significant price reduction for VIP tickets"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine event ticket arrangements"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - document is about arranging legitimate event tickets"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Shows Epstein's connections to high-profile events and political figures, but no significant new information beyond known patterns of his social access"
+    },
+    "summary": "Boris Nikolic arranges VIP tickets for Jeffrey Epstein to attend the AIDS Solidarity Gala in Vienna, noting that Epstein required a background check approval and received significantly discounted tickets through connections at amFAR, with the event expected to be attended by high-profile figures including the President of Austria and Bill Clinton."
+  }
+}

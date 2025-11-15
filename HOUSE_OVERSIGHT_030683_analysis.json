@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030683.txt",
+  "file_name": "HOUSE_OVERSIGHT_030683.txt",
+  "processed_at": "2025-11-15T02:50:18.808750",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-12-11",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 030683",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Woody",
+        "Ronan",
+        "Bannon",
+        "Trump",
+        "Glenn Simpson",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Fusion GPS"
+      ],
+      "locations": [
+        "NYC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing current events and media narratives"
+      },
+      {
+        "entity_1": "Ronan",
+        "entity_2": "Woody",
+        "relationship_type": "adversarial",
+        "description": "Implied opposition or targeting in media coverage"
+      },
+      {
+        "entity_1": "Bannon",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Reference to political dynamics and potential outcomes"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "concerned, informal",
+      "emotional_indicators": [
+        "bad feeling",
+        "concern about outcomes",
+        "pessimism"
+      ],
+      "purpose": "To respond to Jeffrey Epstein's email with personal schedule information and share concerns about media narratives surrounding Woody Allen and political figures",
+      "significance": "Shows communication between Wolff and Epstein about media strategies and political dynamics during the Trump presidency and #MeToo era"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I have a bad feeling about this new Woody round. It could pull him into the general Harvey pool of the despised and shunned.",
+      "I think Bannon may be right. This is not going to end until Trump goes down."
+    ],
+    "red_flags": [
+      "Discussion of media manipulation strategies",
+      "Coordination around public perception management"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "The email contains a shared news article link about Fusion GPS and Donald Trump, but no first-hand illegal activity is discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Washington Times article about Fusion GPS",
+        "Discussion of media narratives and public perception",
+        "Mentions of Woody Allen media coverage"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This email references well-publicized events from 2017 including the Fusion GPS investigation into Trump and the #MeToo movement allegations against Harvey Weinstein and Woody Allen"
+    },
+    "summary": "Michael Wolff responds to Jeffrey Epstein's email with scheduling information and shares concerns about media narratives, specifically worrying that Woody Allen could be grouped with Harvey Weinstein as 'despised and shunned,' while also discussing political dynamics suggesting the controversies won't end until Trump 'goes down.'"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032378.txt",
+  "file_name": "HOUSE_OVERSIGHT_032378.txt",
+  "processed_at": "2025-11-15T02:54:27.622100",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-25",
+      "subject": "Trump",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is providing travel logistics updates to Jeffrey"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "connection",
+        "description": "Jeffrey appears to have travel arrangements connected to Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, casual",
+      "emotional_indicators": [],
+      "purpose": "To confirm travel logistics for Jeffrey regarding Trump's departure schedule",
+      "significance": "Shows coordination of travel arrangements involving Jeffrey and Trump shortly after the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump is still scheduled to depart Sunday between 4 and 6pm",
+      "Let me know if we are firm for wheels up Saturday at 6pm still?"
+    ],
+    "red_flags": [
+      "Coordination of travel with Trump during transition period after 2016 election"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be routine travel coordination"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel logistics email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email from November 2016 showing travel coordination between Jeffrey Epstein and Donald Trump during presidential transition period"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein to confirm travel logistics, noting that Trump is scheduled to depart on Sunday and asking if their Saturday 6pm departure is still confirmed, indicating coordination of travel arrangements involving Epstein and Trump shortly after the 2016 election."
+  }
+}

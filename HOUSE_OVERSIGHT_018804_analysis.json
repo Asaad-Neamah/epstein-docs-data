@@ -1,0 +1,143 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_018804.txt",
+  "file_name": "HOUSE_OVERSIGHT_018804.txt",
+  "processed_at": "2025-11-15T02:38:41.935690",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "Appraisal Report",
+      "date": "2015-12-15",
+      "subject": "Market Value Appraisal - IGY American Yacht Harbor Marina",
+      "document_id": "IRR - Caribbean File No. 172-2015-0181, Client Reference: 23559",
+      "sender": "Integra Realty Resources - Caribbean (Mark J. Weathers, James V. Andrews)",
+      "recipients": [
+        "Roberto A. Soltero"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Roberto A. Soltero",
+        "Mark J. Weathers",
+        "James V. Andrews"
+      ],
+      "organizations": [
+        "Integra Realty Resources - Caribbean",
+        "Banco Popular de Puerto Rico",
+        "IGY-AYH ST. Thomas Holdings, LLC",
+        "U.S. House Committee on Oversight and Accountability",
+        "Government of the Virgin Islands",
+        "U.S. Virgin Islands Department of Planning and Natural Resources",
+        "MOF VI Limited Partnership"
+      ],
+      "locations": [
+        "St. Thomas, Virgin Islands",
+        "Smith Bay",
+        "East End Quarter",
+        "Red Hook",
+        "Vessup Bay",
+        "San Juan, PR",
+        "Charlotte Amalie",
+        "St. John",
+        "St. Croix",
+        "British Virgin Islands",
+        "Tortola",
+        "Virgin Gorda"
+      ],
+      "financial_entities": [
+        "Banco Popular de Puerto Rico"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Real estate/properties",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "IGY-AYH ST. Thomas Holdings, LLC",
+        "entity_2": "Banco Popular de Puerto Rico",
+        "relationship_type": "Client-Lender",
+        "description": "Property owner seeking commercial credit administration through bank"
+      },
+      {
+        "entity_1": "Integra Realty Resources - Caribbean",
+        "entity_2": "Banco Popular de Puerto Rico",
+        "relationship_type": "Professional Service",
+        "description": "Appraisal firm conducting property valuation for banking client"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$24,360,000",
+        "$25,500,000",
+        "$110,000",
+        "$161,000",
+        "$40,000",
+        "$771,460.93"
+      ],
+      "transactions": [
+        "Property purchase: $25,500,000 (January 19, 2007)",
+        "Current appraisal value: $24,360,000"
+      ],
+      "assets": [
+        "250-slip marina",
+        "5 commercial buildings (48,661 SF rentable area)",
+        "2.76 acres land",
+        "3.2 acres seabed lease"
+      ]
+    },
+    "analysis": {
+      "tone": "Professional, technical, formal",
+      "emotional_indicators": [
+        "Confident in methodology",
+        "Cautious in assumptions"
+      ],
+      "purpose": "To develop an opinion of market value for commercial credit administration purposes",
+      "significance": "Official appraisal of marina property for banking purposes, shows property valuation trends in US Virgin Islands"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Property located in 100-year floodplain",
+        "Parking garage encroachments on government land",
+        "Fuel storage tanks present environmental assumptions",
+        "Zoning nonconformities"
+      ]
+    },
+    "notable_quotes": [
+      "The subject is an existing 250-slip marina with 5 commercial buildings containing a mixture of retail and office space types.",
+      "Based on the valuation analysis in the accompanying report, and subject to the definitions, assumptions, and limiting conditions expressed in the report, our opinion of value is $24,360,000.",
+      "The closure of the Hovensa refinery and the failure to facilitate a sale to a buyer who can re-open the facility as a refinery will continue to plague St. Croix until other new developments occur."
+    ],
+    "red_flags": [
+      "Property value decreased from 2007 purchase price of $25.5M to $24.36M valuation",
+      "Encroachment issues on government land",
+      "Environmental assumptions about fuel storage tanks",
+      "Below-market occupancy rates (56.6%)"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this professional appraisal document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this professional appraisal report"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard commercial real estate appraisal document for banking purposes"
+    },
+    "summary": "This is a professional real estate appraisal report valuing the IGY American Yacht Harbor Marina in St. Thomas, Virgin Islands at $24,360,000 as of November 2015 for Banco Popular de Puerto Rico. The document provides comprehensive analysis of the marina property, local economy, and competitive market conditions in the US Virgin Islands."
+  }
+}

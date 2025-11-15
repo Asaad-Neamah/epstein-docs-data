@@ -1,0 +1,127 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029912.txt",
+  "file_name": "HOUSE_OVERSIGHT_029912.txt",
+  "processed_at": "2025-11-15T02:48:45.846854",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-08-08",
+      "subject": "Re: Re:",
+      "document_id": "",
+      "sender": "Jeffrey E. (jeffrey E.)",
+      "recipients": [
+        "Pritzker, Tom"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E.",
+        "Tom Pritzker",
+        "Nye",
+        "Scowcroft",
+        "Nick Burns",
+        "Condi",
+        "Patraeus",
+        "Albright",
+        "Slaughter",
+        "Donalon",
+        "Hadley",
+        "Sullivan",
+        "Bill Burns",
+        "Kurt Campbell",
+        "Hoss Carwright",
+        "Harman",
+        "Ignatius",
+        "Sanger",
+        "Nunn",
+        "Reed",
+        "Sawers",
+        "Sherman",
+        "Work",
+        "glenn"
+      ],
+      "organizations": [
+        "Aspen Strategy Group",
+        "Obama NSA",
+        "Bush NSA",
+        "NSA Hillary",
+        "State",
+        "DoD",
+        "M16"
+      ],
+      "locations": [
+        "Santa Fe",
+        "NY"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Tom Pritzker",
+        "relationship_type": "personal/business",
+        "description": "Email correspondence discussing meeting up and sharing information about Aspen Strategy Group members"
+      },
+      {
+        "entity_1": "Tom Pritzker",
+        "entity_2": "Aspen Strategy Group",
+        "relationship_type": "professional",
+        "description": "Pritzker presented on leadership to the Aspen Strategy Group grand pooh baahs"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "laughter/humor mentioned regarding Aspen Strategy Group members"
+      ],
+      "purpose": "Social invitation and sharing information about influential political figures",
+      "significance": "Shows Jeffrey Epstein's connections to high-level political and national security figures through Tom Pritzker"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "You have to be a bit of a wonk to know some of the names, but Nye, Scowcroft and Nick Burns run it",
+      "It seems to now be taking on an aura"
+    ],
+    "red_flags": [
+      "Multiple confidentiality disclaimers repeated throughout email chain"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be casual social correspondence"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - just social invitation and discussion of political figures"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Aspen Strategy Group is a well-known foreign policy forum; the individuals mentioned are public figures in national security and politics"
+    },
+    "summary": "Email exchange between Jeffrey Epstein and Tom Pritzker discussing a potential meeting in New York, with Pritzker sharing details about influential members of the Aspen Strategy Group including prominent political and national security figures."
+  }
+}

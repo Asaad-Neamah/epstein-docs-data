@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033168.txt",
+  "file_name": "HOUSE_OVERSIGHT_033168.txt",
+  "processed_at": "2025-11-15T02:57:13.647541",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-09-26",
+      "subject": "trump is on the move..",
+      "document_id": "",
+      "sender": "jeffrey E. [jeeyacation@gmail.com]",
+      "recipients": [
+        "Richard Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E.",
+        "Richard Kahn",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Richard Kahn",
+        "relationship_type": "Professional",
+        "description": "Sender providing scheduling advice and political commentary to recipient"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Trump",
+        "relationship_type": "Political interest",
+        "description": "Sender monitoring and commenting on Trump's political campaign progress"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Casual, informative, concerned",
+      "emotional_indicators": [
+        "urgency",
+        "concern for recipient's well-being"
+      ],
+      "purpose": "To inform about Trump's political momentum and remind recipient about debate timing for scheduling purposes",
+      "significance": "Shows monitoring of 2016 presidential election and concern for staff scheduling around political events"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "trump is on the move..",
+      "please get your rest today as debate begins 3am for you.."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - just political commentary and scheduling advice"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to FiveThirtyEight election forecast website tracking presidential campaign"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "2016 presidential election coverage was widely publicized and FiveThirtyEight forecasts were publicly available"
+    },
+    "summary": "Jeffrey E. emails Richard Kahn about Donald Trump's political momentum in the 2016 election, sharing a FiveThirtyEight forecast link and reminding Kahn about the early morning debate timing for scheduling purposes."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026854.txt",
+  "file_name": "HOUSE_OVERSIGHT_026854.txt",
+  "processed_at": "2025-11-15T02:45:18.863314",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "court_docket",
+      "date": "2016-06-20",
+      "subject": "Doe v. Trump et al",
+      "document_id": "1:16-cv-04642-RA",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jane Doe",
+        "Donald J. Trump",
+        "Jeffrey E. Epstein",
+        "Thomas F. Meagher",
+        "Ronnie Abrams",
+        "James C. Francis IV"
+      ],
+      "organizations": [
+        "U.S. District Court Southern District of New York",
+        "Meagher Emanuel Laks Goldberg & Bovino, LLP"
+      ],
+      "locations": [
+        "Foley Square",
+        "Princeton, NJ",
+        "New York, NY",
+        "40 Centre Street"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jane Doe",
+        "entity_2": "Donald J. Trump",
+        "relationship_type": "legal_adversary",
+        "description": "Plaintiff suing defendant in civil case"
+      },
+      {
+        "entity_1": "Jane Doe",
+        "entity_2": "Jeffrey E. Epstein",
+        "relationship_type": "legal_adversary",
+        "description": "Plaintiff suing defendant in civil case"
+      },
+      {
+        "entity_1": "Thomas F. Meagher",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal_representation",
+        "description": "Attorney representing plaintiff"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$400.00"
+      ],
+      "transactions": [
+        "Filing fee payment"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "formal",
+      "emotional_indicators": [],
+      "purpose": "To document the docket entries and case progression for a civil lawsuit",
+      "significance": "Shows a civil lawsuit filed against Donald Trump and Jeffrey Epstein alleging assault, libel, and slander by an anonymous plaintiff"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "Anonymous plaintiff filing serious allegations",
+      "Multiple defendants including high-profile individuals"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this court docket document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "court_document",
+      "description": "This is a court docket listing procedural events, not containing evidence of first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a publicly filed lawsuit involving high-profile defendants Donald Trump and Jeffrey Epstein, which would likely attract media attention"
+    },
+    "summary": "This is a court docket for case 1:16-cv-04642-RA, Doe v. Trump et al, filed June 20, 2016, where an anonymous plaintiff (Jane Doe) is suing Donald Trump and Jeffrey Epstein for assault, libel, and slander in the Southern District of New York before Judge Ronnie Abrams."
+  }
+}

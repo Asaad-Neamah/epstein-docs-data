@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029299.txt",
+  "file_name": "HOUSE_OVERSIGHT_029299.txt",
+  "processed_at": "2025-11-15T02:47:47.258146",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-08-07",
+      "subject": "Michael Boccio",
+      "document_id": "",
+      "sender": "Eric Roth",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Eric Roth",
+        "Jeffrey Epstein",
+        "Michael Boccio",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "International Jet Interiors",
+        "Trump Organization"
+      ],
+      "locations": [
+        "Long Island MacArthur Airport",
+        "Ronkonkoma, NY"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Employment/staffing",
+      "Business dealings",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Eric Roth",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "business/personal",
+        "description": "Roth is sending Epstein a job referral, suggesting familiarity"
+      },
+      {
+        "entity_1": "Eric Roth",
+        "entity_2": "Michael Boccio",
+        "relationship_type": "professional",
+        "description": "Roth worked closely with Boccio and is recommending him"
+      },
+      {
+        "entity_1": "Michael Boccio",
+        "entity_2": "Donald Trump",
+        "relationship_type": "employment",
+        "description": "Boccio served as Trump's Director of Business Development/Special Counsel"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Donald Trump's 757 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, complimentary, persuasive",
+      "emotional_indicators": [
+        "enthusiastic",
+        "confident"
+      ],
+      "purpose": "To recommend Michael Boccio for employment with Jeffrey Epstein or his associates",
+      "significance": "Shows business networking between Epstein and aviation industry professionals, including connection to Donald Trump's organization"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Although I have worked with some very intelligent and creative individuals, Michael is a real stand out — he is impressive on many levels.",
+      "Someone (or organization) is going to be excited to have someone with Michael's capabilities working for them.",
+      "I know that I always appreciate when a friend refers someone who can be of great help to me — personally or in business."
+    ],
+    "red_flags": [
+      "High importance marking for a job referral email"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "Standard professional job referral email with no indicators of coercion or blackmail"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Legitimate business communication about employment referral"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Internal business communication that would typically remain private"
+    },
+    "summary": "Eric Roth emails Jeffrey Epstein to recommend Michael Boccio for employment, highlighting Boccio's work as Donald Trump's Director of Business Development and including attached resume, cover letter, and Trump recommendation letter."
+  }
+}

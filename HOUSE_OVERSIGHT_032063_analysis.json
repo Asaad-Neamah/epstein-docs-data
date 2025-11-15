@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032063.txt",
+  "file_name": "HOUSE_OVERSIGHT_032063.txt",
+  "processed_at": "2025-11-15T02:53:39.030389",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-09",
+      "subject": "Re: nuts",
+      "document_id": "",
+      "sender": "Miller, Michael",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Miller",
+        "Jeffrey E.",
+        "Darren Indyke",
+        "Reid Weingarten"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Miller",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding legal matter"
+      },
+      {
+        "entity_1": "Michael Miller",
+        "entity_2": "Reid Weingarten",
+        "relationship_type": "professional",
+        "description": "CC'd on email communication"
+      },
+      {
+        "entity_1": "Michael Miller",
+        "entity_2": "Darren Indyke",
+        "relationship_type": "professional",
+        "description": "Mentioned in email content"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, brief",
+      "emotional_indicators": [],
+      "purpose": "To forward a news article link about a legal case involving Donald Trump",
+      "significance": "Shows communication between legal professionals regarding high-profile litigation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "http://lawnewz.com/high-profile/federal-judge-orders-hearing-in-donald-trump-rape-lawsuit-case/",
+      "please note"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news article about third-party legal proceedings, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to lawnewz.com article about Donald Trump rape lawsuit case"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "The email references a publicly reported legal case involving Donald Trump that received media coverage"
+    },
+    "summary": "Michael Miller forwards a news article link from lawnewz.com about a federal judge ordering a hearing in a Donald Trump rape lawsuit case, noting the information for Jeffrey Epstein's attention."
+  }
+}

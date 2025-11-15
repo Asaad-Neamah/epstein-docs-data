@@ -1,0 +1,190 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_016600.txt",
+  "file_name": "HOUSE_OVERSIGHT_016600.txt",
+  "processed_at": "2025-11-15T02:40:12.590676",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "spreadsheet",
+      "date": "FY 07-08",
+      "subject": "ALL PALM BEACH ACCOUNTS BY AVERAGE MONTHLY CONSUMPTION FY 07-08",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "TRUMP, DONALD J",
+        "EPSTEIN, JEFFREY",
+        "KRAVIS, HENRY R",
+        "SCHWARZMAN, STEPHEN",
+        "PELTZ, NELSON",
+        "LAUDER, JOSEPH",
+        "KOCH, WILLIAM I",
+        "KOCH, DAVID H",
+        "PERELMAN, RAYMOND",
+        "BLACK, CONRAD",
+        "FANJUL, ALFONSO",
+        "FANJUL, ALEX",
+        "FANJUL, JOSE",
+        "FANJUL, LOURDES",
+        "TRUMP, IVANA",
+        "BUFFETT, JIMMY",
+        "MADOFF, PETER B",
+        "MADOFF, RUTH",
+        "MULRONEY, BRIAN"
+      ],
+      "organizations": [
+        "BREAKERS PB INC",
+        "TOWN OF PALM BEACH",
+        "PALM BEACH COUNTRY CLUB",
+        "EVERGLADES CLUB",
+        "BATH & TENNIS CLUB INC",
+        "SAILFISH CLUB OF FLA",
+        "THE MAR A LAGO CLUB",
+        "SOCIETY OF THE FOUR ARTS",
+        "PRESERVATION FOUNDATION OF PB",
+        "PALM BEACH DAY SCHOOL",
+        "JP MORGAN CHASE BANK NA",
+        "FIRST UNION NATIONAL BANK",
+        "SUNTRUST BANK",
+        "CITIGROUP PRIVATE BANK",
+        "BESSEMER TRUST CO OF FLORIDA",
+        "U S TRUST INC",
+        "BARNETT BANK OF PBC",
+        "COMMERCE BANK",
+        "NATIONAL CITY BANK",
+        "BANK OF AMERICA NA"
+      ],
+      "locations": [
+        "PALM BEACH",
+        "WEST PALM BEACH",
+        "1100 S OCEAN BLVD",
+        "124 WOODBRIDGE RD",
+        "1094 S OCEAN BLVD"
+      ],
+      "financial_entities": [
+        "JP MORGAN CHASE BANK NA",
+        "FIRST UNION NATIONAL BANK",
+        "SUNTRUST BANK",
+        "CITIGROUP PRIVATE BANK",
+        "BESSEMER TRUST CO OF FLORIDA",
+        "U S TRUST INC",
+        "BARNETT BANK OF PBC",
+        "COMMERCE BANK",
+        "NATIONAL CITY BANK",
+        "BANK OF AMERICA NA"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Real estate/properties",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "TRUMP, DONALD J",
+        "entity_2": "PALM BEACH",
+        "relationship_type": "property_ownership",
+        "description": "Donald Trump owns multiple properties in Palm Beach including at 1100 S Ocean Blvd and 1094 S Ocean Blvd"
+      },
+      {
+        "entity_1": "EPSTEIN, JEFFREY",
+        "entity_2": "PALM BEACH",
+        "relationship_type": "property_ownership",
+        "description": "Jeffrey Epstein appears in the list of Palm Beach account holders"
+      },
+      {
+        "entity_1": "Various wealthy individuals",
+        "entity_2": "PALM BEACH",
+        "relationship_type": "property_ownership",
+        "description": "Numerous high-net-worth individuals and business leaders maintain properties in Palm Beach"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$9,826.33",
+        "$104.15",
+        "$57.69",
+        "$83.95",
+        "$51.61",
+        "$54.23",
+        "$65.58",
+        "$53.41",
+        "$55.43",
+        "$56.45",
+        "$48.55",
+        "$54.49",
+        "$54.52",
+        "$55.64",
+        "$56.16",
+        "$57.05",
+        "$55.43",
+        "$53.92",
+        "$68.89",
+        "$128.33",
+        "$55.15",
+        "$55.43",
+        "$56.78",
+        "$49.15",
+        "$50.12",
+        "$54.45",
+        "$58.84",
+        "$55.71",
+        "$51.87",
+        "$83.95",
+        "$53.55",
+        "$71.51",
+        "$56.90",
+        "$55.59",
+        "$57.72",
+        "$61.25",
+        "$83.78",
+        "$49.32",
+        "$10.62"
+      ],
+      "transactions": [
+        "Monthly utility consumption charges for Palm Beach properties"
+      ],
+      "assets": [
+        "Multiple residential and commercial properties in Palm Beach"
+      ]
+    },
+    "analysis": {
+      "tone": "administrative",
+      "emotional_indicators": [],
+      "purpose": "To document utility consumption and billing for Palm Beach accounts during FY 2007-2008",
+      "significance": "Provides a comprehensive list of property owners and their utility consumption in Palm Beach, including many prominent business figures and wealthy individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this utility consumption spreadsheet"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "This is a routine utility billing document with no evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Utility billing records are typically public records, though this specific compilation was released by the House Oversight Committee"
+    },
+    "summary": "This document is a utility consumption spreadsheet for Palm Beach accounts during FY 2007-2008, listing property owners and their monthly consumption charges, including prominent figures like Donald Trump, Jeffrey Epstein, and numerous other wealthy individuals and business leaders who own property in Palm Beach."
+  }
+}

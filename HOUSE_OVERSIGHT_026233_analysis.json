@@ -1,0 +1,103 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026233.txt",
+  "file_name": "HOUSE_OVERSIGHT_026233.txt",
+  "processed_at": "2025-11-15T02:44:04.004645",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-21",
+      "subject": "Re: TSA PBI",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey E.",
+        "Dave",
+        "Trump"
+      ],
+      "organizations": [
+        "TSA"
+      ],
+      "locations": [
+        "Boca",
+        "PBI (Palm Beach International Airport)",
+        "St. Thomas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Larry is making travel arrangements for Jeffrey"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Dave",
+        "relationship_type": "professional",
+        "description": "Traveling together on the flight"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Trump",
+        "relationship_type": "indirect",
+        "description": "Travel logistics affected by Trump's presence in PBI"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, cooperative",
+      "emotional_indicators": [],
+      "purpose": "Coordinate private flight logistics around TSA restrictions during Trump's visit to Palm Beach",
+      "significance": "Shows private aviation arrangements and how presidential travel affects private flight operations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "While Trump is in PBI, TSA only allows arrival and departures between 8am and 5pm for General Aviation.",
+      "They also ask if Passengers are Male or Female, strange, they didn't ask names."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is routine travel coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Routine private flight logistics email with no significant public interest content"
+    },
+    "summary": "Email exchange between Larry Visoski and Jeffrey Epstein coordinating private flight logistics from Palm Beach to St. Thomas, noting TSA restrictions due to President Trump's presence in the area and discussing passenger details for the flight."
+  }
+}

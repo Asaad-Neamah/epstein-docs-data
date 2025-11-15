@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030874.txt",
+  "file_name": "HOUSE_OVERSIGHT_030874.txt",
+  "processed_at": "2025-11-15T02:50:45.566995",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-10-12",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 030874",
+      "sender": "",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Clinton",
+        "Monica Lewinsky",
+        "Hillary",
+        "Vladimir Putin"
+      ],
+      "organizations": [
+        "Columbia university"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Clinton",
+        "entity_2": "Monica Lewinsky",
+        "relationship_type": "scandal",
+        "description": "Reference to historical political scandal"
+      },
+      {
+        "entity_1": "Clinton",
+        "entity_2": "Hillary",
+        "relationship_type": "marital",
+        "description": "Hillary judged for not leaving Clinton after scandal"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, emotional, informal",
+      "emotional_indicators": [
+        "excitement",
+        "frustration",
+        "emphasis"
+      ],
+      "purpose": "To share observations about political discussions at Columbia University and express frustration with feminist influence",
+      "significance": "Shows political discourse occurring at academic institution and references to historical political figures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "OMG!!! Columbia university is so political involved and has such a strong feminists influence !!!",
+      "Today we judged Clinton about scandal with Monica Lewinsky, judged Hillary that she hasn't left him, and judged Vladimir Putin"
+    ],
+    "red_flags": [
+      "Informal tone suggesting unprofessional communication",
+      "Judgmental language about political figures"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or planned in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "References to Clinton-Lewinsky scandal and Vladimir Putin are well-known public historical/political topics"
+    },
+    "summary": "An email expressing frustration with Columbia University's political environment and feminist influence, specifically mentioning judgments about the Clinton-Lewinsky scandal, Hillary Clinton's response, and frequent mentions of Vladimir Putin in discussions."
+  }
+}

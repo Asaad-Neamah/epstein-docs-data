@@ -1,0 +1,93 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033260.txt",
+  "file_name": "HOUSE_OVERSIGHT_033260.txt",
+  "processed_at": "2025-11-15T02:57:57.714365",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-30",
+      "subject": "Trump 'made comment about p**sy years before tape' I Daily Mail Online",
+      "document_id": "HOUSE OVERSIGHT 033260",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Daily Mail Online"
+      ],
+      "locations": [
+        "New York, NY 10022",
+        "575 Lexington Avenue, 4th Floor"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Business",
+        "description": "Kahn is sending Epstein a news article, suggesting ongoing communication"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Informative, direct",
+      "emotional_indicators": [
+        "Urgent (marked Importance: High)"
+      ],
+      "purpose": "To share a news article about Donald Trump with Jeffrey Epstein",
+      "significance": "Shows communication between Kahn and Epstein regarding political news about Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High importance marking on political news sharing"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about third-party activities, not evidence of first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing Daily Mail Online article about Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to reference the Access Hollywood tape controversy involving Donald Trump that was widely reported in 2016"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a Daily Mail Online article about Donald Trump's controversial comments, marking the message as high importance. The email shows ongoing communication between Kahn and Epstein regarding political news coverage."
+  }
+}

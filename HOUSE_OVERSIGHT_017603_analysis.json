@@ -1,0 +1,144 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_017603.txt",
+  "file_name": "HOUSE_OVERSIGHT_017603.txt",
+  "processed_at": "2025-11-15T02:38:32.836044",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "legal_article",
+      "date": "2014",
+      "subject": "Crime Victims' Rights During Criminal Investigations: Applying the Crime Victims' Rights Act Before Criminal Charges Are Filed",
+      "document_id": "104 J. Crim. L. & Criminology 59",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Paul G. Cassell",
+        "Nathanael J. Mitchell",
+        "Bradley J. Edwards",
+        "Jon Kyl",
+        "Eric Holder",
+        "Jeffrey Epstein",
+        "Jane Doe Number One",
+        "Jane Doe Number Two",
+        "R. Alexander Acosta",
+        "Ronald Weich",
+        "David Schoen"
+      ],
+      "organizations": [
+        "U.S. Department of Justice",
+        "Office of Legal Counsel (OLC)",
+        "U.S. House Committee on Oversight and Accountability",
+        "FBI",
+        "Environmental Protection Agency (EPA)",
+        "Palm Beach Police Department",
+        "U.S. Attorney's Office for the Southern District of Florida"
+      ],
+      "locations": [
+        "Florida",
+        "West Palm Beach",
+        "Southern District of Florida",
+        "Texas",
+        "Louisiana",
+        "Mississippi",
+        "Arizona",
+        "Hawaii",
+        "Colorado",
+        "Missouri",
+        "New Jersey",
+        "Massachusetts"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Victims' rights",
+      "Government policy",
+      "Criminal investigations",
+      "Prosecutorial discretion"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jane Doe Number One",
+        "relationship_type": "criminal_victim",
+        "description": "Epstein sexually abused Jane Doe Number One"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jane Doe Number Two",
+        "relationship_type": "criminal_victim",
+        "description": "Epstein sexually abused Jane Doe Number Two"
+      },
+      {
+        "entity_1": "U.S. Department of Justice",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "prosecutorial",
+        "description": "DOJ investigated and negotiated non-prosecution agreement with Epstein"
+      },
+      {
+        "entity_1": "Jon Kyl",
+        "entity_2": "Eric Holder",
+        "relationship_type": "political_adversarial",
+        "description": "Kyl criticized Holder/DOJ's interpretation of CVRA"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "academic, analytical, critical",
+      "emotional_indicators": [
+        "frustration",
+        "concern",
+        "advocacy"
+      ],
+      "purpose": "To argue for the application of Crime Victims' Rights Act (CVRA) rights during criminal investigations before formal charges are filed",
+      "significance": "Challenges DOJ's narrow interpretation of CVRA and uses Epstein case to illustrate importance of victim rights in pre-charging phase"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "DOJ interpretation limiting CVRA rights to post-charging phase",
+        "Potential violations of victims' rights in Epstein case"
+      ]
+    },
+    "notable_quotes": [
+      "If crime victims have no rights during criminal investigations, then many crime victims will never have any rights at all.",
+      "The Government argued it was not required to confer in any way with the victims, or even treat them fairly, because the CVRA was not yet in play.",
+      "CVRA rights attach when federal law enforcement or prosecuting agencies have identified a federal crime and a particular victim with sufficient precision that they would send a 'target' letter to a criminal defendant in similar circumstances."
+    ],
+    "red_flags": [
+      "DOJ's narrow interpretation of CVRA limits victim participation",
+      "Epstein non-prosecution agreement made without victim consultation",
+      "Potential secondary victimization of crime victims"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this legal analysis document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "This is a legal analysis article discussing victims' rights, not evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This law review article discusses publicly known Epstein case and CVRA legal interpretation issues"
+    },
+    "summary": "This legal article argues that the Crime Victims' Rights Act should apply during criminal investigations before formal charges are filed, using the Jeffrey Epstein case as a key example where victims were excluded from plea negotiations. The authors critique the Department of Justice's narrow interpretation of CVRA rights and propose a framework for when victims' rights should attach during investigations."
+  }
+}

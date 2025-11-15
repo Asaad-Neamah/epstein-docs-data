@@ -1,0 +1,135 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_013440.txt",
+  "file_name": "HOUSE_OVERSIGHT_013440.txt",
+  "processed_at": "2025-11-15T02:37:43.665925",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2011-07-13",
+      "subject": "Judge denies gag order in Epstein, Edwards lawsuit; dismisses complaint",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "David Crow",
+        "Brad Edwards",
+        "Donald Trump",
+        "Bill Clinton",
+        "Scott Rothstein",
+        "Jack Scarola",
+        "Joseph Ackerman",
+        "Virginia Roberts",
+        "Prince Andrew"
+      ],
+      "organizations": [
+        "Circuit Court",
+        "Daily News",
+        "Sunday Daily Mail"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Brad Edwards",
+        "relationship_type": "legal_adversaries",
+        "description": "Epstein sued Edwards, who represented victims against Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "acquaintance",
+        "description": "Described as 'powerful friends' of Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "acquaintance",
+        "description": "Described as 'powerful friends' of Epstein"
+      },
+      {
+        "entity_1": "Brad Edwards",
+        "entity_2": "Scott Rothstein",
+        "relationship_type": "former_employment",
+        "description": "Rothstein was Edwards' former boss"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Virginia Roberts",
+        "relationship_type": "abuser_victim",
+        "description": "Roberts alleged she was Epstein's sex slave when she was a minor"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "confidentially settled more than two dozen lawsuits"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative_journalistic",
+      "emotional_indicators": [
+        "defensive (Epstein's attorneys)",
+        "confident (Edwards' attorney)"
+      ],
+      "purpose": "To report on court proceedings in the Epstein vs. Edwards lawsuit",
+      "significance": "Shows Epstein's legal strategy to silence his accusers and their attorneys through gag orders and lawsuits"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Attempt to obtain gag order denied",
+        "Lawsuit dismissed for being 'vague' with 'serious problems'"
+      ]
+    },
+    "notable_quotes": [
+      "\"Mr. Epstein had to pay more to settle these cases than he would have if Mr. Edwards wasn't out there putting all this pressure on him\"",
+      "\"If Mr. Epstein is embarrassed by Mr. Epstein's conduct, that's Mr. Epstein's problem\"",
+      "\"Mr. Scarola has constantly referred to Mr. Epstein as a pedophile and there's been no proof of that anywhere\""
+    ],
+    "red_flags": [
+      "Epstein's attempt to use legal system to silence victims' attorney",
+      "Multiple confidential settlements with victims",
+      "Lawsuit described as having 'serious problems' and being 'vague'"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article about court proceedings"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on court proceedings and past illegal activities, not first-hand evidence of ongoing illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to media coverage in British press",
+        "Mentions interview requests from national television and foreign press",
+        "Discusses Virginia Roberts' interview with Sunday Daily Mail"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a published news article about Jeffrey Epstein's legal battles and sexual abuse allegations, which were already becoming public knowledge in 2011"
+    },
+    "summary": "A circuit judge denied Jeffrey Epstein's request for a gag order and dismissed his lawsuit against attorney Brad Edwards, who represented underage victims in sex abuse cases against Epstein. The judge found 'serious problems' with Epstein's complaint, which alleged Edwards abused the court system by threatening to depose Epstein's powerful friends including Donald Trump and Bill Clinton."
+  }
+}

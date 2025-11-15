@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029324.txt",
+  "file_name": "HOUSE_OVERSIGHT_029324.txt",
+  "processed_at": "2025-11-15T02:47:43.141214",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-03-14",
+      "subject": "Ed Boyden-Can't make it to dinner tonight!",
+      "document_id": "",
+      "sender": "Lesley Groff",
+      "recipients": [
+        "Jeffrey Epstein",
+        "Lyn Fontanilla"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lesley Groff",
+        "Jeffrey Epstein",
+        "Lyn Fontanilla",
+        "Ed Boyden",
+        "Neil Gershenfeld",
+        "Bella Klein"
+      ],
+      "organizations": [
+        "MIT",
+        "Obama BRAIN initiative"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/administrative",
+        "description": "Lesley Groff is communicating logistical information to Jeffrey Epstein"
+      },
+      {
+        "entity_1": "Ed Boyden",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "professional",
+        "description": "Ed Boyden is apologizing for canceling plans with Lesley Groff"
+      },
+      {
+        "entity_1": "Ed Boyden",
+        "entity_2": "Obama BRAIN initiative",
+        "relationship_type": "professional/affiliation",
+        "description": "Ed Boyden is working on the Obama BRAIN initiative at MIT"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, apologetic",
+      "emotional_indicators": [
+        "apologetic tone",
+        "regret for late notice"
+      ],
+      "purpose": "To inform Jeffrey Epstein and Lyn Fontanilla that Ed Boyden cannot attend dinner due to work commitments with the Obama BRAIN initiative",
+      "significance": "Shows professional connections and scheduling coordination among individuals associated with Jeffrey Epstein"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "My apologies -- for the Obama BRAIN initiative, I need to work at MIT today to coordinate the activities of a bunch of groups for a Monday deadline.",
+      "I'll see if I can get the plane fare refunded by our travel agent. Very sorry for the late notice..."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is a routine scheduling email about canceled dinner plans"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine email about scheduling and travel logistics"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "The Obama BRAIN Initiative (Brain Research through Advancing Innovative Neurotechnologies) was a publicly announced scientific research initiative"
+    },
+    "summary": "Lesley Groff forwards an email from Ed Boyden who apologizes for canceling dinner plans due to work commitments with the Obama BRAIN initiative at MIT, mentioning he will try to get his plane fare refunded."
+  }
+}

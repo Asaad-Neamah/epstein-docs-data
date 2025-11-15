@@ -1,0 +1,89 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033264.txt",
+  "file_name": "HOUSE_OVERSIGHT_033264.txt",
+  "processed_at": "2025-11-15T02:57:45.882688",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-03",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 033264",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Michael Wolff",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Business",
+        "description": "Kahn is sending Epstein a news article, suggesting some form of communication relationship"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, informational",
+      "emotional_indicators": [
+        "Urgency (high importance flag)"
+      ],
+      "purpose": "To share a news article about Michael Wolff's book 'Fire and Fury' regarding Donald Trump",
+      "significance": "Shows communication between Kahn and Epstein regarding political news about the Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be a simple sharing of news content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains only a shared news article link about Michael Wolff's book on Donald Trump - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to nymag.com article about Michael Wolff's book 'Fire and Fury' regarding Donald Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Wolff's 'Fire and Fury' was a highly publicized book about the Trump White House that received extensive media coverage in early 2018"
+    },
+    "summary": "Richard Kahn sends Jeffrey Epstein a link to a New York Magazine article about Michael Wolff's controversial book 'Fire and Fury' regarding Donald Trump, marked with high importance."
+  }
+}

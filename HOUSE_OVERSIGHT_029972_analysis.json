@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029972.txt",
+  "file_name": "HOUSE_OVERSIGHT_029972.txt",
+  "processed_at": "2025-11-15T02:48:47.494293",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-10-13",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 029972",
+      "sender": "Lesley Groff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lesley Groff",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/associate",
+        "description": "Lesley Groff is communicating with Jeffrey Epstein about scheduling a call"
+      },
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "Trump",
+        "relationship_type": "political interest",
+        "description": "Lesley Groff mentions attending Trump's speech and predicts he will get the nomination"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "anticipation",
+        "confidence in political prediction"
+      ],
+      "purpose": "To schedule a phone call with Jeffrey Epstein and share personal plans",
+      "significance": "Shows association between Epstein and political figures, specifically mentioning attendance at Trump event during 2016 campaign season"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Going to Trump speech tomorrow night - think he's going to get the nomination...."
+    ],
+    "red_flags": [
+      "Association with Jeffrey Epstein during period of known criminal activity",
+      "Political access/connections"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email from Epstein associate mentioning Trump during 2016 presidential campaign - relevant given later investigations into Epstein's political connections"
+    },
+    "summary": "Lesley Groff emails Jeffrey Epstein to schedule a phone call and mentions attending a Donald Trump campaign speech, predicting Trump would win the Republican nomination during the 2016 presidential election cycle."
+  }
+}

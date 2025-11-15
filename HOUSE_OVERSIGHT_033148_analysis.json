@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033148.txt",
+  "file_name": "HOUSE_OVERSIGHT_033148.txt",
+  "processed_at": "2025-11-15T02:57:18.266746",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-30",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 033148",
+      "sender": "J [jeevacation@gmail.com]",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Trump",
+        "Stormy Daniels"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "professional",
+        "description": "Sender providing advice/commentary to recipient"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "Trump",
+        "relationship_type": "commentary",
+        "description": "Commenting on Trump's denials regarding Stormy Daniels"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "direct, advisory, critical",
+      "emotional_indicators": [
+        "confidence in analysis",
+        "frustration with political tactics"
+      ],
+      "purpose": "To provide commentary and advice regarding a New York Times interview and political strategy around the Stormy Daniels situation",
+      "significance": "Shows communication about political strategy regarding Trump's denials in the Stormy Daniels case"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "would it have made sense to go back to them? no would they admit no did they admit no , did they obfuscate yes. did they deny , yes",
+      "checking with the subject when you have to goods only confuses the reader"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be political commentary/advice"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - only commentary on political strategy and media coverage"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to New York Times interview",
+        "Discussion of media strategy regarding political coverage"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Stormy Daniels-Trump case was widely covered in media; New York Times is major publication"
+    },
+    "summary": "Email from 'J' to Michael Wolff providing commentary on a New York Times interview and advising on political strategy regarding Trump's denials in the Stormy Daniels case, suggesting that going back to Trump's staff for confirmation when you already have evidence only confuses readers."
+  }
+}

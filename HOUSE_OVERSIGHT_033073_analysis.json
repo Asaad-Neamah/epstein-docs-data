@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033073.txt",
+  "file_name": "HOUSE_OVERSIGHT_033073.txt",
+  "processed_at": "2025-11-15T02:56:57.969559",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-02-13",
+      "subject": "Re: Obama admin discussed how much to share about Russia with incoming Trump team - CNNPolitics",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Kathy"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy",
+        "Susan Rice"
+      ],
+      "organizations": [
+        "Obama admin",
+        "Trump team",
+        "CNN"
+      ],
+      "locations": [
+        "Russia"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender",
+        "entity_2": "Kathy",
+        "relationship_type": "Professional/Personal",
+        "description": "Email exchange about political news article"
+      },
+      {
+        "entity_1": "Obama admin",
+        "entity_2": "Trump team",
+        "relationship_type": "Political transition",
+        "description": "Discussion about information sharing during presidential transition"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Casual, brief",
+      "emotional_indicators": [
+        "Approval ('good girl')"
+      ],
+      "purpose": "Acknowledge receipt of and comment on a news article about political matters",
+      "significance": "Shows awareness and discussion of politically sensitive Russia investigation topics during Trump transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "saw it -good girl",
+      "Obama admin discussed how much to share about Russia with incoming Trump team"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a CNN news article about political matters, not discussing first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to CNN Politics article about Susan Rice email and Russia investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This references a publicly reported CNN story about the Obama administration's handling of Russia investigation information during the Trump transition, which was widely covered in media"
+    },
+    "summary": "Brief email exchange acknowledging a CNN article about the Obama administration's discussions regarding how much information to share with the incoming Trump team about the Russia investigation, with the sender approvingly noting they've seen the article."
+  }
+}

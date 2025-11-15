@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032348.txt",
+  "file_name": "HOUSE_OVERSIGHT_032348.txt",
+  "processed_at": "2025-11-15T02:54:14.256407",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-10",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Erika Kellerhals",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Erika Kellerhals",
+        "jeffrey E.",
+        "Donald Trump",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "Daily Mail"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Erika Kellerhals",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence showing supportive relationship"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "mentioned association",
+        "description": "Both mentioned in Daily Mail article about sexual assault allegations"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "sympathetic, concerned",
+      "emotional_indicators": [
+        "empathy",
+        "concern",
+        "sadness"
+      ],
+      "purpose": "To express sympathy and acknowledge receipt of a news article link about sexual assault allegations",
+      "significance": "Shows communication about media coverage of serious allegations involving Jeffrey Epstein and Donald Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I'm so sorry this happened to you. It's terrible. And sad.",
+      "please note The information contained in this communication is confidential, may be attorney-client privileged..."
+    ],
+    "red_flags": [
+      "Discussion of sexual assault allegations",
+      "Confidentiality notice on sensitive topic"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be sympathetic communication about media coverage"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a news article about allegations against others - no first-hand illegal activity by sender/participants"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Daily Mail article about sexual assault allegations involving Trump and Epstein"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to reference public media coverage of sexual assault allegations that were reported in the Daily Mail"
+    },
+    "summary": "Erika Kellerhals sends a sympathetic email to Jeffrey Epstein in response to him sharing a Daily Mail article that claims a woman fabricated sexual assault allegations against both Epstein and Donald Trump, expressing sadness about the situation."
+  }
+}

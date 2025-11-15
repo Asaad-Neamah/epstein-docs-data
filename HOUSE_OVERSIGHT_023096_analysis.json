@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_023096.txt",
+  "file_name": "HOUSE_OVERSIGHT_023096.txt",
+  "processed_at": "2025-11-15T02:41:42.174794",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "blog post",
+      "date": "2012-11-15",
+      "subject": "Jeffrey Epstein: Educational Programs",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "President Obama",
+        "Maya Angelou"
+      ],
+      "organizations": [
+        "Jeffrey Epstein VI Foundation",
+        "Bard High School Early College",
+        "Bard College",
+        "Maya Angelou charter schools"
+      ],
+      "locations": [
+        "Manhattan",
+        "Queens",
+        "Newark, NJ",
+        "Washington, DC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Education programs"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein VI Foundation",
+        "entity_2": "Bard High School Early College",
+        "relationship_type": "funding",
+        "description": "Foundation provides funding to educational programs"
+      },
+      {
+        "entity_1": "Jeffrey Epstein VI Foundation",
+        "entity_2": "Maya Angelou charter schools",
+        "relationship_type": "funding",
+        "description": "Foundation provided substantial funding in 2012"
+      },
+      {
+        "entity_1": "President Obama",
+        "entity_2": "Bard High School Early College",
+        "relationship_type": "endorsement",
+        "description": "Cited as model schools for the country"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "Funding provided to educational programs"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "promotional, positive",
+      "emotional_indicators": [
+        "pride",
+        "supportiveness"
+      ],
+      "purpose": "To highlight Jeffrey Epstein's philanthropic efforts in education through his foundation",
+      "significance": "Shows Epstein's public-facing charitable activities in education funding"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "The Jeffrey Epstein VI Foundation is proud to provide needed funding to worthy educational programs and schools across the country.",
+      "73 percent of the school's graduates attend college and 60 percent go on to earn a college degree."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this promotional educational content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity mentioned - this is promotional content about educational philanthropy"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "This appears to be public relations content promoting Epstein's charitable activities in education"
+    },
+    "summary": "This blog post promotes Jeffrey Epstein's educational philanthropy through his VI Foundation, highlighting funding provided to Bard High School Early College programs in New York/New Jersey and Maya Angelou charter schools in Washington, DC, emphasizing their academic success and college placement rates."
+  }
+}

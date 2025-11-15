@@ -1,0 +1,165 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030861.txt",
+  "file_name": "HOUSE_OVERSIGHT_030861.txt",
+  "processed_at": "2025-11-15T02:51:01.456265",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-03-31",
+      "subject": "FW: EOD Commodities Note - 31 Mar",
+      "document_id": "",
+      "sender": "Daniel Sabba",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]",
+        "Vahe Stepanian"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Daniel Sabba",
+        "Jeffrey E.",
+        "Vahe Stepanian",
+        "Prateek Jain",
+        "Ariane Dwyer",
+        "President Obama",
+        "Buhari"
+      ],
+      "organizations": [
+        "Deutsche Bank",
+        "Congress",
+        "Boko Haram",
+        "Saudi-led coalition",
+        "Houthi",
+        "Rio Tinto",
+        "IMF"
+      ],
+      "locations": [
+        "Iran",
+        "Nigeria",
+        "Yemen",
+        "Bab el-Mandeb",
+        "China",
+        "Mongolia",
+        "Oyu Tolgoi",
+        "Zambia",
+        "Vietnam",
+        "Philippines"
+      ],
+      "financial_entities": [
+        "Deutsche Bank",
+        "IMF",
+        "CTA funds"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Daniel Sabba",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Sender forwarding market analysis to recipient"
+      },
+      {
+        "entity_1": "Daniel Sabba",
+        "entity_2": "Vahe Stepanian",
+        "relationship_type": "professional",
+        "description": "CC'd on the email communication"
+      },
+      {
+        "entity_1": "Prateek Jain",
+        "entity_2": "Daniel Sabba",
+        "relationship_type": "professional",
+        "description": "Original sender of commodities report to Daniel Sabba"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "52.50%",
+        "51.10%",
+        "51.20%",
+        "47.90%",
+        "37.10%",
+        "35.15%",
+        "26.20%",
+        "26.40%",
+        "$1785",
+        "$1750",
+        "$1800",
+        "$6041",
+        "$6000",
+        "$6300",
+        "$2081",
+        "$2000",
+        "$2100",
+        "$12,395",
+        "$12,000",
+        "$13,000",
+        "$1820",
+        "$1800",
+        "$1900",
+        "650kMT/year",
+        "108.1 kMT",
+        "1888 kMT",
+        "86.7 kMT",
+        "252 kMT",
+        "332 kMT"
+      ],
+      "transactions": [
+        "commodity price changes",
+        "market volatility movements"
+      ],
+      "assets": [
+        "oil commodities",
+        "metals (aluminum, copper, zinc, nickel, lead)",
+        "mining operations"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, analytical",
+      "emotional_indicators": [
+        "urgency (importance: high)",
+        "analytical confidence"
+      ],
+      "purpose": "To provide end-of-day commodities market analysis and updates on global economic factors affecting commodity prices",
+      "significance": "Routine financial market update showing professional relationship and information sharing about commodity trading"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "All eyes on Iran talks today which were extended by a day into Wednesday",
+      "Nickel continues its slide as CTA funds have sold off heavily on the supply crunch failing to materialize and demand from the stainless steel market evaporating"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - routine professional communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains routine financial market analysis with no illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard financial market analysis that would have been widely available to market participants"
+    },
+    "summary": "Daniel Sabba forwards a Deutsche Bank commodities market analysis email to Jeffrey Epstein and Vahe Stepanian, providing end-of-day updates on oil and metals markets, including price movements, geopolitical factors affecting commodities, and market volatility indicators."
+  }
+}

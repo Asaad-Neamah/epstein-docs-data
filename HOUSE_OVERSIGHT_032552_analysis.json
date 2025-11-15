@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032552.txt",
+  "file_name": "HOUSE_OVERSIGHT_032552.txt",
+  "processed_at": "2025-11-15T02:55:09.289451",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-07-21",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 032552",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "jeffrey E.",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Direct email communication between Ruemmler and Epstein"
+      },
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Trump",
+        "relationship_type": "opinion/assessment",
+        "description": "Ruemmler expressing negative opinion about Trump to Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, blunt, critical",
+      "emotional_indicators": [
+        "frustration",
+        "contempt"
+      ],
+      "purpose": "To share a personal opinion about Donald Trump with Jeffrey Epstein",
+      "significance": "Shows communication between a former White House Counsel and Jeffrey Epstein, including critical assessment of a sitting president"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump is truly stupid."
+    ],
+    "red_flags": [
+      "High importance email containing personal political opinion",
+      "Communication between former White House official and Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this brief email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Kathy Ruemmler was White House Counsel under President Obama (2011-2014). This email shows her communicating with Jeffrey Epstein and expressing negative views about President Trump."
+    },
+    "summary": "Former White House Counsel Kathy Ruemmler emails Jeffrey Epstein with a blunt negative assessment of President Trump, calling him 'truly stupid' in a high-importance communication."
+  }
+}

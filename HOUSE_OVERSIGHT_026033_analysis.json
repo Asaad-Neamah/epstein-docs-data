@@ -1,0 +1,120 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026033.txt",
+  "file_name": "HOUSE_OVERSIGHT_026033.txt",
+  "processed_at": "2025-11-15T02:44:02.806047",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-29",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "woody",
+        "roger",
+        "Dep Cr Prince",
+        "Steve Bannon",
+        "Trump"
+      ],
+      "organizations": [
+        "NYP",
+        "Hollywood Reporter",
+        "Trump circle"
+      ],
+      "locations": [
+        "New York",
+        "palm beach"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about arranging meetings and sharing media access information"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump circle",
+        "relationship_type": "media access",
+        "description": "Wolff claims to be the only liberal-media guy with access to Trump circle"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Dep Cr Prince",
+        "relationship_type": "connection",
+        "description": "Epstein offers to set up Wolff to see the right hand of Dep Cr Prince"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "paranoia mentioned",
+        "urgency in arranging meetings"
+      ],
+      "purpose": "To arrange a dinner meeting and discuss media access to Trump circle",
+      "significance": "Shows Epstein's connections to media figures and political circles, and attempts to arrange meetings with potentially influential individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "He believes NYP photographers are following him.",
+      "I have to contact him through his wife on a burner phone, which they don't reliably check.",
+      "I'm suddenly made me the only liberal-media guy with access to Trump circle."
+    ],
+    "red_flags": [
+      "Use of burner phone for communication",
+      "Paranoia about being followed by photographers",
+      "Secrecy around meeting arrangements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Hollywood Reporter article about Steve Bannon",
+        "Discussion of media access to Trump circle",
+        "Mention of NYP photographers following someone"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email exchange occurred shortly after the 2016 election, showing behind-the-scenes attempts to connect with Trump circle figures through media contacts"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing arrangements for a dinner meeting with an unidentified paranoid individual, while Wolff shares his exclusive media access to Trump circle and Epstein offers connections to Saudi associates."
+  }
+}

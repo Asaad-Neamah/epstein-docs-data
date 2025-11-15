@@ -1,0 +1,125 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031725.txt",
+  "file_name": "HOUSE_OVERSIGHT_031725.txt",
+  "processed_at": "2025-11-15T02:52:52.261358",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news article",
+      "date": "2016-10",
+      "subject": "Gloria Allred Says More Women Are Contacting Her About Trump Misconduct",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Gloria Allred",
+        "Donald Trump",
+        "Bill Cosby",
+        "Roman Polanski",
+        "Rudy Giuliani",
+        "Hillary Rodham Clinton",
+        "Jenna Talackova"
+      ],
+      "organizations": [
+        "Access Hollywood",
+        "The Apprentice",
+        "Miss Universe",
+        "Miss Universe Canada",
+        "Democratic National Convention",
+        "TMZ",
+        "AP",
+        "GoFundMe",
+        "White House"
+      ],
+      "locations": [
+        "New York City"
+      ],
+      "financial_entities": [
+        "GoFundMe"
+      ]
+    },
+    "themes": [
+      "Political connections/influence",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Gloria Allred",
+        "entity_2": "Donald Trump",
+        "relationship_type": "legal opposition",
+        "description": "Allred is representing women making allegations against Trump and has previously opposed him legally"
+      },
+      {
+        "entity_1": "Gloria Allred",
+        "entity_2": "Hillary Clinton",
+        "relationship_type": "political support",
+        "description": "Allred is a Clinton supporter and delegate at the Democratic National Convention"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "accusatory, critical, advocacy-oriented",
+      "emotional_indicators": [
+        "disgust",
+        "determination",
+        "outrage"
+      ],
+      "purpose": "To report on Gloria Allred's statements about Trump's alleged misconduct and call for accountability",
+      "significance": "Documents legal response to Trump's Access Hollywood tape and allegations of sexual misconduct during 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "allegations of sexual assault",
+        "sexual harassment claims",
+        "non-disclosure agreements limiting testimony"
+      ]
+    },
+    "notable_quotes": [
+      "\"I am disgusted by what Donald Trump said and admitted that he had done on that video. An apology is not enough.\"",
+      "\"If there is an unwanted or unconsented to touching of a person's intimate parts such as the genital areas or a woman's breasts, that could constitute a sexual assault or a sexual battery.\""
+    ],
+    "red_flags": [
+      "Multiple women coming forward with allegations",
+      "Non-disclosure agreements preventing testimony",
+      "Pattern of demeaning behavior toward women"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this document - it's a news article reporting on legal responses to allegations"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on allegations and legal analysis, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Access Hollywood tape",
+        "TMZ interview",
+        "AP report",
+        "reporters chasing down evidence",
+        "media coverage of allegations"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a news article from the 2016 presidential campaign about the Access Hollywood tape and subsequent allegations against Donald Trump"
+    },
+    "summary": "This news article reports that attorney Gloria Allred has been contacted by more women alleging inappropriate conduct by Donald Trump following the release of the Access Hollywood tape, with Allred stating that Trump's described actions could constitute sexual assault and calling for him to release employees from non-disclosure agreements."
+  }
+}

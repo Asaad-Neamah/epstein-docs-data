@@ -1,0 +1,115 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033468.txt",
+  "file_name": "HOUSE_OVERSIGHT_033468.txt",
+  "processed_at": "2025-11-15T02:58:52.031037",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_report",
+      "date": "",
+      "subject": "Conflicting reports on possible resignation or firing of US Deputy Attorney General Rod Rosenstein",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Rod Rosenstein",
+        "John Kelly",
+        "Donald Trump",
+        "Robert Mueller",
+        "Jeff Sessions"
+      ],
+      "organizations": [
+        "US Department of Justice",
+        "White House",
+        "Axios",
+        "Wall Street Journal",
+        "NBC News",
+        "Reuters",
+        "New York Times",
+        "Special Counsel investigation"
+      ],
+      "locations": [
+        "Washington",
+        "Russia"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Rod Rosenstein",
+        "entity_2": "John Kelly",
+        "relationship_type": "professional",
+        "description": "Rosenstein reportedly meeting with White House Chief of Staff"
+      },
+      {
+        "entity_1": "Rod Rosenstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "professional/political",
+        "description": "Rosenstein oversees Russia investigation that involves Trump"
+      },
+      {
+        "entity_1": "Robert Mueller",
+        "entity_2": "Rod Rosenstein",
+        "relationship_type": "professional",
+        "description": "Rosenstein oversees Mueller's special counsel investigation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, factual",
+      "emotional_indicators": [],
+      "purpose": "To report on conflicting media accounts about the status of Deputy Attorney General Rod Rosenstein",
+      "significance": "Documents media speculation about potential removal of the official overseeing the Russia investigation during a politically sensitive time"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Rosenstein said he would not resign and the White House would have to fire him",
+      "Rosenstein denied the report as 'inaccurate and factually incorrect'"
+    ],
+    "red_flags": [
+      "Conflicting reports from multiple media sources",
+      "Political pressure on law enforcement officials"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this news report"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news report summarizing media coverage about political events, not evidence of first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Multiple media outlets cited: Axios, Wall Street Journal, NBC News, Reuters, New York Times",
+        "Report discusses media coverage and conflicting reports from various news sources"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a news aggregation report about the Rosenstein resignation speculation in 2017-2018, which was widely covered in mainstream media"
+    },
+    "summary": "This document summarizes conflicting media reports about whether Deputy Attorney General Rod Rosenstein resigned or was facing firing amid his oversight of the Russia investigation, with various news outlets providing different accounts of his status and meetings with White House officials."
+  }
+}

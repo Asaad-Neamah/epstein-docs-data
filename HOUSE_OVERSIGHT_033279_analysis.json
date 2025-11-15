@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033279.txt",
+  "file_name": "HOUSE_OVERSIGHT_033279.txt",
+  "processed_at": "2025-11-15T02:58:10.987693",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-04-12",
+      "subject": "POTUS",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Jeffrey Epstein (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey Epstein",
+        "President Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "PBI airport",
+        "PBI (Palm Beach International Airport)",
+        "Teterboro"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/operational",
+        "description": "Visoski appears to be providing logistical information to Epstein regarding travel arrangements"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "President Trump",
+        "relationship_type": "indirect connection",
+        "description": "Epstein appears to be monitoring President Trump's travel schedule for coordination purposes"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, operational",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey Epstein about President Trump's travel schedule and coordinate arrival timing to avoid conflicts",
+      "significance": "Shows awareness of presidential movements and coordination of Epstein's travel around them"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Rumor at the PBI airport is President Trump is due to arrive PBI Monday the 16th and stay until 23rd or 24th",
+      "This means we can only arrive in PBI from Teterboro after the 16th"
+    ],
+    "red_flags": [
+      "Coordination of travel around presidential movements",
+      "Use of airport rumors for scheduling"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine logistical coordination"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Document shows coordination between Epstein's operations and presidential travel schedules, which could be of media interest given Epstein's notoriety"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein with information about President Trump's planned arrival at Palm Beach International Airport on April 16th, advising that they can only arrive in PBI from Teterboro after the 16th to avoid scheduling conflicts with the presidential visit."
+  }
+}

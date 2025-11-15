@@ -1,0 +1,110 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033575.txt",
+  "file_name": "HOUSE_OVERSIGHT_033575.txt",
+  "processed_at": "2025-11-15T02:59:10.503500",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-05-13",
+      "subject": "Farmer Jaffe is suing Donald Trump!",
+      "document_id": "",
+      "sender": "Tonja Haddad Coleman",
+      "recipients": [
+        "Jeffrey Epstein",
+        "Darren Indyke",
+        "Debbie Fein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Tonja Haddad Coleman",
+        "Jeffrey Epstein",
+        "Darren Indyke",
+        "Debbie Fein",
+        "Donald Trump",
+        "Farmer Jaffe"
+      ],
+      "organizations": [
+        "TONJA HADDAD, P.A.",
+        "Trump's ownership"
+      ],
+      "locations": [
+        "Fort Lauderdale, FL 33301"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Attorney sharing legal news with client/associate"
+      },
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Darren Indyke",
+        "relationship_type": "professional",
+        "description": "Attorney sharing legal news with colleague"
+      },
+      {
+        "entity_1": "Farmer Jaffe",
+        "entity_2": "Donald Trump",
+        "relationship_type": "legal",
+        "description": "Plaintiff suing defendant in lawsuit"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, sharing",
+      "emotional_indicators": [
+        "excitement",
+        "alertness"
+      ],
+      "purpose": "To share news about a lawsuit involving Donald Trump with colleagues/associates",
+      "significance": "Shows legal professional network sharing information about high-profile litigation involving Donald Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Farmer Jaffe is suing Donald Trump!"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing news article about a lawsuit"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about someone else's lawsuit - no first-hand illegal activity by sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Includes link to mypalmbeachpost.com news article about lawsuit against Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Lawsuit against Donald Trump would have been public record and media-covered event"
+    },
+    "summary": "Attorney Tonja Haddad Coleman emails Jeffrey Epstein and colleagues to share a news article about Farmer Jaffe suing Donald Trump, providing a link to the Palm Beach Post coverage of the lawsuit."
+  }
+}

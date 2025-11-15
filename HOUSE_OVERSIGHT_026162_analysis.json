@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026162.txt",
+  "file_name": "HOUSE_OVERSIGHT_026162.txt",
+  "processed_at": "2025-11-15T02:44:14.426031",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-08-25",
+      "subject": "Re: I look forward to hearing from you",
+      "document_id": "",
+      "sender": "Stanley Rosenberg",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Stanley Rosenberg",
+        "Jeffrey E. (Epstein)",
+        "Linda Stone",
+        "Neil deGrasse Tyson",
+        "Trump"
+      ],
+      "organizations": [
+        "Huffington Post",
+        "scientific community"
+      ],
+      "locations": [
+        "Europe",
+        "New York",
+        "NYC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Scientific research",
+      "Travel/logistics",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Stanley Rosenberg",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about scientific interests and potential meeting arrangements"
+      },
+      {
+        "entity_1": "Stanley Rosenberg",
+        "entity_2": "Linda Stone",
+        "relationship_type": "professional",
+        "description": "Linda Stone introduced Rosenberg to Epstein years ago"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, courteous, inquisitive",
+      "emotional_indicators": [
+        "cautious about travel due to age",
+        "curious about Epstein's interests"
+      ],
+      "purpose": "To discuss Epstein's interest in the vagus nerve and arrange potential communication/meeting",
+      "significance": "Shows Epstein's outreach to scientific community and his interest in specific medical/scientific topics"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"What nice coverage in the Huffington Post. Living in Europe, I was not aware that Trump's proposed cuts will be so devastating to the scientific community.\"",
+      "\"I am 77 and do not travel so well. I have cut back on my plans to travel.\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be a normal professional correspondence"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains shared Huffington Post article about scientific funding, but no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Huffington Post article about Trump's proposed budget cuts to science and private donor funding scientists"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Trump's proposed budget cuts to scientific research were widely reported in 2017. Epstein's interest in scientific research and connections to academics were part of his public persona."
+    },
+    "summary": "Email exchange between Stanley Rosenberg and Jeffrey Epstein discussing Epstein's interest in the vagus nerve, arranging potential communication via Skype or phone, and referencing a Huffington Post article about Trump's proposed science budget cuts and private funding for scientists."
+  }
+}

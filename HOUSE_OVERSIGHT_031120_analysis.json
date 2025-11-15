@@ -1,0 +1,110 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031120.txt",
+  "file_name": "HOUSE_OVERSIGHT_031120.txt",
+  "processed_at": "2025-11-15T02:51:21.055930",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-01-22",
+      "subject": "Tom McMillen",
+      "document_id": "",
+      "sender": "Gwendolyn",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey",
+        "Tom McMillen",
+        "Obama",
+        "Gwendolyn",
+        "Jessica Joffe"
+      ],
+      "organizations": [
+        "Aspen Institute Socrates Society"
+      ],
+      "locations": [
+        "Aspen"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Gwendolyn",
+        "entity_2": "Jeffrey",
+        "relationship_type": "personal",
+        "description": "Friendly relationship, uses affectionate language"
+      },
+      {
+        "entity_1": "Gwendolyn",
+        "entity_2": "Tom McMillen",
+        "relationship_type": "personal",
+        "description": "Recently saw each other, maintains contact"
+      },
+      {
+        "entity_1": "Tom McMillen",
+        "entity_2": "Obama",
+        "relationship_type": "political",
+        "description": "Described as 'tight with the Obama's' and being considered for ambassadorship"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, friendly, enthusiastic",
+      "emotional_indicators": [
+        "excitement",
+        "affection",
+        "ambition"
+      ],
+      "purpose": "To reconnect Jeffrey with Tom McMillen and share personal news/ambitions",
+      "significance": "Shows networking among wealthy/powerful individuals and political appointment discussions"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "He's tight with the Obama's and is going to be an Ambassador - apparently any country he wants.",
+      "I'd LOVE to be an Ambassador and am going attempt to raise enough money on the next election cycle."
+    ],
+    "red_flags": [
+      "Political influence peddling suggestion",
+      "Ambassadorship aspirations tied to fundraising"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "This appears to be private networking communication between acquaintances"
+    },
+    "summary": "Gwendolyn emails Jeffrey Epstein to reconnect him with Tom McMillen, who is reportedly close to the Obamas and being considered for an ambassadorship, while also expressing her own ambition to become an ambassador through fundraising in the next election cycle."
+  }
+}

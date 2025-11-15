@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032936.txt",
+  "file_name": "HOUSE_OVERSIGHT_032936.txt",
+  "processed_at": "2025-11-15T02:56:26.603659",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-28",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 032936",
+      "sender": "",
+      "recipients": [
+        "jean.huguen",
+        "Lesley Groff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jean.huguen",
+        "Lesley Groff"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender",
+        "entity_2": "jean.huguen",
+        "relationship_type": "professional",
+        "description": "Requesting travel schedule change"
+      },
+      {
+        "entity_1": "Sender",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "professional",
+        "description": "Requesting travel schedule change"
+      },
+      {
+        "entity_1": "Sender",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Mentioned as reason for schedule conflict"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, directive",
+      "emotional_indicators": [
+        "urgency",
+        "priority indication"
+      ],
+      "purpose": "Request to delay a trip by one week due to Trump-related issues occupying the sender's time",
+      "significance": "Shows scheduling conflicts related to Donald Trump during the presidential transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "can you delay your trip one week, . trump related issues occupying my time.",
+      "say 13 14 instead please note"
+    ],
+    "red_flags": [
+      "Vague reference to 'trump related issues' without specific details"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be a straightforward scheduling request"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine scheduling communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Internal scheduling email that would not typically be public, though the Trump connection during the 2016 transition period could be of interest"
+    },
+    "summary": "An urgent email requesting recipients to delay their trip by one week (to December 13-14) due to Trump-related issues occupying the sender's time, sent during the presidential transition period after the 2016 election."
+  }
+}

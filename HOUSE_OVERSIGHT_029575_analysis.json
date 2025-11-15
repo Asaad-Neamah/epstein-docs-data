@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029575.txt",
+  "file_name": "HOUSE_OVERSIGHT_029575.txt",
+  "processed_at": "2025-11-15T02:48:10.251203",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-11-26",
+      "subject": "Re: invitation",
+      "document_id": "",
+      "sender": "J (jeevacation@gmail.com)",
+      "recipients": [
+        "Lisa New"
+      ]
+    },
+    "entities": {
+      "people": [
+        "J (Jeffrey Epstein)",
+        "Lisa New",
+        "Clinton",
+        "Serena",
+        "WA"
+      ],
+      "organizations": [
+        "Harvard University",
+        "Poetry in America"
+      ],
+      "locations": [
+        "Australia",
+        "Cambridge, MA",
+        "148 Barker Center",
+        "12 Quincy Street"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Lisa New",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence discussing literary references and an invitation involving Clinton"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Harvard University",
+        "relationship_type": "employment",
+        "description": "Lisa New is identified as Powell M. Cabot Professor of American Literature and Director of Poetry in America at Harvard University"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, collaborative",
+      "emotional_indicators": [
+        "appreciation",
+        "regret",
+        "hope"
+      ],
+      "purpose": "To discuss and edit an invitation involving Clinton and coordinate a phone call",
+      "significance": "Shows Epstein's involvement in coordinating invitations with high-profile individuals and his relationship with a Harvard professor"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I would recommend reading My Antonia by Cather next time you're on a long plane trip. The prose is gorgeous, and the book has-- come to think of it-- similar themes to Lolita in that it's about a man whose whole life is stamped forever by his impression of a young girl.",
+      "Thank you for this help with Serena. I'm so sorry about what happened with WA. I will keep the 'bootleg' episode and hope to release someday."
+    ],
+    "red_flags": [
+      "Discussion of literary works with themes involving young girls",
+      "Mention of keeping a 'bootleg' episode for potential future release"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows Epstein's connections with academic elites and discussion of invitations involving high-profile political figures, which would be of media interest given Epstein's notoriety"
+    },
+    "summary": "Email exchange between Jeffrey Epstein and Harvard professor Lisa New discussing editing an invitation involving Clinton, literary references including Lolita and My Antonia, and a 'bootleg' episode they hope to release someday."
+  }
+}

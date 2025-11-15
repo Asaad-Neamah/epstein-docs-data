@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033487.txt",
+  "file_name": "HOUSE_OVERSIGHT_033487.txt",
+  "processed_at": "2025-11-15T02:58:59.968097",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-04-26",
+      "subject": "Boeing",
+      "document_id": "HOUSE OVERSIGHT 033487",
+      "sender": "Larry",
+      "recipients": [
+        "jeevacation@gmail.com",
+        "Jeffrey",
+        "Sean"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry",
+        "Jeffrey",
+        "Sean",
+        "Trump",
+        "Shugo"
+      ],
+      "organizations": [
+        "Boeing",
+        "company in Singapore"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Financial transactions/money flow",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry",
+        "entity_2": "Jeffrey",
+        "relationship_type": "business",
+        "description": "Sharing business intelligence about aircraft transactions"
+      },
+      {
+        "entity_1": "Larry",
+        "entity_2": "Sean",
+        "relationship_type": "business",
+        "description": "Collaborating on aircraft industry knowledge"
+      },
+      {
+        "entity_1": "Shugo",
+        "entity_2": "Trump",
+        "relationship_type": "business",
+        "description": "Potential aircraft purchase transaction"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$2.2M",
+        "$600k"
+      ],
+      "transactions": [
+        "Trump's B727 sold for $2.2M as is",
+        "Three engine overhauls needed costing $600k total"
+      ],
+      "assets": [
+        "Boeing 727 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "informative, casual",
+      "emotional_indicators": [],
+      "purpose": "To share business intelligence about Donald Trump's aircraft transaction and maintenance requirements",
+      "significance": "Provides insight into Trump's aircraft dealings and maintenance costs, showing business intelligence sharing among associates"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I heard Trump has a contract on his B727, no money has changed hands, sold for 2.2M as is",
+      "he needs three engine overhaul's in the next 14 months, 600k worth total"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be routine business intelligence sharing"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - appears to be legitimate business information about aircraft transactions"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private business communication about aircraft transactions that would typically not be public knowledge"
+    },
+    "summary": "Larry emails Jeffrey and Sean with business intelligence about Donald Trump's Boeing 727 aircraft being sold for $2.2 million to an Indian buyer named Shugo, who plans to lease it to a Singapore company, along with information about $600,000 in required engine overhauls."
+  }
+}

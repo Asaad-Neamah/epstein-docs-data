@@ -1,0 +1,127 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031171.txt",
+  "file_name": "HOUSE_OVERSIGHT_031171.txt",
+  "processed_at": "2025-11-15T02:51:27.500628",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "",
+      "subject": "Justice Department opens Epstein probe",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Ben Sasse",
+        "Alexander Acosta",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Justice Department",
+        "Office of Professional Responsibility",
+        "U.S. Senate Judiciary Committee",
+        "Miami Herald",
+        "The Associated Press"
+      ],
+      "locations": [
+        "Virgin Islands",
+        "Fort Lauderdale, Fla.",
+        "Palm Beach, Fla.",
+        "New York",
+        "Little St. James Island",
+        "St. Thomas",
+        "Florida",
+        "Nebraska"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Alexander Acosta",
+        "relationship_type": "legal",
+        "description": "Acosta's office negotiated the plea deal that allowed Epstein to avoid federal prosecution"
+      },
+      {
+        "entity_1": "Alexander Acosta",
+        "entity_2": "Donald Trump",
+        "relationship_type": "political",
+        "description": "Acosta serves as Trump's Labor Secretary"
+      },
+      {
+        "entity_1": "Ben Sasse",
+        "entity_2": "Justice Department",
+        "relationship_type": "political",
+        "description": "Sasse requested the investigation into the Epstein plea deal"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "settlements to victims"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [
+        "horrified (Sasse's description of public reaction)",
+        "pathetically soft (Sasse's description of sentence)"
+      ],
+      "purpose": "To report on the Justice Department's investigation into the handling of Jeffrey Epstein's plea deal",
+      "significance": "Documents the official federal investigation into how Epstein received a lenient plea deal for serious sex crimes"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Investigation into prosecutorial misconduct",
+        "Potential improper handling of plea deal",
+        "Legal challenge to nullify plea agreement"
+      ]
+    },
+    "notable_quotes": [
+      "\"Jeffrey Epstein is a child rapist and there's not a single mom or dad in America who shouldn't be horrified by the fact that he received a pathetically soft sentence\"",
+      "\"The victims of Epstein's child sex trafficking ring deserve this investigation — and so do the American people and members of law enforcement\""
+    ],
+    "red_flags": [
+      "Politically connected financier receiving lenient treatment",
+      "Secret non-prosecution deal",
+      "Federal investigation being ended in favor of light state conviction"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article about the investigation"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and investigations related to Epstein's past crimes, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Miami Herald articles cited as triggering the investigation",
+        "The Associated Press published this article"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a news article from The Virgin Islands Daily News reporting on a Justice Department investigation that was likely widely covered in media"
+    },
+    "summary": "The Justice Department has opened an investigation into federal prosecutors' handling of Jeffrey Epstein's 2008 plea deal, which allowed the wealthy financier to avoid severe federal penalties for sexually abusing teenage girls in favor of a light state conviction. The probe was initiated following Miami Herald reporting and requests from Senator Ben Sasse, who called Epstein 'a child rapist' who received a 'pathetically soft sentence.'"
+  }
+}

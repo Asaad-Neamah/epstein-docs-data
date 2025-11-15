@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029017.txt",
+  "file_name": "HOUSE_OVERSIGHT_029017.txt",
+  "processed_at": "2025-11-15T02:47:06.457624",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-10",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Deepak Chopra",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Deepak Chopra",
+        "jeffrey E.",
+        "Donald-Trump",
+        "Jeffrey-Epstein"
+      ],
+      "organizations": [
+        "JEE"
+      ],
+      "locations": [
+        "2013 Costa Del Mar Road",
+        "Carlsbad, CA 92009",
+        "Carlsbad, CA 92013"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence discussing legal matters and scheduling a meeting"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, inquisitive",
+      "emotional_indicators": [
+        "curiosity",
+        "matter-of-fact"
+      ],
+      "purpose": "To inquire about the status of a civil case against Jeffrey Epstein and share a news article link",
+      "significance": "Shows communication between Deepak Chopra and Jeffrey Epstein regarding legal matters and media coverage of sexual assault allegations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Did she also drop civil case against you ?",
+      "Troubled-woman-history-drug-use-claimed-assaulted-Donald-Trump-Jeffrey-Epstein-sex-party-age-13-FABRICATED-story"
+    ],
+    "red_flags": [
+      "Discussion of dropped civil case related to sexual assault allegations",
+      "Sharing of media coverage about fabricated assault claims"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be straightforward inquiry about legal case status"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "The email contains a shared news article about fabricated assault claims against Trump and Epstein, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Daily Mail article link shared about fabricated sexual assault claims against Trump and Epstein"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to reference the public allegations made against Donald Trump and Jeffrey Epstein regarding sexual assault claims that were widely reported in media"
+    },
+    "summary": "Email exchange between Deepak Chopra and Jeffrey Epstein discussing a dropped civil case and sharing a Daily Mail article claiming a woman fabricated sexual assault allegations against Trump and Epstein at age 13."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033235.txt",
+  "file_name": "HOUSE_OVERSIGHT_033235.txt",
+  "processed_at": "2025-11-15T02:57:38.746575",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-05-09",
+      "subject": "Trump looking to unload Caribbean beach estate",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York, NY",
+        "Caribbean"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Real estate/properties",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Professional/Business",
+        "description": "Richard Kahn is sending a real estate article to Jeffrey E. with high importance"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Caribbean beach estate"
+      ]
+    },
+    "analysis": {
+      "tone": "Professional, informative",
+      "emotional_indicators": [
+        "Urgency (importance: High)"
+      ],
+      "purpose": "To share a news article about Trump potentially selling a Caribbean beach estate",
+      "significance": "Shows communication about Trump's real estate activities being shared with Jeffrey Epstein"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains a shared news article about Trump's real estate activities, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing a Mansion Global news article about Trump's Caribbean beach estate"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available news coverage about Trump's real estate holdings"
+    },
+    "summary": "Richard Kahn sends Jeffrey Epstein a news article from Mansion Global about Donald Trump potentially selling a Caribbean beach estate, marking the email as high importance."
+  }
+}

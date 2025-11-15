@@ -1,0 +1,155 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030829.txt",
+  "file_name": "HOUSE_OVERSIGHT_030829.txt",
+  "processed_at": "2025-11-15T02:50:43.338446",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2014-04-21",
+      "subject": "Victims win right to see negotiations that led to 'lenient' plea agreement for billionaire sex offender",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Jane Doe 1",
+        "Jane Doe 2",
+        "Paul Cassell",
+        "Martin Weinberg",
+        "Roy Black",
+        "Brad Edwards",
+        "Annette Castillo",
+        "Bill Clinton",
+        "Donald Trump",
+        "William H. Pryor"
+      ],
+      "organizations": [
+        "Sun Sentinel",
+        "U.S. House Committee on Oversight and Accountability",
+        "Federal Bureau of Investigation",
+        "Eleventh Circuit Court of Appeals",
+        "U.S. Attorney's Office, Southern District of Florida"
+      ],
+      "locations": [
+        "Palm Beach",
+        "Manhattan",
+        "Caribbean",
+        "New York",
+        "Salt Lake City",
+        "Boston",
+        "Fort Lauderdale",
+        "Atlanta"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jane Doe 1",
+        "relationship_type": "legal",
+        "description": "Plaintiff-victim relationship in legal case"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jane Doe 2",
+        "relationship_type": "legal",
+        "description": "Plaintiff-victim relationship in legal case"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "personal",
+        "description": "Friends according to media reports"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "personal",
+        "description": "Friends according to media reports"
+      },
+      {
+        "entity_1": "Paul Cassell",
+        "entity_2": "Jane Doe 1",
+        "relationship_type": "legal",
+        "description": "Attorney representing victim"
+      },
+      {
+        "entity_1": "Paul Cassell",
+        "entity_2": "Jane Doe 2",
+        "relationship_type": "legal",
+        "description": "Attorney representing victim"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Palm Beach mansion",
+        "Manhattan residence",
+        "Caribbean island"
+      ]
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [
+        "numb",
+        "concerned"
+      ],
+      "purpose": "To report on a legal development allowing victims to see plea agreement negotiations",
+      "significance": "Reveals ongoing legal battle over Epstein's 2007 plea agreement and potential political influence"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential violation of federal victims' rights legislation",
+        "Secret plea agreement negotiations"
+      ]
+    },
+    "notable_quotes": [
+      "\"We're trying to figure out if Epstein used his political connections and great wealth to secure this kind of arrangement, that was unheard of, frankly, if you look at these charges\"",
+      "\"I have never seen a plea agreement as lenient as this one, for hands-on sex offenders\"",
+      "\"Not only did the United States neglect to confer with the victims before it entered into the agreement with Epstein, it also failed to notify them of its existence for at least nine months\""
+    ],
+    "red_flags": [
+      "Unusually lenient plea agreement for serious sex crimes",
+      "Wealth and political connections potentially influencing legal outcome",
+      "Victims not notified of plea agreement for nine months"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and past events, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article references media reports about Epstein's wealth and connections",
+        "Written by Brett Clarkson, Sun Sentinel reporter"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a published news article about a public court ruling, making the information already public"
+    },
+    "summary": "A federal appeals court ruled that victims of Jeffrey Epstein can see the correspondence between his attorneys and prosecutors that led to his 2007 plea agreement, which attorneys claim was unusually lenient and potentially influenced by Epstein's wealth and political connections. Epstein pleaded guilty to state charges in 2008 and served 13 months for procuring a minor for prostitution, avoiding federal prosecution that could have resulted in decades in prison."
+  }
+}

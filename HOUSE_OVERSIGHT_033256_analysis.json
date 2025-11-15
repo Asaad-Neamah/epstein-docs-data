@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033256.txt",
+  "file_name": "HOUSE_OVERSIGHT_033256.txt",
+  "processed_at": "2025-11-15T02:57:44.971465",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-10-04",
+      "subject": "PR Bonds",
+      "document_id": "HOUSE OVERSIGHT 033256",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey E."
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "CNBC"
+      ],
+      "locations": [
+        "Puerto Rico",
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Professional/Business",
+        "description": "Kahn is sending financial/political information to Jeffrey E. (likely Epstein)"
+      },
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "HBRK Associates Inc.",
+        "relationship_type": "Employment",
+        "description": "Kahn appears to be associated with HBRK Associates Inc."
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Puerto Rico bonds/debt"
+      ]
+    },
+    "analysis": {
+      "tone": "Professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To share a CNBC video about Trump's comments on Puerto Rico debt relief",
+      "significance": "Shows communication about financial/political matters involving Puerto Rico bonds and Trump administration policy"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward sharing of financial news"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news content (CNBC video link) about Trump's comments on Puerto Rico debt, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC video coverage about Trump's comments on Puerto Rico debt"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available CNBC news coverage about Trump administration policy regarding Puerto Rico's debt crisis in 2017"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a CNBC video link about Trump's comments that Puerto Rico's debt will need to be wiped out, sharing financial/political information about bond markets and government policy."
+  }
+}

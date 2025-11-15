@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032525.txt",
+  "file_name": "HOUSE_OVERSIGHT_032525.txt",
+  "processed_at": "2025-11-15T02:55:00.800634",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-04-16",
+      "subject": "SIT Customs",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "North Ramp",
+        "PBI",
+        "STT"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is providing logistical updates and seeking decisions from Jeffrey regarding customs arrangements"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "professional/personal",
+        "description": "Jeffrey appears to be coordinating travel logistics related to Trump's departure schedule"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "urgency indicated by 'Importance: High' and time-sensitive nature"
+      ],
+      "purpose": "To inform Jeffrey about customs staffing issues and seek decision on customs location for travel arrangements related to Trump's departure",
+      "significance": "Shows coordination between Jeffrey Epstein and Trump's travel logistics, with Epstein having decision-making authority over customs arrangements"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Due to Staffing issues, customs cannot use North Ramp, only PreClear in main building",
+      "Trump is suppose to depart 4pm. Latest 4:30pm"
+    ],
+    "red_flags": [
+      "Coordination with high-profile political figure's travel logistics",
+      "Urgent nature of communication regarding customs arrangements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be routine travel logistics coordination"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel logistics email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email shows Epstein's involvement in Trump's travel logistics, which could be of media interest given both individuals' public profiles"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein about customs staffing issues affecting travel arrangements, seeking Epstein's decision on whether to use PBI customs or PreClear STT for Trump's scheduled 4:00-4:30pm departure, with a 2 hour 25 minute flight time."
+  }
+}

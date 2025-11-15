@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029889.txt",
+  "file_name": "HOUSE_OVERSIGHT_029889.txt",
+  "processed_at": "2025-11-15T02:48:42.410334",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2009-08-11",
+      "subject": "FW: Jane Doe",
+      "document_id": "",
+      "sender": "Jessica Cadwell",
+      "recipients": [
+        "Robert D. Critton Jr.",
+        "Connie Zaguirre"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jessica Cadwell",
+        "Robert D. Critton Jr.",
+        "Connie Zaguirre",
+        "Jacquie Johnson",
+        "Bradley J. Edwards",
+        "Jane Doe",
+        "Maxwell",
+        "Trump",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "BURMAN CRITTON LUTTIER & COLEMAN, LLP",
+        "Milton Center for girls",
+        "Department of Juvenile Justice"
+      ],
+      "locations": [
+        "West Palm Beach, FL 33401",
+        "515 N. Flagler Drive"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jessica Cadwell",
+        "entity_2": "Jacquie Johnson",
+        "relationship_type": "professional",
+        "description": "Legal colleagues coordinating deposition scheduling and document requests"
+      },
+      {
+        "entity_1": "Bradley J. Edwards",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal_representation",
+        "description": "Attorney representing Jane Doe in legal proceedings"
+      },
+      {
+        "entity_1": "Jane Doe",
+        "entity_2": "Milton Center for girls",
+        "relationship_type": "institutional",
+        "description": "Former resident at juvenile justice facility"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, procedural",
+      "emotional_indicators": [],
+      "purpose": "Coordinate deposition scheduling and request signed HIPAA release for juvenile records",
+      "significance": "Shows legal proceedings involving Jeffrey Epstein, Ghislaine Maxwell, and Donald Trump, with focus on obtaining records for Jane Doe who was in juvenile justice system"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump has been moved to Sept. 24.",
+      "Does this mean you have service on Maxwell",
+      "DJJ will not release the records without a signed release by Jane Doe."
+    ],
+    "red_flags": [
+      "Jane Doe's records from juvenile justice facility being sought",
+      "Multiple high-profile individuals involved in depositions"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this procedural legal communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "This is procedural legal communication about deposition scheduling and document requests, not involving first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be legal correspondence related to Jeffrey Epstein case proceedings, involving high-profile individuals like Donald Trump and Ghislaine Maxwell"
+    },
+    "summary": "Legal email chain coordinating deposition scheduling for Jeffrey Epstein, Ghislaine Maxwell, and Donald Trump, while also requesting a signed HIPAA release form to obtain juvenile justice records for Jane Doe from the Milton Center facility."
+  }
+}

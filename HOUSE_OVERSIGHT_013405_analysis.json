@@ -1,0 +1,147 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_013405.txt",
+  "file_name": "HOUSE_OVERSIGHT_013405.txt",
+  "processed_at": "2025-11-15T02:36:24.835898",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-04-07",
+      "subject": "Privileged and Confidential",
+      "document_id": "",
+      "sender": "Darren Indyke",
+      "recipients": [
+        "Jackie Perczel"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Darren Indyke",
+        "Jackie Perczel",
+        "Jeffrey Epstein",
+        "Brad Edwards",
+        "Paul Cassell",
+        "Stephanie Woodrow",
+        "Alicia Valle",
+        "George Rush",
+        "Lawrence M. McKenna",
+        "Kenneth Marra",
+        "Michael Fisten",
+        "Laura Handman",
+        "Anne Carroll"
+      ],
+      "organizations": [
+        "U.S. House Committee on Oversight and Accountability",
+        "U.S. Attorney's Office Southern District of Florida",
+        "Department of Justice",
+        "Palm Beach Daily News",
+        "New York Daily News",
+        "Main Justice"
+      ],
+      "locations": [
+        "Miami",
+        "Palm Beach",
+        "West Palm Beach",
+        "New York",
+        "Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Brad Edwards",
+        "relationship_type": "legal adversarial",
+        "description": "Edwards represents victims suing Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Paul Cassell",
+        "relationship_type": "legal adversarial",
+        "description": "Cassell represents victims suing Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "U.S. Attorney's Office",
+        "relationship_type": "legal",
+        "description": "Prosecution relationship with non-prosecution agreement"
+      },
+      {
+        "entity_1": "Darren Indyke",
+        "entity_2": "Jackie Perczel",
+        "relationship_type": "professional",
+        "description": "Attorney communicating with colleague"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$50,000",
+        "$50 million"
+      ],
+      "transactions": [
+        "monetary settlements in civil cases"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, legal-focused",
+      "emotional_indicators": [
+        "legal determination",
+        "professional concern"
+      ],
+      "purpose": "To share news articles about legal developments in the Jeffrey Epstein case, specifically regarding challenges to his non-prosecution agreement",
+      "significance": "Shows legal team monitoring developments in Epstein case and sharing information about victims' rights challenge to controversial plea deal"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Alleged violation of Crime Victims' Rights Act",
+        "Failure to notify victims of non-prosecution agreement",
+        "Potential misconduct by prosecutors"
+      ]
+    },
+    "notable_quotes": [
+      "\"The only reason that the (U.S. Attorney's office) concealed the existence of the non-prosecution agreement from the victims was not to comply with some legal restriction, but rather to avoid a firestorm of public controversy that would have erupted if the sweetheart plea deal with a politically connected billionaire had been revealed.\"",
+      "\"Epstein used his significant political and social connections to lobby the Justice Department to avoid significant federal prosecution.\""
+    ],
+    "red_flags": [
+      "Prosecutors allegedly sending false notification letters to victims",
+      "Concealment of non-prosecution agreement",
+      "Political influence affecting prosecution decisions"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication - it's legal professionals sharing news articles"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email shares news articles about legal proceedings involving Jeffrey Epstein's case, but contains no first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to George Rush interview with Epstein",
+        "Media coverage of legal proceedings",
+        "News articles from Main Justice and Palm Beach Daily News"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "The Jeffrey Epstein case and his controversial plea deal were widely reported in media. The specific legal challenge to the non-prosecution agreement was covered by legal and mainstream news outlets."
+    },
+    "summary": "Attorney Darren Indyke emails Jackie Perczel with attached news articles about legal challenges to Jeffrey Epstein's non-prosecution agreement, including allegations that prosecutors violated victims' rights by concealing the deal and that Epstein used political connections to avoid federal prosecution."
+  }
+}

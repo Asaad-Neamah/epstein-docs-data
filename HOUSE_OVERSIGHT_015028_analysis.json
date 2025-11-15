@@ -1,0 +1,132 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_015028.txt",
+  "file_name": "HOUSE_OVERSIGHT_015028.txt",
+  "processed_at": "2025-11-15T02:37:42.920352",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2017-08-26",
+      "subject": "Could U.S. case against sex offender Jeffrey Epstein be reopened?",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Jane Musgrave",
+        "Kenneth Marra",
+        "Bradley Edwards",
+        "Paul Cassell",
+        "Bill Clinton",
+        "Prince Andrew",
+        "Roy Black",
+        "Alex Acosta",
+        "Marie Villafana"
+      ],
+      "organizations": [
+        "Palm Beach Post",
+        "U.S. House Committee on Oversight and Accountability",
+        "U.S. District Court",
+        "U.S. Department of Justice",
+        "U.S. Labor Department",
+        "University of Utah"
+      ],
+      "locations": [
+        "Palm Beach",
+        "West Palm Beach",
+        "U.S. Virgin Islands",
+        "Miami",
+        "South Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "personal/political",
+        "description": "Epstein ferried President Clinton on his private jet"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Prince Andrew",
+        "relationship_type": "personal",
+        "description": "Epstein counts Prince Andrew as a friend"
+      },
+      {
+        "entity_1": "Alex Acosta",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal/prosecutorial",
+        "description": "Acosta was U.S. attorney for South Florida who handled Epstein's plea deal"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "undisclosed amounts of money paid to approximately 30 victims"
+      ],
+      "assets": [
+        "private island in U.S. Virgin Islands",
+        "Palm Beach mansion",
+        "private jet"
+      ]
+    },
+    "analysis": {
+      "tone": "journalistic/informative",
+      "emotional_indicators": [],
+      "purpose": "To report on legal proceedings seeking to reopen the Jeffrey Epstein case due to violations of victims' rights",
+      "significance": "Documents potential reopening of high-profile sex abuse case involving wealthy, politically-connected individual"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Violation of Crime Victims' Rights Act",
+        "Secret plea deal negotiations",
+        "Failure to notify victims of plea agreement terms"
+      ]
+    },
+    "notable_quotes": [
+      "\"The government's conduct here was particularly egregious, because it repeatedly found time to confer with attorneys for Epstein — the man who sexually abused the victims\"",
+      "\"This isn't about money, it's about justice\" - Paul Cassell"
+    ],
+    "red_flags": [
+      "Secret plea deal negotiations",
+      "Failure to notify victims",
+      "Unusual sentencing arrangement allowing Epstein to leave jail 16 hours daily"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article about legal proceedings"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and past events, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article by Jane Musgrave, Palm Beach Post Staff Writer",
+        "Media coverage of legal proceedings"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a publicly published news article about Jeffrey Epstein's case and legal proceedings, indicating the information is already public"
+    },
+    "summary": "This news article reports on legal efforts to reopen the Jeffrey Epstein case, alleging federal prosecutors violated victims' rights by secretly negotiating a plea deal without notifying Epstein's alleged victims. The case involves allegations that Epstein sexually abused dozens of teenage girls and received an unusually lenient plea agreement."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_031824.txt",
+  "file_name": "HOUSE_OVERSIGHT_031824.txt",
+  "processed_at": "2025-11-15T02:53:09.394088",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-06-15",
+      "subject": "From Fox News - Jeffrey Epstein, registered sex offender, settles civil lawsuit and avoids testimony from alleged victims",
+      "document_id": "",
+      "sender": "DAVID SCHOEN",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Clinton"
+      ],
+      "organizations": [
+        "Fox News"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "DAVID SCHOEN",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Attorney communicating with client about legal case"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Clinton",
+        "relationship_type": "political",
+        "description": "Mentioned as being linked in the news article"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, critical, supportive",
+      "emotional_indicators": [
+        "frustration with media coverage",
+        "desire for positive press",
+        "satisfaction with legal outcome"
+      ],
+      "purpose": "To share a news article about Epstein's civil lawsuit settlement and express opinions about the media coverage",
+      "significance": "Shows attorney's perspective on Epstein's legal strategy and media portrayal during ongoing litigation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "All of sudden the NPA in 's case goes from no jurisdiction even to prosecute to you avoiding a possible life sentence. Moronic.",
+      "Man I sure would like to see you getting some in the W column though and some press that at least presents the true facts that some of the girls have admitted under oath."
+    ],
+    "red_flags": [
+      "Settlement to avoid victim testimony",
+      "Attorney expressing frustration with media narrative"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email shares a news article about Epstein's legal case but contains no first-hand evidence of illegal activity by the sender or recipient"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Fox News article about Epstein's civil lawsuit settlement",
+        "Discussion of media coverage and press strategy"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to the widely publicized civil lawsuit against Jeffrey Epstein that was settled in 2019, which received significant media attention"
+    },
+    "summary": "Attorney David Schoen emails Jeffrey Epstein sharing a Fox News article about his civil lawsuit settlement that avoided victim testimony, while criticizing the media coverage and expressing desire for more favorable press that includes facts about some victims' sworn testimony."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033341.txt",
+  "file_name": "HOUSE_OVERSIGHT_033341.txt",
+  "processed_at": "2025-11-15T02:58:34.488334",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-01",
+      "subject": "POTUS",
+      "document_id": "HOUSE OVERSIGHT 033341",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "President Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "PBI (Palm Beach International Airport)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional/operational",
+        "description": "Larry is providing logistical information to Jeffrey about flight schedules"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "President Trump",
+        "relationship_type": "apparent connection",
+        "description": "Jeffrey appears to have travel plans that coincide with President Trump's schedule in Palm Beach"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informational, casual, professional",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey about President Trump's travel schedule and how it might affect their own arrival plans",
+      "significance": "Shows coordination between Larry Visoski and Jeffrey regarding travel logistics that intersect with the President's schedule"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "President Trump arrives PBI today and is scheduled to depart 9pm on Sunday",
+      "Should not effect our arrival at 11:30pm Sunday evening"
+    ],
+    "red_flags": [
+      "Coordination of travel schedules with presidential movements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows coordination between Jeffrey Epstein's associates and presidential travel schedules, which would be of interest given Epstein's later legal troubles and connections to powerful figures"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein to inform him about President Trump's arrival and departure schedule from Palm Beach International Airport, noting that Trump's 9pm Sunday departure should not affect their planned 11:30pm Sunday evening arrival."
+  }
+}

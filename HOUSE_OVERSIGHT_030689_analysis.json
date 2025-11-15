@@ -1,0 +1,126 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030689.txt",
+  "file_name": "HOUSE_OVERSIGHT_030689.txt",
+  "processed_at": "2025-11-15T02:50:30.751140",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-18",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E. (Epstein)",
+        "Bannon (Steve Bannon)",
+        "Ira Rosen",
+        "Trump (Donald Trump)",
+        "Bill Maher"
+      ],
+      "organizations": [
+        "60 Minutes"
+      ],
+      "locations": [
+        "DC (Washington D.C.)",
+        "LA (Los Angeles)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Media strategy discussions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Personal",
+        "description": "Communicating about scheduling meetings and political strategy discussions"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "Professional",
+        "description": "Wolff reporting on Bannon's messages and political strategy considerations"
+      },
+      {
+        "entity_1": "Steve Bannon",
+        "entity_2": "Donald Trump",
+        "relationship_type": "Political",
+        "description": "Bannon considering a formal public break from Trump after previous conflicts"
+      },
+      {
+        "entity_1": "Ira Rosen",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "Friendship/Professional",
+        "description": "Rosen is described as a friend of Bannon's and conveyed messages from him"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "few million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Casual, conversational, somewhat boastful",
+      "emotional_indicators": [
+        "Confidence",
+        "Excitement",
+        "Professional pride"
+      ],
+      "purpose": "To coordinate a meeting between Epstein and Wolff, discuss Steve Bannon's political strategy, and share professional updates",
+      "significance": "Shows Epstein's involvement in high-level political strategy discussions and connections to influential media and political figures during a turbulent period in the Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Ira Rosen, a 60 Minutes producer and a friend of Bannon's, came with a message from SB: 'You own me a few million.'\"",
+      "\"Rosen also says he believes SB now weighing the strategy of making a formal and public break with Trump.\"",
+      "\"prefer no details on email\""
+    ],
+    "red_flags": [
+      "Request to avoid email details suggests awareness of sensitive nature of discussions",
+      "High-level political strategy discussions involving controversial figures"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of 60 Minutes producer Ira Rosen",
+        "Reference to Bill Maher show booking",
+        "Mention of 'small circle of journalists'",
+        "Book promotion activities"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication about Steve Bannon's potential break with Trump during January 2018, when Bannon had recently left the White House and was dealing with fallout from Michael Wolff's book 'Fire and Fury'"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing Steve Bannon's potential public break with Trump, coordinating a meeting, and sharing updates about Wolff's media appearances and book promotion activities, with a notable caution against discussing details via email."
+  }
+}

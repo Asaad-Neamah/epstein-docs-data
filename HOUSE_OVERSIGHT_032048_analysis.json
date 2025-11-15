@@ -1,0 +1,118 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032048.txt",
+  "file_name": "HOUSE_OVERSIGHT_032048.txt",
+  "processed_at": "2025-11-15T02:53:25.344272",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-04-12",
+      "subject": "These conspiracy theories are an aberration and an insult to the memory of the crash victims, including the late President himself",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Kaczynski",
+        "Barack Obama",
+        "Mayor Daley",
+        "President Obama"
+      ],
+      "organizations": [
+        "U.S. government",
+        "Russian government",
+        "Prime Minister's party",
+        "President's party"
+      ],
+      "locations": [
+        "Poland",
+        "Russia",
+        "U.S.",
+        "Europe",
+        "Chicago"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Author",
+        "entity_2": "Poland",
+        "relationship_type": "nationality",
+        "description": "Author identifies as a Pole with awareness of Polish politics and economics"
+      },
+      {
+        "entity_1": "Author",
+        "entity_2": "Journalism",
+        "relationship_type": "professional",
+        "description": "Author identifies as a journalist who follows world politics daily"
+      },
+      {
+        "entity_1": "Kaczynski",
+        "entity_2": "U.S.",
+        "relationship_type": "political",
+        "description": "Kaczynski was described as one of the strongest allies of the U.S. among European leaders"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "passionate, critical, defensive, analytical",
+      "emotional_indicators": [
+        "severely disappointed",
+        "feel ashamed",
+        "passionate defense against conspiracy theories"
+      ],
+      "purpose": "To refute conspiracy theories surrounding the Polish presidential plane crash and criticize those who propagate them",
+      "significance": "Provides insight into political tensions and conspiracy theories following the 2010 Polish Air Force Tu-154 crash that killed President Lech Kaczyński"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"These conspiracy theories are an aberration and an insult to the memory of the crash victims, including the late President himself\"",
+      "\"Conspiracy-monging cheapens a national tragedy\"",
+      "\"Baseless, nonsensical conspiracies simply destroys the ability of the nation and people of Poland to move on and honor the memory of those lost\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is a political commentary email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains political commentary and analysis of conspiracy theories, with no discussion or evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Author identifies as a journalist who follows world politics and news developments daily",
+        "References to media coverage and public discourse around conspiracy theories"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Refers to the well-documented 2010 Polish Air Force Tu-154 crash that killed President Lech Kaczyński and numerous other Polish officials, which was subject to widespread conspiracy theories"
+    },
+    "summary": "This email sent to Jeffrey Epstein contains a passionate rebuttal of conspiracy theories surrounding the 2010 Polish presidential plane crash, arguing that such theories are baseless, politically motivated, and disrespectful to the victims' memory, while drawing parallels to similar conspiracy theories in American politics like the 'birther' movement against Barack Obama."
+  }
+}

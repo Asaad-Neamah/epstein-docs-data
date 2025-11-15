@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031565.txt",
+  "file_name": "HOUSE_OVERSIGHT_031565.txt",
+  "processed_at": "2025-11-15T02:52:18.527755",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-13",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 031565",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "J (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "U.S. President's inaugural committee",
+        "Manhattan U.S. attorney's office",
+        "Wall Street Journal",
+        "Newsmax"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "J (jeevacation@gmail.com)",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing legal investigation"
+      },
+      {
+        "entity_1": "Trump inaugural committee",
+        "entity_2": "Federal prosecutors",
+        "relationship_type": "legal",
+        "description": "Subject of investigation for potential misspending and policy influence"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "Potential misspending of inaugural funds",
+        "Donations in exchange for policy concessions"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, concerned",
+      "emotional_indicators": [
+        "concern about problems",
+        "urgency indicated by importance setting"
+      ],
+      "purpose": "To alert recipient about federal investigation into Trump inaugural committee spending",
+      "significance": "Shows awareness of federal probe into potential corruption involving presidential inaugural funds"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential misspending of funds",
+        "Possible exchange of donations for policy concessions",
+        "Potential influence peddling"
+      ]
+    },
+    "notable_quotes": [
+      "TB has big problems",
+      "Federal prosecutors are investigating whether U.S. President Donald Trump's inaugural committee misspent some of the funds it raised",
+      "The probe...is examining whether some of the committee's donors gave money in exchange for policy concessions, influencing administration positions or access"
+    ],
+    "red_flags": [
+      "Federal investigation into potential corruption",
+      "Possible quid pro quo arrangements between donors and administration",
+      "High importance marking suggests urgency about legal matters"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - this is a straightforward sharing of news about a federal investigation"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email is sharing news article content about a federal investigation into Trump's inaugural committee. No first-hand illegal activity is discussed or evidenced by the sender."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Wall Street Journal report referenced",
+        "Newsmax publication mentioned",
+        "Media coverage of federal investigation being shared"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to the actual federal investigation into Trump's inaugural spending that was widely reported in 2018-2019"
+    },
+    "summary": "Nicholas Ribis forwards a news report to J about federal prosecutors investigating potential misspending of Trump inaugural funds and possible exchange of donations for policy concessions, noting that 'TB has big problems' with high importance."
+  }
+}

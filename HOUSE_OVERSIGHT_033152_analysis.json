@@ -1,0 +1,84 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033152.txt",
+  "file_name": "HOUSE_OVERSIGHT_033152.txt",
+  "processed_at": "2025-11-15T02:57:39.635356",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-06-08",
+      "subject": "",
+      "document_id": "",
+      "sender": "J [jeeyacation@gmail.com]",
+      "recipients": [
+        "Kathy Ruemmler"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Michael Wolff"
+      ],
+      "organizations": [
+        "Yahoo News"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Kathy Ruemmler",
+        "relationship_type": "professional/communication",
+        "description": "Sender sharing news article with recipient"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "brief, directive",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about Michael Wolff's Trump book with Kathy Ruemmler",
+      "significance": "Shows communication about media coverage of Trump-related content"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a news article about Michael Wolff's book - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Yahoo News article about Michael Wolff's Trump book containing multiple errors"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Wolff was a controversial author who wrote books about the Trump administration; this appears to reference his work and its factual issues"
+    },
+    "summary": "An email from 'J' to Kathy Ruemmler sharing a Yahoo News article about errors in Michael Wolff's Trump book, with a brief directive to 'please note' the content."
+  }
+}

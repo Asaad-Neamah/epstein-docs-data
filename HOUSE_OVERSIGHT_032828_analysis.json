@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032828.txt",
+  "file_name": "HOUSE_OVERSIGHT_032828.txt",
+  "processed_at": "2025-11-15T02:55:56.623196",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-11-08",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "J (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Trump"
+      ],
+      "organizations": [
+        "Dems"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "J",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence discussing political matters"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump",
+        "relationship_type": "observer/subject",
+        "description": "Wolff reporting on Trump's political situation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "confidence in political assessment",
+        "informal language"
+      ],
+      "purpose": "To provide a brief political update about Trump's situation after an event",
+      "significance": "Shows informal political commentary being shared between individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Thinks Trump is fucked.",
+      "But likely that the Dems will screw it up too."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "General political commentary about Trump and Democrats in 2018"
+    },
+    "summary": "Michael Wolff emails J to report that someone (likely a political figure) was 'in good form' and believes Trump is in political trouble, but also predicts Democrats will mishandle the situation."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026343.txt",
+  "file_name": "HOUSE_OVERSIGHT_026343.txt",
+  "processed_at": "2025-11-15T02:44:28.407367",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-23",
+      "subject": "Lunch tomorrow? Or after?",
+      "document_id": "",
+      "sender": "J",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "J",
+        "Trump"
+      ],
+      "organizations": [
+        "Wharton",
+        "Deutsche Bank"
+      ],
+      "locations": [],
+      "financial_entities": [
+        "Deutsche Bank"
+      ]
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about scheduling lunch and discussing potential interview topics"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "Trump",
+        "relationship_type": "referenced",
+        "description": "J mentions Trump's classmates at Wharton and Deutsche Bank papers"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, suggestive",
+      "emotional_indicators": [
+        "urgency (importance: high)",
+        "suggestive tone about interview topics"
+      ],
+      "purpose": "Schedule lunch meeting and suggest interview topics related to Trump's background",
+      "significance": "Shows communication about potential media strategy regarding Trump's educational and financial background"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Why had no one interviewed some of trump classmates at wharton ? Deutsh bank papers very bery bad",
+      "Lunch tomorrow? Or after? I have 4:00 appt. anytime before works."
+    ],
+    "red_flags": [
+      "Suggestive language about potentially damaging information",
+      "High importance marking for casual lunch invitation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used. Appears to be scheduling a meeting and suggesting interview topics."
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of first-hand illegal activity. The email discusses potential interview topics and scheduling a meeting."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of interview opportunities with Trump's Wharton classmates",
+        "Reference to Deutsche Bank papers as potentially damaging"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be a private email discussing potential media strategies regarding Trump's educational background and financial dealings with Deutsche Bank, which were topics of public interest in 2019."
+    },
+    "summary": "Email exchange between J and journalist Michael Wolff scheduling a lunch meeting and suggesting interview topics involving Trump's Wharton classmates and potentially damaging Deutsche Bank documents, marked as high importance."
+  }
+}

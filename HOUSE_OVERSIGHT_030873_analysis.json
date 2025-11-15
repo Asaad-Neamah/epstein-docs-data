@@ -1,0 +1,113 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030873.txt",
+  "file_name": "HOUSE_OVERSIGHT_030873.txt",
+  "processed_at": "2025-11-15T02:50:57.483133",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-10-09",
+      "subject": "Fwd: How's it looking...?",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Steve Bannon",
+        "prince",
+        "djt",
+        "corker"
+      ],
+      "organizations": [
+        "New York Times (NYT)"
+      ],
+      "locations": [
+        "Paris",
+        "CT (Connecticut)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Wolff is communicating with Epstein about scheduling"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "professional",
+        "description": "Wolff and Bannon are coordinating a meeting"
+      },
+      {
+        "entity_1": "Steve Bannon",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Bannon appears to be trying to schedule a meeting with Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, urgent",
+      "emotional_indicators": [
+        "urgency",
+        "informality"
+      ],
+      "purpose": "To coordinate a meeting between Steve Bannon and Jeffrey Epstein, and to discuss political news coverage",
+      "significance": "Shows communication between Jeffrey Epstein and prominent political figures (Steve Bannon) shortly after the 2016 election, with discussion of political strategy and media coverage"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Did u see prince in nyt and djt tweets on corker???",
+      "I'm in CT w/ donors to my revolution now all day...can we meet tomorrow?"
+    ],
+    "red_flags": [
+      "High-level political coordination with Jeffrey Epstein in 2017",
+      "Reference to 'revolution' and political donors"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email chain"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to New York Times coverage and presidential tweets about political figures"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication between Michael Wolff, Steve Bannon, and Jeffrey Epstein discussing political strategy and coordination in October 2017"
+    },
+    "summary": "Email chain from Michael Wolff to Jeffrey Epstein forwarding a conversation with Steve Bannon about scheduling a meeting, with discussion of New York Times coverage and political tweets, showing coordination between Epstein and Bannon during the Trump administration."
+  }
+}

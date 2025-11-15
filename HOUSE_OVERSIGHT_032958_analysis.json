@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032958.txt",
+  "file_name": "HOUSE_OVERSIGHT_032958.txt",
+  "processed_at": "2025-11-15T02:56:36.408069",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email_thread",
+      "date": "2017-01-15",
+      "subject": "Re: (multiple subjects: real estate, aircraft trading)",
+      "document_id": "",
+      "sender": "Alireza Ittihadieh",
+      "recipients": [
+        "jeffrey E."
+      ]
+    },
+    "entities": {
+      "people": [
+        "Alireza Ittihadieh",
+        "Jeffrey E."
+      ],
+      "organizations": [],
+      "locations": [
+        "Virginia"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Real estate/properties",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Alireza Ittihadieh",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "business",
+        "description": "Business associates discussing real estate and aircraft transactions"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$300,000",
+        "$18,500,000",
+        "$17,600,000"
+      ],
+      "transactions": [
+        "Real estate purchase with $300k renovation",
+        "G550 aircraft purchase at $18.5M",
+        "G550 aircraft contract at $17.6M"
+      ],
+      "assets": [
+        "Real estate in Virginia",
+        "G550 aircraft (multiple)",
+        "G650 aircraft",
+        "BBJ aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, business-like",
+      "emotional_indicators": [],
+      "purpose": "Business communication regarding real estate and aircraft market activity and transactions",
+      "significance": "Shows business dealings and market intelligence sharing between associates in high-value asset markets"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I just got my G550 - 5176 under contract at $18.5 and it's going to Pre-Purchase inspection on Monday.",
+      "As a company we have 5 G550, 2 G650 and 1 BBJ buyers.",
+      "People are just back and the activity really started this week. A lot of enquiries out of China and a lot of buyers in the US have resurfaced"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be standard business communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - communication is about legitimate business transactions in real estate and aircraft markets"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private business communication about specific transactions that would not typically be public knowledge"
+    },
+    "summary": "Email thread between Alireza Ittihadieh and Jeffrey E. discussing high-value business transactions including real estate in Virginia and multiple aircraft purchases (G550, G650, BBJ models), with specific pricing details and market observations about increased activity from Chinese and US buyers following Trump's election."
+  }
+}

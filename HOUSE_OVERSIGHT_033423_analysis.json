@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033423.txt",
+  "file_name": "HOUSE_OVERSIGHT_033423.txt",
+  "processed_at": "2025-11-15T02:58:45.014134",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-14",
+      "subject": "Re: NY",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "J (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "NY",
+        "Boca",
+        "PBI (Palm Beach International Airport)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry appears to be making travel arrangements for Jeffrey, suggesting an employee/employer or assistant relationship"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "personal/business",
+        "description": "Jeffrey's travel plans are coordinated around Trump's arrival schedule"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "G550 (private jet)"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, logistical",
+      "emotional_indicators": [
+        "urgency (importance: High)"
+      ],
+      "purpose": "Coordinate private jet logistics and travel arrangements around Trump's schedule",
+      "significance": "Shows coordination of private jet travel involving high-profile individuals and careful scheduling around political figures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I guess It makes sense to leave the G550 in PBI until Wednesday then fly it to Boca, Since Trump arrival is Friday.",
+      "Should I leave plane in PBI until Wednesday?"
+    ],
+    "red_flags": [
+      "Coordination of travel around political figure's schedule",
+      "Use of private email for business communications"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine travel coordination"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel logistics only"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email involves Donald Trump and Jeffrey Epstein, whose relationship has been subject to media scrutiny and public interest"
+    },
+    "summary": "Larry Visoski coordinates private jet (G550) logistics with Jeffrey Epstein, discussing whether to keep the plane in Palm Beach until Wednesday and then move it to Boca Raton, with travel plans being adjusted around Donald Trump's arrival schedule on Friday."
+  }
+}

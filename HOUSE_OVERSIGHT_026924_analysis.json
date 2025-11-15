@@ -1,0 +1,123 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026924.txt",
+  "file_name": "HOUSE_OVERSIGHT_026924.txt",
+  "processed_at": "2025-11-15T02:45:40.837594",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-20",
+      "subject": "Fwd:",
+      "document_id": "",
+      "sender": "paul krassner",
+      "recipients": [
+        "Danny Goldberg",
+        "Kevin Bright",
+        "Caryl Ratner"
+      ]
+    },
+    "entities": {
+      "people": [
+        "paul krassner",
+        "Danny Goldberg",
+        "Kevin Bright",
+        "Caryl Ratner",
+        "Santa",
+        "Jon Gruden",
+        "Pope Francis",
+        "Kareem Hunt"
+      ],
+      "organizations": [
+        "The Onion",
+        "UCF",
+        "NFL",
+        "Chili's",
+        "St. Peter's",
+        "College Football Playoff",
+        "Raiders"
+      ],
+      "locations": [
+        "Chicago, IL",
+        "5 Major Cities"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "paul krassner",
+        "entity_2": "Danny Goldberg",
+        "relationship_type": "professional/personal",
+        "description": "Email sender to recipient"
+      },
+      {
+        "entity_1": "paul krassner",
+        "entity_2": "Kevin Bright",
+        "relationship_type": "professional/personal",
+        "description": "Email sender to recipient"
+      },
+      {
+        "entity_1": "paul krassner",
+        "entity_2": "Caryl Ratner",
+        "relationship_type": "professional/personal",
+        "description": "Email sender to recipient"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$11313 Billion",
+        "$50"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "humorous/satirical",
+      "emotional_indicators": [
+        "humorous",
+        "entertaining"
+      ],
+      "purpose": "Forwarding satirical news articles from The Onion for entertainment purposes",
+      "significance": "Demonstrates sharing of satirical content among acquaintances, but contains no substantive legal or investigative content"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Ho, Ho, Ho! Send Me $11313 Billion By Christmas Or I Will Detonate A Dirty Bomb In 5 Major Cities!",
+      "Voyeur Researchers Recommend At Least 7 Hours Of Watching Someone Sleep Per Night",
+      "Raiders Announce Plan To Play 2019 Home Games In Jon Gruden's Backyard"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "The 'blackmail' reference is clearly satirical content from The Onion about Santa Claus, not actual threats"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains forwarded satirical news articles from The Onion, not evidence of first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Forwarding content from The Onion satirical news organization",
+        "Contains multiple satirical news headlines and articles"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "This appears to be personal email correspondence forwarding publicly available satirical content from The Onion website"
+    },
+    "summary": "Paul Krassner forwards an email containing multiple satirical news headlines from The Onion to three recipients, featuring humorous fake news stories including a satirical Santa Claus blackmail threat and various parody articles, with no substantive legal or investigative content relevant to the House Committee's work."
+  }
+}

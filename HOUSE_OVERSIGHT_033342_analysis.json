@@ -1,0 +1,88 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033342.txt",
+  "file_name": "HOUSE_OVERSIGHT_033342.txt",
+  "processed_at": "2025-11-15T02:58:15.331448",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-03",
+      "subject": "PBI",
+      "document_id": "HOUSE OVERSIGHT 033342",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Trump"
+      ],
+      "organizations": [
+        "TSA",
+        "Palm Beach Atlantic"
+      ],
+      "locations": [
+        "Palm Beach",
+        "RBI"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Je vacation",
+        "relationship_type": "professional/operational",
+        "description": "Providing flight logistics information and coordination"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To provide flight logistics information about landing at Palm Beach International airport regarding Temporary Flight Restrictions during the Super Bowl and President Trump's departure",
+      "significance": "Shows coordination of private flight operations around presidential movements and major events"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Once the President departs Palm Beach area, the TFR (temporary flight restriction) is lifted, we should be able to land in RBI.",
+      "Only a guess, Trump will leave around 10pm is my guess."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - purely operational flight logistics communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine flight logistics coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Temporary Flight Restrictions around presidential movements are standard security procedures that are publicly announced"
+    },
+    "summary": "Larry Visoski emails an unknown recipient about flight logistics at Palm Beach International airport, noting that Temporary Flight Restrictions will lift after President Trump departs following the Super Bowl, with an estimated departure time around 10pm."
+  }
+}

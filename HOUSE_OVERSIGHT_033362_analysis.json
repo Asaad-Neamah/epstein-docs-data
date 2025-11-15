@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033362.txt",
+  "file_name": "HOUSE_OVERSIGHT_033362.txt",
+  "processed_at": "2025-11-15T02:58:19.550444",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-30",
+      "subject": "Fwd: Apple, Inc.: Addressing The Top 5 Investor Questions",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Katy L. Huberty",
+        "Tim Cook",
+        "Andrew Atlas"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Morgan Stanley",
+        "Apple, Inc.",
+        "Jigaung",
+        "Huawei"
+      ],
+      "locations": [
+        "New York, NY",
+        "China",
+        "US"
+      ],
+      "financial_entities": [
+        "Morgan Stanley"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Richard Kahn forwarding financial analysis to Jeffrey Epstein"
+      },
+      {
+        "entity_1": "Morgan Stanley",
+        "entity_2": "Apple, Inc.",
+        "relationship_type": "financial analysis",
+        "description": "Morgan Stanley providing investment analysis on Apple stock"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$160",
+        "$231",
+        "$240",
+        "$1.6B",
+        "$0.05"
+      ],
+      "transactions": [
+        "iPhone shipments",
+        "revenue projections",
+        "EPS estimates"
+      ],
+      "assets": [
+        "Apple stock",
+        "iPhone units"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, analytical",
+      "emotional_indicators": [],
+      "purpose": "Forwarding financial analysis on Apple Inc. stock performance and market risks",
+      "significance": "Shows financial information sharing between Richard Kahn and Jeffrey Epstein regarding Apple stock analysis"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this financial analysis forwarding"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains forwarded financial analysis from Morgan Stanley about Apple Inc. stock performance - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard financial market analysis that would be widely available to investors and financial professionals"
+    },
+    "summary": "Richard Kahn forwards a Morgan Stanley investment analysis report about Apple Inc. stock performance and market risks related to US-China trade tensions to Jeffrey Epstein, containing financial projections and market analysis."
+  }
+}

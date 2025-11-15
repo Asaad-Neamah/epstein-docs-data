@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031221.txt",
+  "file_name": "HOUSE_OVERSIGHT_031221.txt",
+  "processed_at": "2025-11-15T02:51:25.181949",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-08-21",
+      "subject": "Re: Program & Attendee list",
+      "document_id": "",
+      "sender": "Barbro C. Ehnbom",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Barbro C. Ehnbom",
+        "Jeffrey Epstein",
+        "Bill Clinton",
+        "Diana deGette",
+        "Jeff Kriendler",
+        "Goldsamt",
+        "Sofia",
+        "Marcus",
+        "Cecilia Schött"
+      ],
+      "organizations": [
+        "Swedish-American Life Science Summit",
+        "U.S. Congress"
+      ],
+      "locations": [
+        "Stockholm",
+        "New York City",
+        "Miami",
+        "Colorado"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Travel/logistics",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Barbro C. Ehnbom",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "business/personal",
+        "description": "Colleagues discussing summit planning and potential collaboration on fundraising"
+      },
+      {
+        "entity_1": "Barbro C. Ehnbom",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "professional",
+        "description": "Previously met and invited Clinton to Globalization Summit"
+      },
+      {
+        "entity_1": "Barbro C. Ehnbom",
+        "entity_2": "Diana deGette",
+        "relationship_type": "political",
+        "description": "Planning fundraiser for Congresswoman deGette"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, friendly, professional",
+      "emotional_indicators": [
+        "exhaustion",
+        "enthusiasm",
+        "apologetic"
+      ],
+      "purpose": "Respond to Jeffrey Epstein's question about 'wife choice,' provide summit information, discuss potential collaboration on fundraising event, and suggest future travel plans",
+      "significance": "Shows Epstein's connections to international summit organizers and political fundraising efforts"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "who is you r wife choice this year?",
+      "I invited Bill Clinton to when I met him in Stockholm last Summer-But he is a bit busy I gather!",
+      "I am supposedly arranging a fund-raiser for Congress Woman Diana deGette of Colorado on Sept 27 in NYC"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private email exchange about event planning and personal connections"
+    },
+    "summary": "Email exchange between Barbro Ehnbom and Jeffrey Epstein discussing summit planning, a potential fundraiser for Congresswoman Diana deGette, and social connections, with Epstein asking about 'wife choice' and Ehnbom providing event details and suggesting future travel to Stockholm."
+  }
+}

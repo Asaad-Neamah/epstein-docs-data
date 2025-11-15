@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033489.txt",
+  "file_name": "HOUSE_OVERSIGHT_033489.txt",
+  "processed_at": "2025-11-15T02:58:57.903741",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-09-16",
+      "subject": "Cuba trip",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)",
+        "Darren Indyke",
+        "Rich Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "William McLendon",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Universal Weather and Aviation, Inc",
+        "Department of Treasury",
+        "U.S. Government"
+      ],
+      "locations": [
+        "Cuba"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Compliance issues"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is providing travel logistics information to Jeffrey"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Universal Weather and Aviation, Inc",
+        "relationship_type": "business",
+        "description": "Larry is coordinating with Universal Weather for Cuba travel arrangements"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To provide documentation and requirements for arranging a trip to Cuba, including necessary certifications and compliance with changing regulations",
+      "significance": "Shows coordination of international travel arrangements during a period of changing US-Cuba relations policy"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Cuba travel regulations compliance",
+        "Department of Treasury certification requirements",
+        "Changing US-Cuba relations policies"
+      ]
+    },
+    "notable_quotes": [
+      "President Donald Trump has announced changes that are to come regarding Cuban and us relations. This means the regulations are being rewritten to reflect these changes",
+      "If they do not fall under any of those then they will need a specific license from the Department of Treasury"
+    ],
+    "red_flags": [
+      "International travel coordination during changing regulatory environment",
+      "Potential need for special Treasury licenses"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely logistical travel coordination email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine travel logistics email focused on compliance with Cuba travel regulations"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Document shows routine travel coordination during the Trump administration's changes to Cuba policy in 2017"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein's team regarding Cuba travel arrangements, providing documentation and requirements from Universal Weather and Aviation, including necessary certifications for the aircraft and passengers to comply with changing US-Cuba relations policies under the Trump administration."
+  }
+}

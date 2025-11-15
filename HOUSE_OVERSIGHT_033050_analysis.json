@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033050.txt",
+  "file_name": "HOUSE_OVERSIGHT_033050.txt",
+  "processed_at": "2025-11-15T02:56:59.957235",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-12-02",
+      "subject": "Re: Trump in your neighborhood today. Looks like he is going to 740 Park for a fundraiser.",
+      "document_id": "",
+      "sender": "Jeffrey E. [jeeyacation@gmail.com]",
+      "recipients": [
+        "Richard Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E. Epstein",
+        "Richard Kahn",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "740 Park",
+        "New York, NY",
+        "575 Lexington Avenue"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Richard Kahn",
+        "relationship_type": "Professional/Associate",
+        "description": "Email correspondence between Epstein and Kahn regarding Trump's activities"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "Awareness/Monitoring",
+        "description": "Epstein receiving information about Trump's whereabouts and activities"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "740 Park (likely real estate property)"
+      ]
+    },
+    "analysis": {
+      "tone": "Informational",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey Epstein about Donald Trump's presence in the neighborhood and attendance at a fundraiser",
+      "significance": "Shows monitoring of Trump's movements and awareness of political fundraising activities"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump in your neighborhood today. Looks like he is going to 740 Park for a fundraiser."
+    ],
+    "red_flags": [
+      "Monitoring of high-profile political figures' movements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be informational sharing about Trump's whereabouts"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - simply sharing information about Trump's location and fundraiser attendance"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Document shows Epstein's associates monitoring Trump's movements during a time when both were high-profile figures with known connections"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein to inform him that Donald Trump is in his neighborhood and appears to be attending a fundraiser at 740 Park Avenue, indicating Epstein's awareness of Trump's movements and activities."
+  }
+}

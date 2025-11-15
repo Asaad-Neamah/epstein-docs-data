@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030411.txt",
+  "file_name": "HOUSE_OVERSIGHT_030411.txt",
+  "processed_at": "2025-11-15T02:49:40.010185",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-01-31",
+      "subject": "",
+      "document_id": "",
+      "sender": "J [jeevacation@gmail.com]",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "J",
+        "Michael Wolff",
+        "prince andrew",
+        "trump",
+        "ghislaine"
+      ],
+      "organizations": [
+        "mara lago"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Allegations/complaints",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "communication",
+        "description": "Sender providing information to recipient"
+      },
+      {
+        "entity_1": "trump",
+        "entity_2": "prince andrew",
+        "relationship_type": "association",
+        "description": "Trump claimed he asked prince andrew to resign from Mar-a-Lago"
+      },
+      {
+        "entity_1": "trump",
+        "entity_2": "ghislaine",
+        "relationship_type": "association",
+        "description": "Trump asked Ghislaine to stop something related to 'the girls'"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, matter-of-fact",
+      "emotional_indicators": [],
+      "purpose": "To provide Michael Wolff with information about allegations involving Prince Andrew, Trump, and Ghislaine Maxwell",
+      "significance": "Contains claims about Trump's knowledge of 'the girls' and his interactions with Prince Andrew and Ghislaine Maxwell regarding allegations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "trump said he asked me to resign, never a member ever",
+      "of course he knew about the girls as he asked ghislaine to stop"
+    ],
+    "red_flags": [
+      "References to allegations against Prince Andrew",
+      "Claims about Trump's knowledge of 'the girls'"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No direct evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No direct evidence of illegal activity being committed or planned by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Email sent to Michael Wolff, who is a journalist/author"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication containing claims about high-profile individuals that would be of significant media interest if verified"
+    },
+    "summary": "An email from 'J' to journalist Michael Wolff containing allegations that Trump knew about 'the girls' and asked Ghislaine Maxwell to stop, while also claiming Trump asked Prince Andrew to resign from Mar-a-Lago following accusations."
+  }
+}

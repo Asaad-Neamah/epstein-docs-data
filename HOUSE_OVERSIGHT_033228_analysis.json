@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033228.txt",
+  "file_name": "HOUSE_OVERSIGHT_033228.txt",
+  "processed_at": "2025-11-15T02:57:37.166561",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-14",
+      "subject": "The article",
+      "document_id": "HOUSE OVERSIGHT 033228",
+      "sender": "Tonja Haddad Coleman",
+      "recipients": [
+        "Darren Indyke",
+        "Fred Haddad"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Tonja Haddad Coleman",
+        "Darren Indyke",
+        "Fred Haddad",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "TONJA HADDAD, P.A.",
+        "Florida Bulldog"
+      ],
+      "locations": [
+        "Fort Lauderdale, FL",
+        "Advocate Building",
+        "315 SE 7th Street, Suite 301, Fort Lauderdale, FL 33301"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Darren Indyke",
+        "relationship_type": "professional",
+        "description": "Attorney sending legal communication to recipient"
+      },
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Fred Haddad",
+        "relationship_type": "professional",
+        "description": "CC'ing colleague on legal communication"
+      },
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal_reference",
+        "description": "Email references Epstein in context of lawsuit article"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "urgency (marked importance: High)"
+      ],
+      "purpose": "To share a news article about a lawsuit involving Jeffrey Epstein and Donald Trump being on a witness list",
+      "significance": "Shows legal professionals circulating media coverage about Epstein's legal matters during ongoing litigation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High importance marking for sharing news article about Epstein lawsuit"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is straightforward sharing of a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about legal proceedings involving Epstein, not evidence of first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing Florida Bulldog article about lawsuit with Epstein and Trump on witness list"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing already-public media coverage about Epstein's legal cases from Florida Bulldog, a news organization"
+    },
+    "summary": "Attorney Tonja Haddad Coleman sends an urgent email to Darren Indyke and Fred Haddad sharing a Florida Bulldog news article about a lawsuit where both Donald Trump and Jeffrey Epstein are listed as witnesses in a pedophile-related case."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031129.txt",
+  "file_name": "HOUSE_OVERSIGHT_031129.txt",
+  "processed_at": "2025-11-15T02:51:16.647769",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-09-28",
+      "subject": "Re: 3:00 Wheels up!!",
+      "document_id": "",
+      "sender": "Larry",
+      "recipients": [
+        "Lesley Groff",
+        "Richard Barnnet",
+        "Louella Rabuyo",
+        "Januiz Banasiak",
+        "Rich Kahn",
+        "Darren Indyke",
+        "Francis Derby",
+        "JEE"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry",
+        "Lesley Groff",
+        "JEE",
+        "Vice President Biden",
+        "Richard Barnnet",
+        "Louella Rabuyo",
+        "Januiz Banasiak",
+        "Rich Kahn",
+        "Darren Indyke",
+        "Francis Derby"
+      ],
+      "organizations": [],
+      "locations": [
+        "West Palm Beach",
+        "Palm Beach",
+        "Galaxy ramp"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "professional",
+        "description": "Larry is providing flight logistics information to Lesley Groff"
+      },
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "JEE",
+        "relationship_type": "professional",
+        "description": "Lesley Groff is asked to inform JEE about flight details"
+      },
+      {
+        "entity_1": "JEE",
+        "entity_2": "Vice President Biden",
+        "relationship_type": "coordination",
+        "description": "JEE's travel plans are being coordinated around Vice President Biden's schedule"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "urgency",
+        "coordination"
+      ],
+      "purpose": "To coordinate flight departure times and ground transportation logistics for JEE, taking into account Vice President Biden's travel schedule",
+      "significance": "Shows coordination of private travel involving high-level political figures and detailed airport logistics"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Please inform JEE, Vice President Biden is in West Palm Beach and is schedule to depart between 5pm and 6pm today.",
+      "The airport will be closed between 5pm and 6pm. Flight time is 2+21min.",
+      "we'll need wheels up at 4pm or 2pm. Pls advise which time je prefers?"
+    ],
+    "red_flags": [
+      "Coordination with high-level political figure's travel schedule",
+      "Airport closure for VIP movement"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine travel coordination"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel logistics coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows coordination between private individuals and Vice President Biden's travel schedule, which could be of media interest given the context of the Epstein investigation"
+    },
+    "summary": "This email chain coordinates flight departure times for JEE (likely Jeffrey Epstein) from Palm Beach, noting that Vice President Biden's scheduled departure requires the airport to be closed between 5-6pm, requiring JEE's flight to depart at either 2pm or 4pm."
+  }
+}

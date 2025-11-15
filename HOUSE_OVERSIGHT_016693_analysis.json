@@ -1,0 +1,87 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_016693.txt",
+  "file_name": "HOUSE_OVERSIGHT_016693.txt",
+  "processed_at": "2025-11-15T02:37:21.613880",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2008-11-19",
+      "subject": "Trump house",
+      "document_id": "HOUSE OVERSIGHT 016693",
+      "sender": "John Page",
+      "recipients": [
+        "Mayor"
+      ]
+    },
+    "entities": {
+      "people": [
+        "John Page",
+        "Mayor"
+      ],
+      "organizations": [],
+      "locations": [
+        "515 North County Road",
+        "North Ocean Boulevard"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Real estate/properties"
+    ],
+    "relationships": [
+      {
+        "entity_1": "John Page",
+        "entity_2": "Mayor",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding property address information"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Trump house",
+        "old Gosman/Trump house"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, direct",
+      "emotional_indicators": [],
+      "purpose": "To provide the correct address for a property previously associated with Trump and Gosman",
+      "significance": "Documentation of communication about a Trump-associated property location"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "The address you want is: 515 North County Road. (NOT North Ocean Blvd.)"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this brief address exchange"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this document"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Property addresses are typically public information; Trump's real estate holdings were widely known"
+    },
+    "summary": "Email exchange where John Page provides the correct address (515 North County Road) for what is described as the 'old Gosman/Trump house' to a mayor who had requested the information, clarifying it is not on North Ocean Boulevard as previously thought."
+  }
+}

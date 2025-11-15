@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026026.txt",
+  "file_name": "HOUSE_OVERSIGHT_026026.txt",
+  "processed_at": "2025-11-15T02:44:00.305302",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-28",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Dep Cr Prince",
+        "Roger",
+        "Steve Bannon",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "Palm Beach",
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Communicating about meetings and media access"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump circle",
+        "relationship_type": "media access",
+        "description": "Wolff claims to be the only liberal-media guy with access to Trump circle"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Dep Cr Prince",
+        "relationship_type": "connection",
+        "description": "Epstein offering to set up a meeting with the Deputy Crown Prince"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, opportunistic",
+      "emotional_indicators": [
+        "enthusiasm",
+        "excitement about access"
+      ],
+      "purpose": "Coordinate meetings and discuss media strategy involving Saudi connections",
+      "significance": "Shows Epstein's connections to media figures and political circles, including offering access to Saudi royalty"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"it's suddenly made me the only liberal-media guy with access to Trump circle\"",
+      "\"I have a bit of an idea for you re media and Saudi friends\"",
+      "\"Iye set you up to see the right hand of the Dep Cr Prince\""
+    ],
+    "red_flags": [
+      "Offering access to high-level Saudi royalty",
+      "Vague references to media ideas involving Saudi connections"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "No illegal activity discussed - primarily sharing media access and arranging meetings"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Hollywood Reporter article about Steve Bannon",
+        "Discussion of media access to Trump circle",
+        "Media strategy idea involving Saudi connections"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known journalist and author; this shows behind-the-scenes access trading and Epstein's media connections"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing Wolff's exclusive access to Trump's circle, arranging meetings in Palm Beach and New York, and Epstein offering to set up a meeting with the Deputy Crown Prince of Saudi Arabia while proposing media ideas involving Saudi connections."
+  }
+}

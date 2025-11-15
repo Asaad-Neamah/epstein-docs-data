@@ -1,0 +1,113 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033155.txt",
+  "file_name": "HOUSE_OVERSIGHT_033155.txt",
+  "processed_at": "2025-11-15T02:57:19.473011",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-04-26",
+      "subject": "RE: Boeing",
+      "document_id": "",
+      "sender": "Sean J. Lancaster",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Sean J. Lancaster",
+        "Jeffrey",
+        "Larry",
+        "Wendy",
+        "Trump",
+        "Shugo"
+      ],
+      "organizations": [
+        "Bristol Associates Inc.",
+        "company in Singapore"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Financial transactions/money flow",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sean J. Lancaster",
+        "entity_2": "Bristol Associates Inc.",
+        "relationship_type": "employment",
+        "description": "Sean represents Bristol Associates Inc. in his email signature"
+      },
+      {
+        "entity_1": "Larry",
+        "entity_2": "Jeffrey",
+        "relationship_type": "business",
+        "description": "Larry is providing business information about aircraft sales to Jeffrey"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "Shugo",
+        "relationship_type": "business_transaction",
+        "description": "Trump reportedly has a contract to sell his Boeing 727 to Shugo"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "2.2M",
+        "600k"
+      ],
+      "transactions": [
+        "Boeing 727 sale for $2.2M",
+        "engine overhauls costing $600k total"
+      ],
+      "assets": [
+        "Boeing 727 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, informational",
+      "emotional_indicators": [],
+      "purpose": "To share and clarify information about the potential sale of Trump's Boeing 727 aircraft",
+      "significance": "Shows business communications regarding high-value aircraft transactions involving notable individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I heard Trump has a contract on his B727, no money has changed hands, sold for 2.2M as is",
+      "he needs three engine overhaul's in the next 14 months, 600k worth total"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this business communication about aircraft sales"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a straightforward business communication about aircraft transactions"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private business communication about aircraft transactions that would typically not be public knowledge"
+    },
+    "summary": "Email exchange discussing the potential sale of Trump's Boeing 727 aircraft for $2.2 million to an Indian buyer named Shugo, with additional information about $600k in upcoming engine overhauls required for the aircraft."
+  }
+}

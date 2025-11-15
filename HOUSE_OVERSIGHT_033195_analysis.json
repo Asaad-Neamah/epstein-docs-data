@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033195.txt",
+  "file_name": "HOUSE_OVERSIGHT_033195.txt",
+  "processed_at": "2025-11-15T02:57:26.205572",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-18",
+      "subject": "Trump University agrees to settle lawsuit for $25 million:",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Trump University",
+        "HBRK Associates Inc.",
+        "CNBC"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Financial transactions/money flow",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/associate",
+        "description": "Kahn is sending Epstein news about Trump legal matters"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Trump University",
+        "relationship_type": "ownership/business",
+        "description": "Trump owned/operated Trump University which is settling lawsuits"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$25 million"
+      ],
+      "transactions": [
+        "Settlement payment of $25 million"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey Epstein about Donald Trump's legal settlement regarding Trump University",
+      "significance": "Shows communication about Trump's legal issues and potential financial exposure during transition to presidency"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Legal settlement of fraud lawsuit against Trump University"
+      ]
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High importance marking on email about Trump legal settlement"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - simply sharing news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is simply sharing a news article about Trump University's legal settlement - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC news article about Trump University settlement"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Trump University lawsuits were widely reported in media during 2016 presidential campaign"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a CNBC news article reporting that Trump University has agreed to settle a lawsuit for $25 million, marking the email as high importance during Trump's presidential transition period."
+  }
+}

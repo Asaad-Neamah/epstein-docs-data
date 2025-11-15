@@ -1,0 +1,152 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_019212.txt",
+  "file_name": "HOUSE_OVERSIGHT_019212.txt",
+  "processed_at": "2025-11-15T02:38:57.853499",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2016-12-28",
+      "subject": "Trump meets with docs today as Congress preps Obamacare repeal",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Steve Bannon",
+        "Dr. Bruce Moskowitz",
+        "Dr. John H. Noseworthy",
+        "Dr. Paul B. Rothman",
+        "Dr. David F. Torchiana",
+        "Dr. Toby Cosgrove",
+        "Tom Marino",
+        "Isaac Perlmutter",
+        "Laura Perlmutter",
+        "Marco Rubio",
+        "David M. Rubenstein",
+        "Ben Carson",
+        "Tommy Thompson",
+        "George W. Bush",
+        "Jonathan Ernst"
+      ],
+      "organizations": [
+        "U.S. House Committee on Oversight and Accountability",
+        "Mayo Clinic",
+        "Johns Hopkins University",
+        "Johns Hopkins Medicine",
+        "Partners HealthCare",
+        "Cleveland Clinic",
+        "Marvel Entertainment",
+        "Carlyle Group",
+        "MSNBC",
+        "NBC",
+        "CNBC",
+        "Harvard Medical School",
+        "Massachusetts General Hospital",
+        "Brigham and Women's Hospital",
+        "Department of Veterans Affairs",
+        "Department of Housing and Urban Development",
+        "Reuters",
+        "The Washington Post",
+        "The New York Times"
+      ],
+      "locations": [
+        "Palm Beach, Florida",
+        "Mar-a-Lago Club",
+        "Massachusetts",
+        "Wisconsin",
+        "Shanghai",
+        "San Francisco",
+        "Baghdad"
+      ],
+      "financial_entities": [
+        "Carlyle Group"
+      ]
+    },
+    "themes": [
+      "Political connections/influence",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "professional",
+        "description": "Bannon served as senior counselor to President-elect Trump"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Healthcare executives",
+        "relationship_type": "professional",
+        "description": "Meeting with top healthcare executives to discuss Obamacare reform"
+      },
+      {
+        "entity_1": "Isaac Perlmutter",
+        "entity_2": "Laura Perlmutter",
+        "relationship_type": "personal",
+        "description": "Married couple"
+      },
+      {
+        "entity_1": "Laura Perlmutter",
+        "entity_2": "Marco Rubio",
+        "relationship_type": "political",
+        "description": "Laura Perlmutter donated $2 million to Marco Rubio's campaign super PAC"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$2 million"
+      ],
+      "transactions": [
+        "Political donation to Marco Rubio's super PAC"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, journalistic",
+      "emotional_indicators": [],
+      "purpose": "To report on Donald Trump's meeting with healthcare executives and provide background on the participants",
+      "significance": "Documents early transition meetings between Trump and healthcare industry leaders regarding Obamacare repeal and reform"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"We're really talking about replace and repair, rather than repeal. But we haven't seen a full approach yet from the administration.\" - John Noseworthy",
+      "\"The number of quality metrics that we have to report to the government every year is just going up like crazy. We're now reporting well over 100 quality metrics on a regular basis.\" - Toby Cosgrove"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on a meeting, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article references multiple media outlets: Reuters, Washington Post, New York Times, MSNBC, NBC, CNBC",
+        "Written by journalist Borys Krawczeniuk and includes content from Ariana Eunjung Cha of Washington Post",
+        "Discusses media coverage of Trump's meetings with various industry leaders"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a publicly available news article about Trump's transition meetings, likely published as part of routine political reporting"
+    },
+    "summary": "News article detailing President-elect Donald Trump's December 28, 2016 meeting with top healthcare executives at Mar-a-Lago to discuss Obamacare repeal and reform, including leaders from Mayo Clinic, Johns Hopkins, Cleveland Clinic, and Partners HealthCare, along with background on the participants and their political connections."
+  }
+}

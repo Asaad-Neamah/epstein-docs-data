@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029893.txt",
+  "file_name": "HOUSE_OVERSIGHT_029893.txt",
+  "processed_at": "2025-11-15T02:48:27.581337",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2009-08-11",
+      "subject": "Re: FW: Jane Doe",
+      "document_id": "",
+      "sender": "Jeffrey Epstein",
+      "recipients": [
+        "Jessica Cadwell"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Jessica Cadwell",
+        "Jacquie Johnson",
+        "Bradley J. Edwards",
+        "Robert D. Critton Jr.",
+        "Jane Doe",
+        "Maxwell",
+        "Mr. Trump"
+      ],
+      "organizations": [
+        "BURMAN CRITTON LUTTIER & COLEMAN, LLP",
+        "Department of Juvenile Justice",
+        "Milton Center"
+      ],
+      "locations": [
+        "Florida",
+        "West Palm Beach",
+        "515 N. Flagler Drive, Suite #400, West Palm Beach, FL 33401"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jessica Cadwell",
+        "entity_2": "Jacquie Johnson",
+        "relationship_type": "professional",
+        "description": "Legal colleagues communicating about case matters"
+      },
+      {
+        "entity_1": "Bradley J. Edwards",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal_representation",
+        "description": "Attorney representing Jane Doe in legal proceedings"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jessica Cadwell",
+        "relationship_type": "communication",
+        "description": "Email correspondence regarding legal case"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional",
+      "emotional_indicators": [],
+      "purpose": "To forward an email chain discussing deposition scheduling and document requests in a legal case involving Jane Doe",
+      "significance": "Shows Jeffrey Epstein's involvement in legal communications regarding a case that involves depositions of himself, Maxwell, and Mr. Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Please notice the deposition of Ms. Maxwell has been rescheduled from 8/17 to 9/23. Mr. Trump's deposition is scheduled for August 18, 2009.",
+      "In your answers to ROGS, you list Milton Center for girls as facility that Jane Doe attended. Milton Center is a Department of Juvenile Justice facility",
+      "DJJ will not release the records without a signed release by Jane Doe."
+    ],
+    "red_flags": [
+      "Multiple deposition rescheduling",
+      "Emergency protective order filed",
+      "Juvenile justice facility involvement"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "Email from Jeffrey Epstein but contains only procedural legal communication about depositions and document requests, no evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be legal correspondence related to a case involving Jeffrey Epstein, which would be of significant media interest given his notoriety and the mention of other high-profile individuals"
+    },
+    "summary": "Jeffrey Epstein forwards an email chain discussing deposition scheduling for himself, Maxwell, and Mr. Trump in a legal case involving Jane Doe, including requests for document releases from the Department of Juvenile Justice regarding her time at Milton Center."
+  }
+}

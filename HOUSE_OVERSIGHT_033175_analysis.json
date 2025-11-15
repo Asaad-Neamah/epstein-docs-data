@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033175.txt",
+  "file_name": "HOUSE_OVERSIGHT_033175.txt",
+  "processed_at": "2025-11-15T02:57:27.132549",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-13",
+      "subject": "US Election Update",
+      "document_id": "",
+      "sender": "Zubair Khan",
+      "recipients": [
+        "jeffrey E. (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Zubair Khan",
+        "Jeffrey E.",
+        "Donald Trump",
+        "Hillary Clinton"
+      ],
+      "organizations": [],
+      "locations": [
+        "New York",
+        "California",
+        "North Carolina",
+        "Florida",
+        "Washington",
+        "Ohio",
+        "New Jersey",
+        "Texas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/business",
+        "description": "Zubair is providing election analysis data to Jeffrey"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, data-driven",
+      "emotional_indicators": [],
+      "purpose": "To provide statistical analysis of Twitter sentiment and election predictions following the second presidential debate",
+      "significance": "Shows interest in real-time political analysis and data tracking during the 2016 presidential election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Since the start of 2nd US Presidential Election debate till now, we have processed 3.1 million tweets.",
+      "Winning Chances: 1. Clinton 72% 2. Trump 28%"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward data reporting"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is legitimate political analysis data"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Election polling and social media sentiment analysis were widely reported during the 2016 presidential campaign"
+    },
+    "summary": "Zubair Khan emails Jeffrey E. with Twitter sentiment analysis and election predictions following the second 2016 presidential debate, showing Clinton with significantly more positive sentiment (40.70% vs Trump's 11.80%) and a 72% chance of winning according to their analysis."
+  }
+}

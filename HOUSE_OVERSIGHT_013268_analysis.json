@@ -1,0 +1,125 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_013268.txt",
+  "file_name": "HOUSE_OVERSIGHT_013268.txt",
+  "processed_at": "2025-11-15T02:36:23.486704",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "magazine_article",
+      "date": "2013-11-01",
+      "subject": "Cabin Couture",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Melissa Pearce",
+        "Jennifer Henricus",
+        "Eric Roth",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "International Jet Interiors",
+        "World Wrestling Entertainment (WWE)",
+        "Dassault",
+        "Bombardier",
+        "Gulfstream",
+        "NBAA"
+      ],
+      "locations": [
+        "Long Island's MacArthur Airport",
+        "New York",
+        "Italy",
+        "India",
+        "Shanghai",
+        "Tokyo",
+        "Mumbai",
+        "Africa"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Real estate/properties",
+      "Employment/staffing",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Eric Roth",
+        "entity_2": "International Jet Interiors",
+        "relationship_type": "employment",
+        "description": "Roth is the designer and design director at International Jet Interiors"
+      },
+      {
+        "entity_1": "International Jet Interiors",
+        "entity_2": "World Wrestling Entertainment",
+        "relationship_type": "business",
+        "description": "IJI is refurbishing a Global 5000 aircraft for WWE"
+      },
+      {
+        "entity_1": "International Jet Interiors",
+        "entity_2": "Donald Trump",
+        "relationship_type": "business",
+        "description": "IJI previously refurbished Trump's Boeing 757"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Boeing 757",
+        "Global 5000",
+        "Gulfstream"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, promotional, descriptive",
+      "emotional_indicators": [
+        "enthusiasm",
+        "pride in work",
+        "confidence"
+      ],
+      "purpose": "To showcase International Jet Interiors' aircraft customization services and highlight Eric Roth's design expertise",
+      "significance": "Reveals high-end private jet customization industry serving wealthy clients including Donald Trump and WWE"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"The more unusual the request, the more Roth and his team seem to excel in delivering the solution\"",
+      "\"Clients come to me saying 'Eric, I want it to be luxuriously comfortable, very functional but extremely understated'\"",
+      "\"It will be the ultimate couture craft when completed in January 2014\""
+    ],
+    "red_flags": [
+      "Extreme luxury spending on private jets",
+      "Customization for high-profile clients"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this promotional article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity mentioned; this is a legitimate business article about aircraft interior design"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be from a luxury lifestyle or aviation trade publication (JetGala) featuring high-profile clients and luxury services"
+    },
+    "summary": "This magazine article profiles International Jet Interiors and designer Eric Roth, showcasing their high-end private jet customization services for clients including Donald Trump and World Wrestling Entertainment, featuring luxurious amenities like 24-karat gold-plated fixtures and advanced entertainment systems."
+  }
+}

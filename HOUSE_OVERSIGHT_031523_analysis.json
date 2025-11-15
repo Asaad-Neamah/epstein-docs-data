@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031523.txt",
+  "file_name": "HOUSE_OVERSIGHT_031523.txt",
+  "processed_at": "2025-11-15T02:52:04.032419",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-11",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Larry Summers",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Summers",
+        "Jeffrey E. (Epstein)",
+        "ehud",
+        "pritzker",
+        "woody",
+        "donald",
+        "bill",
+        "hillary"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/professional",
+        "description": "Regular communication about scheduling meetings and discussing political matters"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "ehud",
+        "relationship_type": "social/business",
+        "description": "Mentioned as being in town and part of social plans"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "pritzker",
+        "relationship_type": "social/business",
+        "description": "Mentioned as being in town and part of social plans"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "woody",
+        "relationship_type": "social",
+        "description": "Dinner plans mentioned"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational, somewhat urgent",
+      "emotional_indicators": [
+        "concern about political situation",
+        "frustration with media coverage"
+      ],
+      "purpose": "Coordinate scheduling and discuss political developments regarding Trump campaign allegations",
+      "significance": "Shows communication between Larry Summers and Jeffrey Epstein during 2016 election, discussing political strategy and media perception"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Press is so revolted by trump that I'd expect they will not be for benefit of doubt.",
+      "donald brought out four women that said bill abused them. / they wilil feature in the debate",
+      "hillary says you should give the benefit of the doubt to victims."
+    ],
+    "red_flags": [
+      "Discussion of political strategy regarding sexual assault allegations during election campaign"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be political strategy discussion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is political commentary and scheduling coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of press reaction to Trump",
+        "Media coverage strategy regarding sexual assault allegations"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "2016 presidential election where Trump faced multiple sexual misconduct allegations; Larry Summers was former Treasury Secretary and Harvard President"
+    },
+    "summary": "Email exchange between Larry Summers and Jeffrey Epstein coordinating meetings and discussing the 2016 election, specifically how the press was handling Trump's sexual assault allegations and the political implications for the Clinton campaign."
+  }
+}

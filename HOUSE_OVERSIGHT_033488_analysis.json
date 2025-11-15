@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033488.txt",
+  "file_name": "HOUSE_OVERSIGHT_033488.txt",
+  "processed_at": "2025-11-15T02:58:54.461800",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-04-26",
+      "subject": "Beoing update",
+      "document_id": "",
+      "sender": "Larry",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey",
+        "Larry",
+        "Trump",
+        "Eric Roth"
+      ],
+      "organizations": [
+        "Boeing"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry",
+        "entity_2": "Jeffrey",
+        "relationship_type": "business/professional",
+        "description": "Larry is providing aircraft maintenance updates to Jeffrey"
+      },
+      {
+        "entity_1": "Eric Roth",
+        "entity_2": "Trump",
+        "relationship_type": "business/professional",
+        "description": "Eric Roth is doing interior work on Trump's new Boeing 757"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "Trump sold his B727 to a person in Singapore"
+      ],
+      "assets": [
+        "Boeing aircraft",
+        "Trump's Boeing 757",
+        "Trump's B727"
+      ]
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To provide status update on Boeing aircraft maintenance and share information about Trump's aircraft transactions",
+      "significance": "Shows business connections and aircraft maintenance activities among wealthy individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Boeing will be completed May 6th",
+      "I was told Trump sold his B727 to a person in Singapore??"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Routine aircraft maintenance and business transaction information among private individuals"
+    },
+    "summary": "Larry provides Jeffrey with a status update on Boeing aircraft maintenance completion scheduled for May 6th, 2011, and shares information about Trump selling his B727 to someone in Singapore while Eric Roth is working on Trump's new Boeing 757 interior."
+  }
+}

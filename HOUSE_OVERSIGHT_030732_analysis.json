@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030732.txt",
+  "file_name": "HOUSE_OVERSIGHT_030732.txt",
+  "processed_at": "2025-11-15T02:50:25.875598",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-07-20",
+      "subject": "Re: bannon view of trump",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E. (Epstein)",
+        "Bannon",
+        "Trump",
+        "Putin"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence about political matters"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Bannon",
+        "relationship_type": "professional",
+        "description": "Wolff spent time with Bannon and received his views on Trump and Putin"
+      },
+      {
+        "entity_1": "Bannon",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Bannon has negative views about Trump's capabilities"
+      },
+      {
+        "entity_1": "Bannon",
+        "entity_2": "Putin",
+        "relationship_type": "political",
+        "description": "Bannon views Putin positively as a genius"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "confidence in sharing insider information"
+      ],
+      "purpose": "To respond to Epstein's YouTube link with firsthand information about Bannon's views on Trump and Putin",
+      "significance": "Shows communication between Epstein and journalist Michael Wolff about insider political perspectives from Steve Bannon"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "he think trump has lost his stuff, and as well, to boot, is an idiot",
+      "Putin, tho, he thinks is a genius"
+    ],
+    "red_flags": [
+      "Sharing of potentially sensitive political insider information"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff is a journalist sharing insider political information",
+        "Reference to YouTube video content about political views"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known journalist and author who wrote 'Fire and Fury' about the Trump administration. This email shows his direct communication with Jeffrey Epstein about Steve Bannon's private views."
+    },
+    "summary": "Michael Wolff responds to Jeffrey Epstein's YouTube link by sharing firsthand information from spending time with Steve Bannon, who reportedly believes Trump 'has lost his stuff' and 'is an idiot,' while viewing Putin as a genius."
+  }
+}

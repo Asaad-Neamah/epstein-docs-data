@@ -1,0 +1,143 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_013460.txt",
+  "file_name": "HOUSE_OVERSIGHT_013460.txt",
+  "processed_at": "2025-11-15T02:36:31.118288",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-03-23",
+      "subject": "FW: World Bank Nominee",
+      "document_id": "",
+      "sender": "Boris Nikolic",
+      "recipients": [
+        "Jeffrey Epstein (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Boris Nikolic",
+        "Jeffrey Epstein",
+        "Jim Yong Kim",
+        "Massoud Hayoun",
+        "Paul Farmer",
+        "Howard Hiatt",
+        "Tracy Kidder"
+      ],
+      "organizations": [
+        "The Atlantic",
+        "World Bank",
+        "Partners in Health (PIH)",
+        "Harvard School of Public Health",
+        "WHO (World Health Organization)",
+        "Dartmouth College",
+        "Reuters",
+        "Harvard",
+        "Brigham pharmacy",
+        "Russian Ministry of Health"
+      ],
+      "locations": [
+        "Peru",
+        "Lima",
+        "Carabayllo",
+        "Haiti",
+        "Boston",
+        "Massachusetts",
+        "Geneva",
+        "Africa",
+        "Asia",
+        "Eastern Europe",
+        "Latin America",
+        "Tomsk",
+        "Cange"
+      ],
+      "financial_entities": [
+        "World Bank"
+      ]
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/communication",
+        "description": "Nikolic is forwarding news content to Epstein"
+      },
+      {
+        "entity_1": "Jim Yong Kim",
+        "entity_2": "Paul Farmer",
+        "relationship_type": "professional",
+        "description": "Co-founders of Partners in Health who worked together on global health initiatives"
+      },
+      {
+        "entity_1": "Jim Yong Kim",
+        "entity_2": "Howard Hiatt",
+        "relationship_type": "professional",
+        "description": "Friend and former dean at Harvard School of Public Health"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$15,000-$20,000",
+        "$92,000",
+        "$150 million"
+      ],
+      "transactions": [
+        "Borrowing of drugs from Brigham pharmacy",
+        "World Bank TB loan to Russia"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To forward a news article about Jim Yong Kim's nomination for World Bank president and his work with Partners in Health",
+      "significance": "Shows communication between Nikolic and Epstein regarding a significant political appointment and global health initiatives"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Unauthorized borrowing of $92,000 worth of drugs from hospital pharmacy"
+      ]
+    },
+    "notable_quotes": [
+      "\"Paul and Jim would stop at the Brigham pharmacy before they left for Peru and fill their briefcases with drugs. They had sweet-talked various people into letting them walk away with the drugs.\"",
+      "\"That's their Robin Hood attitude.\"",
+      "\"The world changed yesterday,\" he wrote from Geneva to all of PIH."
+    ],
+    "red_flags": [
+      "Unauthorized removal of pharmaceutical drugs worth $92,000"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is forwarding a news article about Jim Yong Kim's work, not containing first-hand illegal activity by the sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Massoud Hayoun article from The Atlantic",
+        "Reuters coverage",
+        "Tracy Kidder's biography 'Mountains Beyond Mountains'"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Jim Yong Kim's World Bank nomination was major international news in 2012, and his work with Partners in Health was well-documented in public media"
+    },
+    "summary": "Boris Nikolic forwards a news article to Jeffrey Epstein about Jim Yong Kim's nomination as World Bank president, detailing Kim's work with Partners in Health combating tuberculosis epidemics in Peru using unconventional methods including borrowing drugs without authorization."
+  }
+}

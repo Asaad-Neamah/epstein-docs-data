@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033218.txt",
+  "file_name": "HOUSE_OVERSIGHT_033218.txt",
+  "processed_at": "2025-11-15T02:58:07.180475",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-02-01",
+      "subject": "President PBI FYI",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Jeffrey Epstein (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey Epstein",
+        "President Trump",
+        "Peter E. Labbe"
+      ],
+      "organizations": [
+        "FAA",
+        "TSA",
+        "USSS",
+        "Palm Beach International Airport",
+        "Department of Airports",
+        "Mar-a-Lago"
+      ],
+      "locations": [
+        "Palm Beach",
+        "Teterboro",
+        "Fort Lauderdale Executive Airport",
+        "LSJ",
+        "DCA",
+        "Orlando Int'l (MCO)",
+        "Dulles",
+        "White Plains",
+        "Lantana, FL",
+        "Palm Beach County Park Airport (LNA)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/operational",
+        "description": "Visoski providing flight logistics information to Epstein regarding presidential travel restrictions"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "President Trump",
+        "relationship_type": "connection",
+        "description": "Epstein being informed about Trump's travel plans and flight restrictions in Palm Beach"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$2.76"
+      ],
+      "transactions": [
+        "fuel price offering at Fort Lauderdale Executive airport"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey Epstein about flight restrictions and logistics during President Trump's visit to Mar-a-Lago",
+      "significance": "Shows Epstein receiving advance notice of presidential travel plans and flight restrictions, suggesting operational coordination for private air travel"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump in PBI Fed 3rd thru 5th,. FYI„",
+      "When PresTrump is visiting MarLago PBI there will be flight restrictions flying in and out of palm beach„ due to location of MarLago,."
+    ],
+    "red_flags": [
+      "Advance knowledge of presidential travel plans",
+      "Special flight logistics coordination"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely informational communication about flight logistics"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - purely operational flight logistics information"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Presidential travel schedules and flight restrictions are typically public information through FAA notices and media coverage"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein to inform him about flight restrictions and logistics during President Trump's upcoming visit to Mar-a-Lago in Palm Beach, including gateway airport requirements and fuel pricing information at alternative airports."
+  }
+}

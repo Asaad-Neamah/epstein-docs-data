@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032386.txt",
+  "file_name": "HOUSE_OVERSIGHT_032386.txt",
+  "processed_at": "2025-11-15T02:54:30.538059",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-01",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 032386",
+      "sender": "Kathy",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy",
+        "jeffrey E.",
+        "Trump"
+      ],
+      "organizations": [
+        "dems"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Kathy is sending a political update to Jeffrey E."
+      },
+      {
+        "entity_1": "Kathy",
+        "entity_2": "Trump",
+        "relationship_type": "political awareness",
+        "description": "Kathy demonstrates knowledge of Trump administration matters"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, informal",
+      "emotional_indicators": [
+        "sense of urgency",
+        "political concern"
+      ],
+      "purpose": "To inform Jeffrey E. about potential political developments regarding Trump's nominees",
+      "significance": "Shows insider political knowledge being shared about potential challenges to Trump administration appointments"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "The dems are going to take out a couple of Trump's nominees, and mnuchin may be one of them."
+    ],
+    "red_flags": [
+      "High importance designation for political gossip",
+      "Informal communication about sensitive political matters"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward political information sharing"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - just political commentary"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to reference political opposition to Trump administration nominees in late 2016, which was widely covered in media"
+    },
+    "summary": "Kathy sends an urgent email to Jeffrey E. warning that Democrats plan to challenge several of Trump's nominees, specifically mentioning that Steven Mnuchin may be targeted."
+  }
+}

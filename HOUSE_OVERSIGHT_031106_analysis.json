@@ -1,0 +1,123 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031106.txt",
+  "file_name": "HOUSE_OVERSIGHT_031106.txt",
+  "processed_at": "2025-11-15T02:51:22.506934",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-10-19",
+      "subject": "Re: (various)",
+      "document_id": "",
+      "sender": "COLOM, Olivier",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "COLOM, Olivier",
+        "Jeffrey Epstein",
+        "Leah Pisar",
+        "Samuel",
+        "Ariane",
+        "Castelbajac"
+      ],
+      "organizations": [
+        "White House",
+        "Huffington Post",
+        "University",
+        "Groupe Edmond de Rothschild",
+        "La Compagnie Financiere Edmond de Rothschild Banque"
+      ],
+      "locations": [
+        "Paris",
+        "US",
+        "France",
+        "Ethiopia",
+        "NY"
+      ],
+      "financial_entities": [
+        "Groupe Edmond de Rothschild"
+      ]
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "COLOM, Olivier",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/business",
+        "description": "Friendly correspondence discussing mutual acquaintances and travel plans"
+      },
+      {
+        "entity_1": "Leah Pisar",
+        "entity_2": "Clinton spokesman",
+        "relationship_type": "professional",
+        "description": "Worked with Clinton spokesman at White House"
+      },
+      {
+        "entity_1": "COLOM, Olivier",
+        "entity_2": "Ariane",
+        "relationship_type": "personal",
+        "description": "Had fun together, Ariane's mother likes Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, friendly",
+      "emotional_indicators": [
+        "playful",
+        "familiar"
+      ],
+      "purpose": "Personal correspondence discussing mutual acquaintances, travel plans, and social observations",
+      "significance": "Shows Epstein's social connections and the casual nature of his communications with associates"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"How come you're always right? She is not awful looking though.\"",
+      "\"Have already seen some models come and go - to your liking I think\"",
+      "\"no, I assume she she clever not cute\""
+    ],
+    "red_flags": [
+      "Discussion of models that would be \"to your liking\" suggests potential inappropriate interests"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity being committed, planned, or discussed as first-hand action"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Mentions Huffington Post where Leah Pisar works",
+        "Reference to Clinton spokesman at White House"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Personal email exchange showing Epstein's social network and casual communications style"
+    },
+    "summary": "Personal email exchange between Olivier Colom and Jeffrey Epstein discussing mutual acquaintances including Leah Pisar (who worked with Clinton's spokesman), social observations about models near Colom's apartment, and potential travel plans to New York or Ethiopia."
+  }
+}

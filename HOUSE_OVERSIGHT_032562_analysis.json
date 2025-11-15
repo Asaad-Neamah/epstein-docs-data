@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032562.txt",
+  "file_name": "HOUSE_OVERSIGHT_032562.txt",
+  "processed_at": "2025-11-15T02:55:03.665103",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-08-09",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Weingarten, Reid",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Weingarten, Reid",
+        "Jeffrey E.",
+        "trump",
+        "Paul Manafort"
+      ],
+      "organizations": [
+        "North Korean",
+        "New York Times",
+        "HOUSE OVERSIGHT"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Weingarten, Reid",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing political matters"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, concerned",
+      "emotional_indicators": [
+        "fear",
+        "concern"
+      ],
+      "purpose": "To share and discuss a New York Times article about Paul Manafort's home search and North Korea's response to Trump",
+      "significance": "Shows communication about political developments and legal matters involving Paul Manafort during Mueller investigation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "North Korean response to trump is rational, accurate and really scary",
+      "please note"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news article about Paul Manafort investigation, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "New York Times article about Paul Manafort home search by Mueller investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Paul Manafort's home search was widely reported news during the Mueller investigation into Russian interference in 2016 election"
+    },
+    "summary": "Email exchange where Reid Weingarten shares concerns about North Korea's response to Trump and Jeffrey Epstein shares a New York Times article about Paul Manafort's home being searched by Mueller's investigation team."
+  }
+}

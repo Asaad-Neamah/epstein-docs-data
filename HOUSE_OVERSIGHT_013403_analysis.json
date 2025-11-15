@@ -1,0 +1,165 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_013403.txt",
+  "file_name": "HOUSE_OVERSIGHT_013403.txt",
+  "processed_at": "2025-11-15T02:35:53.206222",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2009-12-24",
+      "subject": "CITY SPY",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Larry Visoki",
+        "Bradley Edwards",
+        "Bill Clinton",
+        "Prince Andrew",
+        "Ehud Barak",
+        "Andrés Pastrana Arango",
+        "Lawrence Summers",
+        "Ron Burkle",
+        "Kevin Spacey",
+        "Chris Tucker",
+        "Tony Blair",
+        "Bernie Madoff"
+      ],
+      "organizations": [
+        "United Business Media",
+        "Property Week",
+        "Building",
+        "Bear Stearns",
+        "European Parliament",
+        "Organisation for Security and Co-operation in Europe",
+        "BBC",
+        "Wall Street Journal",
+        "Institute of Advanced Legal Studies",
+        "School of Advanced Study",
+        "University of London",
+        "Market Abuse Association"
+      ],
+      "locations": [
+        "Azerbaijan",
+        "Britain",
+        "US",
+        "London"
+      ],
+      "financial_entities": [
+        "Bear Stearns",
+        "Wall Street",
+        "hedge fund"
+      ]
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Financial transactions/money flow",
+      "Travel/logistics",
+      "Political connections/influence",
+      "Business dealings",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Larry Visoki",
+        "relationship_type": "employment",
+        "description": "Epstein employed Visoki as his private pilot"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Prince Andrew",
+        "relationship_type": "personal",
+        "description": "Prince Andrew was Epstein's shooting companion"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bradley Edwards",
+        "relationship_type": "legal",
+        "description": "Edwards is attorney for women suing Epstein"
+      },
+      {
+        "entity_1": "Bernie Madoff",
+        "relationship_type": "criminal",
+        "description": "Madoff convicted of hedge fund fraud"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$159,000",
+        "£99,000"
+      ],
+      "transactions": [
+        "Epstein transferred Ferrari title deeds to pilot Larry Visoki",
+        "Ferrari sale for $159,000"
+      ],
+      "assets": [
+        "2003 Ferrari 575M Maranello",
+        "private jet"
+      ]
+    },
+    "analysis": {
+      "tone": "sarcastic, investigative, critical",
+      "emotional_indicators": [
+        "skepticism",
+        "cynicism",
+        "sarcasm"
+      ],
+      "purpose": "To report on various business and financial news items with investigative angles",
+      "significance": "Reveals connections between Jeffrey Epstein and high-profile individuals, and provides details about his legal situation and financial transactions"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Epstein's criminal conviction for soliciting prostitution and procuring a minor",
+        "Civil claims against Epstein for unlawful sex with young women",
+        "Madoff hedge fund fraud conviction"
+      ]
+    },
+    "notable_quotes": [
+      "\"Visoki admitted Bill Clinton, Prince Andrew, former Israeli prime minister Ehud Barak, former Colombian president Andrés Pastrana Arango, Obama economic adviser Lawrence Summers, billionaire Ron Burkle, and actors Kevin Spacey and Chris Tucker had been on board the plane while young girls were present.\"",
+      "\"Fortuitously for Epstein, however, Ferrari-selling Visoki swore on oath that he never suspected his boss of having sex with them.\"",
+      "\"Rumours persist that he pleaded guilty as quickly as he did and said the absolute minimum because he wasn't the main crook of the piece - the main business of his hedge fund was washing money for organised crime.\""
+    ],
+    "red_flags": [
+      "Epstein transferring assets to his pilot prior to legal proceedings",
+      "High-profile individuals associated with Epstein despite his criminal record",
+      "Pilot's testimony conflicting with known facts about Epstein's activities",
+      "Madoff organized crime money laundering allegations"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "possible",
+      "evidence": [
+        "Madoff allegedly warned by 'friends with Italian-American origins' that his family's lives would be at risk if he didn't 'take the rap'"
+      ],
+      "description": "The article suggests Madoff may have been coerced into pleading guilty through threats to his family's safety"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on past illegal activities of Epstein and Madoff, not first-hand evidence of ongoing criminal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article discusses media companies charging for online content",
+        "References BBC broadcasts being blocked in Azerbaijan",
+        "Mentions Wall Street Journal report on private jet travel",
+        "Discusses media restrictions in Azerbaijan"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a published news article from 2009 covering Epstein's legal cases and high-profile connections, Madoff's fraud case, and various business news items"
+    },
+    "summary": "This 2009 news article reports on Jeffrey Epstein's legal situation, including his transfer of a Ferrari to his pilot Larry Visoki and deposition testimony revealing high-profile individuals who flew on Epstein's plane with young girls present. The article also covers business news including media subscription models, insolvency predictions, and discusses Bernie Madoff's fraud case with allegations of organized crime connections."
+  }
+}

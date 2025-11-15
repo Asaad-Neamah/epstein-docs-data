@@ -1,0 +1,125 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026030.txt",
+  "file_name": "HOUSE_OVERSIGHT_026030.txt",
+  "processed_at": "2025-11-15T02:44:03.838920",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-29",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "roger",
+        "Trump",
+        "Steve Bannon",
+        "Dep Cr Prince"
+      ],
+      "organizations": [
+        "Trump circle",
+        "Saudi friends"
+      ],
+      "locations": [
+        "New York",
+        "palm beach"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "business/personal",
+        "description": "Communicating about arranging meetings and media ideas"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump circle",
+        "relationship_type": "media access",
+        "description": "Wolff claims to be the only liberal-media guy with access to Trump circle"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Saudi friends",
+        "relationship_type": "business",
+        "description": "Reference to media ideas involving Saudi friends"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, confidential",
+      "emotional_indicators": [
+        "wary",
+        "paranoid",
+        "excitement about access"
+      ],
+      "purpose": "To arrange a meeting between Jeffrey Epstein and someone in the Trump circle while discussing media access and potential business ideas",
+      "significance": "Shows communication between Jeffrey Epstein and a journalist with Trump circle access shortly after the 2016 election, including discussion of arranging discreet meetings"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "He would like to meet, tho wary of being seen, etc.",
+      "I have to contact him through his wife on a burner phone, which they don't reliably check.",
+      "it's suddenly made me the only liberal-media guy with access to Trump circle."
+    ],
+    "red_flags": [
+      "Use of burner phones for communication",
+      "Extreme secrecy about meetings",
+      "Paranoia about being seen together",
+      "Attempt to arrange meeting with someone wary of being seen with Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "possible",
+      "evidence": [
+        "Someone being 'wary of being seen' with Epstein",
+        "Use of burner phones suggesting covert communication",
+        "Paranoid behavior patterns"
+      ],
+      "description": "The document suggests someone is extremely cautious about being seen with Epstein, potentially indicating concern about association or possible compromising situations"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No direct illegal activity discussed - primarily about arranging meetings and media access"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff is a journalist/media figure",
+        "Reference to Hollywood Reporter article about Steve Bannon",
+        "Discussion of media access to Trump circle",
+        "Media idea proposed regarding Saudi friends"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This communication occurred shortly after Trump's 2016 election victory, showing Epstein's attempts to maintain connections with Trump associates through media intermediaries"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein about arranging a discreet meeting with someone in the Trump circle who is wary of being seen, while also discussing Wolff's exclusive media access to Trump's team and proposing media ideas involving Saudi connections."
+  }
+}

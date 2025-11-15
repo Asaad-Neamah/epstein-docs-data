@@ -1,0 +1,122 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031415.txt",
+  "file_name": "HOUSE_OVERSIGHT_031415.txt",
+  "processed_at": "2025-11-15T02:52:14.524125",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2019-02-06",
+      "subject": "A Justice Dept. discipline office with limited reach to probe handling of controversial child sex abuse case",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Matt Zapotosky",
+        "Stephen E. Boyd",
+        "Ben Sasse",
+        "Jeffrey Epstein",
+        "Alex Acosta",
+        "Donald Trump",
+        "Bill Clinton",
+        "Martin G. Weinberg"
+      ],
+      "organizations": [
+        "U.S. Department of Justice",
+        "Office of Professional Responsibility",
+        "U.S. Senate",
+        "Miami Herald",
+        "Southern District of Florida Office"
+      ],
+      "locations": [
+        "Nebraska",
+        "Miami",
+        "Washington D.C."
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "personal",
+        "description": "Epstein counts Trump among his friends"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "personal",
+        "description": "Epstein counts Clinton among his friends"
+      },
+      {
+        "entity_1": "Alex Acosta",
+        "entity_2": "Jeffrey Epstein case",
+        "relationship_type": "legal",
+        "description": "Acosta as former U.S. Attorney shelved indictment against Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To report on the Justice Department's investigation into the handling of the Jeffrey Epstein case",
+      "significance": "Reveals ongoing scrutiny of the controversial plea deal that allowed Epstein to serve minimal jail time for serious child sex abuse allegations"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Professional misconduct investigation",
+        "Questionable plea deal handling",
+        "Potential attorney wrongdoing"
+      ]
+    },
+    "notable_quotes": [
+      "\"The victims of Epstein's child sex trafficking ring deserve this investigation — and so do the American people and the members of law enforcement who work to put these kinds of monsters behind bars.\"",
+      "\"It was anything but a sweetheart deal. And it was carefully and fully reviewed not only by senior prosecutors within the Southern District of Florida Office but also at multiple levels of the Department of Justice in D.C.\""
+    ],
+    "red_flags": [
+      "Well-connected individual receiving favorable treatment",
+      "53-page indictment shelved",
+      "Victims felt betrayed by plea arrangement",
+      "Limited consequences expected from investigation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article about the investigation"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and investigations, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Miami Herald investigation referenced",
+        "Matt Zapotosky as author/reporter"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This Washington Post article is itself media coverage of the Jeffrey Epstein case and the subsequent DOJ investigation, indicating this information was becoming public knowledge"
+    },
+    "summary": "The Justice Department's Office of Professional Responsibility has opened an investigation into potential professional misconduct by attorneys who handled the Jeffrey Epstein case, which resulted in a controversial plea deal allowing the well-connected financier to serve only 13 months for allegations of molesting dozens of young girls."
+  }
+}

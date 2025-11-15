@@ -1,0 +1,159 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_014717.txt",
+  "file_name": "HOUSE_OVERSIGHT_014717.txt",
+  "processed_at": "2025-11-15T02:37:08.611115",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-16",
+      "subject": "Buy hedges for May expiry",
+      "document_id": "",
+      "sender": "Amanda Ens",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]",
+        "Richard Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Amanda Ens",
+        "David Woo",
+        "Paul Ryan",
+        "Kevin Brady",
+        "McConnell",
+        "Trump",
+        "Tillerson",
+        "Kerry",
+        "Mnuchin",
+        "Cohn",
+        "Bernie Sanders",
+        "Obama"
+      ],
+      "organizations": [
+        "Bank of America Merrill Lynch",
+        "BAML",
+        "Senate",
+        "WTO",
+        "OECD",
+        "Federal Reserve",
+        "Exxon",
+        "Walmart",
+        "Target",
+        "BMW"
+      ],
+      "locations": [
+        "DC",
+        "US",
+        "Germany",
+        "China",
+        "Mexico",
+        "Europe",
+        "Russia",
+        "Brazil",
+        "Canada",
+        "Japan",
+        "Colombia",
+        "New York, NY"
+      ],
+      "financial_entities": [
+        "Bank of America Merrill Lynch",
+        "Merrill Lynch, Pierce, Fenner & Smith Incorporated"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Political connections/influence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Financial advisor providing market analysis and investment recommendations"
+      },
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Richard Kahn",
+        "relationship_type": "professional",
+        "description": "Colleagues/recipients of financial analysis"
+      },
+      {
+        "entity_1": "David Woo",
+        "entity_2": "Bank of America Merrill Lynch",
+        "relationship_type": "employment",
+        "description": "Head of FX, Rates and EM Strategy at BAML"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "1.7%",
+        "$20tn",
+        "$5tn",
+        "$4tn",
+        "$1tn",
+        "$400bn",
+        "$100bn",
+        "$2-2.5trn",
+        "$100bn"
+      ],
+      "transactions": [
+        "May expiry 100%/90% SPX put spread costs 1.7%",
+        "buying protection such as S&P puts"
+      ],
+      "assets": [
+        "SPX puts",
+        "non-USD assets",
+        "USD-denominated debt",
+        "excess capital in reserve"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, analytical, urgent",
+      "emotional_indicators": [
+        "urgency (importance: High)",
+        "confidence in analysis"
+      ],
+      "purpose": "To provide market analysis and investment recommendations regarding potential market pullback and tax reform implications",
+      "significance": "Shows financial professionals providing sophisticated market analysis and investment advice to Jeffrey Epstein during a period of political uncertainty"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Bottom line: sees market pullback over the next 6-8 weeks on near term policy disappointment and recommends buying protection such as S&P puts",
+      "#1 focus these days is tax reform - if they don't get it done by Jan 2018, it won't happen at all, and then Republicans would be out of a job when midterm elections come",
+      "Trump is obsessed with the stock market — when he sees it trade lower, he will act"
+    ],
+    "red_flags": [
+      "High importance marking for financial advice to Jeffrey Epstein",
+      "Discussion of political insider information affecting market timing"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely professional financial analysis and market commentary"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is legitimate financial market analysis and investment advice"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "This appears to be private financial analysis from a Bank of America director to clients, containing market insights and investment recommendations that would not typically be public information"
+    },
+    "summary": "Amanda Ens, a Bank of America Merrill Lynch director, provides detailed market analysis and investment recommendations to Jeffrey Epstein and Richard Kahn, predicting a market pullback in 6-8 weeks due to potential tax reform delays and recommending buying SPX put options for May expiry as protection."
+  }
+}

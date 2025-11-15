@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033402.txt",
+  "file_name": "HOUSE_OVERSIGHT_033402.txt",
+  "processed_at": "2025-11-15T02:58:27.749183",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-21",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "J",
+      "recipients": [
+        "Weingarten, Reid"
+      ]
+    },
+    "entities": {
+      "people": [
+        "J",
+        "Weingarten, Reid",
+        "Michael Cohen"
+      ],
+      "organizations": [
+        "CNBC"
+      ],
+      "locations": [
+        "DC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Legal matters/litigation"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Weingarten, Reid",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding scheduling and sharing news article"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "brief, direct",
+      "emotional_indicators": [
+        "urgency",
+        "stress"
+      ],
+      "purpose": "Coordinate meeting timing and share news article about Michael Cohen's prison surrender date",
+      "significance": "Shows communication about legal developments involving Michael Cohen during sensitive timing"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Not a good time",
+      "please note"
+    ],
+    "red_flags": [
+      "Vague scheduling reference",
+      "Cryptic 'not a good time' response"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a CNBC news article about Michael Cohen's prison surrender date being delayed - this is reporting on legal proceedings, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC news article about Michael Cohen's prison surrender date being delayed"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's legal proceedings were widely covered in media; this email shares publicly available news coverage"
+    },
+    "summary": "Email exchange between J and attorney Reid Weingarten discussing scheduling for an unidentified person's DC visit and sharing a CNBC article about Michael Cohen's prison surrender date being delayed to May 6, 2019."
+  }
+}

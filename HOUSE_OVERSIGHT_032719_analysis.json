@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032719.txt",
+  "file_name": "HOUSE_OVERSIGHT_032719.txt",
+  "processed_at": "2025-11-15T02:55:39.597315",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-15",
+      "subject": "RE:",
+      "document_id": "HOUSE OVERSIGHT 032719",
+      "sender": "Weingarten, Reid",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Weingarten, Reid",
+        "Jeffrey E.",
+        "Trump",
+        "McGahn",
+        "McMasters"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Weingarten, Reid",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing political matters"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "McGahn",
+        "relationship_type": "political",
+        "description": "Trump reportedly prevented McGahn from resigning"
+      },
+      {
+        "entity_1": "McGahn",
+        "entity_2": "McMasters",
+        "relationship_type": "political",
+        "description": "Both attempted to resign according to the email"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, informal",
+      "emotional_indicators": [
+        "frustration",
+        "urgency",
+        "political tension"
+      ],
+      "purpose": "To discuss and confirm information about attempted resignations in the Trump administration",
+      "significance": "Reveals internal political tensions and power dynamics within the Trump White House in early 2018"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "mcgann and mcmasters tried to resign please note",
+      "Trump stopped them? He cannot stand mcgahn"
+    ],
+    "red_flags": [
+      "Discussion of sensitive internal government matters via personal email"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be political gossip/discussion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is political discussion about government resignations"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Discussions about Trump administration resignations were widely covered in media during this period"
+    },
+    "summary": "Email exchange discussing that McGahn and McMasters attempted to resign from the Trump administration, with Weingarten noting that Trump prevented their resignations and 'cannot stand McGahn,' revealing internal White House tensions in January 2018."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033230.txt",
+  "file_name": "HOUSE_OVERSIGHT_033230.txt",
+  "processed_at": "2025-11-15T02:57:36.934335",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-30",
+      "subject": "PC - Business standard - Thu. 30 March 2017 : After trump phone call, govt weighs if Modi should visit US early",
+      "document_id": "",
+      "sender": "Anil Ambani",
+      "recipients": [
+        "Jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Anil Ambani",
+        "Jeffrey E.",
+        "Modi",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "US"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Anil Ambani",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Business/Professional",
+        "description": "Anil Ambani is sharing information with Jeffrey Epstein via email"
+      },
+      {
+        "entity_1": "Modi",
+        "entity_2": "Trump",
+        "relationship_type": "Political",
+        "description": "Phone call between political leaders mentioned in the subject line"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, brief, informational",
+      "emotional_indicators": [],
+      "purpose": "To forward news information about potential diplomatic visit between India and US",
+      "significance": "Shows communication channel between Anil Ambani and Jeffrey Epstein regarding political developments"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High importance flag on email about political developments",
+      "Sharing sensitive diplomatic information with Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this brief informational email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains forwarding of a news article about political developments, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Business Standard news article about Modi-Trump phone call and potential US visit"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Discusses diplomatic relations between India and US during Trump administration, which was publicly reported news"
+    },
+    "summary": "Anil Ambani forwards a Business Standard news article to Jeffrey Epstein about the Indian government considering an early US visit by Prime Minister Modi following a phone call with President Trump, marking the email as high importance."
+  }
+}

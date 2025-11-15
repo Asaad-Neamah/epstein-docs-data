@@ -1,0 +1,120 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029880.txt",
+  "file_name": "HOUSE_OVERSIGHT_029880.txt",
+  "processed_at": "2025-11-15T02:48:26.188250",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email chain",
+      "date": "2009-08-11",
+      "subject": "FW: Jane Doe",
+      "document_id": "",
+      "sender": "Jessica Cadwell",
+      "recipients": [
+        "Jeffrey Epstein",
+        "Robert D. Critton Jr."
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jessica Cadwell",
+        "Jeffrey Epstein",
+        "Robert D. Critton Jr.",
+        "Jacquie Johnson",
+        "Bradley J. Edwards",
+        "Jane Doe",
+        "Maxwell",
+        "Mr. Trump"
+      ],
+      "organizations": [
+        "BURMAN CRITTON LUTTIER & COLEMAN, LLP",
+        "Milton Center",
+        "Department of Juvenile Justice"
+      ],
+      "locations": [
+        "West Palm Beach, FL",
+        "Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jessica Cadwell",
+        "entity_2": "Jacquie Johnson",
+        "relationship_type": "professional/colleague",
+        "description": "Paralegal communication regarding legal case matters"
+      },
+      {
+        "entity_1": "Bradley J. Edwards",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal representation",
+        "description": "Attorney representing Jane Doe in legal proceedings"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal",
+        "description": "Subject of legal proceedings involving Jane Doe"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, procedural",
+      "emotional_indicators": [
+        "urgency",
+        "persistence"
+      ],
+      "purpose": "Coordinate deposition scheduling and document requests for a legal case involving Jane Doe",
+      "significance": "Shows legal proceedings involving Jeffrey Epstein, Ghislaine Maxwell, and Donald Trump in 2009 related to a case with Jane Doe"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "HIPAA release requirements",
+        "juvenile records access",
+        "protective order filing"
+      ]
+    },
+    "notable_quotes": [
+      "Please notice the deposition of Ms. Maxwell has been rescheduled from 8/17 to 9/23.",
+      "Mr. Trump's deposition is scheduled for August 18, 2009.",
+      "I need a date for the deposition of Mr. Epstein. Can you provide me with one please?"
+    ],
+    "red_flags": [
+      "Multiple high-profile individuals involved in same legal case",
+      "Juvenile justice facility records being sought"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely procedural legal communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity - this is legal procedural communication between paralegals and attorneys"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be internal legal correspondence that was not intended for public release, involving high-profile individuals in legal proceedings"
+    },
+    "summary": "Email chain between paralegals and attorneys discussing deposition scheduling for Jeffrey Epstein, Ghislaine Maxwell, and Donald Trump in a legal case involving Jane Doe, including requests for juvenile records and coordination of legal proceedings."
+  }
+}

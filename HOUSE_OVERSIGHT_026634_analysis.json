@@ -1,0 +1,118 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026634.txt",
+  "file_name": "HOUSE_OVERSIGHT_026634.txt",
+  "processed_at": "2025-11-15T02:45:17.129561",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "",
+      "subject": "We recently met with Apollo's management",
+      "document_id": "",
+      "sender": "Michael Carrier, CFA",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Josh Harris",
+        "Martin Kelly",
+        "Michael Carrier",
+        "Trump"
+      ],
+      "organizations": [
+        "Apollo",
+        "Apollo Asset Management Europe (AAME)",
+        "Republican Congress"
+      ],
+      "locations": [],
+      "financial_entities": [
+        "Apollo",
+        "Mid-Cap Financial",
+        "Athene"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Carrier",
+        "entity_2": "Apollo management",
+        "relationship_type": "analyst-company",
+        "description": "Financial analyst meeting with company executives"
+      },
+      {
+        "entity_1": "Josh Harris",
+        "entity_2": "Apollo",
+        "relationship_type": "employment",
+        "description": "Co-Founder of Apollo"
+      },
+      {
+        "entity_1": "Martin Kelly",
+        "entity_2": "Apollo",
+        "relationship_type": "employment",
+        "description": "CFO of Apollo"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$21",
+        "$2.0B",
+        "$5 per share"
+      ],
+      "transactions": [
+        "Potential $2.0B cash carry for unitholders from Fund VIII"
+      ],
+      "assets": [
+        "PE Fund IX",
+        "Fund VIII",
+        "Credit investments",
+        "Real Estate"
+      ]
+    },
+    "analysis": {
+      "tone": "analytical, professional, cautiously optimistic",
+      "emotional_indicators": [
+        "confidence in analysis",
+        "measured optimism"
+      ],
+      "purpose": "To provide investment analysis and update on Apollo's business outlook following management meetings",
+      "significance": "Provides insight into Apollo's strategic outlook, tax implications of Trump administration policies, and financial projections"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Management sees the election outcome (Trump and Republican Congress) to be likely favorable for GDP growth",
+      "We estimate that Fund VIII could return more than $2.0B of cash carry for unitholders, or around $5 per share",
+      "Potential tax changes a mixed bag for the industry with pros and cons"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this financial analysis document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains standard financial analysis and investment commentary with no illegal activity discussed"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard financial analysis that would be typical of investment research reports"
+    },
+    "summary": "This document is a financial analysis email from Michael Carrier discussing Apollo's business outlook following meetings with management, covering growth opportunities, tax implications of Trump administration policies, and financial projections including potential $2.0B returns from Fund VIII."
+  }
+}

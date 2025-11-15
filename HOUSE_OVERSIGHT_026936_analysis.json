@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026936.txt",
+  "file_name": "HOUSE_OVERSIGHT_026936.txt",
+  "processed_at": "2025-11-15T02:45:37.728776",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-01-23",
+      "subject": "Michael Cohen says he's postponing testimony over threats by Trump",
+      "document_id": "HOUSE OVERSIGHT 026936",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Michael Cohen",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "NY Post"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein a news article about Michael Cohen"
+      },
+      {
+        "entity_1": "Michael Cohen",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Cohen alleges threats from Trump regarding congressional testimony"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency indicated by 'Importance: High' flag"
+      ],
+      "purpose": "To share breaking news about Michael Cohen's postponed congressional testimony and alleged threats from Trump",
+      "significance": "Documents communication about significant political developments involving Trump and his former attorney during congressional investigations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion in this communication - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains a forwarded news article about alleged threats from Trump to Michael Cohen - no first-hand illegal activity by sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "NY Post article about Michael Cohen's postponed testimony",
+        "Includes full article URL and tracking parameters"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's testimony and relationship with Trump was widely covered in media during 2019 congressional investigations"
+    },
+    "summary": "Richard Kahn forwards a NY Post article to Jeffrey Epstein about Michael Cohen postponing his congressional testimony due to alleged threats from Trump, marking the email as high importance."
+  }
+}

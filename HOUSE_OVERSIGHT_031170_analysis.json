@@ -1,0 +1,138 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031170.txt",
+  "file_name": "HOUSE_OVERSIGHT_031170.txt",
+  "processed_at": "2025-11-15T02:51:21.898164",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2019-03-06",
+      "subject": "Miami U.S. attorney's office recuses itself from the Jeffrey Epstein case",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Brad Edwards",
+        "Jack Scarola",
+        "Byung J. 'B.J.' Pak",
+        "Donald Trump",
+        "Kenneth A. Marra",
+        "Alexander Acosta",
+        "Paul Cassell",
+        "Ariana Fajardo Orshan",
+        "Ben Sasse",
+        "Debbie Wasserman Schultz"
+      ],
+      "organizations": [
+        "U.S. Justice Department",
+        "U.S. attorney's office Miami",
+        "U.S. attorney's office Atlanta",
+        "Northern District of Georgia",
+        "FBI",
+        "Crime Victims' Rights Act",
+        "Office of Professional Responsibility",
+        "Congress",
+        "Palm Beach County jail"
+      ],
+      "locations": [
+        "Miami",
+        "Atlanta",
+        "New York",
+        "Virgin Islands",
+        "Palm Beach",
+        "U.S. Virgin Islands",
+        "Nebraska",
+        "Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Allegations/complaints",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Alexander Acosta",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "prosecutorial",
+        "description": "Former Miami U.S. Attorney who oversaw the controversial plea deal for Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "underage girls",
+        "relationship_type": "criminal",
+        "description": "Epstein sexually abused more than 30 underage girls in Palm Beach"
+      },
+      {
+        "entity_1": "Justice Department",
+        "entity_2": "Epstein victims",
+        "relationship_type": "legal",
+        "description": "DOJ found to have violated victims' rights by concealing plea agreement"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [
+        "betrayal",
+        "concern",
+        "urgency"
+      ],
+      "purpose": "To report on the recusal of Miami prosecutors from the Epstein case and the ongoing legal proceedings regarding victims' rights violations",
+      "significance": "Documents the transfer of the Epstein victims' rights case to a new jurisdiction and reveals judicial findings that federal prosecutors intentionally violated victims' rights laws"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Violation of Crime Victims' Rights Act",
+        "Concealment of plea agreement",
+        "Prosecutorial misconduct",
+        "Failure to inform victims of plea deal"
+      ]
+    },
+    "notable_quotes": [
+      "\"Epstein worked in concert with others to obtain minors not only for his own sexual gratification, but also for the sexual gratification of others\"",
+      "\"government prosecutors not only intentionally violated the Crime Victims' Rights Act, but they misled the girls into believing that the FBI investigation against Epstein was ongoing\""
+    ],
+    "red_flags": [
+      "Secret plea agreement concealed from victims and court",
+      "Epstein given liberal work release and travel privileges during house arrest",
+      "Prosecutors misled victims about ongoing investigation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article about legal proceedings"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and past criminal activities, not first-hand evidence of ongoing illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References Miami Herald's \"Perversion of Justice\" investigation",
+        "Article itself is media coverage of the Epstein case"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This article covers well-known aspects of the Jeffrey Epstein case that received significant media attention, including the controversial plea deal and victims' rights violations"
+    },
+    "summary": "The Miami U.S. attorney's office has recused itself from the Jeffrey Epstein victims' rights case, transferring it to Atlanta prosecutors. This follows a federal judge's ruling that prosecutors violated victims' rights by concealing a plea agreement that granted Epstein and accomplices immunity from federal prosecution for sex trafficking crimes involving over 30 underage girls."
+  }
+}

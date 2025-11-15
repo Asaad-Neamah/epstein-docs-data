@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026673.txt",
+  "file_name": "HOUSE_OVERSIGHT_026673.txt",
+  "processed_at": "2025-11-15T02:45:02.502186",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-04-16",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 026673",
+      "sender": "Thorbjon Jagland",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Thorbjon Jagland",
+        "jeffrey E.",
+        "Trump",
+        "Endogan"
+      ],
+      "organizations": [],
+      "locations": [
+        "Paris",
+        "Turkey"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Thorbjon Jagland",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal",
+        "description": "Appears to have a personal relationship with expressions of care and gratitude"
+      },
+      {
+        "entity_1": "Thorbjon Jagland",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Expresses lack of understanding about Trump's actions"
+      },
+      {
+        "entity_1": "Thorbjon Jagland",
+        "entity_2": "Endogan",
+        "relationship_type": "political",
+        "description": "Mentioned in context of Turkish referendum, described as difficult to understand"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "concerned, appreciative, political",
+      "emotional_indicators": [
+        "gratitude",
+        "concern for health",
+        "political frustration"
+      ],
+      "purpose": "Personal correspondence expressing gratitude, concern for health, and discussing political matters",
+      "significance": "Shows personal relationship between Jagland and Epstein during time of investigations, with political commentary"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "You should feel well for having done so much for us",
+      "I really don't understand Trump. Today I have to deal with the referendum in Turkey. Endogan is another difficult to understand"
+    ],
+    "red_flags": [
+      "Reference to 'many investigations will begin' suggests legal/political scrutiny ongoing"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be a friendly personal exchange"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Communication between Thorbjørn Jagland (former Norwegian PM and Council of Europe head) and Jeffrey Epstein during time of investigations into Epstein"
+    },
+    "summary": "Email exchange between Thorbjørn Jagland and Jeffrey Epstein expressing gratitude for Epstein's help, concern about his health, and discussing political figures Trump and Erdogan, with Epstein mentioning that 'many investigations will begin.'"
+  }
+}

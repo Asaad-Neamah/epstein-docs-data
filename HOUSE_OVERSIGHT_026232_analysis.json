@@ -1,0 +1,89 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026232.txt",
+  "file_name": "HOUSE_OVERSIGHT_026232.txt",
+  "processed_at": "2025-11-15T02:43:58.792953",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-21",
+      "subject": "TSA PBI",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Jeffrey Epstein (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "TSA"
+      ],
+      "locations": [
+        "PBI (Palm Beach International Airport)",
+        "St. Thomas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Larry is making travel arrangements for Jeffrey Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey Epstein about TSA restrictions at PBI airport during President Trump's visit and confirm flight arrangements",
+      "significance": "Shows travel coordination for Jeffrey Epstein during a period when President Trump was in the area, with specific TSA restrictions in place"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "While Trump is in PSI, TSA only allows arrival and departures between Sam and 5pm for General Aviation.",
+      "They also ask if Passengers are Male or Female, strange, they didn't ask names."
+    ],
+    "red_flags": [
+      "Unusual TSA gender inquiry without name verification"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - routine travel coordination email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced - routine travel logistics email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Email shows travel coordination during President Trump's presence in Palm Beach, which could be of interest given Epstein's connections"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein about TSA restrictions at Palm Beach International Airport during President Trump's visit, confirming a November 26th flight reservation to St. Thomas and noting unusual TSA passenger gender inquiries."
+  }
+}

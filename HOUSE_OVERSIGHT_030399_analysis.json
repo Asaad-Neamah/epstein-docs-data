@@ -1,0 +1,88 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030399.txt",
+  "file_name": "HOUSE_OVERSIGHT_030399.txt",
+  "processed_at": "2025-11-15T02:49:34.465442",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-03",
+      "subject": "http://nymag.com/daily/intelligencer/2018/01/michael-wolff-fire-and-fury-book-donald-trump.html",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Melanie SpineIla"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Melanie SpineIla",
+        "Michael Wolff",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "nymag.com",
+        "Daily Intelligencer"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender",
+        "entity_2": "Melanie SpineIla",
+        "relationship_type": "Professional",
+        "description": "Sender is forwarding information to Melanie SpineIla"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "brief, directive",
+      "emotional_indicators": [],
+      "purpose": "To share a news article link about Michael Wolff's 'Fire and Fury' book with Melanie SpineIla",
+      "significance": "Shows awareness of and interest in media coverage about Donald Trump during his presidency"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "please note"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains only a link to a news article about Michael Wolff's book, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Michael Wolff's book 'Fire and Fury' about Donald Trump",
+        "Link to New York Magazine's Daily Intelligencer article"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Wolff's 'Fire and Fury' was a highly publicized book about the Trump White House that received extensive media coverage in early 2018"
+    },
+    "summary": "This email forwards a link to a New York Magazine article about Michael Wolff's controversial book 'Fire and Fury' concerning Donald Trump's presidency, sent to Melanie SpineIla with a brief 'please note' instruction."
+  }
+}

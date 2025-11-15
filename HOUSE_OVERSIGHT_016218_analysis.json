@@ -1,0 +1,139 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_016218.txt",
+  "file_name": "HOUSE_OVERSIGHT_016218.txt",
+  "processed_at": "2025-11-15T02:37:56.016180",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-05-09",
+      "subject": "AT&T confirms it paid Trump lawyer Michael Cohen for 'insights' on administration",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Cohen",
+        "Donald Trump",
+        "Stormy Daniels",
+        "Stephanie Clifford",
+        "Michael Avenatti",
+        "Vas Narasimhan"
+      ],
+      "organizations": [
+        "AT&T",
+        "CNBC",
+        "Getty Images",
+        "Novartis",
+        "Essential Consultants",
+        "Time Warner",
+        "U.S. Justice Department",
+        "Korea Aerospace Industries LTD",
+        "World Economic Forum",
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York City",
+        "Davos, Switzerland"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Cohen",
+        "entity_2": "Donald Trump",
+        "relationship_type": "legal/personal",
+        "description": "Cohen is described as Trump's longtime personal lawyer and confidante"
+      },
+      {
+        "entity_1": "AT&T",
+        "entity_2": "Michael Cohen",
+        "relationship_type": "business",
+        "description": "AT&T paid Cohen's company for insights into the Trump administration"
+      },
+      {
+        "entity_1": "Novartis",
+        "entity_2": "Michael Cohen",
+        "relationship_type": "business",
+        "description": "Novartis made payments to Cohen's company Essential Consultants"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$200,000",
+        "$130,000",
+        "$400,000",
+        "$150,000",
+        "$85 billion"
+      ],
+      "transactions": [
+        "AT&T payments to Cohen's company",
+        "Novartis payments to Essential Consultants",
+        "Korea Aerospace Industries payment",
+        "hush-money payment to Daniels"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To share news article about payments made to Michael Cohen's company by various corporations",
+      "significance": "Reveals corporate payments to Trump's personal lawyer for access/insights into the administration"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential influence peddling",
+        "Payments for political access",
+        "Hush money payments"
+      ]
+    },
+    "notable_quotes": [
+      "AT&T said that it had paid President Donald Trump's lawyer Michael Cohen for 'insights' about the Trump administration",
+      "Daniels says the money was in exchange for her signing a deal that required her to remain silent about an affair she claims to have had with Trump"
+    ],
+    "red_flags": [
+      "Corporate payments for political access",
+      "Shell company used for multiple transactions",
+      "Hush money payments related to presidential election"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication - it's sharing news about third-party activities"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email shares a news article about Michael Cohen's activities - no first-hand illegal activity by sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC news article",
+        "Getty Images",
+        "Media coverage of Michael Cohen payments"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This relates to the Michael Cohen scandal that was widely covered in media regarding payments for access to Trump administration and hush money payments"
+    },
+    "summary": "Richard Kahn forwards a CNBC news article to Jeffrey Epstein detailing how AT&T, Novartis, and other companies paid Michael Cohen's shell company for insights into the Trump administration, while also covering the hush money payment to Stormy Daniels."
+  }
+}

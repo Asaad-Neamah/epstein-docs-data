@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032426.txt",
+  "file_name": "HOUSE_OVERSIGHT_032426.txt",
+  "processed_at": "2025-11-15T02:54:30.058314",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-01-12",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Kathy Ruemmle",
+      "recipients": [
+        "jeffrey E. (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmle",
+        "Jeffrey E.",
+        "Trump",
+        "McGyver"
+      ],
+      "organizations": [
+        "Apple"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Employment/staffing",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmle",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing real estate negotiations and employment updates"
+      },
+      {
+        "entity_1": "Kathy Ruemmle",
+        "entity_2": "Apple",
+        "relationship_type": "employment",
+        "description": "Ruemmle hired by Apple for patent trial work"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "real estate negotiations with developer",
+        "allowances",
+        "commissions",
+        "fees",
+        "free maintenance"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, professional",
+      "emotional_indicators": [
+        "concern about risk",
+        "excitement about new job"
+      ],
+      "purpose": "Update on employment status and continue real estate negotiation discussion",
+      "significance": "Shows professional relationship between Ruemmle and Epstein with ongoing business discussions"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Got hired by Apple this week to do a patent trial.",
+      "What if I get it and can't resell?",
+      "i understand the fear. thats why we will condition the close on how the others sell"
+    ],
+    "red_flags": [
+      "Real estate transaction with conditional terms based on others' sales"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - appears to be legitimate business communications"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private email exchange about personal business matters"
+    },
+    "summary": "Kathy Ruemmle emails Jeffrey Epstein to update him about being hired by Apple for a patent trial, while continuing their discussion about real estate negotiations involving conditional terms based on how other properties sell."
+  }
+}

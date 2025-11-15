@@ -1,0 +1,119 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030688.txt",
+  "file_name": "HOUSE_OVERSIGHT_030688.txt",
+  "processed_at": "2025-11-15T02:50:16.194217",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-18",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Ira Rosen",
+        "Bannon",
+        "Trump",
+        "Bill Maher"
+      ],
+      "organizations": [
+        "60 Minutes"
+      ],
+      "locations": [
+        "DC",
+        "LA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Personal relationships",
+      "Media strategy discussions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about scheduling and strategy discussions"
+      },
+      {
+        "entity_1": "Ira Rosen",
+        "entity_2": "Bannon",
+        "relationship_type": "professional/friendship",
+        "description": "60 Minutes producer and friend of Bannon's who delivered a message"
+      },
+      {
+        "entity_1": "Bannon",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Bannon considering making a formal and public break with Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "few million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, confident, busy",
+      "emotional_indicators": [
+        "confidence",
+        "humor about unpopularity",
+        "sense of being in demand"
+      ],
+      "purpose": "Respond to Jeffrey E.'s inquiry about his status and schedule a meeting while sharing information about Bannon's message",
+      "significance": "Shows communication between Wolff and Jeffrey E. about media strategy and contains reference to Bannon's financial claim and potential break with Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"You own me a few million.\" - Message from Bannon via Ira Rosen",
+      "\"prefer no details on email\" - Jeffrey E.'s caution about email communication"
+    ],
+    "red_flags": [
+      "Request to avoid email details suggests preference for non-recorded communication",
+      "Financial obligation claim from Bannon to Wolff"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be routine communication about scheduling and media strategy"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to journalists",
+        "60 Minutes producer Ira Rosen",
+        "Book signing event",
+        "Bill Maher show appearance",
+        "Media strategy discussions"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known author and journalist; Steve Bannon's relationship with Trump was widely covered in 2018; this appears to be private communication about behind-the-scenes dynamics"
+    },
+    "summary": "Michael Wolff responds to Jeffrey E. about his busy schedule and status, sharing that he's 'everybody's darling' despite claiming unpopularity. He relays a message from Bannon via 60 Minutes producer Ira Rosen stating 'You own me a few million' and discusses Bannon potentially making a public break with Trump, while noting he cannot meet due to travel commitments for book events and media appearances."
+  }
+}

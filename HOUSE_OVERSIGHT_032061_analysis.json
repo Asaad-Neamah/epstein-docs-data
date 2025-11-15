@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032061.txt",
+  "file_name": "HOUSE_OVERSIGHT_032061.txt",
+  "processed_at": "2025-11-15T02:53:30.754428",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-08",
+      "subject": "nuts",
+      "document_id": "HOUSE OVERSIGHT 032061",
+      "sender": "Jeffrey E.",
+      "recipients": [
+        "Miller, Michael",
+        "Weingarten, Reid"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E.",
+        "Reid Weingarten",
+        "Michael Miller",
+        "Donald Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Reid Weingarten",
+        "relationship_type": "professional",
+        "description": "Jeffrey E. is sending legal news to attorney Reid Weingarten"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Michael Miller",
+        "relationship_type": "professional",
+        "description": "Jeffrey E. is sending legal news to Michael Miller"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, directive",
+      "emotional_indicators": [
+        "urgency through brevity",
+        "emphasis with 'please note'"
+      ],
+      "purpose": "To share a news article about a Donald Trump rape lawsuit and draw attention to it",
+      "significance": "Shows Jeffrey E. monitoring and sharing legal developments involving Donald Trump with legal professionals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "http://lawnewz.com/high-profile/federal-judge-orders-hearing-in-donald-trump-rape-lawsuit-case/",
+      "please note"
+    ],
+    "red_flags": [
+      "Sharing sensitive legal information about high-profile individuals"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used - appears to be simple information sharing"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains only a shared news article about a third-party legal case involving Donald Trump, not first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing lawnewz.com article about Donald Trump rape lawsuit case"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "The document references a publicly reported lawsuit against Donald Trump that was covered by media outlets"
+    },
+    "summary": "Jeffrey Epstein emails attorneys Reid Weingarten and Michael Miller a link to a LawNewz article about a federal judge ordering a hearing in a Donald Trump rape lawsuit, with the brief instruction 'please note'."
+  }
+}

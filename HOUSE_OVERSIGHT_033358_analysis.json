@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033358.txt",
+  "file_name": "HOUSE_OVERSIGHT_033358.txt",
+  "processed_at": "2025-11-15T02:58:30.734421",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-19",
+      "subject": "\"SNL\": Baldwin's Trump, De Niro's Mueller season 44 finale cold open - Axios",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Alec Baldwin",
+        "Donald Trump",
+        "Robert De Niro",
+        "Robert Mueller"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "SNL (Saturday Night Live)",
+        "Axios"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue, 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Business",
+        "description": "Kahn is sending Epstein a news article, indicating ongoing communication"
+      },
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "HBRK Associates Inc.",
+        "relationship_type": "Employment",
+        "description": "Kahn lists this company as his affiliation in his signature"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, informational",
+      "emotional_indicators": [
+        "Urgent (marked as High Importance)"
+      ],
+      "purpose": "To share a news article about SNL's season finale featuring political satire of Trump and Mueller",
+      "significance": "Shows communication between Kahn and Epstein about political media coverage during a period of high political tension"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be a routine sharing of media content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about SNL's political satire - no first-hand illegal activity discussed"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Axios news article about SNL season finale",
+        "Political satire featuring Alec Baldwin as Trump and Robert De Niro as Mueller"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "SNL's political sketches were widely covered in mainstream media during the Trump presidency, particularly Baldwin's portrayal of Trump"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a link to an Axios article about SNL's season 44 finale featuring political satire of Donald Trump and Robert Mueller, marked as high importance, showing their ongoing communication about media coverage."
+  }
+}

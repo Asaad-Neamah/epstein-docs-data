@@ -1,0 +1,120 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026563.txt",
+  "file_name": "HOUSE_OVERSIGHT_026563.txt",
+  "processed_at": "2025-11-15T02:44:51.655406",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-05-07",
+      "subject": "FW: Zeitplan amfar Gala 19.5.2012",
+      "document_id": "",
+      "sender": "Boris Nikolic",
+      "recipients": [
+        "Jeffrey Epstein (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Boris Nikolic",
+        "Jeffrey Epstein",
+        "Bill Clinton",
+        "Christoph",
+        "Cavan Mahony",
+        "Manuela Wieland"
+      ],
+      "organizations": [
+        "amfar",
+        "Heute",
+        "AHVV Verlags GmbH",
+        "Hofburg"
+      ],
+      "locations": [
+        "Vienna",
+        "Austria",
+        "San Francisco",
+        "Furfanggasse 4, 1190 Wien"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Social events",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/business",
+        "description": "Nikolic is communicating event details and making arrangements for Epstein"
+      },
+      {
+        "entity_1": "Boris Nikolic",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "professional",
+        "description": "Nikolic mentions meeting Bill Clinton in San Francisco after the event"
+      },
+      {
+        "entity_1": "Unnamed female host",
+        "entity_2": "Austrian media",
+        "relationship_type": "ownership",
+        "description": "The host and her family own 80% of Austrian media including Heute"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, enthusiastic, social",
+      "emotional_indicators": [
+        "excitement",
+        "anticipation"
+      ],
+      "purpose": "To provide detailed itinerary and arrangements for the amfar Gala event in Vienna and coordinate attendance with Jeffrey Epstein",
+      "significance": "Shows social connections between Epstein, Nikolic, and high-profile individuals including Bill Clinton and Austrian media owners"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "She and her family own 80% or so of Austrian media (Heute etc).",
+      "I leave first flight Sunday morning for San Francisco to meet Bill.",
+      "I promise you...not often you will have seen something that crazy :-)"
+    ],
+    "red_flags": [
+      "High-level social connections with media owners and political figures"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be social event planning"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - purely social event planning and logistics"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Austrian media ownership (Heute etc.)",
+        "Mention of media coverage concerns regarding event photos"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private email correspondence about social event planning that would be of media interest due to involvement of high-profile individuals"
+    },
+    "summary": "Boris Nikolic forwards detailed itinerary for the amfar Gala in Vienna to Jeffrey Epstein, including arrangements with a prominent Austrian media owner, plans to attend events with political figures, and coordination of social activities around the high-profile event."
+  }
+}

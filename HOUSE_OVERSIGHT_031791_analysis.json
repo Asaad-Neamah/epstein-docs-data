@@ -1,0 +1,126 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_031791.txt",
+  "file_name": "HOUSE_OVERSIGHT_031791.txt",
+  "processed_at": "2025-11-15T02:53:25.209825",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email_chain",
+      "date": "2009-08-05",
+      "subject": "Jane Doe",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Jeffrey Epstein",
+        "Robert D. Critton Jr.",
+        "Bradley J. Edwards"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jane Doe",
+        "Maxwell",
+        "Wexner",
+        "Trump",
+        "Robert D. Critton Jr.",
+        "Bradley J. Edwards",
+        "Dr. Rishard",
+        "LM"
+      ],
+      "organizations": [
+        "BURMAN CRITTON LUTTIER & COLEMAN, LLP",
+        "Office of Palm Beach Doctors"
+      ],
+      "locations": [
+        "West Palm Beach, FL 33401"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal",
+        "description": "Subject of legal proceedings"
+      },
+      {
+        "entity_1": "Maxwell",
+        "entity_2": "Wexner",
+        "relationship_type": "legal",
+        "description": "Both were served legal documents in the case"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "legal proceedings",
+        "relationship_type": "legal",
+        "description": "Trump's staff accepted service of legal documents"
+      },
+      {
+        "entity_1": "BURMAN CRITTON LUTTIER & COLEMAN, LLP",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal_representation",
+        "description": "Law firm representing Epstein in the case"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, procedural",
+      "emotional_indicators": [
+        "urgency",
+        "frustration"
+      ],
+      "purpose": "Coordinate legal proceedings and document service related to the Jane Doe case, including scheduling hearings and obtaining medical records",
+      "significance": "Shows legal activity involving high-profile individuals (Trump, Wexner, Maxwell) in a case related to Jeffrey Epstein"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Document service procedures",
+        "Medical records requests",
+        "Motion to Stay filings"
+      ]
+    },
+    "notable_quotes": [
+      "Maxwell was not served. Wexner's counsel accepted for him. Trump's staff accepted for him",
+      "I have looked for an 'Office of Palm Beach Doctors' and a 'Dr. Rishard' and have been unable to locate either",
+      "We have a Motion to Stay re Ints and a Motion to Stay regarding Orders of May 22 and June 30"
+    ],
+    "red_flags": [
+      "Difficulty locating medical professional mentioned in case",
+      "Multiple high-profile individuals involved in legal proceedings",
+      "Requests for medical records suggesting personal injury or medical claims"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found - appears to be routine legal correspondence"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains legal procedural discussions only, no evidence of illegal activity by participants"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Involves high-profile individuals (Trump, Epstein, Maxwell) in legal proceedings, though specific case details may not be public"
+    },
+    "summary": "This email chain involves legal proceedings related to 'Jane Doe' with discussions about serving documents to high-profile individuals including Trump, Wexner, and Maxwell, along with requests for medical records and scheduling of court hearings related to motions to stay."
+  }
+}

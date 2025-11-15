@@ -1,0 +1,122 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033316.txt",
+  "file_name": "HOUSE_OVERSIGHT_033316.txt",
+  "processed_at": "2025-11-15T02:58:29.084089",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-09-18",
+      "subject": "Transcript: Phone call between President Trump and journalist Bob Woodward",
+      "document_id": "",
+      "sender": "jeevacation@gmail.com",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Bob Woodward",
+        "Donald Trump",
+        "Kellyanne Conway",
+        "Lindsey Graham",
+        "Madeleine Westerhout",
+        "Raj Shah",
+        "Evelyn Duffy",
+        "Hope Hicks",
+        "Jens Stoltenberg",
+        "Aaron Blake"
+      ],
+      "organizations": [
+        "The Washington Post",
+        "White House",
+        "NATO"
+      ],
+      "locations": [
+        "Trump Tower"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Media strategy discussions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Bob Woodward",
+        "relationship_type": "journalist-source",
+        "description": "President Trump speaking with journalist Bob Woodward about his upcoming book"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Kellyanne Conway",
+        "relationship_type": "staff",
+        "description": "Trump questions why Conway didn't inform him about Woodward's interview request"
+      },
+      {
+        "entity_1": "Bob Woodward",
+        "entity_2": "Lindsey Graham",
+        "relationship_type": "source",
+        "description": "Graham mentioned Woodward's interview request to Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$44 billion"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional with underlying tension",
+      "emotional_indicators": [
+        "defensiveness from Trump",
+        "frustration from Woodward",
+        "confidence in economic achievements"
+      ],
+      "purpose": "To share a transcript of Trump-Woodward phone call and express appreciation for Trump's confidence",
+      "significance": "Reveals internal White House communication breakdown and Trump's media relationship management"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"I like the confidence that Bob talked about it .... it's a real lesson of how to be strong\"",
+      "\"I'm just hearing about it. So we're going to have a very inaccurate book, and that's too bad. But I don't blame you entirely.\"",
+      "\"accurate is that nobody's ever done a better job than I'm doing as president. That I can tell you.\""
+    ],
+    "red_flags": [
+      "Internal communication breakdown in White House",
+      "Contradiction about who knew about interview request"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a Washington Post transcript; no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Washington Post article transcript",
+        "Bob Woodward book 'Fear'",
+        "Media interview process discussion"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Bob Woodward's book 'Fear' was widely publicized and controversial; Trump-Woodward interactions were subject of media coverage"
+    },
+    "summary": "Email sharing a Washington Post transcript of President Trump's phone call with journalist Bob Woodward about his upcoming book 'Fear', highlighting communication breakdowns within the White House and Trump's defensive response to not being interviewed for the book."
+  }
+}

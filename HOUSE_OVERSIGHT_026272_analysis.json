@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026272.txt",
+  "file_name": "HOUSE_OVERSIGHT_026272.txt",
+  "processed_at": "2025-11-15T02:44:14.624455",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-23",
+      "subject": "Re: SB",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "donald"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Communicating about political figures and media strategy"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "donald",
+        "relationship_type": "professional",
+        "description": "Wolff is meeting with and writing about this political figure"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "donald",
+        "relationship_type": "connection",
+        "description": "Epstein appears to have access to and opinions about this political figure"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "confidence",
+        "professional satisfaction"
+      ],
+      "purpose": "To discuss political figures, media coverage, and coordinate communication strategies",
+      "significance": "Shows communication between Michael Wolff and Jeffrey Epstein about political figures and media strategy, with Epstein positioned as an intermediary"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I think his FT performance yesterday was quite a hit (btw, he reiterated that my book was all true--helpful!)",
+      "i think he is a bit lost no wins and donald off the rails"
+    ],
+    "red_flags": [
+      "Informal political influence discussions",
+      "Epstein positioned as message conduit between media and political figures"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of FT (Financial Times) performance",
+        "Reference to Michael Wolff's book",
+        "Media strategy and political coverage discussions"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known author who wrote 'Fire and Fury' about the Trump administration. This email shows private communications with Jeffrey Epstein about political figures and media strategy."
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing political figures, media coverage, and Wolff's meeting with an unidentified individual, with Epstein serving as an intermediary for messages and offering political analysis."
+  }
+}

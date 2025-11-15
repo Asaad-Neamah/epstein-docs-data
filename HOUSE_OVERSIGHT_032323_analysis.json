@@ -1,0 +1,91 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032323.txt",
+  "file_name": "HOUSE_OVERSIGHT_032323.txt",
+  "processed_at": "2025-11-15T02:54:12.860560",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-04",
+      "subject": "Election Update",
+      "document_id": "",
+      "sender": "Zubair Khan",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Zubair Khan",
+        "Jeffrey E.",
+        "Trump"
+      ],
+      "organizations": [
+        "InsightsPod"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Professional",
+        "description": "Zubair is sending election analysis data to Jeffrey"
+      },
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "InsightsPod",
+        "relationship_type": "Data source",
+        "description": "Zubair references InsightsPod as the source of election analysis"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To provide election analysis data and insights about Trump's popularity based on social media data processing",
+      "significance": "Shows monitoring of election dynamics through social media analysis during the 2016 presidential election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "According to InsightsPod Trump is more popular.",
+      "We processed 3 million tweets this week."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is routine election analysis communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Election polling and analysis was widely covered during the 2016 presidential election"
+    },
+    "summary": "Zubair Khan emails Jeffrey E. with an election update report analyzing Trump's popularity based on processing 3 million tweets through InsightsPod, providing data-driven insights during the 2016 presidential election."
+  }
+}

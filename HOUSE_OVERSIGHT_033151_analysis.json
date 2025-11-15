@@ -1,0 +1,92 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033151.txt",
+  "file_name": "HOUSE_OVERSIGHT_033151.txt",
+  "processed_at": "2025-11-15T02:57:06.217693",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-06-01",
+      "subject": "now look what youve done",
+      "document_id": "HOUSE OVERSIGHT 033151",
+      "sender": "J [jeevacation@gmail.com]",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Emmet Flood",
+        "Trump"
+      ],
+      "organizations": [
+        "White House",
+        "The Hill"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "professional/communicative",
+        "description": "Sender communicating with recipient about political news"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "accusatory, frustrated",
+      "emotional_indicators": [
+        "frustration",
+        "blame"
+      ],
+      "purpose": "To share a news article about White House lawyer Emmet Flood's departure and assign blame to the recipient",
+      "significance": "Shows communication about political personnel changes and potential attribution of responsibility for those changes"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "now look what youve done",
+      "please note"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be sharing news content with accusatory tone"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a news article from The Hill about White House personnel changes - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to The Hill news article about White House lawyer departure"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "White House personnel changes were widely reported in 2019; Emmet Flood's departure was public news"
+    },
+    "summary": "An email from 'J' to Michael Wolff sharing a news article about White House lawyer Emmet Flood's departure with an accusatory tone suggesting Wolff was responsible for this development."
+  }
+}

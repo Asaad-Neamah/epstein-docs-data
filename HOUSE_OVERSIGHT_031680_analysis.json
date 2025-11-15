@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031680.txt",
+  "file_name": "HOUSE_OVERSIGHT_031680.txt",
+  "processed_at": "2025-11-15T02:52:56.929790",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-13",
+      "subject": "WSJ: Federal Prosecutors Probing Trump Inauguration Spending",
+      "document_id": "",
+      "sender": "J [jeevacation@gmail.com]",
+      "recipients": [
+        "Nicholas Ribis"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Nicholas Ribis"
+      ],
+      "organizations": [
+        "U.S. President's inaugural committee",
+        "Wall Street Journal",
+        "Manhattan U.S. attorney's office",
+        "Newsmax",
+        "Trump administration"
+      ],
+      "locations": [
+        "Manhattan"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J [jeevacation@gmail.com]",
+        "entity_2": "Nicholas Ribis",
+        "relationship_type": "communication",
+        "description": "Sender sharing news article with recipient"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Trump inaugural committee",
+        "relationship_type": "political",
+        "description": "President connected to his inauguration fundraising committee"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "potential misspending of inaugural funds",
+        "donations in exchange for policy concessions"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, forwarding news content",
+      "emotional_indicators": [],
+      "purpose": "To share a news report about federal prosecutors investigating Trump's inaugural committee spending",
+      "significance": "Documents awareness of federal investigation into potential corruption involving Trump's inauguration funds"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Federal investigation into potential misspending of inaugural funds",
+        "Potential exchange of donations for policy concessions"
+      ]
+    },
+    "notable_quotes": [
+      "Federal prosecutors are investigating whether U.S. President Donald Trump's inaugural committee misspent some of the funds it raised",
+      "The probe...is examining whether some of the committee's donors gave money in exchange for policy concessions, influencing administration positions or access to the incoming administration"
+    ],
+    "red_flags": [
+      "Federal investigation into potential corruption",
+      "Allegations of donations in exchange for political access"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is simply sharing news content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing news article content about an investigation into third parties, not discussing first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References Wall Street Journal report",
+        "Mentions Newsmax article",
+        "Discusses media coverage of federal investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly reported news about an investigation into Trump's inaugural spending that was widely covered in 2018-2019"
+    },
+    "summary": "This email forwards a news report about federal prosecutors investigating whether Trump's inaugural committee misspent funds and whether donors gave money in exchange for policy concessions or administration access."
+  }
+}

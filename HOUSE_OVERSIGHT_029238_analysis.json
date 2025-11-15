@@ -1,0 +1,136 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029238.txt",
+  "file_name": "HOUSE_OVERSIGHT_029238.txt",
+  "processed_at": "2025-11-15T02:47:48.422612",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2016-11-24",
+      "subject": "Epstein victims \"complicit\" so not truly victims, government says",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Jane Doe No. 1",
+        "Jane Doe No. 2",
+        "Dexter Lee",
+        "Brad Edwards",
+        "Kenneth Marra",
+        "Paul Cassell",
+        "Prince Andrew",
+        "Alan Dershowitz"
+      ],
+      "organizations": [
+        "U.S. House Committee on Oversight and Accountability",
+        "Palm Beach Daily News",
+        "U.S. District Court",
+        "federal court",
+        "Broward County Circuit Court",
+        "Palm Beach County stockade"
+      ],
+      "locations": [
+        "West Palm Beach",
+        "Palm Beach",
+        "Broward County"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jane Doe No. 1",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal",
+        "description": "Plaintiff in lawsuit against Epstein regarding victim rights violation"
+      },
+      {
+        "entity_1": "Jane Doe No. 2",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal",
+        "description": "Plaintiff in lawsuit against Epstein regarding victim rights violation"
+      },
+      {
+        "entity_1": "Brad Edwards",
+        "entity_2": "Jane Doe No. 1 & 2",
+        "relationship_type": "legal_representation",
+        "description": "Attorney representing the victims in the lawsuit"
+      },
+      {
+        "entity_1": "Alan Dershowitz",
+        "entity_2": "Brad Edwards",
+        "relationship_type": "legal_adversary",
+        "description": "Suing each other for defamation in separate case"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "received money for procuring other girls"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "journalistic",
+      "emotional_indicators": [
+        "disappointment",
+        "offense",
+        "surprise"
+      ],
+      "purpose": "To report on new legal developments in the Jeffrey Epstein case regarding victim status",
+      "significance": "Reveals government's new argument that victims who procured other girls cannot be considered victims under federal law"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Victim rights violation",
+        "Non-prosecution agreement controversy",
+        "Defamation lawsuits"
+      ]
+    },
+    "notable_quotes": [
+      "\"If someone 'is complicit in the offenses,' they can't be considered victims under the federal Crime Victims' Rights Act\" - Dexter Lee",
+      "\"Today is the first we've heard that the victims were complicit and this disqualifies them\" - Brad Edwards",
+      "\"I'm disappointed that they would attempt to call these girls anything less than victims and It's no doubt offensive to the victims\" - Brad Edwards"
+    ],
+    "red_flags": [
+      "Government changing legal position after 8 years",
+      "Victims being characterized as complicit",
+      "Non-prosecution agreement made without victim notification"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this news article about legal proceedings"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and allegations, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article by Michele Dorgan for Palm Beach Daily News",
+        "Coverage of court proceedings and legal arguments"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a publicly published news article about ongoing Epstein litigation that was widely covered in media"
+    },
+    "summary": "This 2016 news article reports on a court hearing where government prosecutors argued that two of Jeffrey Epstein's victims should not be considered victims under federal law because they were allegedly complicit in procuring other girls. The victims' attorney expressed surprise and disappointment at this new argument being raised eight years after the original case."
+  }
+}

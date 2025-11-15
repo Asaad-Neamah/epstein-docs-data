@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031521.txt",
+  "file_name": "HOUSE_OVERSIGHT_031521.txt",
+  "processed_at": "2025-11-15T02:52:39.027963",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-11",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Zubair Khan",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Zubair Khan",
+        "jeffrey E.",
+        "Hillary Clinton",
+        "Trump"
+      ],
+      "organizations": [
+        "FBI",
+        "Facebook",
+        "Twitter"
+      ],
+      "locations": [
+        "New York",
+        "Wisconsin",
+        "France",
+        "Brazil"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "business/professional",
+        "description": "Zubair is reporting on election prediction analysis to Jeffrey, suggesting a business or collaborative relationship"
+      },
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "Trump",
+        "relationship_type": "analytical",
+        "description": "Zubair's team analyzed social media data and predicted Trump's election victory"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, analytical, somewhat disappointed",
+      "emotional_indicators": [
+        "frustration about project funding",
+        "disappointment about prediction accuracy",
+        "resignation about shutting down project"
+      ],
+      "purpose": "To report on election prediction analysis results and explain why the project is being shut down due to financial constraints",
+      "significance": "Shows communication between Jeffrey Epstein and someone analyzing election data, including discussion of social media monitoring and election prediction capabilities"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Based on this we predicted on our Facebook page on 30th October that Trump will be next president of US.",
+      "I have to shut down this project as getting data from Twitter is expensive and the start up is running out of money.",
+      "It can be used in French elections next year or elections of Brazil in 2018 but unfortunately I have to shut down this project"
+    ],
+    "red_flags": [
+      "Discussion of election prediction capabilities that could be used in foreign elections",
+      "Mention of tracking voters and getting them to vote"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - this is a straightforward business communication about election analysis"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is analytical discussion of election predictions and business challenges"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication about election prediction analysis capabilities, not previously public information"
+    },
+    "summary": "Zubair Khan reports to Jeffrey Epstein about their election prediction model's performance (11 out of 13 states correct), explains they predicted Trump's victory on October 30th, and announces they must shut down the project due to financial constraints despite its potential application to foreign elections."
+  }
+}

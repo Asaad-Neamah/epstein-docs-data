@@ -1,0 +1,182 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_013489.txt",
+  "file_name": "HOUSE_OVERSIGHT_013489.txt",
+  "processed_at": "2025-11-15T02:37:00.621088",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "affidavit",
+      "date": "2010-04-23",
+      "subject": "Affidavit of Bradley James Edwards regarding Jeffrey Epstein case",
+      "document_id": "Case No.: 50-2008-CA-028051, Case No.: SO 2009 C4 0408002000CMBAG",
+      "sender": "Bradley J. Edwards, Esq.",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Bradley James Edwards",
+        "Jeffrey Epstein",
+        "Jane Doe",
+        "George Rush",
+        "Ghislaine Maxwell",
+        "Donald Trump",
+        "Alan Dershowitz",
+        "Bill Clinton",
+        "Tommy Mottola",
+        "David Copperfield",
+        "Scott Rothstein",
+        "Marie Villafaña",
+        "Mark Epstein",
+        "Bill Richardson",
+        "Doug Band",
+        "Alfredo Rodriguez",
+        "Larry Visoski",
+        "Larry Harrison",
+        "David Rogers",
+        "Louella Rabuyo",
+        "Janusz Banasiak",
+        "Jay Howell",
+        "Paul Cassell",
+        "Anne B. Carroll",
+        "Chelsea Clinton"
+      ],
+      "organizations": [
+        "Farmer Jaffe Weissing Edwards Fistos and Lehrman",
+        "U.S. Department of Justice",
+        "Southern District of Florida",
+        "Florida Bar",
+        "Rothstein Rosenfeldt and Adler",
+        "New York Daily News",
+        "Cohen and Gresser",
+        "Harvard University",
+        "University of Utah College of Law",
+        "Maralago Club",
+        "U.S. Attorney's Office"
+      ],
+      "locations": [
+        "Florida",
+        "West Palm Beach",
+        "New York",
+        "England",
+        "Africa",
+        "New Mexico",
+        "Hollywood FL",
+        "Jacksonville FL"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Sexual misconduct or exploitation",
+      "Political connections/influence",
+      "Business dealings",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ghislaine Maxwell",
+        "relationship_type": "business/personal",
+        "description": "Former girlfriend and long-time friend, alleged co-conspirator in managing Epstein's affairs and child molestation ring"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bradley Edwards",
+        "relationship_type": "legal adversarial",
+        "description": "Attorney representing victims vs. defendant in sexual abuse cases"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "personal/business",
+        "description": "Friends for 15 years, social connections, Trump banned Epstein from Maralago Club"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Alan Dershowitz",
+        "relationship_type": "personal/legal",
+        "description": "Friends for many years, Dershowitz acted as attorney for Epstein, close personal relationship"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "personal",
+        "description": "Friends, traveled together on Epstein's plane to Africa, multiple phone contacts"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$150,000",
+        "$100",
+        "$30 Million"
+      ],
+      "transactions": [
+        "Epstein donated $30 million to Harvard"
+      ],
+      "assets": [
+        "Epstein's private plane",
+        "West Palm Beach mansion",
+        "New Mexico ranch"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, factual, defensive",
+      "emotional_indicators": [
+        "frustration with legal process",
+        "determination to obtain evidence",
+        "concern for client representation"
+      ],
+      "purpose": "To provide sworn testimony about the Jeffrey Epstein case and explain legal strategies used to obtain evidence for victims",
+      "significance": "Detailed affidavit from lead attorney representing Epstein victims, reveals extensive efforts to obtain evidence and names high-profile individuals connected to Epstein"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Fifth Amendment invocations blocking discovery",
+        "potential perjury by Epstein",
+        "obstruction of justice through coordinated silence"
+      ]
+    },
+    "notable_quotes": [
+      "Epstein told him that he may have come 'too close to the line' but that he should not have been punished as severely as he was and that his conduct was at most worthy of a $100 fine",
+      "Epstein and all other co-conspirators have invoked the 5th amendment as to all relevant questions, this tape is the only way that Jane Doe can put Epstein's own perceptions of what he has done before the jury",
+      "Epstein's employees were all represented by lawyers who apparently were paid for (directly or indirectly) by Epstein, that co-conspirators whose representation was also apparently paid for by Epstein were all taking the Fifth"
+    ],
+    "red_flags": [
+      "Coordinated Fifth Amendment invocations by Epstein and all co-conspirators",
+      "Epstein paying for legal representation of his employees and co-conspirators",
+      "Pattern of blocking discovery in multiple cases",
+      "Epstein's lawsuit against attorney Edwards appears retaliatory"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this affidavit"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "court_document",
+      "description": "This is a legal affidavit discussing past alleged illegal activities, not evidence of first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "George Rush of New York Daily News conducted taped interview with Epstein",
+        "Vanity Fair articles referenced",
+        "US Weekly magazine mentioned",
+        "Cleveland Leader newspaper referenced"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Jeffrey Epstein case was widely publicized, high-profile connections to politicians and celebrities were known"
+    },
+    "summary": "This affidavit from attorney Bradley Edwards details his representation of Jeffrey Epstein's victims and the extensive legal challenges faced in obtaining evidence due to coordinated Fifth Amendment invocations by Epstein and all co-conspirators. It reveals efforts to depose high-profile individuals connected to Epstein and describes the significance of a taped interview Epstein gave to journalist George Rush that contained admissions about his conduct."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032311.txt",
+  "file_name": "HOUSE_OVERSIGHT_032311.txt",
+  "processed_at": "2025-11-15T02:54:14.847127",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-10",
+      "subject": "",
+      "document_id": "",
+      "sender": "Andres Serrano",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Andres Serrano",
+        "Jeffrey E.",
+        "Trump",
+        "Bill c"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Andres Serrano",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "personal",
+        "description": "Direct email communication suggesting personal acquaintance"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, opinionated, disgusted",
+      "emotional_indicators": [
+        "disgust",
+        "sympathy",
+        "outrage"
+      ],
+      "purpose": "To share personal political opinion and voting intentions regarding Donald Trump",
+      "significance": "Shows political discussion between individuals, reaction to controversial Trump comments"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"was prepared to vote against Trump for all the right reasons but I'm so disgusted by the outrage over 'grab them by the pussy' that I may give him my sympathy vote.\"",
+      "\"I'm sure Bill c said things, too.\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail, coercion, or leverage being used"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or planned - only political opinion sharing"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Refers to Donald Trump's controversial 'grab them by the pussy' comments from 2005 that were widely reported in October 2016"
+    },
+    "summary": "Andres Serrano emails Jeffrey E. expressing disgust at the outrage over Trump's 'grab them by the pussy' comments, stating this may cause him to give Trump a 'sympathy vote' despite previously planning to vote against him, while also suggesting Bill Clinton likely said similar things."
+  }
+}

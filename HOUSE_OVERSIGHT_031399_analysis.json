@@ -1,0 +1,145 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031399.txt",
+  "file_name": "HOUSE_OVERSIGHT_031399.txt",
+  "processed_at": "2025-11-15T02:52:13.730469",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-05",
+      "subject": "Miami U.S. Attorney's Office recuses itself from Jeffrey Epstein case",
+      "document_id": "",
+      "sender": "Lilly Sanchez",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Lilly Sanchez",
+        "Julie K. Brown",
+        "Brad Edwards",
+        "Jack Scarola",
+        "Byung J. 'BJay' Pak",
+        "Kenneth A. Marra",
+        "Alexander Acosta",
+        "Paul Cassell",
+        "Ariana Fajardo Orshan",
+        "Ben Sasse",
+        "Debbie Wasserman Schultz",
+        "Kenneth Starr",
+        "Jack Goldberger",
+        "Martin G. Weinberg"
+      ],
+      "organizations": [
+        "Miami Herald",
+        "U.S. Attorney's Office",
+        "Justice Department",
+        "U.S. Attorney's Office for Northern District of Georgia",
+        "Department of Justice",
+        "FBI",
+        "Crime Victims' Rights Act",
+        "Office of Professional Responsibility",
+        "Congress",
+        "Trump administration",
+        "New York Times",
+        "The LS Law Firm"
+      ],
+      "locations": [
+        "Miami",
+        "Atlanta",
+        "Palm Beach",
+        "New York",
+        "U.S. Virgin Islands",
+        "Caribbean",
+        "Nebraska",
+        "Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lilly Sanchez",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal_representation",
+        "description": "Former attorney for Jeffrey Epstein who helped negotiate his 2008 plea deal"
+      },
+      {
+        "entity_1": "Alexander Acosta",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "prosecutorial",
+        "description": "Former Miami U.S. Attorney who approved the controversial plea deal for Epstein"
+      },
+      {
+        "entity_1": "Brad Edwards",
+        "entity_2": "Jeffrey Epstein's victims",
+        "relationship_type": "legal_representation",
+        "description": "Attorney representing Epstein's victims in the civil case"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To share a Miami Herald news article about the recusal of Miami U.S. Attorney's Office from the Jeffrey Epstein case and its reassignment to Atlanta",
+      "significance": "Documents legal developments in the Epstein case, including recusal of Miami prosecutors and potential reopening of the criminal investigation"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Violation of Crime Victims' Rights Act by federal prosecutors",
+        "Potential prosecutorial misconduct in Epstein case",
+        "Secret plea agreement concealed from victims"
+      ]
+    },
+    "notable_quotes": [
+      "Prosecutors not only intentionally violated the Crime Victims' Rights Act, but they misled the girls into believing that the FBI's sex trafficking case against Epstein was ongoing",
+      "Epstein worked in concert with others to obtain minors not only for his own sexual gratification, but also for the sexual gratification of others",
+      "The letter was in response to a Times editorial that called on Congress and the Trump administration to hold Acosta and others involved in the case accountable"
+    ],
+    "red_flags": [
+      "Secret plea agreement concealed from victims and public",
+      "Prosecutors misleading victims about ongoing investigation",
+      "Immunity granted to Epstein and accomplices from federal prosecution"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this document, which is primarily a news article about legal proceedings"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email shares a news article about legal proceedings and past events; no first-hand illegal activity is discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Miami Herald article by Julie K. Brown",
+        "New York Times editorial mentioned",
+        "32 news organizations supporting motion to unseal documents",
+        "Media coverage of Epstein case being shared"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This document shares publicly available news coverage about the Jeffrey Epstein case, which was widely reported in major media outlets and involved significant public interest and congressional scrutiny"
+    },
+    "summary": "Lilly Sanchez forwards a Miami Herald article to Jeffrey Epstein detailing how the Miami U.S. Attorney's Office has recused itself from his case, which has been reassigned to Atlanta prosecutors, while also covering the legal controversy surrounding his 2008 plea deal and ongoing efforts to reopen the investigation."
+  }
+}

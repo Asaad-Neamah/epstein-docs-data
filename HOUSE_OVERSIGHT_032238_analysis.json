@@ -1,0 +1,103 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032238.txt",
+  "file_name": "HOUSE_OVERSIGHT_032238.txt",
+  "processed_at": "2025-11-15T02:53:54.413053",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-02-19",
+      "subject": "Trump",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [
+        "NYT",
+        "Hillary campaign"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/communicative",
+        "description": "Wolff is communicating with Epstein about media inquiries"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "subject of media inquiry",
+        "description": "NYT is asking about Epstein's connection to Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, advisory",
+      "emotional_indicators": [
+        "sense of urgency",
+        "concern about media exposure"
+      ],
+      "purpose": "To warn Jeffrey Epstein about media inquiries from NYT regarding his connection to Trump and opposition research from Hillary campaign",
+      "significance": "Shows media interest in Epstein-Trump relationship during 2016 election cycle and suggests Epstein may have damaging information that could be preemptively addressed"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "NYT called me about you and Trump.",
+      "Hillary campaign digging deeply. Again, you should consider preempting."
+    ],
+    "red_flags": [
+      "Media inquiries about Epstein-Trump relationship during election",
+      "Opposition research targeting Epstein connections",
+      "Suggestion that Epstein has information worth preempting"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "NYT called about Epstein-Trump relationship",
+        "Hillary campaign conducting opposition research"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Epstein's connections to political figures including Trump were widely reported. Media interest in these relationships during the 2016 election was significant and well-documented."
+    },
+    "summary": "Michael Wolff urgently emails Jeffrey Epstein to warn that the New York Times is inquiring about his relationship with Donald Trump and that Hillary Clinton's campaign is conducting opposition research, suggesting Epstein should consider preempting this media attention."
+  }
+}

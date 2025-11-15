@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026254.txt",
+  "file_name": "HOUSE_OVERSIGHT_026254.txt",
+  "processed_at": "2025-11-15T02:44:22.084295",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-02-24",
+      "subject": "Lawyer for Susan Rice: Obama administration 'justifiably concerned' about sharing Intel with Trump team - POLITICO",
+      "document_id": "HOUSE OVERSIGHT 026254",
+      "sender": "Steve Bannon",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Steve Bannon",
+        "Susan Rice",
+        "Obama",
+        "Trump",
+        "Michael Flynn"
+      ],
+      "organizations": [
+        "Obama administration",
+        "Trump team",
+        "POLITICO"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Steve Bannon",
+        "entity_2": "jeevacation@gmail.com",
+        "relationship_type": "communication",
+        "description": "Sender forwarding a news article to recipient"
+      },
+      {
+        "entity_1": "Susan Rice",
+        "entity_2": "Obama administration",
+        "relationship_type": "employment",
+        "description": "Susan Rice was part of the Obama administration"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency indicated by 'High' importance marking"
+      ],
+      "purpose": "To share a news article about political intelligence sharing concerns between administrations",
+      "significance": "Shows communication about political tensions during transition period between Obama and Trump administrations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward sharing of news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a POLITICO news article about political concerns, not discussing first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Forwarding POLITICO news article about Susan Rice and intelligence sharing concerns"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be about publicly reported political tensions during the Trump administration transition, which received significant media coverage"
+    },
+    "summary": "Steve Bannon forwards a POLITICO news article to an email address about Susan Rice's lawyer stating the Obama administration was 'justifiably concerned' about sharing intelligence with the Trump team, specifically mentioning Michael Flynn."
+  }
+}

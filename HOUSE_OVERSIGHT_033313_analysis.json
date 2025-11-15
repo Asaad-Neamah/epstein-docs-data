@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033313.txt",
+  "file_name": "HOUSE_OVERSIGHT_033313.txt",
+  "processed_at": "2025-11-15T02:58:20.683856",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-06-22",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 033313",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Washington Examiner"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue, 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein information about public perception of his political connections"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Protesters at rally printed a picture of Epstein and Trump together, indicating public awareness of their connection"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, alerting",
+      "emotional_indicators": [
+        "concern",
+        "alertness"
+      ],
+      "purpose": "To alert Jeffrey Epstein about public awareness of his political connections, specifically that protesters at a Trump rally were displaying a picture of Epstein and Trump together",
+      "significance": "Shows monitoring of public perception and media coverage regarding Epstein's political associations during a sensitive time period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "see video at the bottom of the page as someone at rally printed a picture of you and trump together"
+    ],
+    "red_flags": [
+      "Monitoring of public perception of political connections",
+      "High importance marking suggests sensitivity of the information"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be informational sharing about public events"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a news article/video about public political events, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Washington Examiner news coverage of Trump rally",
+        "Video evidence of protesters displaying Epstein-Trump photo"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to public political events and media coverage that would have been visible to attendees and reporters"
+    },
+    "summary": "Richard Kahn alerts Jeffrey Epstein that protesters at a Trump rally were displaying a picture of Epstein and Trump together, sharing a Washington Examiner news link about the incident and marking the email as high importance."
+  }
+}

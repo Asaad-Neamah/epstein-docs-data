@@ -1,0 +1,122 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032158.txt",
+  "file_name": "HOUSE_OVERSIGHT_032158.txt",
+  "processed_at": "2025-11-15T02:53:50.517921",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-07-01",
+      "subject": "",
+      "document_id": "HOUSE OVERSIGHT 032158",
+      "sender": "",
+      "recipients": [
+        "Peggy Siega"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Peggy Siega",
+        "Ariana Huff",
+        "Strauss Kahn",
+        "Andrews accuser",
+        "Trump"
+      ],
+      "organizations": [
+        "Huffington Post (implied)",
+        "Mar-a-Lago"
+      ],
+      "locations": [
+        "Mar-a-Lago"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Media strategy discussions",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender",
+        "entity_2": "Peggy Siega",
+        "relationship_type": "professional",
+        "description": "Sender is giving instructions to Peggy Siega regarding media strategy"
+      },
+      {
+        "entity_1": "Sender",
+        "entity_2": "Ariana Huff",
+        "relationship_type": "professional",
+        "description": "Sender wants Peggy to communicate with Ariana Huff about media coverage"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Mar-a-Lago"
+      ]
+    },
+    "analysis": {
+      "tone": "urgent, directive, dismissive",
+      "emotional_indicators": [
+        "frustration with media",
+        "contempt for accuser",
+        "urgency in controlling narrative"
+      ],
+      "purpose": "To instruct Peggy Siega to contact Ariana Huffington to influence media coverage regarding an accuser's allegations",
+      "significance": "Shows active attempt to shape media narrative about sexual assault allegations by discrediting accusers"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential witness intimidation",
+        "Attempt to influence media coverage of legal matters"
+      ]
+    },
+    "notable_quotes": [
+      "should you point out to Ariana Huff, that the same type of person, same as strauss Kahn is Andrews accuser, long criminal record. total liar.",
+      "Ariana should champion the dangers of false allegations.",
+      "the press like strauss kahn is afraid to question women."
+    ],
+    "red_flags": [
+      "Attempt to discredit sexual assault accuser without evidence",
+      "Coordinated media strategy to influence public perception of allegations",
+      "Dismissive attitude toward accuser's credibility"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No direct evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "suspicious",
+      "categories": [
+        "witness intimidation",
+        "obstruction of justice"
+      ],
+      "evidence": [
+        "Coordinated effort to discredit an accuser through media channels"
+      ],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "The email shows first-hand coordination to influence media coverage regarding an accuser, which could potentially constitute witness intimidation or obstruction of justice"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Ariana Huffington and Huffington Post",
+        "Instructions to send reporters to investigate the accuser",
+        "Discussion of media strategy regarding sexual assault allegations",
+        "Criticism of press coverage of Strauss Kahn case"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be a private communication about managing media coverage of sexual assault allegations, similar to the Dominique Strauss-Kahn case that received significant media attention in 2011"
+    },
+    "summary": "This email instructs Peggy Siega to contact Ariana Huffington to influence media coverage by discrediting an accuser in a sexual assault case, comparing the situation to the Strauss-Kahn case and suggesting reporters investigate the accuser's background."
+  }
+}

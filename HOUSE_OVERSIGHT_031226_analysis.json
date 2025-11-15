@@ -1,0 +1,120 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031226.txt",
+  "file_name": "HOUSE_OVERSIGHT_031226.txt",
+  "processed_at": "2025-11-15T02:51:43.702283",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-08-18",
+      "subject": "Fwd: Program & Attendee list",
+      "document_id": "",
+      "sender": "Barbro C Ehnbom",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Barbro C Ehnbom",
+        "Jeffrey",
+        "Bill Clinton",
+        "Diana deGette",
+        "Jeff Kriendler",
+        "Goldsamt",
+        "Sofia",
+        "the prince",
+        "Marcus"
+      ],
+      "organizations": [
+        "Congress",
+        "SALSS",
+        "Globalization Summit"
+      ],
+      "locations": [
+        "Stockholm",
+        "Colorado",
+        "NYC",
+        "Miami"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Travel/logistics",
+      "Personal relationships",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Barbro C Ehnbom",
+        "entity_2": "Jeffrey",
+        "relationship_type": "personal/business",
+        "description": "Friendly correspondence with business/political collaboration"
+      },
+      {
+        "entity_1": "Barbro C Ehnbom",
+        "entity_2": "Bill Clinton",
+        "relationship_type": "political",
+        "description": "Previously invited Clinton to Globalization Summit after meeting in Stockholm"
+      },
+      {
+        "entity_1": "Barbro C Ehnbom",
+        "entity_2": "Diana deGette",
+        "relationship_type": "political",
+        "description": "Arranging fundraiser for Congresswoman deGette"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, friendly, conversational",
+      "emotional_indicators": [
+        "exhaustion",
+        "enthusiasm",
+        "apologetic tone"
+      ],
+      "purpose": "To share event information, coordinate potential collaboration on fundraiser, and discuss travel plans",
+      "significance": "Shows networking with political figures and coordination of political fundraising activities"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I am supposedly arranging a fund-raiser for Congress Woman Diana deGette of Colorado on Sept 27 in NYC; she is the only one with a scientific agenda and she is just super-if anything I am hoping on your involvement?",
+      "I just heard from my friend Jeff Kriendler in Miami and guess who was just walking in there -our friend Goldsamt! First prize for perseverance!"
+    ],
+    "red_flags": [
+      "Political fundraising coordination with unclear business relationships"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be normal friendly correspondence"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is an email TO Jeffrey Epstein, not from him, containing routine correspondence"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private email correspondence discussing personal plans and political fundraising"
+    },
+    "summary": "Barbro Ehnbom emails Jeffrey Epstein to share information about a Globalization Summit, discuss potential involvement in a fundraiser for Congresswoman Diana deGette, and coordinate potential travel plans to Stockholm while sharing personal updates about mutual acquaintances."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033357.txt",
+  "file_name": "HOUSE_OVERSIGHT_033357.txt",
+  "processed_at": "2025-11-15T02:58:50.002717",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-09",
+      "subject": "my occasional tweet",
+      "document_id": "HOUSE OVERSIGHT 033357",
+      "sender": "paul krassner",
+      "recipients": [
+        "Kevin Bright"
+      ]
+    },
+    "entities": {
+      "people": [
+        "paul krassner",
+        "Kevin Bright",
+        "Danny Goldberg",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "paul krassner",
+        "entity_2": "Kevin Bright",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence between individuals"
+      },
+      {
+        "entity_1": "paul krassner",
+        "entity_2": "Danny Goldberg",
+        "relationship_type": "attribution",
+        "description": "Krassner is quoting Goldberg's statement"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, humorous, political commentary",
+      "emotional_indicators": [
+        "satirical",
+        "critical"
+      ],
+      "purpose": "To share a political tweet/commentary with a recipient",
+      "significance": "Shows political commentary and communication patterns between individuals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Trump has grabbed the pussy of the statue of Liberty.\"",
+      "Danny Goldberg \"Trump has grabbed the pussy of the statue of Liberty.\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Political commentary/satire referencing public political controversies"
+    },
+    "summary": "Paul Krassner emails Kevin Bright sharing a satirical political tweet by Danny Goldberg that makes a metaphorical criticism of Donald Trump using sexual assault imagery applied to the Statue of Liberty."
+  }
+}

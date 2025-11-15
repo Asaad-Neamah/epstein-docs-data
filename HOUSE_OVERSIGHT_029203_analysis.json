@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029203.txt",
+  "file_name": "HOUSE_OVERSIGHT_029203.txt",
+  "processed_at": "2025-11-15T02:47:23.658263",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-11-30",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Deepak Chopra",
+      "recipients": [
+        "J (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Deepak Chopra",
+        "J",
+        "George Church",
+        "Al Gore"
+      ],
+      "organizations": [
+        "Chopra Foundation",
+        "Chopra Center for Wellbeing",
+        "Harvard"
+      ],
+      "locations": [
+        "Carlsbad, CA",
+        "2013 Costa Del Mar Road",
+        "CA 92009"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "J",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence regarding scheduling a meeting"
+      },
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "Al Gore",
+        "relationship_type": "professional",
+        "description": "Mentioned as having filming scheduled with Al Gore"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "George Church",
+        "relationship_type": "professional",
+        "description": "Planning to have lunch together at Harvard institute"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, professional",
+      "emotional_indicators": [
+        "urgency (importance: high)"
+      ],
+      "purpose": "Coordinate scheduling for a potential meeting on Monday after Deepak Chopra's prior commitments",
+      "significance": "Shows professional connections between Deepak Chopra, J, George Church, and Al Gore"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I'm getting there v late on Sunday Have filming for Al Gore before",
+      "george church and i having lunch at my istittue at harvard sunday. join.?"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail, coercion, or leverage found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity - this is a routine scheduling email about meetings and filming"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Deepak Chopra and Al Gore are public figures, and their professional collaborations would not be unusual or particularly newsworthy"
+    },
+    "summary": "Deepak Chopra responds to an invitation from J to join lunch with George Church at Harvard on Sunday, indicating he will arrive very late due to prior filming commitments with Al Gore and suggesting they connect on Monday instead."
+  }
+}

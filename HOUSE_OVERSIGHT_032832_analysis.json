@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032832.txt",
+  "file_name": "HOUSE_OVERSIGHT_032832.txt",
+  "processed_at": "2025-11-15T02:55:48.621246",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-04",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Matt",
+        "Moonves",
+        "Hiltzig",
+        "Sean"
+      ],
+      "organizations": [
+        "WSJ (Wall Street Journal)"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Media strategy discussions",
+      "Legal matters/litigation"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/advisor",
+        "description": "Wolff appears to be providing media strategy advice to Epstein"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Moonves' guy",
+        "relationship_type": "professional",
+        "description": "Had lunch and discussed media contacts"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Matt/Sean",
+        "relationship_type": "potential media contact",
+        "description": "Considering reaching out to media contacts"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "settlement money going to attorneys rather than girls"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, advisory, strategic",
+      "emotional_indicators": [
+        "strategic thinking",
+        "calculating approach"
+      ],
+      "purpose": "To discuss media strategy regarding Epstein's legal case and potential press coverage",
+      "significance": "Shows Epstein seeking media strategy advice and attempting to shape narrative around his legal case"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "do you think the press would react to the fact that all the settlement money is going to the attorney and none to the girls",
+      "I would look for some reporter to do a more nuanced post-mortem on the case--with it's Trump overtones, legal joustings, #metoo-isms, and profit-motives"
+    ],
+    "red_flags": [
+      "Discussion of settlement money distribution that may disadvantage alleged victims",
+      "Attempt to manipulate media coverage of legal case",
+      "Strategic planning to shape public narrative about sensitive legal matter"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No direct illegal activity discussed - this is strategic communication about media relations and legal case narrative"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of reaching out to reporters (Matt, Sean)",
+        "Reference to WSJ (Wall Street Journal) as potential outlet",
+        "Strategy for press coverage of legal case",
+        "Mentions of media contacts (Moonves' guy, Hiltzig)"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private strategy discussion about Epstein's legal cases during December 2018, when he was facing multiple allegations and legal challenges"
+    },
+    "summary": "Michael Wolff and Jeffrey Epstein discuss media strategy regarding Epstein's legal case, including potential press angles about settlement money distribution and recommendations for reaching out to specific reporters at outlets like the Wall Street Journal for a 'nuanced post-mortem' on the case."
+  }
+}

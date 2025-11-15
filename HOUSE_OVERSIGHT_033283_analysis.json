@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033283.txt",
+  "file_name": "HOUSE_OVERSIGHT_033283.txt",
+  "processed_at": "2025-11-15T02:58:01.578281",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-01-04",
+      "subject": "Connolly digging into Trump and you...",
+      "document_id": "HOUSE OVERSIGHT 033283",
+      "sender": "Landon Thomas, Jr.",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Landon Thomas, Jr.",
+        "Jeffrey Epstein",
+        "Connolly",
+        "Trump"
+      ],
+      "organizations": [
+        "New York Times"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Media/journalist interactions",
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Landon Thomas, Jr.",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/communication",
+        "description": "Financial reporter communicating with Epstein about investigative activities"
+      },
+      {
+        "entity_1": "Connolly",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "investigative",
+        "description": "Someone is investigating Epstein and Trump"
+      },
+      {
+        "entity_1": "Connolly",
+        "entity_2": "Trump",
+        "relationship_type": "investigative",
+        "description": "Someone is investigating Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, warning",
+      "emotional_indicators": [
+        "concern",
+        "urgency"
+      ],
+      "purpose": "To warn Jeffrey Epstein that someone named Connolly is investigating both him and Donald Trump",
+      "significance": "Shows a journalist alerting Epstein about investigative activities targeting him and a prominent political figure"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Connolly digging into Trump and you..."
+    ],
+    "red_flags": [
+      "Journalist warning subject of potential investigation",
+      "Connection between Epstein and Trump investigation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Landon Thomas, Jr. is a Financial Reporter at New York Times",
+        "Reference to investigative activity by Connolly"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication between a journalist and Epstein about investigative activities that were not yet public in 2016"
+    },
+    "summary": "New York Times financial reporter Landon Thomas, Jr. sends an urgent email to Jeffrey Epstein warning that someone named Connolly is investigating both Epstein and Donald Trump, indicating potential media scrutiny of their connections."
+  }
+}

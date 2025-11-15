@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029973.txt",
+  "file_name": "HOUSE_OVERSIGHT_029973.txt",
+  "processed_at": "2025-11-15T02:48:35.343350",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-08-04",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 029973, HOUSE OVERSIGHT 029974",
+      "sender": "Jennifer Jacquet",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jennifer Jacquet",
+        "Jeffrey Epstein",
+        "Clinton",
+        "Richard"
+      ],
+      "organizations": [
+        "UBC"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jennifer Jacquet",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing financial transfer and making informal jokes"
+      },
+      {
+        "entity_1": "Jennifer Jacquet",
+        "entity_2": "Richard",
+        "relationship_type": "professional",
+        "description": "Already in touch about transfer to project at UBC"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "John",
+        "relationship_type": "professional",
+        "description": "Agree that money should come from Edge rather than directly from Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "Transfer to project at UBC",
+        "Money from Edge organization"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal, joking",
+      "emotional_indicators": [
+        "humor",
+        "informality",
+        "familiarity"
+      ],
+      "purpose": "Discuss financial transfer arrangements and make informal jokes about financial markets",
+      "significance": "Shows Epstein's involvement in funding academic projects and casual relationship with academic professionals"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Maybe borrow one from Clinton?",
+      "i would need my speculumator to gauge accurately",
+      "they are being feminized."
+    ],
+    "red_flags": [
+      "Informal financial arrangements",
+      "Use of suggestive/sexualized language in professional context"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or blackmail in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity - this is a casual email exchange about financial transfers and joking commentary"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Casual email exchange showing Epstein's academic funding activities and informal relationships with professionals"
+    },
+    "summary": "Email exchange between Jennifer Jacquet and Jeffrey Epstein discussing financial transfers to a UBC project, with informal joking about financial markets and suggestive humor, showing Epstein's involvement in academic funding through the Edge organization."
+  }
+}

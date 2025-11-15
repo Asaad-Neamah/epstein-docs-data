@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033315.txt",
+  "file_name": "HOUSE_OVERSIGHT_033315.txt",
+  "processed_at": "2025-11-15T02:58:12.391956",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-07-17",
+      "subject": "",
+      "document_id": "",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeeyacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "jeeyacation@gmail.com recipient",
+        "relationship_type": "professional/personal",
+        "description": "Sender providing urgent advice to recipient"
+      },
+      {
+        "entity_1": "recipient's associate",
+        "entity_2": "Trump",
+        "relationship_type": "political",
+        "description": "Someone referred to as 'your boy' has association with Trump that needs distancing"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, advisory",
+      "emotional_indicators": [
+        "urgency",
+        "concern"
+      ],
+      "purpose": "To provide urgent political advice to distance an associate from Donald Trump",
+      "significance": "Shows political maneuvering and concern about associations with Trump during 2018"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Your boy should distance himself from Trump. Quick."
+    ],
+    "red_flags": [
+      "Urgent political distancing advice",
+      "Potential damage control situation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be straightforward political advice"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - only political advice"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email from July 2018 during Trump presidency showing political maneuvering and concern about associations"
+    },
+    "summary": "Kathy Ruemmler sends an urgent email advising the recipient to have their associate distance themselves from Donald Trump immediately, indicating political concerns about the association during 2018."
+  }
+}

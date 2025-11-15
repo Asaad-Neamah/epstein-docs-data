@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030653.txt",
+  "file_name": "HOUSE_OVERSIGHT_030653.txt",
+  "processed_at": "2025-11-15T02:50:08.600885",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-04-27",
+      "subject": "crown prince",
+      "document_id": "HOUSE OVERSIGHT 030653",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Bannon",
+        "Trump",
+        "deputy crown prince"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "communication",
+        "description": "Wolff is sharing political intelligence with Epstein"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Bannon",
+        "relationship_type": "personal/professional",
+        "description": "Had recent interaction/conversation"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "deputy crown prince",
+        "relationship_type": "political",
+        "description": "Trump reportedly likes the deputy crown prince and thinks they can work together"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, insider",
+      "emotional_indicators": [],
+      "purpose": "To share political intelligence about Trump's views on the deputy crown prince",
+      "significance": "Shows Michael Wolff sharing insider political information with Jeffrey Epstein about Trump administration perspectives"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Was with Bannon last night who was saying how much Trump liked deputy crown prince: 'Real guy's guy, he loved him. Thinks they can do stuff together.'\""
+    ],
+    "red_flags": [
+      "Sharing of sensitive political intelligence with Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known author and journalist who wrote books about the Trump administration. This email shows him sharing political intelligence with Jeffrey Epstein."
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein to share that Steve Bannon reported Trump's positive impression of the deputy crown prince, describing him as a 'real guy's guy' and believing they could work together."
+  }
+}

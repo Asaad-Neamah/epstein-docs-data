@@ -1,0 +1,130 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029608.txt",
+  "file_name": "HOUSE_OVERSIGHT_029608.txt",
+  "processed_at": "2025-11-15T02:48:30.024690",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2019-02-22",
+      "subject": "Judge: Prosecutors broke law in Epstein sex case",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Kenneth A. Marra",
+        "Alex Acosta",
+        "Mike Pence",
+        "Albert Bryan Jr.",
+        "Tregenza Roach"
+      ],
+      "organizations": [
+        "U.S. House Committee on Oversight and Accountability",
+        "U.S. Department of Justice",
+        "U.S. District Court",
+        "Southern District of Florida",
+        "National Governors Association",
+        "Senate Committee on Energy and Natural Resources",
+        "U.S. Department of Interior",
+        "Miami Herald"
+      ],
+      "locations": [
+        "Miami",
+        "West Palm Beach, Florida",
+        "Palm Beach",
+        "New York",
+        "Virgin Islands",
+        "St. Thomas",
+        "Washington D.C.",
+        "U.S. territories"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Alex Acosta",
+        "relationship_type": "legal_prosecution",
+        "description": "Acosta helped negotiate a non-prosecution agreement for Epstein while serving as U.S. Attorney"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "underage victims",
+        "relationship_type": "criminal_exploitation",
+        "description": "Epstein operated an international sex operation involving underage girls aged 13-16"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Palm Beach mansion",
+        "New York home",
+        "Virgin Islands property"
+      ]
+    },
+    "analysis": {
+      "tone": "factual_reporting",
+      "emotional_indicators": [
+        "frustration from victims",
+        "judicial condemnation"
+      ],
+      "purpose": "To report on a federal judge's ruling that prosecutors violated victims' rights laws in the Jeffrey Epstein case",
+      "significance": "Reveals judicial confirmation that federal prosecutors illegally concealed a plea deal from Epstein's victims and covered up the scope of his crimes"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Violation of Crime Victims' Rights Act",
+        "Concealment of plea agreement from victims",
+        "Failure to prosecute federal sex trafficking charges"
+      ]
+    },
+    "notable_quotes": [
+      "\"Epstein used paid employees to find and bring minor girls to him\"",
+      "\"Epstein worked in concert with others to obtain minors not only for his own sexual gratification but also for the sexual gratification of others\"",
+      "\"Government's decision to conceal the existence of the agreement and mislead the victims to believe that federal prosecution was still a possibility\""
+    ],
+    "red_flags": [
+      "Wealthy, politically connected defendant receiving preferential treatment",
+      "13-month jail sentence for serious sex crimes",
+      "Accomplices never identified or charged",
+      "11-year litigation delay"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No direct evidence of blackmail or coercion in this news article reporting on judicial proceedings"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on past legal proceedings and judicial rulings about Epstein's crimes, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Miami Herald series \"Perversion of Justice\" referenced as triggering DOJ investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a newspaper article from 2019 reporting on judicial rulings that were part of public court proceedings regarding the Epstein case"
+    },
+    "summary": "A federal judge ruled that prosecutors including Labor Secretary Alex Acosta violated the law by concealing a favorable plea deal for Jeffrey Epstein from his underage victims, confirming Epstein operated an international sex trafficking operation but received only 13 months in jail through a secret agreement."
+  }
+}

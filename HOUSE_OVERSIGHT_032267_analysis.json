@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032267.txt",
+  "file_name": "HOUSE_OVERSIGHT_032267.txt",
+  "processed_at": "2025-11-15T02:53:52.163295",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-06-22",
+      "subject": "Hi from London",
+      "document_id": "HOUSE OVERSIGHT 032267",
+      "sender": "Cecilia Steen",
+      "recipients": [
+        "JE gmail (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Cecilia Steen",
+        "Jeffrey",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "London"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Cecilia Steen",
+        "entity_2": "Jeffrey",
+        "relationship_type": "personal",
+        "description": "Friendly relationship with expressions of care and concern"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "legal",
+        "description": "Mention of a lawsuit involving Jeffrey and Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "sympathetic, caring, personal",
+      "emotional_indicators": [
+        "concern",
+        "empathy",
+        "affection"
+      ],
+      "purpose": "To express sympathy and support regarding a legal matter involving Trump",
+      "significance": "Shows personal connection and awareness of legal issues involving Jeffrey Epstein and Donald Trump in 2016"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I'm so sorry to hear about the Trump law suit. I wish there was something I could do.",
+      "I always think of you. All my love always"
+    ],
+    "red_flags": [
+      "Mention of lawsuit involving high-profile individuals"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion - appears to be a genuine expression of sympathy and support"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - only reference to a lawsuit involving Trump"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Reference to Trump lawsuit with Epstein could be of media interest given the high-profile nature of both individuals"
+    },
+    "summary": "Cecilia Steen sends a sympathetic email to Jeffrey Epstein expressing concern about a lawsuit involving Donald Trump, showing personal connection and awareness of Epstein's legal issues in 2016."
+  }
+}

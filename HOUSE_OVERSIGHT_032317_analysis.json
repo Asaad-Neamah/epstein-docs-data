@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032317.txt",
+  "file_name": "HOUSE_OVERSIGHT_032317.txt",
+  "processed_at": "2025-11-15T02:54:11.851080",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-19",
+      "subject": "RE: In NYC next week?",
+      "document_id": "",
+      "sender": "Peter Attia",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Peter Attia",
+        "Jeffrey E.",
+        "Sebastain",
+        "Trump"
+      ],
+      "organizations": [
+        "Attia Medical, PC"
+      ],
+      "locations": [
+        "NYC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Peter Attia",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence regarding medical visit and political discussion"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Sebastain",
+        "relationship_type": "medical",
+        "description": "Jeffrey E. visited Sebastain for medical consultation and blood work"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, concerned",
+      "emotional_indicators": [
+        "concern",
+        "relief",
+        "curiosity"
+      ],
+      "purpose": "Follow-up on medical visit and inquire about political situation regarding Trump",
+      "significance": "Shows personal relationship between Peter Attia and Jeffrey Epstein, including discussion of political matters alongside medical care"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Please tell me it is officially over for trump...",
+      "I like sebastain, bottojm line , nothig to do, took some bloods."
+    ],
+    "red_flags": [
+      "Informal medical discussion via personal email",
+      "Mixing medical care with political discussion"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email exchange between Peter Attia and Jeffrey Epstein during 2016 election period, discussing Trump's political situation alongside medical care"
+    },
+    "summary": "Email exchange between Peter Attia and Jeffrey Epstein discussing a medical visit with 'Sebastain' where blood work was taken, followed by Attia's inquiry about whether Trump's political situation is 'officially over' during the 2016 election period."
+  }
+}

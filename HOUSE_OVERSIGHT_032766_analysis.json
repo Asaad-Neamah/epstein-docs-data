@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032766.txt",
+  "file_name": "HOUSE_OVERSIGHT_032766.txt",
+  "processed_at": "2025-11-15T02:55:33.381728",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-04-10",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "trump",
+        "dershowitz"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/communication",
+        "description": "Email correspondence between Wolff and Epstein"
+      },
+      {
+        "entity_1": "trump",
+        "entity_2": "dershowitz",
+        "relationship_type": "potential employment",
+        "description": "Trump likely to hire Dershowitz according to Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, brief",
+      "emotional_indicators": [
+        "urgency (importance: high)"
+      ],
+      "purpose": "Brief communication forwarding information about Trump potentially hiring Dershowitz",
+      "significance": "Shows Epstein had and shared information about Trump's potential legal hiring decisions"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "trump likely to hire dershowitz, no kidding",
+      "please note"
+    ],
+    "red_flags": [
+      "High importance marking for brief political gossip",
+      "Epstein sharing insider information about Trump's legal team"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this brief email exchange"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known author and journalist who wrote books about Trump; Alan Dershowitz was part of Trump's legal team during various investigations"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein with brief message marked as high importance, forwarding Epstein's earlier message that Trump is likely to hire Alan Dershowitz, showing Epstein had insider information about Trump's legal team decisions."
+  }
+}

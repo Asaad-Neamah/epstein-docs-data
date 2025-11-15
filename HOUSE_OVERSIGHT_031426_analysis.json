@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031426.txt",
+  "file_name": "HOUSE_OVERSIGHT_031426.txt",
+  "processed_at": "2025-11-15T02:51:49.150111",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-28",
+      "subject": "The Washington Post: How Donald Trump inflated his net worth to lenders and investors",
+      "document_id": "HOUSE OVERSIGHT 031426",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "Jeffrey Epstein",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "The Washington Post",
+        "House Democrats",
+        "New York investigators"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Ribis is sending Epstein information about Trump's financial matters"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, casual",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about Donald Trump's financial practices with Jeffrey Epstein",
+      "significance": "Shows communication about potentially damaging financial information regarding Donald Trump during ongoing investigations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "How Donald Trump inflated his net worth to lenders and investors",
+      "Trump's 'statements of financial condition' are a key component of inquiries by House Democrats and New York investigators"
+    ],
+    "red_flags": [
+      "Sharing of potentially damaging financial information about a political figure"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, pressure tactics, or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is a forwarded news article about Donald Trump's financial practices, not first-hand illegal activity by the sender or recipient"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Washington Post article about Trump's financial practices",
+        "Reference to ongoing investigations by House Democrats and New York investigators"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing of a Washington Post article that was already publicly available, discussing investigations into Donald Trump's financial practices"
+    },
+    "summary": "Nicholas Ribis forwards a Washington Post article to Jeffrey Epstein about investigations into how Donald Trump allegedly inflated his net worth to lenders and investors, which was being examined by House Democrats and New York investigators."
+  }
+}

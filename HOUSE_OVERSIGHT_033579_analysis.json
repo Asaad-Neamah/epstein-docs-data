@@ -1,0 +1,113 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033579.txt",
+  "file_name": "HOUSE_OVERSIGHT_033579.txt",
+  "processed_at": "2025-11-15T02:58:57.181129",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-02-05",
+      "subject": "Re: new schedule",
+      "document_id": "",
+      "sender": "Larry Visosk",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]",
+        "Darren Indyke"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visosk",
+        "Jeffrey E.",
+        "Darren Indyke",
+        "Pres Trump",
+        "Josh"
+      ],
+      "organizations": [
+        "chevron"
+      ],
+      "locations": [
+        "lsj",
+        "palm beach",
+        "new york",
+        "paris",
+        "santa fe"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visosk",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Larry is providing travel logistics and business updates to Jeffrey"
+      },
+      {
+        "entity_1": "Larry Visosk",
+        "entity_2": "Darren Indyke",
+        "relationship_type": "professional",
+        "description": "Darren is copied on the email, indicating professional association"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "chevron",
+        "relationship_type": "business",
+        "description": "Purchase agreement being presented for Jeffrey's review"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "purchase agreement"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To confirm travel schedule details and provide update on business matter (Chevron purchase agreement)",
+      "significance": "Shows coordination of travel logistics around presidential movements and business dealings"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Pres Trump departs Monday at 11 am,. TFR in place until 11:30am Monday",
+      "Josh left voicemail indicating chevron should present purchase agreement by midday Monday. for your review"
+    ],
+    "red_flags": [
+      "Coordination of travel around presidential movements",
+      "Business dealings with unclear context"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Mentions President Trump's travel schedule and business dealings, which could be of media interest given Jeffrey Epstein's notoriety"
+    },
+    "summary": "Larry Visosk confirms travel logistics for Jeffrey Epstein, noting President Trump's departure schedule and TFR restrictions, and provides update on a Chevron purchase agreement that needs review by midday Monday."
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031384.txt",
+  "file_name": "HOUSE_OVERSIGHT_031384.txt",
+  "processed_at": "2025-11-15T02:52:18.654098",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-05",
+      "subject": "Fwd: Herald",
+      "document_id": "",
+      "sender": "J [jeeyacation@gmail.com]",
+      "recipients": [
+        "Martin Weinberg",
+        "Scott J. Link",
+        "Darren Indyke",
+        "Jack Goldberger"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Julie K. Brown",
+        "Brad Edwards",
+        "Jack Scarola",
+        "Byung J. 'BJay' Pak",
+        "Kenneth A. Marra",
+        "Alexander Acosta",
+        "Ariana Fajardo Orshan",
+        "Ben Sasse",
+        "Debbie Wasserman Schultz",
+        "Kenneth Starr",
+        "Jack Goldberger",
+        "Lilly Ann Sanchez",
+        "Martin G. Weinberg",
+        "Paul Cassell"
+      ],
+      "organizations": [
+        "U.S. Department of Justice",
+        "Miami U.S. Attorney's Office",
+        "U.S. Attorney's Office in Atlanta",
+        "Northern District of Georgia",
+        "U.S. District Court",
+        "FBI",
+        "Miami Herald",
+        "New York Times",
+        "The LS Law Firm",
+        "Crime Victims' Rights Act",
+        "Office of Professional Responsibility",
+        "Congress"
+      ],
+      "locations": [
+        "Miami",
+        "Atlanta",
+        "Palm Beach",
+        "New York",
+        "Caribbean",
+        "U.S. Virgin Islands",
+        "Nebraska",
+        "Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Alexander Acosta",
+        "relationship_type": "legal",
+        "description": "Prosecutor who negotiated plea deal for Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Kenneth Starr",
+        "relationship_type": "legal",
+        "description": "Former attorney who represented Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jack Goldberger",
+        "relationship_type": "legal",
+        "description": "Attorney who represented Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Lilly Ann Sanchez",
+        "relationship_type": "legal",
+        "description": "Attorney who represented Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Martin G. Weinberg",
+        "relationship_type": "legal",
+        "description": "Current attorney representing Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, defensive",
+      "emotional_indicators": [],
+      "purpose": "To share Miami Herald article about the recusal of Miami U.S. Attorney's Office from Epstein case and forward to legal team",
+      "significance": "Shows Epstein's legal team monitoring and sharing media coverage about ongoing legal proceedings and government recusal in his case"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Marra, noting that he reviewed affidavits, depositions and interrogatories, said 'Epstein worked in concert with others to obtain minors not only for his own sexual gratification, but also for the sexual gratification of others.'",
+      "Epstein's lawyers said the editorial's conclusions were 'in profound conflict with the reality,' noting that there was no evidence that Epstein committed federal sex trafficking offenses."
+    ],
+    "red_flags": [
+      "Legal team sharing media coverage of ongoing case",
+      "Recusal of prosecution office suggests potential conflicts"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is a forwarded news article about legal proceedings, not first-hand evidence of illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Miami Herald article by Julie K. Brown",
+        "New York Times editorial mentioned",
+        "32 news organizations supporting unsealing of documents"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This email forwards a publicly available Miami Herald article about the Epstein case that was part of widespread media coverage"
+    },
+    "summary": "This email forwards a Miami Herald article about the Miami U.S. Attorney's Office recusing itself from the Jeffrey Epstein case, which was reassigned to Atlanta prosecutors. The article details the legal proceedings surrounding Epstein's plea deal and the ongoing victims' rights case against the federal government."
+  }
+}

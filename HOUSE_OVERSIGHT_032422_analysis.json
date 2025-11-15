@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032422.txt",
+  "file_name": "HOUSE_OVERSIGHT_032422.txt",
+  "processed_at": "2025-11-15T02:54:37.363155",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-01-12",
+      "subject": "",
+      "document_id": "",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeffrey E. (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Jeffrey E.",
+        "Trump",
+        "McGyver"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence suggesting familiarity"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "McGyver",
+        "relationship_type": "comparison",
+        "description": "Ruemmler observes similar mannerisms between the two figures"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, observational",
+      "emotional_indicators": [
+        "informal",
+        "familiar"
+      ],
+      "purpose": "To share a personal observation about mannerisms between Trump and McGyver",
+      "significance": "Shows informal communication between Ruemmler and Jeffrey E. during the period just before Trump's inauguration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I am struck by the similar mannerisms between Trump and McGyver"
+    ],
+    "red_flags": [
+      "Email sent at unusual hour (2:02 AM)",
+      "High importance flag for casual observation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be casual personal observation"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Kathy Ruemmler was White House Counsel under Obama (2011-2014); email sent just before Trump's inauguration in January 2017"
+    },
+    "summary": "Kathy Ruemmler sends a casual email to Jeffrey E. at 2:02 AM noting she is struck by the similar mannerisms between Trump and McGyver, marked as high importance despite its informal nature."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032634.txt",
+  "file_name": "HOUSE_OVERSIGHT_032634.txt",
+  "processed_at": "2025-11-15T02:55:19.576825",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-09-30",
+      "subject": "SIT",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Pres Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "St Thomas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional/personal",
+        "description": "Larry is providing travel information to Jeffrey"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Pres Trump",
+        "relationship_type": "acquaintance/connection",
+        "description": "Larry assumes Jeffrey would be interested in President Trump's travel plans"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informational",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey Epstein about President Trump's upcoming travel to St Thomas",
+      "significance": "Shows communication about the movements of a sitting US President to Jeffrey Epstein"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I hear Pres Trump arrives in St Thomas on Tuesday FYI"
+    ],
+    "red_flags": [
+      "Sharing presidential travel information with Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage in this brief informational email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Presidential travel schedules are typically public information, but private communications about them involving Jeffrey Epstein would be of media interest"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein to inform him that President Trump will be arriving in St Thomas on Tuesday, indicating Epstein had connections to receive information about presidential travel movements."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032340.txt",
+  "file_name": "HOUSE_OVERSIGHT_032340.txt",
+  "processed_at": "2025-11-15T02:54:19.088649",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-10",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Daily Mail"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communicative",
+        "description": "Email correspondence about a news article"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Donald Trump",
+        "relationship_type": "mentioned",
+        "description": "Both named in the Daily Mail article about sexual assault allegations"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, inquisitive",
+      "emotional_indicators": [
+        "curiosity",
+        "concern about the allegations"
+      ],
+      "purpose": "To inquire about the background of sexual assault allegations mentioned in a Daily Mail article",
+      "significance": "Shows communication about serious allegations involving Jeffrey Epstein and Donald Trump shortly after the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "What was behind this, do you know? Or just nutters?",
+      "Troubled woman with history of drug use claimed assaulted Donald Trump-Jeffrey Epstein sex party age-13 FABRICATED story"
+    ],
+    "red_flags": [
+      "Discussion of serious sexual assault allegations",
+      "Timing shortly after 2016 election"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication - appears to be an inquiry about a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email forwards/shared a Daily Mail news article about allegations. No first-hand illegal activity is discussed by the sender."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Daily Mail article about sexual assault allegations involving Trump and Epstein"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to reference public media coverage of sexual assault allegations that were reported in the Daily Mail"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein inquiring about a Daily Mail article that reported a woman's fabricated story of being assaulted at a Trump-Epstein sex party at age 13, asking Epstein what was behind the allegations."
+  }
+}

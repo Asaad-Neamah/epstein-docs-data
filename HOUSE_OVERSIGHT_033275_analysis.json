@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033275.txt",
+  "file_name": "HOUSE_OVERSIGHT_033275.txt",
+  "processed_at": "2025-11-15T02:57:51.299027",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-02-27",
+      "subject": "Trump taps Texan Brad Parscale his 2020 re-election campaign manager",
+      "document_id": "HOUSE OVERSIGHT 033275",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Brad Parscale"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Trump 2020 re-election campaign"
+      ],
+      "locations": [
+        "New York, NY 10022",
+        "Texas"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/business",
+        "description": "Kahn is sending Epstein a news article about political appointments"
+      },
+      {
+        "entity_1": "Brad Parscale",
+        "entity_2": "Trump 2020 re-election campaign",
+        "relationship_type": "employment",
+        "description": "Parscale appointed as campaign manager"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informational",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about Brad Parscale's appointment as Trump's 2020 campaign manager",
+      "significance": "Shows communication about political developments and appointments within Trump's circle"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email contains a shared news article about a political appointment, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Texas Tribune news article about Brad Parscale's appointment as Trump's 2020 campaign manager"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Brad Parscale's appointment as Trump's 2020 campaign manager was widely reported public news"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a Texas Tribune article about Brad Parscale being appointed as Trump's 2020 re-election campaign manager, sharing publicly available political news."
+  }
+}

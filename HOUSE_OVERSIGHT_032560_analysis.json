@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032560.txt",
+  "file_name": "HOUSE_OVERSIGHT_032560.txt",
+  "processed_at": "2025-11-15T02:55:11.589105",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-07-31",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E. (Epstein)",
+        "Donald Trump",
+        "Jeff Sessions",
+        "Sam Waksal",
+        "Martha Stewart",
+        "Rex Tillerson"
+      ],
+      "organizations": [
+        "Homeland Security"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/professional",
+        "description": "Email correspondence discussing political figures and connections"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Donald Trump",
+        "relationship_type": "personal",
+        "description": "Epstein comments on Trump's opinion of Tillerson"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Sam Waksal",
+        "relationship_type": "acquaintance",
+        "description": "Wolff asks Epstein if he knows Sam Waksal"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "informal communication style",
+        "brief and direct messaging"
+      ],
+      "purpose": "Exchange of information about political figures and their relationships",
+      "significance": "Shows Epstein's involvement in discussions about high-level political appointments and relationships during Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "donald now down on tillerson please note",
+      "Met him at dinner last night. He had some good Trump stories."
+    ],
+    "red_flags": [
+      "Informal discussion of high-level political appointments",
+      "Epstein's apparent interest in Trump administration personnel changes"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this casual political discussion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "This is casual political gossip, not evidence of illegal activity by participants"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Private email exchange between Michael Wolff and Jeffrey Epstein discussing Trump administration personnel and relationships"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing Donald Trump's opinion of Rex Tillerson, potential appointment of Jeff Sessions to Homeland Security, and Sam Waksal's connection to Martha Stewart, showing Epstein's involvement in political gossip circles during the Trump administration."
+  }
+}

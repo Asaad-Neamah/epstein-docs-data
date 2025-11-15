@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032773.txt",
+  "file_name": "HOUSE_OVERSIGHT_032773.txt",
+  "processed_at": "2025-11-15T02:55:29.880125",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-05-05",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "trump",
+        "steve"
+      ],
+      "organizations": [
+        "NYT (The New York Times)"
+      ],
+      "locations": [
+        "Boston",
+        "NY (New York)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence regarding media content and invitation"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "NYT",
+        "relationship_type": "information source",
+        "description": "Jeffrey is referencing New York Times reporting"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informative",
+      "emotional_indicators": [
+        "urgency (importance: high)",
+        "curiosity"
+      ],
+      "purpose": "To decline an invitation and request information about a New York Times article reference",
+      "significance": "Shows communication between Michael Wolff and Jeffrey Epstein regarding media coverage of Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "nyt says trump talking directly to steve",
+      "I can't get to Boston tomorrow—but thanks for inviting. Where in NYT did you see this—can't find."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "The email references New York Times reporting about Trump, which is shared media content rather than first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to New York Times article about Trump talking to 'steve' (likely Steve Bannon)"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to reference media coverage of Trump administration communications, which was likely public knowledge through NYT reporting"
+    },
+    "summary": "Michael Wolff declines an invitation to Boston from Jeffrey Epstein and asks for clarification about a New York Times article reference regarding Trump talking to 'steve', showing communication about media coverage of political figures."
+  }
+}

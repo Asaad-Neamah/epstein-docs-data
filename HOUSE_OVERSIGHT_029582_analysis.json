@@ -1,0 +1,83 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029582.txt",
+  "file_name": "HOUSE_OVERSIGHT_029582.txt",
+  "processed_at": "2025-11-15T02:48:03.441220",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-12",
+      "subject": "Re: Michael Cohen Sentenced To 3 Years In Prison Following Plea That Implicated Trump",
+      "document_id": "",
+      "sender": "J <jeevacation@gmail.com>",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Michael Cohen"
+      ],
+      "organizations": [
+        "NPR"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Cohen",
+        "entity_2": "Trump",
+        "relationship_type": "legal_implication",
+        "description": "Cohen's plea implicated Trump in legal matters"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [],
+      "purpose": "To share news about Michael Cohen's sentencing and its implications for Trump",
+      "significance": "Documents communication about a high-profile legal case involving Trump's former attorney"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Michael Cohen Sentenced To 3 Years In Prison Following Plea That Implicated Trump"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a news article about Michael Cohen's legal case - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "NPR news article about Michael Cohen sentencing"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's sentencing was widely covered in mainstream media in December 2018 as part of the Trump-Russia investigation"
+    },
+    "summary": "Email exchange sharing an NPR news article about Michael Cohen's 3-year prison sentence and his plea that implicated Trump, with casual conversational elements including the word 'sexy' in the subject line."
+  }
+}

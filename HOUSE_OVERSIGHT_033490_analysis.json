@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033490.txt",
+  "file_name": "HOUSE_OVERSIGHT_033490.txt",
+  "processed_at": "2025-11-15T02:58:48.886666",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-05-08",
+      "subject": "Re: a 2 timer?",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jonathan Farkas",
+        "Heidi",
+        "Somers",
+        "Trump",
+        "Woody Johnson",
+        "Suzanne Johnson"
+      ],
+      "organizations": [
+        "White House Fellowship Commission"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jonathan Farkas",
+        "entity_2": "Heidi",
+        "relationship_type": "personal",
+        "description": "Seeing each other casually, not expected to turn romantic"
+      },
+      {
+        "entity_1": "Somers",
+        "entity_2": "Trump administration",
+        "relationship_type": "political",
+        "description": "Received appointment to White House Fellowship Commission"
+      },
+      {
+        "entity_1": "Woody Johnson",
+        "entity_2": "Suzanne Johnson",
+        "relationship_type": "political",
+        "description": "Helped facilitate Somers' appointment through bundling"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, warning",
+      "emotional_indicators": [
+        "caution",
+        "distrust"
+      ],
+      "purpose": "To warn about someone's untrustworthiness and share political appointment news",
+      "significance": "Shows political connections and appointment processes within Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "careful she is nottrustworthy at ALLL",
+      "Somers got an appointment from Trump she is on The White House Fellowship Commison it came through Woody and Suzanne Johnson because she bundled"
+    ],
+    "red_flags": [
+      "Warning about untrustworthy individual",
+      "Political appointment through connections"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "White House appointments and political connections during Trump administration"
+    },
+    "summary": "Email warning about an untrustworthy individual while discussing a political appointment to the White House Fellowship Commission that came through Woody and Suzanne Johnson's connections due to bundling activities."
+  }
+}

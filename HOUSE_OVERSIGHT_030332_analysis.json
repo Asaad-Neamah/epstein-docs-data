@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030332.txt",
+  "file_name": "HOUSE_OVERSIGHT_030332.txt",
+  "processed_at": "2025-11-15T02:49:08.637627",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-09-26",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Jes Staley",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jes Staley",
+        "Jeffrey E. Epstein",
+        "Kathryn Ruemmler",
+        "President Obama",
+        "Senator Saxby Chambliss"
+      ],
+      "organizations": [
+        "White House",
+        "Obama Administration",
+        "Georgetown University",
+        "Enron task force",
+        "I.R.S.",
+        "JEE"
+      ],
+      "locations": [
+        "Washington",
+        "Washington State",
+        "Georgia",
+        "Benghazi, Libya"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jes Staley",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence between Epstein and Staley discussing political matters"
+      },
+      {
+        "entity_1": "Kathryn Ruemmler",
+        "entity_2": "President Obama",
+        "relationship_type": "professional",
+        "description": "Former White House counsel trusted by the president"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, brief acknowledgment",
+      "emotional_indicators": [],
+      "purpose": "Acknowledgment of received information about potential Attorney General candidate",
+      "significance": "Shows Epstein sharing political intelligence with business associate Jes Staley"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Administration officials were firm that President Obama was only beginning to think about a new attorney general, but many in Washington are already focusing on Kathryn Ruemmler",
+      "She is one of only three women to serve as White House counsel",
+      "If Ms. Ruemmler is nominated, the advice she dispensed to the White House about the I.R.S. scandal and the attacks on Benghazi, Libya, will certainly draw scrutiny"
+    ],
+    "red_flags": [
+      "Sharing of political intelligence from Epstein to banking executive"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news/article content about political appointments, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Discussion of potential Attorney General appointments during Obama administration was public political news"
+    },
+    "summary": "Jeffrey Epstein shares political intelligence about potential Attorney General candidate Kathryn Ruemmler with Jes Staley, who briefly acknowledges receiving the information with a simple 'I saw that' response."
+  }
+}

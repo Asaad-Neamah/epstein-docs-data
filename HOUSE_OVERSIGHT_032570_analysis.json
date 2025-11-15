@@ -1,0 +1,105 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032570.txt",
+  "file_name": "HOUSE_OVERSIGHT_032570.txt",
+  "processed_at": "2025-11-15T02:54:55.842438",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-09-03",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E.",
+        "Jared",
+        "Trump"
+      ],
+      "organizations": [
+        "White House"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/communication",
+        "description": "Direct email communication about White House access"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jared",
+        "relationship_type": "professional",
+        "description": "Waiting on response from Jared regarding White House access"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump",
+        "relationship_type": "professional",
+        "description": "Waiting on response from Trump regarding White House access"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, urgent",
+      "emotional_indicators": [
+        "anticipation",
+        "urgency"
+      ],
+      "purpose": "To coordinate White House access and schedule a chat to discuss something",
+      "significance": "Shows communication about accessing the Trump White House and connections to Jared Kushner and Donald Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Probably won't know until tomorrow. Waiting on both Jared and Trump.",
+      "Can you chat? have something to ask."
+    ],
+    "red_flags": [
+      "Vague reference to 'have something to ask' without specifying what",
+      "High importance marking for brief, vague message"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this brief email exchange"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a journalist and author who wrote 'Fire and Fury' about the Trump White House. This email shows his communications about accessing the White House during the Trump administration."
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein about coordinating White House access, indicating he is waiting on responses from both Jared Kushner and Donald Trump, and requests a chat to ask something unspecified."
+  }
+}

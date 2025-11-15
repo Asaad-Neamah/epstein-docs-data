@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032281.txt",
+  "file_name": "HOUSE_OVERSIGHT_032281.txt",
+  "processed_at": "2025-11-15T02:54:11.149316",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "report",
+      "date": "",
+      "subject": "US Presidential Election Report",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Donald Trump",
+        "Hillary Clinton"
+      ],
+      "organizations": [],
+      "locations": [
+        "New York",
+        "Florida",
+        "California",
+        "Colorado",
+        "North Carolina",
+        "Texas",
+        "Louisiana",
+        "Arizona",
+        "Illinois",
+        "New Jersey",
+        "Ohio",
+        "Washington",
+        "Georgia",
+        "Oklahoma",
+        "Oregon",
+        "Mississippi",
+        "Pennsylvania",
+        "South Carolina",
+        "Alabama"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Hillary Clinton",
+        "relationship_type": "political",
+        "description": "Presidential candidates competing in the same election"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "8.6 million",
+        "4.2 million",
+        "4.4 million",
+        "0.7 million",
+        "0.4 million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "analytical",
+      "emotional_indicators": [],
+      "purpose": "To provide data analysis of Twitter sentiment regarding US presidential candidates",
+      "significance": "Shows public sentiment analysis of Trump and Clinton during the 2016 presidential campaign based on Twitter data"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Out of 4.2 million Trump impressions 17.72% are positive and 63.76% are negative",
+      "Out of 4.4 million Clinton impressions 4.07% are positive and 89.84% negative"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": ""
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": ""
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be election sentiment analysis data from the 2016 US presidential election between Trump and Clinton, which was widely covered in media"
+    },
+    "summary": "This report analyzes Twitter sentiment data for the 2016 US presidential election, showing Donald Trump had 17.72% positive and 63.76% negative impressions, while Hillary Clinton had 4.07% positive and 89.84% negative impressions, with geographic breakdowns by state."
+  }
+}

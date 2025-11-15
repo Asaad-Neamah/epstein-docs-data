@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_025100.txt",
+  "file_name": "HOUSE_OVERSIGHT_025100.txt",
+  "processed_at": "2025-11-15T02:42:28.436554",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-21",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey E.",
+        "Ailes",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Ailes",
+        "entity_2": "Trump",
+        "relationship_type": "advisory/political",
+        "description": "Ailes attempted to give advice to Trump but gave up"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Email correspondence about Trump and Ailes"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "frustration (implied through Ailes' experience)",
+        "amusement/curiosity"
+      ],
+      "purpose": "To share an anecdote about Roger Ailes' experience with Donald Trump and respond to Jeffrey Epstein's question",
+      "significance": "Provides insight into the relationship dynamics between prominent political figures during the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Ailes said he gave up trying to give advice, that Trump was the boy in pre-school who you just knew was going to throw a truck at another kid's head.",
+      "did trump also ignore ailes? wild"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this casual political anecdote"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - just political commentary and personal observations"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be private communication about political figures during the 2016 presidential election, offering behind-the-scenes perspective on Trump's behavior and relationships"
+    },
+    "summary": "Michael Wolff shares an anecdote from Roger Ailes about Donald Trump being difficult to advise, comparing Trump to a disruptive preschool child, in response to Jeffrey Epstein's question about whether Trump ignored Ailes."
+  }
+}

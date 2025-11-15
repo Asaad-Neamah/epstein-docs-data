@@ -1,0 +1,117 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031526.txt",
+  "file_name": "HOUSE_OVERSIGHT_031526.txt",
+  "processed_at": "2025-11-15T02:52:04.841031",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-11",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Larry Summers",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Summers",
+        "Jeffrey E. (Epstein)",
+        "ehud",
+        "pritzker",
+        "woody",
+        "donald",
+        "bill",
+        "hillary"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/professional",
+        "description": "Communicating about scheduling meetings and discussing political matters"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "ehud",
+        "relationship_type": "personal",
+        "description": "Mentioned as being in town together"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "pritzker",
+        "relationship_type": "personal",
+        "description": "Mentioned as being in town together"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "woody",
+        "relationship_type": "personal",
+        "description": "Planning dinner together"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "urgency (importance: high)",
+        "frustration/disgust (revolted by trump)"
+      ],
+      "purpose": "Scheduling communication and discussing political developments regarding Trump/Clinton allegations",
+      "significance": "Shows communication between Larry Summers and Jeffrey Epstein during 2016 election, discussing political strategy and allegations against Bill Clinton"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Press is so revolted by trump that I'd expect they will not be for benefit of doubt.",
+      "donald brought out four women that said bill abused them...hillary says you should give the benefit of the doubt to victims."
+    ],
+    "red_flags": [
+      "Discussion of sexual abuse allegations in political context",
+      "High-level political figures communicating with Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be routine scheduling and political discussion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - primarily scheduling and political commentary"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of press reaction to Trump",
+        "Media coverage of political allegations"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "2016 presidential election allegations and media coverage were widely reported public knowledge"
+    },
+    "summary": "Email exchange between Larry Summers and Jeffrey Epstein primarily about scheduling meetings, with political discussion regarding 2016 election allegations against Bill Clinton and media coverage of Donald Trump."
+  }
+}

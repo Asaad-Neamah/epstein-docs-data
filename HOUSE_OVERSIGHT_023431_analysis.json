@@ -1,0 +1,125 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_023431.txt",
+  "file_name": "HOUSE_OVERSIGHT_023431.txt",
+  "processed_at": "2025-11-15T02:41:49.408454",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-09-24",
+      "subject": "Re: Highlight",
+      "document_id": "",
+      "sender": "Lisa New",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lisa New",
+        "Jeffrey E.",
+        "David G",
+        "Clinton",
+        "Woody Allen",
+        "Elena Kagan",
+        "David Brooks",
+        "Lena Dunham",
+        "Professor New",
+        "Michael",
+        "Herbie Hancock",
+        "Whitman"
+      ],
+      "organizations": [
+        "NEH",
+        "Harvard",
+        "EdLabs",
+        "WGBH",
+        "Templeton"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional/business",
+        "description": "Lisa is seeking funding/support from Jeffrey for educational and media projects"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Michael",
+        "relationship_type": "professional",
+        "description": "Lisa wants to send materials to Michael and notes they share the same birthday"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "100,000",
+        "1,250,000"
+      ],
+      "transactions": [
+        "charity funding",
+        "production budget",
+        "Ed school initiative funding"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "grateful, enthusiastic, professional",
+      "emotional_indicators": [
+        "gratitude",
+        "excitement",
+        "enthusiasm"
+      ],
+      "purpose": "To discuss funding proposals and budgets for educational/media projects, and continue a conversation about poetry reading",
+      "significance": "Shows financial discussions between Lisa New and Jeffrey Epstein regarding educational initiatives and media production budgets"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I only want you to succeed.. I suggest that as this is charity, the numbers will be scrutinized more heavily.",
+      "getting creamed on my producer's budget but then offered the opportunity to profess poetry for production funds",
+      "I really liked Michael. I would like to send him some stuff, but in googling him I noticed that we have the same birthday!"
+    ],
+    "red_flags": [
+      "Potential quid pro quo arrangement (poetry reading for production funds)",
+      "Mention of high-profile names (Clinton, Woody Allen, Elena Kagan) in budget context"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be a professional funding discussion"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a professional email exchange about funding proposals and budgets"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to public television world, Emmy awards, and media production budgets"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "This appears to be a private email exchange about funding proposals between Lisa New and Jeffrey Epstein"
+    },
+    "summary": "Lisa New emails Jeffrey Epstein discussing funding proposals for educational initiatives and media production budgets, expressing gratitude for his support and mentioning various high-profile names in the context of production costs and potential collaborations."
+  }
+}

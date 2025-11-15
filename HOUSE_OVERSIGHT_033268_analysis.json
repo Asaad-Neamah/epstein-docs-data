@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033268.txt",
+  "file_name": "HOUSE_OVERSIGHT_033268.txt",
+  "processed_at": "2025-11-15T02:57:49.965895",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-09",
+      "subject": "Friday POTUS",
+      "document_id": "HOUSE OVERSIGHT 033268",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey",
+        "Larry Visoski",
+        "POTUS (implied Donald Trump)"
+      ],
+      "organizations": [],
+      "locations": [
+        "Boston",
+        "Bedford",
+        "Palm Beach",
+        "White Plains",
+        "Teterboro",
+        "Orlando",
+        "Dulles",
+        "Fort Lauderdale",
+        "Boca"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Visoski is providing logistical advice and requesting guidance from Jeffrey"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "POTUS",
+        "relationship_type": "connection",
+        "description": "Jeffrey appears to be coordinating travel around POTUS movements"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To provide logistical information about airport access and parking arrangements during POTUS travel to Palm Beach and request guidance on securing parking at Boca airport",
+      "significance": "Shows coordination of private travel arrangements around presidential movements, suggesting access to or awareness of POTUS schedule"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Most operators are using Boca for arrivals when Trump is in town.",
+      "POTUS arrival — Friday, January 12th, time TBD (likely PM)",
+      "Should I request parking at Boca?"
+    ],
+    "red_flags": [
+      "Coordination of private travel around presidential movements",
+      "Access to POTUS schedule information"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this logistical email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - purely logistical travel coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be internal coordination of private travel around presidential movements, which could be of media interest given Jeffrey Epstein's connections and the reference to POTUS travel details"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein with detailed logistical information about airport access restrictions during President Trump's upcoming visit to Palm Beach, including specific gateway airports and parking requirements, and asks whether to request parking at Boca airport."
+  }
+}

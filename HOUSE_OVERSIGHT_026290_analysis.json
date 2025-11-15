@@ -1,0 +1,138 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026290.txt",
+  "file_name": "HOUSE_OVERSIGHT_026290.txt",
+  "processed_at": "2025-11-15T02:44:37.110865",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-07-04",
+      "subject": "Re: Hello",
+      "document_id": "",
+      "sender": "David Schoen",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey E. (Epstein)",
+        "David Schoen",
+        "Dershowitz",
+        "Strzok",
+        "McCabe",
+        "Mueller",
+        "Andrew Weissmann",
+        "Jeannie Rhee",
+        "Greg Andres",
+        "Hillary Clinton",
+        "Donald Trump",
+        "President Obama",
+        "Gotti",
+        "Michael Cohen",
+        "Michael Flynn",
+        "Paige",
+        "Hannity"
+      ],
+      "organizations": [
+        "FBI",
+        "Times (New York Times)",
+        "EDNY (Eastern District of New York)",
+        "SDNY (Southern District of New York)",
+        "Arthur Anderson",
+        "Enron"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "David Schoen",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Attorney-client relationship with personal communication about legal and political matters"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Dershowitz",
+        "relationship_type": "personal",
+        "description": "Epstein refers to Dershowitz as 'your friend' indicating a personal connection"
+      },
+      {
+        "entity_1": "Mueller",
+        "entity_2": "Weissmann",
+        "relationship_type": "professional",
+        "description": "Mueller chose Weissmann as his chief counsel at the FBI"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$100 million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional yet candid, critical, opinionated",
+      "emotional_indicators": [
+        "frustration with legal system",
+        "concern about bias",
+        "disappointment in colleagues"
+      ],
+      "purpose": "Discussion of political bias in Mueller investigation and prosecutorial misconduct",
+      "significance": "Shows communication between Epstein's attorney and Epstein about high-profile political investigations and legal strategies"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "allegations of prosecutorial misconduct",
+        "withholding exculpatory evidence",
+        "political bias in investigations"
+      ]
+    },
+    "notable_quotes": [
+      "Strzok, however, says that he met with McCabe - the number 2 guy in the FBI - and in his office discussed how best to stop Trump from becoming President.",
+      "Mueller had a whole universe of lawyers from around the country to choose from to make up his team. He purposefully chose a murderer's row of the worst.",
+      "Andrew Weissmann was known in the EDNY as 'The Pathological Liar' after the SNL character. He literally would withhold exculpatory evidence throughout the case."
+    ],
+    "red_flags": [
+      "Serious allegations of prosecutorial misconduct by multiple high-profile attorneys",
+      "Discussion of political bias affecting federal investigations",
+      "References to withholding exculpatory evidence in criminal cases"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - this is a discussion about legal and political matters"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No first-hand illegal activity discussed. The email contains allegations and opinions about others' conduct, but no evidence of the sender engaging in illegal behavior."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to New York Times articles",
+        "Discussion of Dershowitz appearing on talk shows",
+        "Mention of Hannity TV and radio appearances"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This discusses the Mueller investigation and political bias allegations that were widely covered in media during 2017-2018. The individuals mentioned (Strzok, McCabe, Weissmann) were all subjects of significant public scrutiny during this period."
+    },
+    "summary": "Email exchange between Jeffrey Epstein and his attorney David Schoen discussing political bias in the Mueller investigation, allegations of prosecutorial misconduct by Andrew Weissmann and other Mueller team members, and criticism of the FBI's handling of the Trump-Russia investigation."
+  }
+}

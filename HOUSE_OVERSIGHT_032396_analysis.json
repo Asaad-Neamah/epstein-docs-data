@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032396.txt",
+  "file_name": "HOUSE_OVERSIGHT_032396.txt",
+  "processed_at": "2025-11-15T02:54:24.850979",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-25",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Ken Starr",
+      "recipients": [
+        "jeffrey E. (jeeyacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Ken Starr",
+        "jeffrey E."
+      ],
+      "organizations": [
+        "Johnson & Johnson"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Ken Starr",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal",
+        "description": "Friendly, affectionate relationship with expressions of gratitude and holiday greetings"
+      },
+      {
+        "entity_1": "Ken Starr",
+        "entity_2": "Johnson & Johnson",
+        "relationship_type": "legal",
+        "description": "Legal representation against Johnson & Johnson in a billion-dollar hip-replacement lawsuit"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "billion-dollar"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, friendly, professional",
+      "emotional_indicators": [
+        "gratitude",
+        "holiday cheer",
+        "professional confidence"
+      ],
+      "purpose": "Holiday greeting and professional update about new legal case",
+      "significance": "Shows personal relationship between Ken Starr and Jeffrey Epstein during holiday season 2016, with discussion of major litigation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"A prince art thou. Thank you.\"",
+      "\"Just agreed to handle an appeal -- billion-dollar jury verdict in federal court against Johnson & Johnson.\"",
+      "\"if trump fully supports jasta , does that make the consitutional challenge moot?\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be friendly holiday correspondence with professional updates"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a legitimate discussion of legal representation in a civil lawsuit"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "This appears to be private correspondence between Ken Starr and Jeffrey Epstein during the 2016 holiday season"
+    },
+    "summary": "Ken Starr sends Jeffrey Epstein a friendly holiday email thanking him and updating him about taking on a billion-dollar appeal against Johnson & Johnson for hip-replacement plaintiffs, showing their personal relationship and professional legal discussions."
+  }
+}

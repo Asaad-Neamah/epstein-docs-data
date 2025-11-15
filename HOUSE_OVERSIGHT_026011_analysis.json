@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026011.txt",
+  "file_name": "HOUSE_OVERSIGHT_026011.txt",
+  "processed_at": "2025-11-15T02:43:50.683044",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "",
+      "subject": "Trading Algorithm by Gennady Mashtalyar - Brexit day or how does my algorithm react to large one-side movements",
+      "document_id": "",
+      "sender": "Gennady Mashtalyar",
+      "recipients": [
+        "Jeffrey"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Gennady Mashtalyar",
+        "Jeffrey",
+        "Draghi"
+      ],
+      "organizations": [
+        "Fed",
+        "FOX News",
+        "FBI",
+        "CFA"
+      ],
+      "locations": [
+        "UK",
+        "U.S.",
+        "Asian trading hours"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Gennady Mashtalyar",
+        "entity_2": "Jeffrey",
+        "relationship_type": "business/professional",
+        "description": "Mashtalyar is explaining his trading algorithm to Jeffrey, likely as a potential investor or business partner"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$7,848",
+        "$1,600",
+        "$10,000",
+        "$5,000",
+        "$20.74",
+        "$14.13"
+      ],
+      "transactions": [
+        "GBP/USD trading",
+        "short contracts",
+        "long contracts",
+        "45,221 trades"
+      ],
+      "assets": [
+        "T-Bills",
+        "algorithmic hedge-fund"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, explanatory, cautious",
+      "emotional_indicators": [
+        "confidence in algorithm",
+        "cautious about risks",
+        "professional pride"
+      ],
+      "purpose": "To explain how the trading algorithm handles extreme market movements and provide risk assessment",
+      "significance": "Demonstrates algorithmic trading strategy and risk management approach for potential investor"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Professional and responsible investors must have case A and B planned out before any influential data release.",
+      "The only thing that secures investments is responsible trading, which is placing stop losses and not risking more than some percentage per trade.",
+      "$10,000 is a lowest safe responsible sum of money needed to operate with the model where $5,000 is used for margin alone and $5,000 is set to be used as a bad case scenario expected drawdown value"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present. This is a straightforward professional communication about trading algorithms."
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed. This is legitimate financial analysis and algorithmic trading explanation."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Mentions FOX News releasing FBI renewal investigation over Clinton as an example of unexpected market-moving events"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "This appears to be private business communication about trading algorithms, though the market events referenced (Brexit, Clinton investigation) are public knowledge"
+    },
+    "summary": "Gennady Mashtalyar explains his trading algorithm's performance during Brexit day market volatility, demonstrating how it handles extreme price movements while emphasizing risk management and the importance of responsible trading practices for potential investor Jeffrey."
+  }
+}

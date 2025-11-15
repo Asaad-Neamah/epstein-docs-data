@@ -1,0 +1,133 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_028497.txt",
+  "file_name": "HOUSE_OVERSIGHT_028497.txt",
+  "processed_at": "2025-11-15T02:46:27.345525",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-20",
+      "subject": "RE: 2017 IFP Gotham Awards",
+      "document_id": "",
+      "sender": "Peggy Siegal",
+      "recipients": [
+        "Steven Pfeiffer",
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Peggy Siegal",
+        "Steven Pfeiffer",
+        "Jeffrey E.",
+        "Rebecca",
+        "Richard Kahn",
+        "Nicole Kidman",
+        "Dustin Hoffman",
+        "Sofia Coppola",
+        "Ed Lachman",
+        "Jason Blum",
+        "Al Gore",
+        "Willem Dafoe",
+        "Adam Sandler",
+        "Robert Pattison",
+        "Margot Robbie",
+        "Lois Smith",
+        "Mary J. Blige"
+      ],
+      "organizations": [
+        "The Peggy Siegal Company",
+        "Independent Filmmaker Project (IFP)",
+        "Made in NY Media Center by IFP",
+        "Blumhouse Productions"
+      ],
+      "locations": [
+        "New York",
+        "750 Lexington Avenue 5th Floor New York, New York 10022",
+        "Cipriani Wall Street",
+        "Brooklyn, NY 11201",
+        "30 John Street Brooklyn, NY 11201"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Peggy Siegal",
+        "relationship_type": "business",
+        "description": "Jeffrey directs donation to be made through Peggy's company"
+      },
+      {
+        "entity_1": "Steven Pfeiffer",
+        "entity_2": "Independent Filmmaker Project",
+        "relationship_type": "employment",
+        "description": "Steven is Associate Director, Development at IFP"
+      },
+      {
+        "entity_1": "Peggy Siegal",
+        "entity_2": "The Peggy Siegal Company",
+        "relationship_type": "ownership",
+        "description": "Peggy Siegal owns the company bearing her name"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$10K"
+      ],
+      "transactions": [
+        "$10,000 donation for chairs at IFP Gotham Awards"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, businesslike, collaborative",
+      "emotional_indicators": [
+        "positive anticipation of event",
+        "gratitude for donation"
+      ],
+      "purpose": "Coordinate a $10,000 donation from Jeffrey E. to the IFP Gotham Awards for chair sponsorship and secure seating arrangements",
+      "significance": "Shows financial transaction arrangement for high-profile event sponsorship involving celebrities and political figures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"happy to buy your 10k of chairs and will need me plus 3 seats.\"",
+      "\"just send to peggy. you her co. its better for her\"",
+      "\"this year's ceremony looks to be the most star studded ever\" featuring Vice President Al Gore and numerous celebrities"
+    ],
+    "red_flags": [
+      "Donation being routed through third party (Peggy Siegal Company) rather than directly"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be standard event sponsorship arrangement"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine event sponsorship arrangement"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "IFP Gotham Awards are public events with media coverage; celebrity attendees and honorees are publicly announced"
+    },
+    "summary": "This email chain coordinates a $10,000 donation from Jeffrey E. to the 2017 IFP Gotham Awards for chair sponsorship, with the donation being routed through Peggy Siegal's company. The event featured high-profile honorees including Vice President Al Gore and numerous celebrities, with Jeffrey requesting 4 seats for attendance."
+  }
+}

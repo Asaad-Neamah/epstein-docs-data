@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027062.txt",
+  "file_name": "HOUSE_OVERSIGHT_027062.txt",
+  "processed_at": "2025-11-15T02:45:50.567379",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-24",
+      "subject": "Re: My datebook",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Unknown (reply recipient)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "SB",
+        "Brad Karp",
+        "DJT"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "SB",
+        "relationship_type": "professional/personal",
+        "description": "Wolff met with SB for three hours to discuss political matters"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Brad Karp",
+        "relationship_type": "professional",
+        "description": "Karp is offering help on Wolff's next book project"
+      },
+      {
+        "entity_1": "SB",
+        "entity_2": "DJT",
+        "relationship_type": "political commentary",
+        "description": "SB expressed belief that DJT (likely Donald Trump) won't last until midterm elections"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "confidence in political assessment",
+        "professional enthusiasm"
+      ],
+      "purpose": "To update the recipient on recent meetings and professional developments related to Wolff's work",
+      "significance": "Shows communication about political commentary and book project collaboration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Three hours with SB who believes DJT won't last to the mid terms.",
+      "Brad Karp who is super menchy and offering much help on next book."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail, coercion, or pressure tactics present in the email content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Email involves Michael Wolff, a journalist/author, discussing his book project and political commentary"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private email exchange between journalist and unknown recipient discussing political opinions and book collaboration"
+    },
+    "summary": "Michael Wolff emails an update about meeting with SB who believes Donald Trump won't last until midterm elections, and Brad Karp who is helping with Wolff's next book project."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032648.txt",
+  "file_name": "HOUSE_OVERSIGHT_032648.txt",
+  "processed_at": "2025-11-15T02:55:24.089655",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-16",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey E. (Epstein)",
+        "Trump"
+      ],
+      "organizations": [
+        "TSA",
+        "Atlantic (FBO)",
+        "POTUS"
+      ],
+      "locations": [
+        "LSJ (likely Little St. James Island)",
+        "New York",
+        "DCA (likely Reagan National Airport)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Operational",
+        "description": "Visoski appears to be Epstein's pilot or flight coordinator, arranging travel logistics"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "Acquaintance/Associate",
+        "description": "Epstein mentions Trump being in town during his planned travel, suggesting some level of connection or coordination"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, logistical, matter-of-fact",
+      "emotional_indicators": [],
+      "purpose": "To coordinate private flight logistics around presidential travel schedule and security protocols",
+      "significance": "Shows Epstein's private travel arrangements intersecting with presidential movements and requiring special security coordination"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Shouldn't be to bad if we are leaving early and Trump is not scheduled to depart until 3pm on Sunday",
+      "TSA will have an office set up inside the FBO, you will enter the main lobby at Atlantic and be escorted to the plane after you meet with TSA officers",
+      "I have to schedule all passengers names 24hours in advance, no additions within 24 Hours"
+    ],
+    "red_flags": [
+      "Coordination of private travel around presidential schedule",
+      "Special TSA arrangements for private flight",
+      "Strict 24-hour passenger list requirements suggesting security concerns"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication - purely logistical flight planning"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Epstein's connections to powerful figures and special travel arrangements would be of significant media interest given his criminal history and associations"
+    },
+    "summary": "Email exchange between Jeffrey Epstein and his pilot Larry Visoski coordinating private flight logistics from LSJ (Little St. James) to New York during a week when President Trump was scheduled to be in the area, requiring special TSA security arrangements and advance passenger scheduling."
+  }
+}

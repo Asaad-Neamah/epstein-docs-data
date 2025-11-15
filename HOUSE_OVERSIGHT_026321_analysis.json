@@ -1,0 +1,109 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026321.txt",
+  "file_name": "HOUSE_OVERSIGHT_026321.txt",
+  "processed_at": "2025-11-15T02:44:20.342223",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-09-12",
+      "subject": "Fwd: This morning",
+      "document_id": "",
+      "sender": "Larry Summers",
+      "recipients": [
+        "jeeyacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Summers",
+        "Eric Maskin",
+        "Adam Friedman",
+        "Bernie Sanders",
+        "Donald Trump",
+        "Hillary Clinton",
+        "Ralph Nader",
+        "George Bush",
+        "Bloomberg"
+      ],
+      "organizations": [],
+      "locations": [
+        "Michigan",
+        "Wisconsin",
+        "Pennsylvania"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Eric Maskin",
+        "relationship_type": "professional/academic",
+        "description": "Colleagues discussing voting systems and political theory"
+      },
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Adam Friedman",
+        "relationship_type": "professional",
+        "description": "Summers admires Friedman's commitment to the voting system project"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$10,000"
+      ],
+      "transactions": [
+        "Larry Summers gave $10,000 to support the voting system project"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, academic, thoughtful",
+      "emotional_indicators": [
+        "curiosity",
+        "intellectual engagement",
+        "admiration"
+      ],
+      "purpose": "To discuss ranked-choice voting systems and their political implications, and to share a financial contribution to the project",
+      "significance": "Shows academic discussion of voting systems and political strategy among influential figures, including a financial contribution to support the work"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Voting rules may seem nerdy and dry, but they can make an enormous difference to actual politics\"",
+      "\"If RCV had been used in 2016, Bernie Sanders could have run as an independent in the general election without fear of guaranteeing a Trump victory\"",
+      "\"I gave them 10,000\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is an academic discussion about voting systems"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a legitimate academic and political discussion about voting systems"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Academic discussion about ranked-choice voting systems and hypothetical 2016 election scenarios"
+    },
+    "summary": "Email chain between Larry Summers and economist Eric Maskin discussing the merits of ranked-choice voting systems, including academic analysis of how it might affect political polarization and election outcomes, with Summers mentioning he contributed $10,000 to support the voting system project."
+  }
+}

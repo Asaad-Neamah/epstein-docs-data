@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_012898.txt",
+  "file_name": "HOUSE_OVERSIGHT_012898.txt",
+  "processed_at": "2025-11-15T02:34:55.828787",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-05-13",
+      "subject": "Farmer Jaffe is suing Donald Trump!",
+      "document_id": "",
+      "sender": "Tonja Haddad Coleman",
+      "recipients": [
+        "Jeffrey Epstein",
+        "Darren Indyke",
+        "Debbie Fein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Tonja Haddad Coleman",
+        "Farmer Jaffe",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "TONJA HADDAD, P.A."
+      ],
+      "locations": [
+        "Fort Lauderdale, FL",
+        "315 SE 7th Street"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Tonja Haddad Coleman",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Attorney communicating legal news to client/associate"
+      },
+      {
+        "entity_1": "Farmer Jaffe",
+        "entity_2": "Donald Trump",
+        "relationship_type": "legal",
+        "description": "Plaintiff suing defendant in lawsuit"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency (marked as High Importance)"
+      ],
+      "purpose": "To alert recipients about a lawsuit involving Donald Trump",
+      "significance": "Shows legal monitoring and information sharing about high-profile litigation"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Farmer Jaffe is suing Donald Trump!"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares news article about third-party lawsuit, contains no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Includes link to Palm Beach Post news article about lawsuit"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Lawsuit against Donald Trump would have been public record and media-covered"
+    },
+    "summary": "Attorney Tonja Haddad Coleman alerts Jeffrey Epstein and others about a lawsuit filed by Farmer Jaffe against Donald Trump, sharing a link to a Palm Beach Post news article about the legal action."
+  }
+}

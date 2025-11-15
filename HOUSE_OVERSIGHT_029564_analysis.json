@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029564.txt",
+  "file_name": "HOUSE_OVERSIGHT_029564.txt",
+  "processed_at": "2025-11-15T02:47:56.273171",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "",
+      "subject": "English is a difficult language......for some!",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Prime Minister Mon",
+        "Barack Obama",
+        "Michelle",
+        "instructor"
+      ],
+      "organizations": [
+        "Japanese Embassy in US",
+        "Washington"
+      ],
+      "locations": [
+        "US",
+        "Washington"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Prime Minister Mon",
+        "entity_2": "Barack Obama",
+        "relationship_type": "diplomatic",
+        "description": "Prime Minister meeting with President Obama"
+      },
+      {
+        "entity_1": "Prime Minister Mon",
+        "entity_2": "instructor",
+        "relationship_type": "professional",
+        "description": "Language instructor providing English training"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "humorous, anecdotal",
+      "emotional_indicators": [
+        "shock",
+        "humor",
+        "awkwardness"
+      ],
+      "purpose": "To share a humorous anecdote about a language misunderstanding during a diplomatic meeting",
+      "significance": "Illustrates potential communication challenges in international diplomacy"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "'who r u?' Instead of 'How r u?'",
+      "'Well, I'm Michelle's husband, ha-ha..'",
+      "'me too, ha-ha...'"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Appears to be a viral email forward/joke rather than an official document"
+    },
+    "summary": "This document is a humorous anecdote about a fictional language misunderstanding between Japanese Prime Minister Mon and President Barack Obama, where a language mix-up leads to an awkward diplomatic moment during their meeting."
+  }
+}

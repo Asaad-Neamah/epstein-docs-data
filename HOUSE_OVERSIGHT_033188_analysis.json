@@ -1,0 +1,90 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033188.txt",
+  "file_name": "HOUSE_OVERSIGHT_033188.txt",
+  "processed_at": "2025-11-15T02:57:31.238649",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-10",
+      "subject": "INTERACTIVE: Where does Donald Trump's money come from?",
+      "document_id": "HOUSE OVERSIGHT 033188",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "Professional/Communication",
+        "description": "Richard Kahn is sending an article about Donald Trump's finances to Jeffrey E."
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, direct",
+      "emotional_indicators": [
+        "Urgent (marked as High Importance)"
+      ],
+      "purpose": "To share a news article analyzing Donald Trump's financial sources",
+      "significance": "Document shows interest in Trump's financial background shortly after his election victory"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward sharing of public information"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains a shared news article about Donald Trump's finances - no first-hand illegal activity discussed"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing article from therealdeal.com about Donald Trump's financial sources"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This email was sent shortly after Donald Trump's election victory in November 2016, when there was significant media interest in his financial background and business dealings"
+    },
+    "summary": "Richard Kahn sends Jeffrey E. a news article from The Real Deal analyzing where Donald Trump's money comes from, marked as high importance shortly after Trump's 2016 election victory."
+  }
+}

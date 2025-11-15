@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031489.txt",
+  "file_name": "HOUSE_OVERSIGHT_031489.txt",
+  "processed_at": "2025-11-15T02:52:20.940855",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-07",
+      "subject": "Fwd: Breaking News: Donald Trump brags in vulgar terms about groping women in a 2005 recording, saying, \"When you're a star they let you do it\"",
+      "document_id": "",
+      "sender": "Stephen Hanson",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Stephen Hanson",
+        "Jeffrey Epstein",
+        "Donald Trump",
+        "Billy Bush"
+      ],
+      "organizations": [
+        "NYTimes.com",
+        "The New York Times Company",
+        "The Washington Post",
+        "Access Hollywood"
+      ],
+      "locations": [
+        "New York, NY"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Stephen Hanson",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Communication",
+        "description": "Hanson forwarded a news alert to Epstein"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Billy Bush",
+        "relationship_type": "Professional",
+        "description": "Trump was recorded having a conversation with Bush on the set of a soap opera"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$0.99"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, conversational",
+      "emotional_indicators": [
+        "brief commentary ('Ouch') suggests reaction to negative news"
+      ],
+      "purpose": "To share breaking news about Donald Trump with Jeffrey Epstein",
+      "significance": "Shows communication between Hanson and Epstein during the 2016 election cycle regarding controversial Trump recording"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"When you're a star they let you do it\"",
+      "\"Donald J. Trump was caught on tape bragging in vulgar terms about making sexual advances toward a married woman, and aggressively kissing and groping other women.\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion - simply forwarding of public news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains forwarded news article about Donald Trump's controversial comments from 2005 - no first-hand illegal activity by sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Forwarded New York Times breaking news alert",
+        "References Washington Post's original reporting",
+        "Discusses media coverage of Donald Trump's controversial recording"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to the widely publicized 'Access Hollywood' tape that emerged during the 2016 presidential campaign, which was major national news"
+    },
+    "summary": "Stephen Hanson forwarded a New York Times breaking news alert to Jeffrey Epstein about the 2005 recording of Donald Trump making vulgar comments about women, with Hanson adding only the brief comment 'Ouch' to the forwarded email."
+  }
+}

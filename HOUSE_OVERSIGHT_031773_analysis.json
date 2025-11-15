@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_031773.txt",
+  "file_name": "HOUSE_OVERSIGHT_031773.txt",
+  "processed_at": "2025-11-15T02:52:57.525730",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-22",
+      "subject": "The New York Times: Cohen Gave Prosecutors New Information on the Trump Family Business",
+      "document_id": "HOUSE OVERSIGHT 031773",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "Jeffrey Epstein",
+        "Michael D. Cohen",
+        "President Trump"
+      ],
+      "organizations": [
+        "The New York Times",
+        "Trump Organization",
+        "Apple News"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "communication",
+        "description": "Ribis is sending Epstein a news article about Michael Cohen"
+      },
+      {
+        "entity_1": "Michael D. Cohen",
+        "entity_2": "Trump Organization",
+        "relationship_type": "former employment",
+        "description": "Cohen was former lawyer for Trump Organization"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, forwarding",
+      "emotional_indicators": [],
+      "purpose": "To share a New York Times article about Michael Cohen providing information to prosecutors about the Trump Organization",
+      "significance": "Shows communication about ongoing legal proceedings involving Trump Organization and Michael Cohen"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about Michael Cohen's legal proceedings, not containing first-hand illegal activity by sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "New York Times article about Michael Cohen providing information to prosecutors",
+        "Shared from Apple News platform"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's cooperation with prosecutors against Trump Organization was widely covered in media in 2018-2019"
+    },
+    "summary": "Nicholas Ribis forwards a New York Times article to Jeffrey Epstein about Michael Cohen providing information to prosecutors regarding possible irregularities at the Trump Organization in exchange for a reduced prison sentence."
+  }
+}

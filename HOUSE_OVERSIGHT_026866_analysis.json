@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026866.txt",
+  "file_name": "HOUSE_OVERSIGHT_026866.txt",
+  "processed_at": "2025-11-15T02:45:19.544770",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-08-01",
+      "subject": "Trump urges Attorney General Sessions to stop Mueller probe 'right now'",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Donald Trump",
+        "Jeff Sessions",
+        "Robert Mueller",
+        "Giuseppe Conte"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "CNBC",
+        "Reuters",
+        "White House"
+      ],
+      "locations": [
+        "Washington",
+        "New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein a news article about Trump and the Mueller probe"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Jeff Sessions",
+        "relationship_type": "political",
+        "description": "President urging Attorney General to stop investigation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency (marked as High Importance)"
+      ],
+      "purpose": "To share breaking news about President Trump's public call to end the Mueller investigation",
+      "significance": "Shows communication about significant political developments between Kahn and Epstein during the Mueller probe"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now\"",
+      "\"Bob Mueller is totally conflicted, and his 17 Angry Democrats that are doing his dirty work are a disgrace to USA!\""
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is simply sharing news content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a CNBC news article about President Trump's public statements - no first-hand illegal activity discussed"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References CNBC news article",
+        "Includes Reuters credit for photo",
+        "Breaking news coverage of Trump's Twitter statements"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to President Trump's very public Twitter statements about the Mueller investigation, which received widespread media coverage in 2018"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a CNBC news article reporting on President Trump's Twitter call for Attorney General Sessions to immediately end the Mueller Russia investigation, which Trump characterized as a 'Rigged Witch Hunt.'"
+  }
+}

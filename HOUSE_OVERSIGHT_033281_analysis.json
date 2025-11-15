@@ -1,0 +1,88 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033281.txt",
+  "file_name": "HOUSE_OVERSIGHT_033281.txt",
+  "processed_at": "2025-11-15T02:58:08.932659",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-08-19",
+      "subject": "Poll: Trump closing in on Clinton",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Trump",
+        "Clinton"
+      ],
+      "organizations": [
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Richard Kahn is sending political polling information to Jeffrey Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To share political polling information showing Trump gaining ground on Clinton",
+      "significance": "Shows communication about political developments between Richard Kahn and Jeffrey Epstein during the 2016 presidential campaign"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains a link to a news article about political polling, no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to The Hill news publication and their political polling article"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available polling data from The Hill during the 2016 presidential campaign"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a link to a Hill article showing Donald Trump gaining ground on Hillary Clinton in presidential polling during the 2016 campaign."
+  }
+}

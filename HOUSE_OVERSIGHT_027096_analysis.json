@@ -1,0 +1,125 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027096.txt",
+  "file_name": "HOUSE_OVERSIGHT_027096.txt",
+  "processed_at": "2025-11-15T02:45:44.745426",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2019-02-23",
+      "subject": "White House 'looking into' Acosta's role in illegal sex offender plea deal",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Sarah Huckabee Sanders",
+        "Donald Trump",
+        "Alexander Acosta",
+        "Jeffrey Epstein",
+        "Kenneth A. Marra"
+      ],
+      "organizations": [
+        "White House",
+        "U.S. House Committee on Oversight and Accountability",
+        "U.S. Department of Labor",
+        "U.S. Department of Justice",
+        "U.S. District Court",
+        "Miami Herald"
+      ],
+      "locations": [
+        "Washington",
+        "Florida",
+        "Miami",
+        "Palm Beach",
+        "Virgin Islands",
+        "St. James"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Allegations/complaints",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Alexander Acosta",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal",
+        "description": "Acosta approved plea deal for Epstein while serving as U.S. Attorney"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Alexander Acosta",
+        "relationship_type": "political",
+        "description": "Trump's Labor Secretary, whose confidence in Acosta is being questioned"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Virgin Islands",
+        "relationship_type": "property",
+        "description": "Epstein owns the island of Little St. James in the Virgin Islands"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "island of Little St. James"
+      ]
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To report on legal developments regarding Jeffrey Epstein's plea deal and White House response",
+      "significance": "Documents judicial ruling that the Justice Department broke the law in Epstein case and White House's non-committal response about Acosta's position"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Violation of Crime Victims' Rights Act",
+        "Failure to inform victims of plea deal",
+        "Illegal plea agreement process"
+      ]
+    },
+    "notable_quotes": [
+      "A judge said Acosta — then the U.S. attorney in Miami — signed off on a plea deal with Jeffrey Epstein, the Palm Beach billionaire and serial sex abuser, without informing victims about what they were doing.",
+      "The judge said in his decision Thursday that he had reviewed evidence showing Epstein sexually abused more than 30 underage girls at his Palm Beach mansion and elsewhere.",
+      "The deal reached between Acosta and Epstein's attorneys allowed him to not be prosecuted in federal court, and instead sentenced in state court."
+    ],
+    "red_flags": [
+      "Failure to notify victims of plea deal",
+      "Immunity extended to co-conspirators",
+      "Light sentence (13 months) for serious crimes"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on past illegal activities and legal proceedings, not first-hand evidence of ongoing criminal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article references Miami Herald reporting",
+        "White House press secretary comments on the case"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This news article itself indicates the information is public. The Epstein case received significant media coverage, and this article reports on ongoing legal and political developments."
+    },
+    "summary": "This news article reports that a federal judge ruled the Justice Department broke the law when Labor Secretary Alexander Acosta, as U.S. Attorney, approved a plea deal for Jeffrey Epstein without notifying victims, while the White House stated it was 'looking into' the matter but declined to comment on Trump's confidence in Acosta."
+  }
+}

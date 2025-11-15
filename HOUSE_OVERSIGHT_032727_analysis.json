@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032727.txt",
+  "file_name": "HOUSE_OVERSIGHT_032727.txt",
+  "processed_at": "2025-11-15T02:55:26.654289",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-02-13",
+      "subject": "Obama admin discussed how much to share about Russia with incoming Trump team - CNNPolitics",
+      "document_id": "HOUSE OVERSIGHT 032727",
+      "sender": "Kathy",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Susan Rice",
+        "Obama",
+        "Trump"
+      ],
+      "organizations": [
+        "Obama admin",
+        "Trump team",
+        "CNN"
+      ],
+      "locations": [
+        "Russia"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Obama admin",
+        "entity_2": "Trump team",
+        "relationship_type": "political transition",
+        "description": "Discussions about sharing information regarding Russia investigation during presidential transition"
+      },
+      {
+        "entity_1": "Susan Rice",
+        "entity_2": "Obama admin",
+        "relationship_type": "employment",
+        "description": "Susan Rice was part of the Obama administration"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To share a CNN news article about the Obama administration's discussions regarding Russia investigation information sharing with the incoming Trump team",
+      "significance": "Documents communication about politically sensitive information sharing during presidential transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be sharing of news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a CNN news article about political discussions, not containing first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNN news article about Obama administration's Russia investigation information sharing discussions"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be about the Russia investigation during the 2016-2017 presidential transition period, which received significant media coverage"
+    },
+    "summary": "Kathy emails Jeffrey Epstein a CNN article about the Obama administration's discussions regarding how much information to share about the Russia investigation with the incoming Trump team during the presidential transition."
+  }
+}

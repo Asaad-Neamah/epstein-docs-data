@@ -1,0 +1,103 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_014516.txt",
+  "file_name": "HOUSE_OVERSIGHT_014516.txt",
+  "processed_at": "2025-11-15T02:36:52.350531",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-15",
+      "subject": "Fwd: 2016 Election: Tax Changes Expected",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Amanda Ens",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Bank of America Merrill Lynch",
+        "Merrill Lynch, Pierce, Fenner & Smith Incorporated",
+        "House Republicans",
+        "Senate"
+      ],
+      "locations": [
+        "New York, NY 10022",
+        "575 Lexington Avenue 4th Floor",
+        "One Bryant Park, 5th Floor, New York, NY 10036"
+      ],
+      "financial_entities": [
+        "Bank of America Merrill Lynch"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Amanda Ens",
+        "relationship_type": "professional",
+        "description": "Colleagues or business associates; Amanda is providing tax information to Richard"
+      },
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Richard is forwarding tax information to Jeffrey"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To forward tax planning information regarding anticipated changes under the Trump administration",
+      "significance": "Shows financial planning communications during political transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "The election of Donald Trump as President is expected to lead to significant tax law changes.",
+      "The tax changes may come in two parts: from the repeal of the Affordable Care Act (ObamaCare) and its related taxes and from comprehensive tax reform."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present; routine professional communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed; routine tax planning communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Tax policy changes following presidential elections are routine public knowledge and widely discussed in financial media"
+    },
+    "summary": "Richard Kahn forwards a tax advisory email from Amanda Ens at Bank of America Merrill Lynch discussing anticipated tax law changes following Donald Trump's election, including potential repeal of Affordable Care Act taxes and comprehensive tax reform."
+  }
+}

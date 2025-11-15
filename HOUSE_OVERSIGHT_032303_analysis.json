@@ -1,0 +1,88 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032303.txt",
+  "file_name": "HOUSE_OVERSIGHT_032303.txt",
+  "processed_at": "2025-11-15T02:54:03.912867",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-10-02",
+      "subject": "Trump",
+      "document_id": "",
+      "sender": "LHS (Larry Summers)",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "LHS (Larry Summers)",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "LHS (Larry Summers)",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Summers is asking Epstein for insight/analysis about Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, inquisitive",
+      "emotional_indicators": [
+        "curiosity",
+        "informality"
+      ],
+      "purpose": "To solicit Jeffrey Epstein's opinion on whether Donald Trump might be a cocaine user",
+      "significance": "Shows communication between prominent economist Larry Summers and Jeffrey Epstein about political figures during the 2016 election period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "How plausible is idea that trump is real cocaine user?"
+    ],
+    "red_flags": [
+      "Informal inquiry about potential drug use of political figure"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be a simple inquiry"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is an inquiry about someone else's potential behavior"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email from Larry Summers to Jeffrey Epstein during 2016 presidential election, asking about Donald Trump's potential drug use"
+    },
+    "summary": "Larry Summers emails Jeffrey Epstein asking for his opinion on how plausible it is that Donald Trump is a cocaine user, showing communication between the two about political figures during the 2016 election period."
+  }
+}

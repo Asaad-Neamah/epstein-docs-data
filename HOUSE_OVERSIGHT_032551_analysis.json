@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032551.txt",
+  "file_name": "HOUSE_OVERSIGHT_032551.txt",
+  "processed_at": "2025-11-15T02:54:59.379571",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-07-10",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Thorbjon Jagland",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Thorbjon Jagland",
+        "jeffrey E.",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "Norway",
+        "paris"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Thorbjon Jagland",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal/professional",
+        "description": "Communicating about meeting arrangements and interest in learning about Trump"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Trump",
+        "relationship_type": "connection",
+        "description": "Jagland expresses interest in learning more about Trump from Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, slightly frustrated",
+      "emotional_indicators": [
+        "confusion",
+        "interest",
+        "mild annoyance about timing"
+      ],
+      "purpose": "Coordinate meeting and express interest in learning about Trump from Epstein",
+      "significance": "Shows Epstein's connections to international figures and his perceived access to information about Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Next time, tell me well in advance, would be interesting to learn more more about Trump.",
+      "I am totally confused."
+    ],
+    "red_flags": [
+      "Epstein positioning himself as having insider information about Trump",
+      "International figure seeking information through Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, pressure tactics, or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Thorbjørn Jagland was a prominent Norwegian politician who served as Secretary General of the Council of Europe. This email shows Epstein's connections to international political figures and his perceived access to information about Donald Trump."
+    },
+    "summary": "Thorbjon Jagland responds to Jeffrey Epstein's email from Paris, noting he is in Norway and expresses frustration about short notice while showing interest in learning more about Trump from Epstein, stating he is 'totally confused' about the situation."
+  }
+}

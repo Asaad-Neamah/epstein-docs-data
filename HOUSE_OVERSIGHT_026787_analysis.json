@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026787.txt",
+  "file_name": "HOUSE_OVERSIGHT_026787.txt",
+  "processed_at": "2025-11-15T02:45:11.439180",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-02-24",
+      "subject": "Lawyer for Susan Rice: Obama administration 'justifiably concerned' about sharing intel with Trump team - POLITICO",
+      "document_id": "",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeeyacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Susan Rice",
+        "Michael Flynn"
+      ],
+      "organizations": [
+        "Obama administration",
+        "Trump team",
+        "POLITICO"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "jeeyacation@gmail.com",
+        "relationship_type": "communication",
+        "description": "Sender forwarding a news article to recipient"
+      },
+      {
+        "entity_1": "Susan Rice",
+        "entity_2": "Obama administration",
+        "relationship_type": "employment",
+        "description": "Susan Rice was part of the Obama administration"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency (marked as High Importance)"
+      ],
+      "purpose": "To share a news article about Susan Rice's lawyer defending the Obama administration's handling of intelligence sharing with the Trump transition team",
+      "significance": "Shows communication about political intelligence matters during the Trump transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is an email forwarding a news article about political matters, not evidence of first-hand illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Forwarding a POLITICO news article about Susan Rice's lawyer defending Obama administration actions"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available news coverage about the Trump transition and intelligence sharing controversies that were widely reported in 2017-2018"
+    },
+    "summary": "Kathy Ruemmler forwards a POLITICO article to an email address about Susan Rice's lawyer defending the Obama administration's concerns regarding intelligence sharing with the Trump transition team, particularly referencing Michael Flynn."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031560.txt",
+  "file_name": "HOUSE_OVERSIGHT_031560.txt",
+  "processed_at": "2025-11-15T02:52:43.027126",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-07-04",
+      "subject": "Re: Hello",
+      "document_id": "",
+      "sender": "David Schoen",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "David Schoen",
+        "Jeffrey E. (Epstein)",
+        "Strzok",
+        "McCabe",
+        "Trump",
+        "Comey",
+        "Flynn",
+        "Mueller",
+        "Andrew Weissmann",
+        "Jeannie Rhee",
+        "Greg Andres",
+        "Clinton",
+        "Obama",
+        "Gotti",
+        "Hannity"
+      ],
+      "organizations": [
+        "FBI",
+        "EDNY (Eastern District of New York)",
+        "SDNY (Southern District of New York)",
+        "Arthur Anderson",
+        "Enron"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "David Schoen",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Attorney communicating with client/acquaintance about legal and political matters"
+      },
+      {
+        "entity_1": "Andrew Weissmann",
+        "entity_2": "Mueller",
+        "relationship_type": "professional",
+        "description": "Weissmann served as chief counsel to Mueller at the FBI"
+      },
+      {
+        "entity_1": "Jeannie Rhee",
+        "entity_2": "Clinton",
+        "relationship_type": "professional",
+        "description": "Rhee was Clinton's lawyer in the email investigation"
+      },
+      {
+        "entity_1": "Greg Andres",
+        "entity_2": "Obama",
+        "relationship_type": "political",
+        "description": "Obama gave Andres' wife a federal judgeship"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$100 million"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, opinionated, defensive",
+      "emotional_indicators": [
+        "strong convictions",
+        "frustration with justice system",
+        "confidence in legal analysis"
+      ],
+      "purpose": "To discuss political bias in the Mueller investigation and FBI misconduct, while maintaining professional connection",
+      "significance": "Shows Epstein's interest in high-level political investigations and his connection to legal professionals discussing sensitive government matters"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Allegations of prosecutorial misconduct",
+        "Claims of evidence withholding",
+        "FBI misconduct allegations"
+      ]
+    },
+    "notable_quotes": [
+      "I have spent my whole career fighting bullies and crooked, unethical prosecutors. That will remain a guiding principle for me",
+      "Strzok, however, says that he met with McCabe - the number 2 guy in the FBI - and in his office discussed how best to stop Trump from becoming President",
+      "Andrew Weissmann was known in the EDNY as 'The Pathological Liar' after the SNL character. He literally would withhold exculpatory evidence"
+    ],
+    "red_flags": [
+      "Discussion of high-level government corruption allegations",
+      "References to prosecutorial misconduct in multiple cases",
+      "Epstein's apparent interest in political investigation details"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication - appears to be a discussion of political and legal matters between attorney and client/acquaintance"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No first-hand illegal activity discussed - this is a political/legal discussion about government investigations and alleged misconduct"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Hannity TV and radio appearances",
+        "Mention of article trying to tie Epstein to Trump and #metoo movement"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This discusses the Mueller investigation and FBI misconduct allegations that were widely covered in media during 2017-2018"
+    },
+    "summary": "Attorney David Schoen and Jeffrey Epstein exchange emails discussing political bias in the Mueller investigation, FBI misconduct allegations involving Strzok and McCabe, and criticisms of Mueller's team members including Andrew Weissmann and Jeannie Rhee, while maintaining their professional relationship."
+  }
+}

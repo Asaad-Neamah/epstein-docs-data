@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032647.txt",
+  "file_name": "HOUSE_OVERSIGHT_032647.txt",
+  "processed_at": "2025-11-15T02:55:25.880793",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-11-16",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey E.",
+        "Trump",
+        "assayay"
+      ],
+      "organizations": [],
+      "locations": [
+        "LSJ",
+        "lsh",
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Larry is confirming travel logistics for Jeffrey E."
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Trump",
+        "relationship_type": "connection",
+        "description": "Jeffrey notes Trump will be in New York during his planned visit"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "assayay",
+        "relationship_type": "travel_companion",
+        "description": "Jeffrey mentions traveling with assayay to lsh"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, confirmatory",
+      "emotional_indicators": [],
+      "purpose": "To confirm travel logistics and coordinate schedules, particularly noting POTUS's presence during the planned visit",
+      "significance": "Shows coordination between Jeffrey Epstein and his pilot/staff regarding travel plans that coincide with President Trump's schedule"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "larry , it will be assayay and I, trump is in town that week",
+      "Arrival: Tuesday November 21' @ 1800ish Departure: Sunday November 26th @ 1500ish"
+    ],
+    "red_flags": [
+      "Coordination of travel that coincides with POTUS schedule",
+      "Vague reference to companion 'assayay'"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, pressure tactics, or coercive language found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains only travel logistics coordination with no discussion of illegal activities"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows Epstein coordinating travel that coincides with President Trump's schedule, which could be of media interest given Epstein's notoriety and political connections"
+    },
+    "summary": "Larry Visoski confirms travel logistics with Jeffrey Epstein for a trip to LSJ on November 26th, noting that President Trump will be in New York during the same week, with Epstein planning to travel with someone named 'assayay'."
+  }
+}

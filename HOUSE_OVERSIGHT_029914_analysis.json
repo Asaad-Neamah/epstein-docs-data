@@ -1,0 +1,145 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029914.txt",
+  "file_name": "HOUSE_OVERSIGHT_029914.txt",
+  "processed_at": "2025-11-15T02:48:33.838779",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-01-22",
+      "subject": "This is business develpt to diagnose illness",
+      "document_id": "",
+      "sender": "PETER MANDELSON",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "PETER MANDELSON",
+        "Michael Greenberg",
+        "Ben",
+        "Lord Mandelson",
+        "Colonel Colin Ohrt",
+        "General Richard Tubb",
+        "Andrew Natsios",
+        "Shlomit Dekel",
+        "Benjamin Wegg-Prosser",
+        "Prokhorov"
+      ],
+      "organizations": [
+        "Fio Corporation",
+        "US Department of Defense",
+        "Walter Reed Army Institute of Research (WRAIR)",
+        "USAID",
+        "President's Malaria Initiative (PMI)",
+        "Rusnano",
+        "Onexim",
+        "New Jersey Nets"
+      ],
+      "locations": [
+        "Toronto",
+        "Vancouver",
+        "DC",
+        "NYC",
+        "Boston",
+        "Tanzania",
+        "Cambodia",
+        "Kenya",
+        "Thailand",
+        "London",
+        "Russia"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Business dealings",
+      "Financial transactions/money flow",
+      "Employment/staffing",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Greenberg",
+        "entity_2": "Lord Mandelson",
+        "relationship_type": "business",
+        "description": "Business development discussions regarding Fio Corporation's malaria diagnostic technology"
+      },
+      {
+        "entity_1": "Michael Greenberg",
+        "entity_2": "Benjamin Wegg-Prosser",
+        "relationship_type": "business",
+        "description": "Primary contact for business development and coordination"
+      },
+      {
+        "entity_1": "Fio Corporation",
+        "entity_2": "US Department of Defense",
+        "relationship_type": "business",
+        "description": "Military partnership for malaria diagnostic device testing"
+      },
+      {
+        "entity_1": "Benjamin Wegg-Prosser",
+        "entity_2": "Rusnano",
+        "relationship_type": "business",
+        "description": "Discussions about potential Russian investment opportunities"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$8-10 mn",
+        "$2 mn"
+      ],
+      "transactions": [
+        "Financing round for Fio Corporation"
+      ],
+      "assets": [
+        "Prototype diagnostic device",
+        "Malaria elimination white paper"
+      ]
+    },
+    "analysis": {
+      "tone": "Professional, enthusiastic, business-oriented",
+      "emotional_indicators": [
+        "enthusiasm",
+        "encouragement",
+        "excitement"
+      ],
+      "purpose": "To provide a business development update on Fio Corporation's malaria diagnostic technology and financing efforts, and to arrange meetings",
+      "significance": "Shows business connections between high-profile individuals and a medical technology company seeking funding and government partnerships"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Colonel Colin Ohrt, MD, who is in charge of the relevant WRAIR program, called our device a game-changer.",
+      "He would like to pilot our device in Tanzania, Cambodia, Kenya, and Thailand.",
+      "Am in the midst of a $8-10 mn financing...Have in this time already closed approximately $2 mn, which is encouraging"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely business communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - legitimate business communication about medical technology financing and government partnerships"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Business communication about medical technology development and financing that would not typically be public knowledge"
+    },
+    "summary": "Email from Peter Mandelson forwarding a business update from Michael Greenberg about Fio Corporation's $8-10 million financing round and successful demonstrations of their malaria diagnostic device to US military (WRAIR) and USAID officials, with plans for international field trials and potential Russian investment opportunities."
+  }
+}

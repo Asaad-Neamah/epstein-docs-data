@@ -1,0 +1,159 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_011170.txt",
+  "file_name": "HOUSE_OVERSIGHT_011170.txt",
+  "processed_at": "2025-11-15T02:37:08.776585",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "report",
+      "date": "2016-06-23",
+      "subject": "Brexit Statistics",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "David Cameron",
+        "Boris Johnson",
+        "Nigel Farage",
+        "Juncker",
+        "Merkel",
+        "Elizabeth Hurley",
+        "Sadiq Khan",
+        "George Soros",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "European Union",
+        "EU",
+        "UK Parliament",
+        "NHS",
+        "BBC",
+        "CNN",
+        "Reuters",
+        "Twitter",
+        "FTSE",
+        "Bank of England",
+        "IMF",
+        "WTO",
+        "UN",
+        "Goldman Sachs",
+        "Barclays"
+      ],
+      "locations": [
+        "United Kingdom",
+        "London",
+        "England",
+        "Scotland",
+        "Wales",
+        "Northern Ireland",
+        "Germany",
+        "France",
+        "Italy",
+        "Spain",
+        "Greece",
+        "USA",
+        "China",
+        "India",
+        "Australia"
+      ],
+      "financial_entities": [
+        "Bank of England",
+        "European Central Bank",
+        "IMF",
+        "World Bank",
+        "Goldman Sachs",
+        "Barclays",
+        "HSBC",
+        "Lloyds Bank"
+      ]
+    },
+    "themes": [
+      "Political connections/influence",
+      "Financial transactions/money flow",
+      "Travel/logistics",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "David Cameron",
+        "entity_2": "European Union",
+        "relationship_type": "political",
+        "description": "UK Prime Minister campaigning for Remain in EU referendum"
+      },
+      {
+        "entity_1": "Boris Johnson",
+        "entity_2": "Nigel Farage",
+        "relationship_type": "political",
+        "description": "Leaders of Brexit campaign"
+      },
+      {
+        "entity_1": "UK",
+        "entity_2": "European Union",
+        "relationship_type": "political/economic",
+        "description": "Member state considering leaving EU"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "analytical/statistical",
+      "emotional_indicators": [
+        "concern",
+        "uncertainty",
+        "division",
+        "hope",
+        "fear"
+      ],
+      "purpose": "To provide statistical analysis of Twitter sentiment regarding Brexit referendum",
+      "significance": "Shows real-time public sentiment during historic EU referendum, with majority positive sentiment toward Brexit"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Markets in limbo ahead of Brexit vote",
+      "The finest Brexit was in 1947",
+      "Britain Doesn't Need the EU to Trade"
+    ],
+    "red_flags": [
+      "High volatility in financial markets",
+      "Political instability concerns",
+      "Division among population"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this statistical report"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "Document contains aggregated social media sentiment data, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Extensive references to media coverage",
+        "Twitter sentiment analysis",
+        "News organizations cited"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Brexit referendum was major international news event with extensive media coverage"
+    },
+    "summary": "Statistical report analyzing Twitter sentiment during the Brexit referendum on June 23, 2016, showing 157,075 positive tweets, 93,305 negative tweets, and 51,750 neutral tweets about Brexit, indicating overall positive public sentiment toward leaving the EU."
+  }
+}

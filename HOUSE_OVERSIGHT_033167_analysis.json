@@ -1,0 +1,90 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033167.txt",
+  "file_name": "HOUSE_OVERSIGHT_033167.txt",
+  "processed_at": "2025-11-15T02:57:19.066814",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-09-21",
+      "subject": "Trump-Clinton debate expected to shatter records I TheHill",
+      "document_id": "HOUSE OVERSIGHT 033167",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Trump",
+        "Clinton"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "TheHill"
+      ],
+      "locations": [
+        "New York, NY 10022",
+        "575 Lexington Avenue, 4th Floor"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein a news article about the presidential debate"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about the Trump-Clinton presidential debate ratings expectations",
+      "significance": "Shows communication between Kahn and Epstein regarding major political events during the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains only a link to a news article about presidential debate ratings, no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to TheHill news article about Trump-Clinton debate ratings"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "2016 presidential election between Donald Trump and Hillary Clinton was highly publicized with record debate viewership"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a link to a TheHill article about the expected record-breaking ratings for the Trump-Clinton presidential debate, showing their communication about major political events during the 2016 election."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031017.txt",
+  "file_name": "HOUSE_OVERSIGHT_031017.txt",
+  "processed_at": "2025-11-15T02:51:07.738982",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-01-29",
+      "subject": "",
+      "document_id": "",
+      "sender": "Jeffrey Epstein",
+      "recipients": [
+        "Boris Nikolic"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Boris Nikolic",
+        "Mick Jagger",
+        "Ken Starr",
+        "Clinton",
+        "Julie Taymor"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Boris Nikolic",
+        "relationship_type": "personal/business",
+        "description": "Epstein is coordinating social plans with Nikolic"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Mick Jagger",
+        "relationship_type": "social connection",
+        "description": "Epstein claims ability to contact/get Jagger"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ken Starr",
+        "relationship_type": "social connection",
+        "description": "Epstein claims ability to contact/get Starr"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Clinton",
+        "relationship_type": "social connection",
+        "description": "Epstein claims ability to contact/get Clinton"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Julie Taymor",
+        "relationship_type": "social connection",
+        "description": "Epstein claims ability to contact/get Taymor"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "confident, casual",
+      "emotional_indicators": [
+        "confidence in social connections",
+        "assurance of ability to deliver"
+      ],
+      "purpose": "To coordinate social plans and suggest delaying until Monday night",
+      "significance": "Shows Epstein's claimed access to high-profile individuals including political figures (Clinton, Starr) and celebrities (Jagger, Taymor)"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I will have no trouble getting anyone you want",
+      "I suggest we leave it till mon night.. I will have no trouble getting anyone you want"
+    ],
+    "red_flags": [
+      "Boastful claims of access to powerful figures",
+      "Vague reference to 'noodling' about plans"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, pressure tactics, or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "No illegal activity discussed - just social planning with high-profile contacts"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Epstein's connections to high-profile figures became widely known through later investigations and media coverage"
+    },
+    "summary": "Jeffrey Epstein emails Boris Nikolic to coordinate social plans, boasting that he can get access to Mick Jagger, Ken Starr, Clinton, and Julie Taymor, suggesting they wait until Monday night to make arrangements."
+  }
+}

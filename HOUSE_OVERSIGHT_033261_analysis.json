@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033261.txt",
+  "file_name": "HOUSE_OVERSIGHT_033261.txt",
+  "processed_at": "2025-11-15T02:57:44.651434",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-12-01",
+      "subject": "U.S. stocks fall after ABC report that Flynn will testify against Trump",
+      "document_id": "HOUSE OVERSIGHT 033261",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Flynn",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "ABC"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Associate",
+        "description": "Kahn is sending market/political news to Epstein, suggesting ongoing communication relationship"
+      },
+      {
+        "entity_1": "Flynn",
+        "entity_2": "Trump",
+        "relationship_type": "Political/Testimonial",
+        "description": "ABC report indicates Flynn will testify against Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Casual, observational",
+      "emotional_indicators": [
+        "Interest",
+        "Anticipation"
+      ],
+      "purpose": "To share news about political developments and their market impact with Jeffrey Epstein",
+      "significance": "Shows communication between Kahn and Epstein regarding political news that could affect financial markets"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "U.S. stocks fall after ABC report that Flynn will testify against Trump",
+      "should be interesting"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this brief email forwarding news"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email is sharing news article content about political developments, not containing first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "ABC report about Flynn testifying against Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to the Michael Flynn investigation during the Trump administration, which was widely covered in media"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein about ABC News reporting that Michael Flynn will testify against President Trump, noting this development caused U.S. stocks to fall and commenting 'should be interesting.'"
+  }
+}

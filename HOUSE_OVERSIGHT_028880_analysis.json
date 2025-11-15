@@ -1,0 +1,110 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_028880.txt",
+  "file_name": "HOUSE_OVERSIGHT_028880.txt",
+  "processed_at": "2025-11-15T02:46:42.578161",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-10-09",
+      "subject": "Fwd: Post Exclusive: Obama aides knew of possible White House tie to Cartagena scandal",
+      "document_id": "",
+      "sender": "Lawrence Summers",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lawrence Summers",
+        "Jeffrey Epstein",
+        "Obama"
+      ],
+      "organizations": [
+        "The Washington Post",
+        "White House",
+        "Secret Service",
+        "U.S. military"
+      ],
+      "locations": [
+        "Cartagena",
+        "Colombia",
+        "Washington DC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lawrence Summers",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Summers is forwarding political news to Epstein"
+      },
+      {
+        "entity_1": "White House",
+        "entity_2": "Secret Service",
+        "relationship_type": "organizational",
+        "description": "White House oversight of Secret Service operations"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, concerned",
+      "emotional_indicators": [
+        "concern",
+        "urgency in tone"
+      ],
+      "purpose": "To forward a Washington Post article about a political scandal and express concern about the situation",
+      "significance": "Shows communication between Summers and Epstein about White House scandal coverage"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I fear she should have pulled out last week.",
+      "senior White House aides were given information at the time suggesting that a prostitute was an overnight guest in the hotel room of a presidential advance-team member"
+    ],
+    "red_flags": [
+      "Political scandal involving potential cover-up",
+      "Forwarding sensitive political information to Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be sharing news article with brief commentary"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is forwarding a Washington Post news article about a past scandal, not discussing first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Washington Post article about Cartagena scandal",
+        "Original journalism reference",
+        "Newsletter distribution"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "The 2012 Cartagena prostitution scandal involving Secret Service and military personnel was widely reported in mainstream media"
+    },
+    "summary": "Lawrence Summers forwards a Washington Post article to Jeffrey Epstein about the 2012 Cartagena prostitution scandal, expressing concern that a White House aide should have withdrawn earlier, with the article revealing that senior White House officials knew about potential White House involvement but never thoroughly investigated it."
+  }
+}

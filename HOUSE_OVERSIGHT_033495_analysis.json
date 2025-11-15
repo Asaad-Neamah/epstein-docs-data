@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033495.txt",
+  "file_name": "HOUSE_OVERSIGHT_033495.txt",
+  "processed_at": "2025-11-15T02:58:48.002642",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-06-07",
+      "subject": "Fwd: Photos",
+      "document_id": "HOUSE OVERSIGHT 033495, HOUSE OVERSIGHT 033496, HOUSE OVERSIGHT 033497",
+      "sender": "",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey",
+        "Larry Visoski",
+        "Guy Amico",
+        "Scott Stalfilh",
+        "JR Stambaugh",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "business",
+        "description": "Larry is communicating with Jeffrey about aircraft customization"
+      },
+      {
+        "entity_1": "Guy Amico",
+        "entity_2": "Larry Visoski",
+        "relationship_type": "business",
+        "description": "Guy sent original photos to Larry regarding aircraft"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "reference",
+        "description": "Trump's airline practices are referenced as example for vinyl logo application"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "B727 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, collaborative",
+      "emotional_indicators": [],
+      "purpose": "To discuss aircraft customization options for Jeffrey's Boeing 727, specifically the use of vinyl for logos instead of paint for easier removal if the plane is sold",
+      "significance": "Shows business relationship and aircraft ownership details, with reference to Trump's practices as industry standard"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Paint shop indicated we can use vinyl for your 'E' Logo and 'Flag' as oppose of painting, this would enable easy removal if plane sells in the future.",
+      "Trump and other airlines uses vinyl for logos."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is a straightforward business communication about aircraft customization"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is legitimate business communication about aircraft maintenance and customization"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private business communication about aircraft customization that would not typically be of public interest"
+    },
+    "summary": "This email chain from June 2014 discusses customization options for Jeffrey's Boeing 727 aircraft, specifically recommending the use of vinyl logos instead of paint for easier removal if the plane is sold, with reference to Trump's airline practices as an industry example. The communication includes attached photos of the aircraft and requests Jeffrey to provide design sketches for the tail logo."
+  }
+}

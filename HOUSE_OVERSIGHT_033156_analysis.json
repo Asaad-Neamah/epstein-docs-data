@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033156.txt",
+  "file_name": "HOUSE_OVERSIGHT_033156.txt",
+  "processed_at": "2025-11-15T02:57:09.917524",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-05-27",
+      "subject": "B727",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Je vacation",
+        "Rich Kahn",
+        "Darren Indyke"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Sean",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender",
+        "entity_2": "Sean",
+        "relationship_type": "business",
+        "description": "Business associate discussing aircraft sale"
+      },
+      {
+        "entity_1": "Sender",
+        "entity_2": "Trump",
+        "relationship_type": "business_reference",
+        "description": "Mentioning Trump's aircraft sale as reference point"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "2.7M",
+        "3.0 million"
+      ],
+      "transactions": [
+        "Trump's B727 sold for 2.7M",
+        "Buyer had 3.0 million budget for aircraft"
+      ],
+      "assets": [
+        "B727 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "informative, business-like",
+      "emotional_indicators": [],
+      "purpose": "To provide information about aircraft sale pricing and a potential buyer's budget",
+      "significance": "Shows business communication about high-value aircraft transactions with reference to Trump's sale"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump's 6727 sold for 2.7M",
+      "This buyer did have specs on your aircraft. They were looking at a 3.0 million budget but did not make an offer and it was too low"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - appears to be legitimate business communication about aircraft sales"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private business communication about aircraft transactions"
+    },
+    "summary": "This email discusses aircraft sales, noting that Trump's B727 sold for $2.7 million and relaying information from Sean about a potential buyer who had a $3 million budget but didn't make an offer as it was too low."
+  }
+}

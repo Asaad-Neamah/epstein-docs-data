@@ -1,0 +1,151 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030248.txt",
+  "file_name": "HOUSE_OVERSIGHT_030248.txt",
+  "processed_at": "2025-11-15T02:49:09.184874",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "report",
+      "date": "",
+      "subject": "Mueller Investigation Strategy and Potential Presidential Indictment",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Robert Mueller",
+        "Donald Trump",
+        "Michael Flynn",
+        "Rod Rosenstein",
+        "Jeff Sessions",
+        "Andrew Weissmann",
+        "James Comey",
+        "Don Jr.",
+        "Sergey Kislyak",
+        "Rudy Giuliani",
+        "Michael Cohen",
+        "Andrew McCabe",
+        "Alan Dershowitz",
+        "Ken Starr",
+        "Hillary Clinton"
+      ],
+      "organizations": [
+        "Special Counsel's office",
+        "U.S. House Committee on Oversight and Accountability",
+        "White House",
+        "Department of Justice",
+        "FBI",
+        "National Security Council",
+        "Supreme Court",
+        "Office of Legal Counsel",
+        "Congress",
+        "Trump campaign",
+        "Russian government",
+        "Arthur Anderson",
+        "Enron"
+      ],
+      "locations": [
+        "United States",
+        "Trump Tower",
+        "Air Force One"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Legal matters/litigation",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Robert Mueller",
+        "entity_2": "Donald Trump",
+        "relationship_type": "investigative",
+        "description": "Special Counsel investigating the President for obstruction of justice"
+      },
+      {
+        "entity_1": "Andrew Weissmann",
+        "entity_2": "Robert Mueller",
+        "relationship_type": "professional",
+        "description": "Weissmann is Mueller's number two lawyer in the investigation"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Michael Flynn",
+        "relationship_type": "professional",
+        "description": "Trump was considering pardoning his former National Security Advisor"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "James Comey",
+        "relationship_type": "confrontational",
+        "description": "Trump fired Comey as FBI Director over Russia investigation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "analytical, investigative, confrontational",
+      "emotional_indicators": [
+        "disgust",
+        "outrage",
+        "concern",
+        "defensiveness"
+      ],
+      "purpose": "To report on the advanced preparations by Mueller's team to indict President Trump for obstruction of justice",
+      "significance": "Reveals internal strategies and legal theories being developed for a potential constitutional crisis involving presidential indictment"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential obstruction of justice by the President",
+        "Constitutional crisis over presidential indictment",
+        "Abuse of pardon power",
+        "Presidential immunity questions"
+      ]
+    },
+    "notable_quotes": [
+      "\"This indictment could have been drafted without anyone being interviewed,\" said one source.",
+      "\"Bob Mueller is all about limits and rules. Donald Trump has none and acknowledges none,\" said one lawyer who has worked with Mueller in the past.",
+      "\"Might such an expansive claim win, yes. Should it win, no. But everyone knows the reality: weak presidents lose cases, strong presidents win them,\" said Ken Starr."
+    ],
+    "red_flags": [
+      "President's campaign of harassment, threats, and intimidation against Andrew McCabe",
+      "Use of pardon power potentially to obstruct justice",
+      "Pressure on officials to fall in line with President's demands",
+      "Directing Don Jr. to lie about Trump Tower meeting with Russians"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "news_report",
+      "description": "Document discusses allegations and legal theories about potential obstruction of justice, but is itself a report about these matters rather than evidence of first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to television appearances by Trump legal surrogates",
+        "Mentions of public statements and tweets as evidence",
+        "Discussion of media strategy and public perception"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This document appears to be analysis of the Mueller investigation which was extensively covered in media during 2017-2019"
+    },
+    "summary": "This document analyzes the Mueller investigation's advanced preparations to indict President Trump for obstruction of justice, detailing the legal theories and strategic considerations involved in what would become a constitutional crisis over presidential powers and immunity."
+  }
+}

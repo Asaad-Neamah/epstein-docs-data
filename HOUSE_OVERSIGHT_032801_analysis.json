@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032801.txt",
+  "file_name": "HOUSE_OVERSIGHT_032801.txt",
+  "processed_at": "2025-11-15T02:55:44.229725",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-08-29",
+      "subject": "Donald Trump only lasted 2 minutes during sex says Stormy Daniels I Bossip",
+      "document_id": "",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "Jeffrey Epstein",
+        "Donald Trump",
+        "Stormy Daniels"
+      ],
+      "organizations": [
+        "Bossip"
+      ],
+      "locations": [
+        "Europe"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Ribis is sending Epstein a news article, suggesting they share information about political figures"
+      },
+      {
+        "entity_1": "Stormy Daniels",
+        "entity_2": "Donald Trump",
+        "relationship_type": "personal",
+        "description": "Daniels is making claims about a sexual encounter with Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, gossipy, provocative",
+      "emotional_indicators": [
+        "amusement",
+        "anticipation of reaction"
+      ],
+      "purpose": "To share a sensational news article about Donald Trump with Jeffrey Epstein, suggesting it will provoke a strong reaction",
+      "significance": "Shows communication about sensitive personal allegations against a sitting US president between individuals with known political connections"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Donald Trump only lasted 2 minutes during sex says Stormy Daniels",
+      "In Europe saw this it will drive him crazy!!"
+    ],
+    "red_flags": [
+      "Sharing sensitive personal allegations about a sitting president",
+      "Anticipating that the information will provoke an extreme emotional reaction"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "possible",
+      "evidence": [
+        "Reference to information that 'will drive him crazy' suggests awareness of sensitive/compromising information"
+      ],
+      "description": "The email shares potentially embarrassing personal information about Donald Trump with the explicit expectation it will provoke a strong reaction, though no explicit threats or demands are made"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is Nicholas Ribis sharing a news article from Bossip about Stormy Daniels' allegations. It is not first-hand illegal activity by the sender or participants."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Bossip.com article containing Stormy Daniels' allegations about Donald Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Stormy Daniels' allegations against Donald Trump were widely covered in media during 2018, making this likely already public information being shared between acquaintances"
+    },
+    "summary": "Nicholas Ribis emails Jeffrey Epstein a link to a Bossip article containing Stormy Daniels' allegations about Donald Trump's sexual performance, noting that seeing this information 'will drive him crazy' and mentioning he saw it while in Europe."
+  }
+}

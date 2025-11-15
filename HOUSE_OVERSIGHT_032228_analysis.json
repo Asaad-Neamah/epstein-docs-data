@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032228.txt",
+  "file_name": "HOUSE_OVERSIGHT_032228.txt",
+  "processed_at": "2025-11-15T02:53:54.756760",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-12-16",
+      "subject": "Heads up",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [
+        "CNN"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "informational",
+        "description": "Wolff providing Epstein with advance warning about media inquiries"
+      },
+      {
+        "entity_1": "Trump",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "personal/business",
+        "description": "CNN planning to ask about their relationship, indicating known connection"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, informative",
+      "emotional_indicators": [
+        "sense of urgency",
+        "protective warning"
+      ],
+      "purpose": "To warn Jeffrey Epstein about impending media inquiry regarding his relationship with Trump",
+      "significance": "Shows advance coordination and media awareness regarding Epstein's controversial relationships with high-profile figures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I hear CNN planning to ask Trump tonight about his relationship with you--either on air or in scrum afterwards."
+    ],
+    "red_flags": [
+      "Advance warning about media inquiries into controversial relationships",
+      "High importance flag on sensitive topic"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNN planning to ask Trump about relationship with Epstein during broadcast or press scrum"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Trump-Epstein relationship became widely reported in media following Epstein's criminal cases and investigations"
+    },
+    "summary": "Michael Wolff sends an urgent email to Jeffrey Epstein warning that CNN plans to ask Donald Trump about his relationship with Epstein during a broadcast or press scrum later that day, indicating advance media coordination regarding Epstein's controversial connections."
+  }
+}

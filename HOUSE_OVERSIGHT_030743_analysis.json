@@ -1,0 +1,113 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030743.txt",
+  "file_name": "HOUSE_OVERSIGHT_030743.txt",
+  "processed_at": "2025-11-15T02:50:38.456644",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-30",
+      "subject": "Re: privleged",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "J (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "J",
+        "011ie",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence",
+      "Media strategy discussions",
+      "Financial transactions/money flow"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "J",
+        "relationship_type": "professional",
+        "description": "Communicating about legal strategy and media responses"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "011ie",
+        "relationship_type": "professional",
+        "description": "Potential team member for legal/media response preparation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "1 million per month for a year"
+      ],
+      "transactions": [
+        "Request for $1 million per month for a year"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, strategic, concerned",
+      "emotional_indicators": [
+        "urgency",
+        "concern about media inquiries",
+        "strategic thinking"
+      ],
+      "purpose": "To coordinate media response strategy and address legal team concerns regarding increasing reporter inquiries",
+      "significance": "Shows active crisis management and media strategy development in response to legal proceedings and public scrutiny"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential congressional subpoena concerns",
+        "Legal team focused on submissions to judge"
+      ]
+    },
+    "notable_quotes": [
+      "reporters suddenly thinking they don't know something or that there is a new angle—now would be a good moment to hit them with a better prepared set of responses",
+      "He asked for 1 million per month. for a year.",
+      "some concern on my team that i will get a cong subpoena. do i have to wear a tie?"
+    ],
+    "red_flags": [
+      "Large financial request ($12 million total)",
+      "Concerns about congressional subpoena",
+      "Need for coordinated media response strategy"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be strategic discussions about legal defense and media management"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document discusses legal strategy and media response to existing legal proceedings, no first-hand illegal activity described"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Multiple reporter inquiries mentioned",
+        "Strategy discussion for responding to media",
+        "Reference to 'new angle' that reporters are pursuing"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Appears to be related to legal proceedings that have attracted media attention, with reporters actively seeking information"
+    },
+    "summary": "Email exchange discussing urgent media response strategy to increasing reporter inquiries about legal matters, including a $1 million per month financial request and concerns about potential congressional subpoenas, with strategic planning for better prepared public responses."
+  }
+}

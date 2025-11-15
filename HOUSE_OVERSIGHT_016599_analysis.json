@@ -1,0 +1,186 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_016599.txt",
+  "file_name": "HOUSE_OVERSIGHT_016599.txt",
+  "processed_at": "2025-11-15T02:37:42.077303",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "report",
+      "date": "",
+      "subject": "TOP 100 PALM BEACH ACCOUNTS BY AVERAGE MONTHLY CONSUMPTION FY 07-08",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "TRUMP, DONALD J",
+        "KRAMER, IRWIN",
+        "KRAVIS, HENRY R",
+        "SCHWARZMAN, STEPHEN",
+        "SYDELL MILLER",
+        "KESSLER, PATRICIA",
+        "CHOPIN TRUSTEE PB TR, L FRANK",
+        "PELTZ, NELSON",
+        "TAYLOR, TERRY R",
+        "WILKENS, FRANK",
+        "VARGAS, VICTOR",
+        "DESMARAIS, PAUL",
+        "SUBOTNICK TRUSTEE, STUART",
+        "ROSS, STEPHEN M",
+        "HAMMONDS, SANDRA",
+        "DU PONT, WILLIS H",
+        "CLARK, JAMES H",
+        "PERGAMENT, LOUIS",
+        "BLACK, CONRAD",
+        "APPLEBAUM, EUGENE",
+        "MARTIN GRUSS",
+        "NESBITT II, ABRAM",
+        "LAUDER, JOSEPH",
+        "CUNNINGHAM, JOHN",
+        "MONTGOMERY, ROBERT M",
+        "THORNTON, JOHN L",
+        "PICOWER, JEFFRY M"
+      ],
+      "organizations": [
+        "BREAKERS PB INC",
+        "OCEAN GRAND RESORTS",
+        "PALM BEACH TOWERS CO",
+        "TOWN OF PALM BEACH",
+        "2000 CONDOMINIUM ASSOC",
+        "BEACH POINT CONDO ASSOC",
+        "COUNTY ROAD PROPERTY LLC",
+        "PALM BEACH BILTMORE CONDO ASSOC INC",
+        "REEF CONDO ASSOC INC",
+        "2295 S OCEAN BLVD ASSOC",
+        "PATRICIAN MGMT CORP",
+        "2100 CONDO ASSOC INC",
+        "ENCLAVE OF PB CONDO ASSOC, THE",
+        "OCEAN COVE CONDO",
+        "123 LLC",
+        "2500 S OCEAN BLVD INC",
+        "LEVERETT HOUSE INC",
+        "SUTTON PLACE CONDO ASSOC INC",
+        "SUN & SURF",
+        "BOHL REAL ESTATE MGMT CORP",
+        "STERLING PALM BEACH LLC",
+        "OASIS III CORP",
+        "WINTHROP HSE COND",
+        "LA PALMA COND APTS",
+        "HENRY MORRISON FLAGLER MUSEUM",
+        "BRAZILIAN COURT MGMT INC",
+        "PALM BEACH COUNTRY CLUB",
+        "T H COURT LIMITED PARTNERSHIP",
+        "THE COLONY HOTEL",
+        "RESIDENCES AT SLOAN CURVE, THE",
+        "CLARIDGES CONDO INC, THE",
+        "ROYAL SAXON INC",
+        "2770 CONDOMINUM, THE",
+        "PALM BEACH STRATFORD CONDO ASSOC INC",
+        "PALM BEACH HAMPTON CORP",
+        "EMERAUDE CONDO ASSOC",
+        "BATH & TENNIS CLUB INC",
+        "389 CORP",
+        "PRESIDENT OF P B CONDO INC",
+        "HALCYON CONDO ASSOC",
+        "LA BONNE VIE COND AP",
+        "BEACH CLUB INC",
+        "ATRIUMS OF PB MGMT",
+        "BIENSTAR",
+        "AMBASSADOR SOUTH DEV CORP",
+        "105 CLARENDON CORP",
+        "MERIDIAN OF PALM BCH",
+        "SUN & SURF 130 ASSOC",
+        "ATRIUMS II OF PB",
+        "PALM BEACH TOWNHOUSES LTD PTN",
+        "CARLYLE HOUSE ASSOC INC",
+        "L'ERMITAGE A PB CONDO ASSCINC",
+        "COVE CONDOMINIUM ASSOCIATION INC",
+        "300 SO OCEAN BLVD CORP OF PB",
+        "PERIODICAL DSTRBTRS",
+        "330 SOUTH OCEAN INC",
+        "THE REGENCY OF P B INC",
+        "KIRKLAND HOUSE CONDO ASSOCIATION INC",
+        "CONDO ASSOC OF OCEAN TOWERS INC",
+        "SOCIETY OF THE FOUR ARTS",
+        "TRES VIDAS",
+        "LAKE TOWERS ASSOC INC",
+        "EVERGLADES CLUB",
+        "589 NORTH COUNTY ROAD LLC",
+        "OCEANSIDE PALMS ESTATE CORP"
+      ],
+      "locations": [
+        "PALM BEACH",
+        "1100 S OCEAN BLVD"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Real estate/properties",
+      "Financial transactions/money flow"
+    ],
+    "relationships": [
+      {
+        "entity_1": "TRUMP, DONALD J",
+        "entity_2": "1100 S OCEAN BLVD",
+        "relationship_type": "property_ownership",
+        "description": "Donald Trump listed as customer at this Palm Beach address"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        {
+          "amount": "2746",
+          "currency": "CCF",
+          "description": "Average monthly consumption"
+        },
+        {
+          "amount": "$9,826.33",
+          "currency": "USD",
+          "description": "Average monthly bill for Trump property"
+        }
+      ],
+      "transactions": [],
+      "assets": [
+        "1100 S OCEAN BLVD (Trump property)",
+        "Various Palm Beach condominiums and properties"
+      ]
+    },
+    "analysis": {
+      "tone": "factual",
+      "emotional_indicators": [],
+      "purpose": "To list the top 100 Palm Beach accounts by average monthly consumption for fiscal year 2007-2008",
+      "significance": "Shows water consumption and billing data for high-profile Palm Beach residents and properties, including Donald Trump's property"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this utility consumption report"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a utility consumption report"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Utility consumption data for high-profile individuals like Donald Trump could be of media interest, especially given the high water usage amounts"
+    },
+    "summary": "This document is a utility consumption report listing the top 100 Palm Beach accounts by average monthly water consumption for fiscal year 2007-2008, showing Donald Trump's property at 1100 S Ocean Blvd with high consumption of 2,746 CCF and a monthly bill of $9,826.33, along with many other high-profile residents and property management companies."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032732.txt",
+  "file_name": "HOUSE_OVERSIGHT_032732.txt",
+  "processed_at": "2025-11-15T02:55:29.871953",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-18",
+      "subject": "Re: Wheels up 3 to New York Wednesday",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "jeffrey E.",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "New York",
+        "Teterboro",
+        "PBI"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "Professional",
+        "description": "Larry appears to be confirming flight logistics for Jeffrey E."
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Trump",
+        "relationship_type": "Associational",
+        "description": "Email references Trump's arrival in PBI, suggesting some connection or coordination"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional, concise",
+      "emotional_indicators": [],
+      "purpose": "To confirm flight logistics for Wednesday and note Trump's Friday arrival",
+      "significance": "Shows coordination of private travel arrangements and mentions Donald Trump's travel plans in context with Jeffrey E.'s activities"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Friday Trump arrives in PBI, I'll confirm time"
+    ],
+    "red_flags": [
+      "Mention of Trump's travel plans in coordination with Jeffrey E.'s logistics"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this brief logistical email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine logistical email about flight arrangements"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Mention of Donald Trump's travel plans in context with Jeffrey Epstein associate could be of media interest given the known relationship between Trump and Epstein"
+    },
+    "summary": "Larry Visoski confirms flight logistics for Jeffrey E. traveling to New York on Wednesday and notes that Donald Trump will be arriving in PBI on Friday, with timing to be confirmed."
+  }
+}

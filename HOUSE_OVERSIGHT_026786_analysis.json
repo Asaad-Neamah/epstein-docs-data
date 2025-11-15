@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026786.txt",
+  "file_name": "HOUSE_OVERSIGHT_026786.txt",
+  "processed_at": "2025-11-15T02:45:37.534260",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-26",
+      "subject": "I did NOT have sex with the president: Nikki Haley swats down 'disgusting' rumor she had affair with Trump after author Michael Wolff hints at an affair",
+      "document_id": "HOUSE OVERSIGHT 026786",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Nikki Haley",
+        "Donald Trump",
+        "Michael Wolff"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "Daily Mail"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Associate",
+        "description": "Kahn is sending Epstein a news article about political rumors"
+      },
+      {
+        "entity_1": "Nikki Haley",
+        "entity_2": "Donald Trump",
+        "relationship_type": "Political/Professional",
+        "description": "Subject of alleged affair rumors being denied"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Donald Trump",
+        "relationship_type": "Author/Subject",
+        "description": "Wolff wrote about Trump and hinted at alleged affair"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Informative, forwarding news",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about political rumors involving Nikki Haley and Donald Trump",
+      "significance": "Shows communication between Kahn and Epstein regarding political gossip and scandal, potentially indicating interest in political affairs and rumors"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "Sharing of potentially damaging political rumors",
+      "Communication about sensitive political allegations"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - simply sharing a news article about political rumors"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a news article about political rumors involving third parties, not evidence of first-hand illegal activity by the sender or recipients"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Daily Mail news article",
+        "Michael Wolff author",
+        "Article about political rumors and denial of affair allegations"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This refers to widespread media coverage in 2018 about Michael Wolff's book 'Fire and Fury' which contained various allegations about the Trump administration, including rumors about relationships between Trump and staff members"
+    },
+    "summary": "Richard Kahn forwards a Daily Mail article to Jeffrey Epstein about Nikki Haley denying rumors of an affair with President Trump, which were hinted at by author Michael Wolff in his controversial book about the Trump administration."
+  }
+}

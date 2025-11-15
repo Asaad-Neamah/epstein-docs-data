@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031746.txt",
+  "file_name": "HOUSE_OVERSIGHT_031746.txt",
+  "processed_at": "2025-11-15T02:52:56.024673",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-04-09",
+      "subject": "F.B.I. Raids Office of Trump's Longtime Lawyer Michael Cohen",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Michael Cohen",
+        "Trump"
+      ],
+      "organizations": [
+        "F.B.I.",
+        "HBRK Associates Inc."
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Cohen",
+        "entity_2": "Trump",
+        "relationship_type": "professional",
+        "description": "Michael Cohen is described as Trump's longtime lawyer"
+      },
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "communication",
+        "description": "Sender forwarding news article to recipient"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, urgent",
+      "emotional_indicators": [
+        "urgency indicated by 'Importance: High'"
+      ],
+      "purpose": "To share breaking news about FBI raids on Michael Cohen's office",
+      "significance": "Document shows awareness of significant legal developments involving Trump's personal lawyer"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is simply sharing news information"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email is sharing a New York Times news article about FBI raids on Michael Cohen's office. It contains no first-hand illegal activity by the sender or participants."
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Contains link to New York Times article about FBI raids on Michael Cohen's office"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "The FBI raid on Michael Cohen's office in April 2018 was major national news related to investigations into Trump administration connections"
+    },
+    "summary": "Richard Kahn forwards a New York Times article to Jeffrey Epstein about the FBI raiding the office of Michael Cohen, who was Donald Trump's longtime personal lawyer, marking this as high importance news."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030878.txt",
+  "file_name": "HOUSE_OVERSIGHT_030878.txt",
+  "processed_at": "2025-11-15T02:51:00.401067",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-09-15",
+      "subject": "Steve Bannon was supposed to be in Michael Moore's 'Fahrenheit 11/9'",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Jeffrey Epstein",
+        "Steve Bannon",
+        "Michael Moore",
+        "Matt Lauer",
+        "Charlie Rose",
+        "Les Moonves"
+      ],
+      "organizations": [
+        "White House",
+        "HBRK Associates Inc.",
+        "Lincoln Center",
+        "Tavern on the Green",
+        "Toronto International Film Festival"
+      ],
+      "locations": [
+        "New York, NY",
+        "Flint, Mich."
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Media/journalist interactions",
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein a news article about political/media developments"
+      },
+      {
+        "entity_1": "Michael Moore",
+        "entity_2": "Steve Bannon",
+        "relationship_type": "professional",
+        "description": "Moore interviewed Bannon for his documentary film"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, sharing news",
+      "emotional_indicators": [
+        "interest in political/media developments"
+      ],
+      "purpose": "To share a news article about Steve Bannon's involvement in Michael Moore's documentary and the film's political commentary",
+      "significance": "Shows interest in political/media dynamics and documentary filmmaking about the Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"It's a very easy answer. Our side, we go for the head wound. Your side, you have pillow fights.\" - Steve Bannon to Michael Moore",
+      "\"That so f—ked us up to hear him say that ... watching him smirk as he said it.\" - Michael Moore on Bannon's comment"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is straightforward sharing of public news content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains only shared news article content about public political/media events, no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article about Michael Moore's documentary film",
+        "References to media figures Matt Lauer, Charlie Rose, Les Moonves",
+        "Discussion of media coverage and documentary filmmaking"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available news content about Michael Moore's documentary film and Steve Bannon's political commentary"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a news article about Steve Bannon's involvement in Michael Moore's documentary 'Fahrenheit 11/9,' including details about Bannon's meeting with Moore and his political strategy commentary about 'head wounds' versus 'pillow fights' in political warfare."
+  }
+}

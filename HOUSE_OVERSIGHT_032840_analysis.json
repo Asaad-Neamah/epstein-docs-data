@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032840.txt",
+  "file_name": "HOUSE_OVERSIGHT_032840.txt",
+  "processed_at": "2025-11-15T02:55:50.895789",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-06-01",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Nicholas Ribis",
+      "recipients": [
+        "J (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Nicholas Ribis",
+        "J",
+        "Kelly Ann Conway",
+        "Emmet Flood"
+      ],
+      "organizations": [
+        "White House"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "J",
+        "relationship_type": "communication",
+        "description": "Email correspondence about political developments"
+      },
+      {
+        "entity_1": "Nicholas Ribis",
+        "entity_2": "Kelly Ann Conway",
+        "relationship_type": "reference",
+        "description": "Mentioned as potentially next to leave White House"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "urgent, concerned",
+      "emotional_indicators": [
+        "worry",
+        "anxiety about political situation"
+      ],
+      "purpose": "To share and discuss news about White House staff departures",
+      "significance": "Shows real-time reaction to political turmoil in Trump administration in 2019"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "They r all jumping ship - its totally crazy - it's time to worry",
+      "I hear Kelly Ann Conway next"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares a news article link about White House staff changes - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to The Hill news article about White House lawyer departure"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Emmet Flood's departure from White House counsel office was publicly reported news in 2019 during Trump administration turmoil"
+    },
+    "summary": "Email exchange discussing White House staff departures, specifically mentioning Emmet Flood's departure and speculating Kelly Ann Conway might be next, showing concern about political instability in the Trump administration."
+  }
+}

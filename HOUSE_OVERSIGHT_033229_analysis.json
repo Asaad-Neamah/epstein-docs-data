@@ -1,0 +1,99 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033229.txt",
+  "file_name": "HOUSE_OVERSIGHT_033229.txt",
+  "processed_at": "2025-11-15T02:57:37.321797",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-03-16",
+      "subject": "Trump TFR Friday RBI",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)",
+        "Lesley Groff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey",
+        "Pres. Trump",
+        "Larry Visoski"
+      ],
+      "organizations": [],
+      "locations": [
+        "PBI (Palm Beach International Airport)",
+        "Newark",
+        "Teterboro"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Appears to be coordinating flight logistics for Jeffrey"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Pres. Trump",
+        "relationship_type": "potential association",
+        "description": "Flight planning around President Trump's arrival schedule suggests possible connection"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "GIV (likely Gulfstream aircraft)"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, logistical",
+      "emotional_indicators": [],
+      "purpose": "To coordinate flight logistics around President Trump's arrival and Temporary Flight Restrictions (TFR)",
+      "significance": "Shows flight planning around presidential movements and potential association between Jeffrey and Trump's schedule"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Pres. Trump arrives PBI Friday at 6pm is TFR is effective,. If we land before 6pm we are ok.",
+      "Newark is not a gateway airport to PBI, only Teterboro,"
+    ],
+    "red_flags": [
+      "Flight planning coordinated around presidential movements and security restrictions"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - purely logistical communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine flight logistics planning"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Flight logistics involving presidential movements and private aircraft operations could be of media interest given the context of Epstein's associations"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein regarding flight logistics planning around President Trump's arrival at Palm Beach International Airport, discussing Temporary Flight Restrictions and aircraft relocation options between Newark and Teterboro airports."
+  }
+}

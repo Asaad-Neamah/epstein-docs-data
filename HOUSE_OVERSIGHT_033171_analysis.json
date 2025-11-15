@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033171.txt",
+  "file_name": "HOUSE_OVERSIGHT_033171.txt",
+  "processed_at": "2025-11-15T02:57:23.249822",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-09-27",
+      "subject": "Update on US Elections",
+      "document_id": "",
+      "sender": "Zubair Khan",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Zubair Khan",
+        "Jeffrey E.",
+        "Clinton",
+        "Trump"
+      ],
+      "organizations": [
+        "InsightsPod"
+      ],
+      "locations": [
+        "New York",
+        "California",
+        "Michigan",
+        "Texas",
+        "Ohio",
+        "New Jersey"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Zubair Khan",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "business",
+        "description": "Zubair is seeking financial backing from Jeffrey for InsightsPod business venture"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative, persuasive",
+      "emotional_indicators": [
+        "optimism about business opportunity",
+        "confidence in data analysis"
+      ],
+      "purpose": "To provide election analysis data and solicit financial backing for InsightsPod business",
+      "significance": "Shows business relationship involving political data analysis and funding requests"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Clinton's popularity has increased dramatically since the debate. According to our recent data, 62% support Clinton and 38% Trump.",
+      "Taking this into account I hope you can help us by backing this venture."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be a standard business communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a business communication about election data analysis"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "2016 presidential election polling data was widely publicized and analyzed by many organizations"
+    },
+    "summary": "Zubair Khan emails Jeffrey Epstein with election analysis data showing Clinton leading Trump in several states, while also requesting financial backing for his InsightsPod business venture that analyzes social media data for election predictions."
+  }
+}

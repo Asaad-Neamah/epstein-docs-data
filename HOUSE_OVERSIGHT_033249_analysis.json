@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033249.txt",
+  "file_name": "HOUSE_OVERSIGHT_033249.txt",
+  "processed_at": "2025-11-15T02:57:42.373076",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-09-06",
+      "subject": "Here's the guru Donald Trump needs right now - MarketWatch",
+      "document_id": "",
+      "sender": "Deepak Chopra",
+      "recipients": [
+        "Jeff Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Deepak Chopra",
+        "Donald Trump",
+        "Jeff Epstein"
+      ],
+      "organizations": [
+        "MarketWatch",
+        "Chopra Foundation",
+        "Chopra Center for Wellbeing",
+        "Jiyo"
+      ],
+      "locations": [
+        "Carlsbad, CA 92009",
+        "2013 Costa Del Mar Road"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "Jeff Epstein",
+        "relationship_type": "correspondence",
+        "description": "Chopra sending Epstein a news article about Trump"
+      },
+      {
+        "entity_1": "Deepak Chopra",
+        "entity_2": "Donald Trump",
+        "relationship_type": "professional",
+        "description": "Article suggests Chopra could be a guru/advisor to Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional",
+      "emotional_indicators": [],
+      "purpose": "To share a MarketWatch article suggesting Deepak Chopra could serve as a guru/advisor to Donald Trump",
+      "significance": "Shows communication between Chopra and Epstein regarding political connections and potential advisory role with Trump administration"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this simple article sharing email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains shared news article content, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "MarketWatch article about Deepak Chopra potentially advising Donald Trump"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be a publicly available MarketWatch article about Deepak Chopra's potential role as an advisor to President Trump"
+    },
+    "summary": "Deepak Chopra emails Jeffrey Epstein a MarketWatch article suggesting Chopra could serve as a guru or advisor to Donald Trump, showing communication between the two regarding political connections and potential advisory roles."
+  }
+}

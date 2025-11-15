@@ -1,0 +1,126 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_014312.txt",
+  "file_name": "HOUSE_OVERSIGHT_014312.txt",
+  "processed_at": "2025-11-15T02:36:26.801528",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email chain",
+      "date": "2016-11-17",
+      "subject": "Financials: buy XLF Mar17 $22 call with $26 KO for $0.87 with full premium rebate on KO",
+      "document_id": "",
+      "sender": "Ens, Amanda",
+      "recipients": [
+        "Jeffrey E.",
+        "Richard Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Amanda Ens",
+        "Jeffrey E.",
+        "Richard Kahn",
+        "Erika Najarian",
+        "Nigel Tupper"
+      ],
+      "organizations": [
+        "Bank of America Merrill Lynch",
+        "Merrill Lynch, Pierce, Fenner & Smith Incorporated"
+      ],
+      "locations": [
+        "New York, NY 10036",
+        "One Bryant Park"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Financial advisor providing investment recommendations to client"
+      },
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Richard Kahn",
+        "relationship_type": "professional",
+        "description": "Financial advisor providing investment recommendations to client"
+      },
+      {
+        "entity_1": "Amanda Ens",
+        "entity_2": "Bank of America Merrill Lynch",
+        "relationship_type": "employment",
+        "description": "Director at the financial institution"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$0.87",
+        "1.86%",
+        "1.75%",
+        "20-25% upside",
+        "11%"
+      ],
+      "transactions": [
+        "XLF March 2017 $22 call with $26 Knock-Out",
+        "XLF 17March2017 call spread"
+      ],
+      "assets": [
+        "XLF (Financial Select Sector SPDR Fund)",
+        "bonds",
+        "banks",
+        "financial stocks"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, confident, persuasive",
+      "emotional_indicators": [
+        "confidence in market analysis",
+        "urgency to act on investment opportunity"
+      ],
+      "purpose": "To provide financial investment recommendations and market analysis regarding financial sector stocks following the 2016 election",
+      "significance": "Shows financial advisory relationship and investment strategies being discussed post-2016 presidential election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "The market is certainly indicating that there will be a large fiscal stimulus which may send US growth higher and that's a good thing for financials",
+      "The move in the financials since the election would seem to indicate that investors have concluded that nearly every piece of financial regulation will get put into a shredder on day one of the new administration",
+      "Funds are underweight financials in all regions, valuations are reasonable, earnings are improving and financials tend to outperform when bond yields rise"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail, coercion, or leverage found in this financial advisory communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document contains standard financial advisory communications and investment recommendations with no indication of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Trump's 60 Minutes interview as market-moving event"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Standard financial market analysis and investment recommendations following 2016 election"
+    },
+    "summary": "This email chain from a Bank of America Merrill Lynch director provides financial investment recommendations focused on financial sector stocks (XLF) following the 2016 presidential election, analyzing market reactions to anticipated regulatory changes and economic policies under the new administration."
+  }
+}

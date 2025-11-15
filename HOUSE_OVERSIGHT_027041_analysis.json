@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027041.txt",
+  "file_name": "HOUSE_OVERSIGHT_027041.txt",
+  "processed_at": "2025-11-15T02:45:36.692026",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-10-06",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Lisa New",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lisa New",
+        "Jeffrey Epstein",
+        "Woody"
+      ],
+      "organizations": [
+        "Harvard University",
+        "YIVO"
+      ],
+      "locations": [
+        "Cambridge",
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Travel/logistics",
+      "Employment/staffing"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Email correspondence arranging logistics for a taping event"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Woody",
+        "relationship_type": "professional",
+        "description": "Planning taping session involving Woody"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Harvard University",
+        "relationship_type": "employment",
+        "description": "Professor at Harvard University"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, collaborative",
+      "emotional_indicators": [
+        "enthusiasm",
+        "cooperative"
+      ],
+      "purpose": "Coordinate logistics for a taping session involving Jeffrey Epstein and Woody at Harvard",
+      "significance": "Shows professional relationship between Harvard professor and Jeffrey Epstein, planning academic/media event"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "My ideal would be a 1/2 hour-40 minute conversation, but we could do a quick taping in 15 minutes",
+      "John McCain, Tony Kushner, Al Gore have all signed on the last 2 days... crazy"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine professional scheduling"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine scheduling of academic/media taping session"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Planning a taping session, mentions high-profile figures (John McCain, Tony Kushner, Al Gore) participating in other events"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Email shows professional relationship between Harvard professor and Jeffrey Epstein, but contains no sensitive or previously unknown information"
+    },
+    "summary": "Email exchange between Harvard professor Lisa New and Jeffrey Epstein coordinating logistics for a taping session at Harvard University, with discussion of timing options and potential participation of someone named Woody."
+  }
+}

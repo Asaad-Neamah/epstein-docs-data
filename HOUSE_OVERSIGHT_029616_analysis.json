@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029616.txt",
+  "file_name": "HOUSE_OVERSIGHT_029616.txt",
+  "processed_at": "2025-11-15T02:48:18.231938",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-16 to 2019-03-17",
+      "subject": "Re: Disaster but maybe i",
+      "document_id": "",
+      "sender": "Larry Summers",
+      "recipients": [
+        "J (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Summers",
+        "J",
+        "Trump",
+        "Xi"
+      ],
+      "organizations": [
+        "Prada"
+      ],
+      "locations": [
+        "London"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "J",
+        "relationship_type": "personal/advisor",
+        "description": "Summers is seeking relationship advice from J about a romantic interest"
+      },
+      {
+        "entity_1": "Larry Summers",
+        "entity_2": "Unnamed woman",
+        "relationship_type": "romantic/personal",
+        "description": "Summers is involved in a complicated romantic relationship with an unnamed woman"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "80 percent"
+      ],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "frustrated, emotional, seeking advice",
+      "emotional_indicators": [
+        "anger",
+        "frustration",
+        "jealousy",
+        "confusion",
+        "vulnerability"
+      ],
+      "purpose": "To discuss relationship problems and seek advice about handling a romantic situation where Summers feels he's being treated as a 'standby' option",
+      "significance": "Reveals personal relationship dynamics and emotional state of a prominent economist, showing vulnerability and relationship struggles"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "\"I think I'm too eager weak at this point. The Prada thing by someone else is natural. By me seems desperate.\"",
+      "\"I think life as stand by in case she needs leverage against another guy sucks.\"",
+      "\"Sustaining w secrecy hard.\""
+    ],
+    "red_flags": [
+      "Emotional manipulation in relationship",
+      "Secrecy about relationship",
+      "Power dynamics in personal relationship"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - this appears to be personal relationship advice seeking"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is personal correspondence about relationship issues"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Larry Summers is a prominent economist and former Treasury Secretary - personal correspondence about his romantic life would be of media interest"
+    },
+    "summary": "Larry Summers exchanges emails with J seeking advice about a complicated romantic relationship where he feels he's being treated as a 'standby' option, expressing frustration about schedule changes and feeling manipulated while discussing how to handle the situation with appropriate firmness and humor."
+  }
+}

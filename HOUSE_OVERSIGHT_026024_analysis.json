@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026024.txt",
+  "file_name": "HOUSE_OVERSIGHT_026024.txt",
+  "processed_at": "2025-11-15T02:43:48.649915",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-28",
+      "subject": "Ref. : TR:",
+      "document_id": "",
+      "sender": "Jean HUGUEN",
+      "recipients": [
+        "jeeyacation@gmail.com",
+        "jean.huguen@albertopinto.com",
+        "Lesley Groff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jean HUGUEN",
+        "Jeffrey E.",
+        "Lesley Groff"
+      ],
+      "organizations": [
+        "albertopinto.com",
+        "JEE"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jean HUGUEN",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "business",
+        "description": "Coordinating meeting schedule and travel plans"
+      },
+      {
+        "entity_1": "Jeffrey E.",
+        "entity_2": "Trump",
+        "relationship_type": "professional",
+        "description": "Mentioned as having issues occupying Jeffrey's time"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, cooperative",
+      "emotional_indicators": [
+        "urgency",
+        "accommodating"
+      ],
+      "purpose": "To coordinate scheduling of a business meeting and visit to Plant, rescheduling due to Trump-related issues occupying Jeffrey Epstein's time",
+      "significance": "Shows business coordination between Jean Huguen and Jeffrey Epstein, with Epstein citing Trump-related issues as reason for rescheduling"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "can you delay your trip one week, . trump related issues occupying my time.",
+      "From our side we could postponed the trip ,visit the 2 works from Plant Thursday the 15th and have our meeting Friday the 16th all of us,but need an answer from Plant."
+    ],
+    "red_flags": [
+      "Vague reference to 'trump related issues' without specific details"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine business scheduling"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "This appears to be routine business communication regarding scheduling, though the mention of 'Trump related issues' could be of interest given Epstein's known connections"
+    },
+    "summary": "Email chain discussing rescheduling of a business meeting and visit to 'Plant' due to Trump-related issues occupying Jeffrey Epstein's time, with Jean Huguen proposing alternative dates for the meeting."
+  }
+}

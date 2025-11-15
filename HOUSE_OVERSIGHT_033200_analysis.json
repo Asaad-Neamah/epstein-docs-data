@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033200.txt",
+  "file_name": "HOUSE_OVERSIGHT_033200.txt",
+  "processed_at": "2025-11-15T02:57:42.227098",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-01",
+      "subject": "NYTimes: Trump's Economic Cabinet Picks Signal Embrace of Wall St. Elite",
+      "document_id": "",
+      "sender": "Kathy Ruemmler",
+      "recipients": [
+        "jeeyacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Kathy Ruemmler",
+        "Steven Mnuchin",
+        "Mr. Trump"
+      ],
+      "organizations": [
+        "NYTimes",
+        "Treasury",
+        "Wall St."
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Kathy Ruemmler",
+        "entity_2": "jeeyacation@gmail.com recipient",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence sharing political news with commentary"
+      },
+      {
+        "entity_1": "Steven Mnuchin",
+        "entity_2": "Treasury Department",
+        "relationship_type": "professional",
+        "description": "Mnuchin has been tapped to run the Treasury Department"
+      },
+      {
+        "entity_1": "Mr. Trump",
+        "entity_2": "Steven Mnuchin",
+        "relationship_type": "political/professional",
+        "description": "Trump selected Mnuchin for Treasury position"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, critical, urgent",
+      "emotional_indicators": [
+        "frustration",
+        "disapproval",
+        "strong opinion"
+      ],
+      "purpose": "To share a New York Times article about Trump's cabinet picks with critical commentary",
+      "significance": "Shows political commentary and reaction to Trump administration appointments from a legal professional"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Wow. This is truly moronic.",
+      "Steven mnuchin, the financier who has been tapped to run Treasury, joins other wealthy investors chosen by Mr. Trump, a sign of possible tax cuts and deregulation ahead."
+    ],
+    "red_flags": [
+      "Strong negative characterization of political appointments"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward political commentary"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a New York Times article about political appointments - no first-hand illegal activity discussed"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References New York Times article about Trump's economic cabinet picks"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This email references publicly reported news about Trump administration cabinet appointments that were widely covered in mainstream media"
+    },
+    "summary": "Kathy Ruemmler emails a New York Times article about Trump's economic cabinet picks to an unknown recipient, adding her critical commentary that the appointments are 'truly moronic' and represent an embrace of Wall Street elites."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029605.txt",
+  "file_name": "HOUSE_OVERSIGHT_029605.txt",
+  "processed_at": "2025-11-15T02:48:18.408284",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-12",
+      "subject": "Re: Michael Cohen Sentenced To 3 Years In Prison Following Plea That Implicated Trump",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "J"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Cohen",
+        "Trump"
+      ],
+      "organizations": [
+        "NPR"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Cohen",
+        "entity_2": "Trump",
+        "relationship_type": "legal",
+        "description": "Cohen's plea implicated Trump in legal matters"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, questioning",
+      "emotional_indicators": [
+        "curiosity",
+        "potential suspicion"
+      ],
+      "purpose": "To question someone about their knowledge or involvement regarding Michael Cohen's sentencing and its implications for Trump",
+      "significance": "Shows awareness of significant legal developments involving Trump's former attorney and potential implications for Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "How are you sneaky?",
+      "Michael Cohen Sentenced To 3 Years In Prison Following Plea That Implicated Trump"
+    ],
+    "red_flags": [
+      "Question about being 'sneaky' suggests potential knowledge of covert activities"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "possible",
+      "evidence": [
+        "Question 'How are you sneaky?' could imply knowledge of covert behavior"
+      ],
+      "description": "The question about being 'sneaky' could be interpreted as referencing hidden knowledge or activities, though it's ambiguous"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document shares news article about Michael Cohen's legal case - no first-hand illegal activity discussed"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to NPR news article about Michael Cohen sentencing"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's sentencing was major public news in 2018 regarding investigations into Trump"
+    },
+    "summary": "Email exchange discussing Michael Cohen's 3-year prison sentence for crimes that implicated Trump, with one party questioning another about being 'sneaky' in relation to this news."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027035.txt",
+  "file_name": "HOUSE_OVERSIGHT_027035.txt",
+  "processed_at": "2025-11-15T02:45:46.800344",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2013-10-05",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Lisa New",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lisa New",
+        "Jeffrey Epstein",
+        "Woody",
+        "John McCain",
+        "Tony Kushner",
+        "Al Gore"
+      ],
+      "organizations": [
+        "Harvard University"
+      ],
+      "locations": [
+        "Cambridge",
+        "MA",
+        "Barker Center",
+        "12 Quincy Street",
+        "Harvardx studios",
+        "Woodberry poetry room"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Travel/logistics",
+      "Employment/staffing"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional",
+        "description": "Email correspondence regarding scheduling a taping session"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Harvard University",
+        "relationship_type": "Employment",
+        "description": "Lisa New is the Powell M. Cabot Professor of American Literature at Harvard"
+      },
+      {
+        "entity_1": "Lisa New",
+        "entity_2": "Woody",
+        "relationship_type": "Professional",
+        "description": "Planning taping session together, possibly a colleague or guest"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Professional and accommodating",
+      "emotional_indicators": [
+        "Enthusiasm",
+        "Professional excitement"
+      ],
+      "purpose": "To coordinate scheduling for a taping session with Jeffrey Epstein and arrange logistics",
+      "significance": "Shows professional interaction between Harvard professor and Jeffrey Epstein regarding academic activities"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "John McCain, Tony Kushner, Al Gore have all signed on the last 2 days...crazy",
+      "Woody is absolutely welcome to come to the seminar, of course"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be routine professional scheduling communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine scheduling email about academic activities"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Routine academic scheduling email with no significant public interest elements"
+    },
+    "summary": "Lisa New, a Harvard professor, responds to Jeffrey Epstein's scheduling inquiry, confirming October 23rd works for a taping session and offering various location options including her office, Harvardx studios, or the Woodberry poetry room, while also mentioning that several prominent figures have recently signed on to participate in activities."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033486.txt",
+  "file_name": "HOUSE_OVERSIGHT_033486.txt",
+  "processed_at": "2025-11-15T02:58:48.852342",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2011-05-27",
+      "subject": "Trump's 6727 sold for 2.7M,.",
+      "document_id": "HOUSE OVERSIGHT 033486",
+      "sender": "Je vacation [jeevacation@gmail.com]",
+      "recipients": [
+        "Rich Kahn",
+        "Darren lndyke"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Je vacation",
+        "Rich Kahn",
+        "Darren lndyke",
+        "Sean",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Je vacation",
+        "entity_2": "Rich Kahn",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding business transaction"
+      },
+      {
+        "entity_1": "Je vacation",
+        "entity_2": "Darren lndyke",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding business transaction"
+      },
+      {
+        "entity_1": "Sean",
+        "entity_2": "Je vacation",
+        "relationship_type": "professional",
+        "description": "Previously discussed aircraft sale opportunity"
+      },
+      {
+        "entity_1": "Buyer",
+        "entity_2": "Trump's aircraft",
+        "relationship_type": "transactional",
+        "description": "Potential purchase of aircraft that sold for $2.7M"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "2.7M",
+        "3.0 million"
+      ],
+      "transactions": [
+        "Trump's 6727 sold for 2.7M",
+        "Buyer had 3.0 million budget for aircraft"
+      ],
+      "assets": [
+        "B727 aircraft",
+        "Trump's 6727 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "informative, business-like",
+      "emotional_indicators": [],
+      "purpose": "To inform recipients about the sale of Trump's aircraft and relay information from Sean about a potential buyer who was interested but had a lower budget",
+      "significance": "Documents business communication about high-value aircraft transaction involving Trump's property"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump's 6727 sold for 2.7M,.",
+      "This buyer did have specs on your aircraft. They were looking at a 3.0 million budget but did not make an offer and it was too low."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be routine business communication about an aircraft sale"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine business communication about aircraft sale"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private business email about aircraft transaction"
+    },
+    "summary": "This email from May 27, 2011 discusses the sale of Trump's aircraft (B727/6727) for $2.7 million and relays information from Sean about a potential buyer who had a $3 million budget but did not make an offer as it was considered too low."
+  }
+}

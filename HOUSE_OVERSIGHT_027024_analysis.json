@@ -1,0 +1,120 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_027024.txt",
+  "file_name": "HOUSE_OVERSIGHT_027024.txt",
+  "processed_at": "2025-11-15T02:45:53.032732",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2013-05-15",
+      "subject": "Scientists create human embryos to make stem cells",
+      "document_id": "",
+      "sender": "Melissa Healy, Los Angeles Times",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Melissa Healy",
+        "Shoukhrat Mitalipov",
+        "George W. Bush",
+        "Jeffrey Kahn",
+        "Michael D. West",
+        "Paula Amato",
+        "Irving Weissman",
+        "Robert Lanza"
+      ],
+      "organizations": [
+        "Los Angeles Times",
+        "Oregon Health & Science University",
+        "Cell (journal)",
+        "Johns Hopkins University",
+        "Stanford University",
+        "Advanced Cell Technology Inc.",
+        "UC San Diego"
+      ],
+      "locations": [
+        "Oregon",
+        "California"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Scientific research",
+      "Medical ethics",
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Shoukhrat Mitalipov",
+        "entity_2": "Oregon Health & Science University",
+        "relationship_type": "employment",
+        "description": "Mitalipov led the research team at OHSU"
+      },
+      {
+        "entity_1": "Robert Lanza",
+        "entity_2": "Advanced Cell Technology Inc.",
+        "relationship_type": "employment",
+        "description": "Lanza is chief scientific officer of Advanced Cell Technology"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [
+        "Financial compensation for egg donors"
+      ],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, balanced",
+      "emotional_indicators": [
+        "scientific excitement",
+        "ethical concern"
+      ],
+      "purpose": "To report on a scientific breakthrough in stem cell research and discuss its ethical implications",
+      "significance": "First successful creation of human embryos that are genetic copies of living people for stem cell production"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Legal status of reproductive cloning varies by state",
+        "Federal regulations needed for therapeutic cloning"
+      ]
+    },
+    "notable_quotes": [
+      "\"This is extremely important,\" Dr. Irving Weissman, a stem cell researcher at Stanford University, said of the new results.",
+      "\"Some experts are now saying that somatic cell nuclear transfer may be the only way to truly reprogram cells,\" Lanza said.",
+      "The report also raises the specter that, with a high-quality donor egg, a bit of skin, some careful tending in a lab and the womb of a willing surrogate, humans have cracked the biological secret to reproducing themselves."
+    ],
+    "red_flags": [
+      "Potential for reproductive cloning despite ethical concerns",
+      "Need for standardized egg donor compensation practices"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this scientific news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on scientific research, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article by Melissa Healy of Los Angeles Times reporting on scientific research"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is a published news article from the Los Angeles Times about a significant scientific breakthrough"
+    },
+    "summary": "Scientists at Oregon Health & Science University successfully created human embryos that are genetic copies of living people to produce stem cells, a breakthrough that could lead to personalized medical treatments but also raises ethical concerns about human cloning. The research published in Cell journal details methods that could potentially be misused for reproductive cloning, sparking debate about the need for federal regulations. The team successfully created six embryonic stem cell lines using somatic cell nuclear transfer with innovative techniques including caffeine treatment to improve success rates."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033272.txt",
+  "file_name": "HOUSE_OVERSIGHT_033272.txt",
+  "processed_at": "2025-11-15T02:57:46.988647",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-30",
+      "subject": "POTUS",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "PBI",
+        "Teterboro"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional/operational",
+        "description": "Providing logistical information about presidential travel"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Trump",
+        "relationship_type": "connection",
+        "description": "Receiving advance notice of presidential travel details"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, informative",
+      "emotional_indicators": [],
+      "purpose": "To provide advance notice of presidential travel details and security protocols",
+      "significance": "Shows someone named Jeffrey receiving privileged information about presidential travel schedules and security procedures"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump is due to arrive PBI Friday 6pm and depart Sunday 8:30pm",
+      "Teterboro is an arrival gateway to PBI when TFR is in effect, NO airMarshal is needed, just 24hour advance Passenger list and Prescreening at departure airport"
+    ],
+    "red_flags": [
+      "Sharing presidential travel details with private individual",
+      "Providing security protocol information to non-official recipient"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be routine information sharing"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Presidential travel details and security protocols are typically confidential information, making this potentially sensitive"
+    },
+    "summary": "Larry Visoski emails Jeffrey with detailed information about President Trump's upcoming travel schedule to PBI, including arrival/departure times and security protocols for Teterboro as an arrival gateway when TFR is in effect."
+  }
+}

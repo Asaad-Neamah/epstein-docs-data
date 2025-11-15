@@ -1,0 +1,96 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033267.txt",
+  "file_name": "HOUSE_OVERSIGHT_033267.txt",
+  "processed_at": "2025-11-15T02:57:59.266232",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-01-08",
+      "subject": "POTUS",
+      "document_id": "HOUSE OVERSIGHT 033267",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Jeffrey",
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Trump",
+        "POTUS",
+        "Seth Mager",
+        "Jeffrey"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "informational",
+        "description": "Providing POTUS travel information to Jeffrey"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "POTUS",
+        "relationship_type": "logistical",
+        "description": "Sharing arrival and departure details for POTUS"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey about POTUS travel schedule and arrival/departure times",
+      "significance": "Shows communication about presidential travel plans to Jeffrey Epstein"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Trump estimate arrival Jan 12 evening",
+      "POTUS arrival — Friday, January 12th, time TBD (likely PM)",
+      "Rumors of a visit the following week are surfacing — January 10-21 st."
+    ],
+    "red_flags": [
+      "Sharing presidential travel details with Jeffrey Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be informational sharing about travel logistics"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - only travel logistics information"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Communication about presidential travel plans to Jeffrey Epstein could be of significant media interest given Epstein's later criminal convictions"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein with detailed information about POTUS Trump's travel schedule, including arrival on January 12th and departure on January 15th, 2018, with advance teams arriving the next day."
+  }
+}

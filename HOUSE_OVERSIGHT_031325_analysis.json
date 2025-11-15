@@ -1,0 +1,94 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_031325.txt",
+  "file_name": "HOUSE_OVERSIGHT_031325.txt",
+  "processed_at": "2025-11-15T02:51:51.484386",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-25",
+      "subject": "https://www.philly.com/opinion/commentary/robert-kraft-prostitution-jeffrey-epstein-sex-slavery-trump-20190224.html",
+      "document_id": "",
+      "sender": "",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Robert Kraft",
+        "Jeffrey Epstein",
+        "Trump"
+      ],
+      "organizations": [
+        "JEE"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Sender (likely Jeffrey Epstein based on JEE reference)",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "Professional/Communication",
+        "description": "Sender is sharing a news article with Michael Wolff"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Direct, brief, instructional",
+      "emotional_indicators": [
+        "Urgency in the 'please note' instruction"
+      ],
+      "purpose": "To share a specific news article about Robert Kraft, Jeffrey Epstein, and Trump with Michael Wolff",
+      "significance": "Shows communication about media coverage linking prominent figures to Epstein and sex trafficking allegations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "please note",
+      "The information contained in this communication is confidential, may be attorney-client privileged, may constitute inside information"
+    ],
+    "red_flags": [
+      "Sharing of article about sex trafficking allegations involving multiple high-profile individuals"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No direct evidence of blackmail or coercion in this communication - appears to be sharing of media content"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email shares a news article about others' alleged illegal activities (Robert Kraft prostitution case and Epstein sex trafficking), but contains no first-hand evidence of illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Sharing of Philadelphia Inquirer opinion piece about Robert Kraft, Jeffrey Epstein, and Trump",
+        "Recipient Michael Wolff is a journalist/author"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Robert Kraft's 2019 prostitution arrest and Jeffrey Epstein's sex trafficking case were widely covered in media. Michael Wolff is a well-known author who has written about Trump."
+    },
+    "summary": "This email forwards a Philadelphia Inquirer opinion article about Robert Kraft's prostitution case and its connection to Jeffrey Epstein and Trump to journalist Michael Wolff, with a brief 'please note' instruction and standard confidentiality disclaimer."
+  }
+}

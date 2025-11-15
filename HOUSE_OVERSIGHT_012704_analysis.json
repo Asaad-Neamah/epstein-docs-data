@@ -1,0 +1,161 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_012704.txt",
+  "file_name": "HOUSE_OVERSIGHT_012704.txt",
+  "processed_at": "2025-11-15T02:36:26.401515",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "news_article",
+      "date": "2011-04-21",
+      "subject": "Jeffrey Epstein's attorneys fight to keep plea discussions private",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein",
+        "Roy Black",
+        "Kenneth Marra",
+        "Jay Lefkowitz",
+        "Martin G. Weinberg",
+        "Jane Doe 1",
+        "Jane Doe 2",
+        "Alex Acosta",
+        "Jeffrey Sloman",
+        "Ann Marie Villafalia",
+        "Bradley J. Edwards",
+        "Prince Andrew",
+        "George W. Bush"
+      ],
+      "organizations": [
+        "U.S. House Committee on Oversight and Accountability",
+        "U.S. District Court",
+        "U.S. attorney's office",
+        "Department of Justice",
+        "FBI",
+        "Kirkland & Ellis",
+        "Florida International University",
+        "Ferraro Law Firm",
+        "Farmer Jaffe Weissing Edwards Fistos & Lehrman",
+        "Palm Beach State Attorney's Office",
+        "Daily Business Review",
+        "Daily Beast"
+      ],
+      "locations": [
+        "Miami",
+        "West Palm Beach",
+        "Palm Beach",
+        "New York",
+        "Boston",
+        "Coral Gables",
+        "Fort Lauderdale"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Political connections/influence",
+      "Allegations/complaints",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Roy Black",
+        "relationship_type": "legal_representation",
+        "description": "Black is one of Epstein's defense attorneys"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Jay Lefkowitz",
+        "relationship_type": "legal_representation",
+        "description": "Lefkowitz is one of Epstein's defense attorneys"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Martin G. Weinberg",
+        "relationship_type": "legal_representation",
+        "description": "Weinberg is one of Epstein's defense attorneys"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Prince Andrew",
+        "relationship_type": "personal",
+        "description": "Described as friends who socialized together"
+      },
+      {
+        "entity_1": "Epstein defense team",
+        "entity_2": "U.S. attorney's office",
+        "relationship_type": "adversarial",
+        "description": "Legal opponents in plea negotiations"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": [
+        "Epstein's Palm Beach mansion",
+        "Epstein's private plane"
+      ]
+    },
+    "analysis": {
+      "tone": "journalistic/investigative",
+      "emotional_indicators": [
+        "defensiveness from attorneys",
+        "frustration from victims' attorney"
+      ],
+      "purpose": "To report on legal proceedings regarding the confidentiality of Epstein's plea agreement documents",
+      "significance": "Reveals ongoing legal battles over Epstein's controversial non-prosecution agreement and allegations of improper defense tactics"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Potential violation of Crime Victims Rights Act",
+        "Alleged defense team investigation of prosecutors",
+        "Confidentiality of plea negotiations"
+      ]
+    },
+    "notable_quotes": [
+      "\"Defense counsel investigated individual prosecutors and their families, looking for personal peccadilloes that may provide a basis for disqualification,\" Acosta wrote.",
+      "\"It is absurd to say that the target of a federal criminal investigation could put undo pressure on the United States, the government, the Department of Justice, the U.S. attorney's office and the FBI,\" Black said.",
+      "\"They identified a bunch of victims of sexual abuse and decided to align themselves with a bad guy and keep the victims in the dark about the secretive nonprosecution agreement they were giving to Epstein,\" Edwards said."
+    ],
+    "red_flags": [
+      "Allegations that defense team hired private investigators to probe prosecutors' personal lives",
+      "Claims that victims were kept in the dark about plea agreement",
+      "Dispute over whether proper legal procedures were followed for crime victims"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "possible",
+      "evidence": [
+        "Allegations that defense investigated prosecutors' 'personal peccadilloes' for potential disqualification"
+      ],
+      "description": "The article references claims that Epstein's defense team investigated prosecutors' personal lives, which could suggest pressure tactics, though the defense denies these allegations"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "news_report",
+      "description": "This is a news article reporting on legal proceedings and allegations, not first-hand evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Article from Daily Business Review",
+        "References to media coverage of Epstein and Prince Andrew",
+        "Concern that documents might be disseminated to news outlets",
+        "Alex Acosta's letter to Daily Beast"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This is itself a published news article about Epstein's legal case, indicating the information was already public in 2011"
+    },
+    "summary": "This 2011 news article reports on Jeffrey Epstein's attorneys fighting to keep plea discussion correspondence private from alleged victims who claim the non-prosecution agreement was improperly handled. The article reveals allegations that Epstein's defense team investigated prosecutors' personal lives and discusses ongoing legal battles over victim notification requirements."
+  }
+}

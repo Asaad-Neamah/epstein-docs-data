@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033276.txt",
+  "file_name": "HOUSE_OVERSIGHT_033276.txt",
+  "processed_at": "2025-11-15T02:58:07.501152",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-14",
+      "subject": "Trump plans to name Larry Kudlow his top economic advisor, replacing Gary Cohn",
+      "document_id": "",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "jeffrey E. (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Larry Kudlow",
+        "Gary Cohn",
+        "Trump"
+      ],
+      "organizations": [
+        "HBRK Associates Inc.",
+        "CNBC"
+      ],
+      "locations": [
+        "New York, NY",
+        "575 Lexington Avenue 4th Floor, New York, NY 10022"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Kahn is sending Epstein a news update about political appointments"
+      },
+      {
+        "entity_1": "Donald Trump",
+        "entity_2": "Larry Kudlow",
+        "relationship_type": "political",
+        "description": "Trump appointing Kudlow as top economic advisor"
+      },
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "HBRK Associates Inc.",
+        "relationship_type": "employment",
+        "description": "Kahn works at HBRK Associates"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [
+        "urgency (marked as high importance)"
+      ],
+      "purpose": "To inform Jeffrey Epstein about a significant political appointment in the Trump administration",
+      "significance": "Shows communication about high-level government appointments between Kahn and Epstein"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High importance marking on routine political news",
+      "Direct communication about government appointments"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be straightforward information sharing"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is sharing a CNBC news article about political appointments, not discussing first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC news article about Trump administration appointments",
+        "Link to CNBC article provided"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This was major public news about a significant White House appointment that received widespread media coverage"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein a CNBC news article about President Trump appointing Larry Kudlow as his top economic advisor to replace Gary Cohn, marking the message as high importance."
+  }
+}

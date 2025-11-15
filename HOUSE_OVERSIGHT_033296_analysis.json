@@ -1,0 +1,91 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033296.txt",
+  "file_name": "HOUSE_OVERSIGHT_033296.txt",
+  "processed_at": "2025-11-15T02:58:15.262287",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-06-01",
+      "subject": "Trump",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Hollywood Reporter"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Media/journalist interactions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Wolff is sending Epstein a media article about Trump"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Hollywood Reporter",
+        "relationship_type": "media affiliation",
+        "description": "Wolff appears to be sharing content from Hollywood Reporter"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, brief",
+      "emotional_indicators": [],
+      "purpose": "To share a media article about Donald Trump with Jeffrey Epstein",
+      "significance": "Shows communication between Wolff and Epstein regarding Trump during the 2016 election period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is Michael Wolff sharing a Hollywood Reporter article about Donald Trump with Epstein - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff appears to be sharing media content from Hollywood Reporter about Donald Trump's political campaign"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available media coverage about Donald Trump during the 2016 presidential campaign"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein a Hollywood Reporter article about Donald Trump's political campaign, marked as high importance during the 2016 election period."
+  }
+}

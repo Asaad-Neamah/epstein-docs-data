@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033206.txt",
+  "file_name": "HOUSE_OVERSIGHT_033206.txt",
+  "processed_at": "2025-11-15T02:57:28.986269",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-14",
+      "subject": "Trump",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "President Elect"
+      ],
+      "organizations": [],
+      "locations": [
+        "Palm Beach",
+        "PBI"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Political connections/influence",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional/associate",
+        "description": "Providing travel logistics information about President Elect's movements"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "President Elect",
+        "relationship_type": "connection/association",
+        "description": "Receiving advance notice of President Elect's travel schedule"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informative",
+      "emotional_indicators": [],
+      "purpose": "To inform Jeffrey about President Elect Trump's travel schedule to Palm Beach",
+      "significance": "Shows advance knowledge of presidential travel plans being shared with Jeffrey Epstein during the transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "President Elect arrives Palm Beach on Friday 9pm ish,.",
+      "He also has a day trip Saturday departing PBI at 9am,. And returning 4pm,."
+    ],
+    "red_flags": [
+      "Sharing presidential travel schedule with private individual",
+      "Potential security concern regarding advance knowledge of presidential movements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email shows coordination between Epstein associates and knowledge of presidential movements during transition period, which would be of significant media interest given the Epstein-Trump relationship context"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein with detailed advance notice of President Elect Trump's travel schedule to Palm Beach, including arrival time on Friday and a day trip on Saturday with specific departure and return times from PBI airport."
+  }
+}

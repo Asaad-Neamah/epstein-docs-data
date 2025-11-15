@@ -1,0 +1,107 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030740.txt",
+  "file_name": "HOUSE_OVERSIGHT_030740.txt",
+  "processed_at": "2025-11-15T02:50:32.377394",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-11-05",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Bannon",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Media strategy discussions"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional",
+        "description": "Author communicating with Epstein about book content"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bannon",
+        "relationship_type": "professional/political",
+        "description": "Epstein discussing Bannon's political role and credit for potential Republican success"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "personal/professional",
+        "description": "Described as 'former friend of Trump' and advisor to world leaders"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, strategic, collaborative",
+      "emotional_indicators": [
+        "confidence",
+        "strategic thinking"
+      ],
+      "purpose": "To discuss how Jeffrey Epstein would be portrayed in Michael Wolff's book, specifically proposing to feature Epstein and Bannon discussing Trump",
+      "significance": "Shows Epstein's continued engagement with media figures and desire to shape his public image as a 'credible player' and advisor to world leaders"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I was thinking of opening with you and Bannon talking about Trump. Would let you sound smart and offer what I think would be a crowd-pleasing perspective, and make you seem like a credible player--former friend of Trump, advisor to world leaders, sought after person, etc",
+      "if the republicans pull this off, steve would deserve most of the credit. . he was way out in front on this way out. .. execution not to his liking"
+    ],
+    "red_flags": [
+      "Epstein seeking to shape his public image through media connections",
+      "Discussion of political influence and connections to powerful figures"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion about Michael Wolff's book and how Epstein would be portrayed in it",
+        "Media strategy discussion about presenting Epstein as a 'credible player'"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email reveals Epstein's ongoing efforts to shape his public narrative through media relationships, particularly with author Michael Wolff during the 2018 midterm elections period"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein discussing how to portray him in his upcoming book, proposing to feature Epstein and Steve Bannon discussing Trump to make Epstein appear as a 'credible player' and former friend of Trump. Epstein responds discussing Bannon's potential credit if Republicans succeed in the midterms."
+  }
+}

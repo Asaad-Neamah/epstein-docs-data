@@ -1,0 +1,102 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032296.txt",
+  "file_name": "HOUSE_OVERSIGHT_032296.txt",
+  "processed_at": "2025-11-15T02:54:13.790551",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-09-17",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Soon-Yi",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jeffrey E.",
+        "Soon-Yi",
+        "trump",
+        "deepak chopra",
+        "krause"
+      ],
+      "organizations": [
+        "trump hotel",
+        "white house"
+      ],
+      "locations": [
+        "trump hotel",
+        "white house"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Travel/logistics",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Soon-Yi",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "personal",
+        "description": "Email correspondence about scheduling plans"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "trump",
+        "relationship_type": "political",
+        "description": "Reference to 'trumps guys' and Trump Hotel"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, slightly dismissive",
+      "emotional_indicators": [
+        "mild frustration",
+        "firmness"
+      ],
+      "purpose": "To inform Jeffrey Epstein that Sunday plans cannot be changed due to lack of prior communication",
+      "significance": "Shows communication between Epstein and Soon-Yi regarding scheduling, with references to Trump associates and locations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "We already have plans on Sunday as I didn't hear from you. I don't think I can change them.",
+      "trumps guys changing their plans . all at the trump hotel right down the street from the white house."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine scheduling communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Communication between Epstein and Soon-Yi regarding scheduling, mentioning Trump Hotel and White House proximity"
+    },
+    "summary": "Soon-Yi responds to Jeffrey Epstein's email, stating she cannot change Sunday plans since she didn't hear from him earlier. Epstein's original message referenced Trump associates at Trump Hotel near the White House and mentioned rescheduling with someone named Krause."
+  }
+}

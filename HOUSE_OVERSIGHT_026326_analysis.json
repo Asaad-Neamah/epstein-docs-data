@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026326.txt",
+  "file_name": "HOUSE_OVERSIGHT_026326.txt",
+  "processed_at": "2025-11-15T02:44:24.989390",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-11-05",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Jeffrey Epstein",
+        "Bannon",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Email correspondence discussing book content and political strategy"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Bannon",
+        "relationship_type": "political",
+        "description": "Epstein discussing Bannon's political strategy and giving him credit"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Trump",
+        "relationship_type": "personal/political",
+        "description": "Epstein described as former friend of Trump"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, collaborative",
+      "emotional_indicators": [
+        "confidence",
+        "strategic thinking"
+      ],
+      "purpose": "Discussing potential content for Michael Wolff's book involving Epstein and Bannon talking about Trump",
+      "significance": "Shows Epstein's connections to political figures and his involvement in media/political strategy discussions"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I was thinking of opening with you and Bannon talking about Trump. Would let you sound smart and offer what I think would be a crowd-pleasing perspective",
+      "if the republicans pull this off, steve would deserve most of the credit. . he was way out in front on this way out"
+    ],
+    "red_flags": [
+      "Discussion of political strategy with controversial figures",
+      "Potential media manipulation"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found in this exchange"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a conversation about book content and political strategy"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Discussion of Michael Wolff's book content and media portrayal strategy"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Michael Wolff is a known author and journalist who wrote books about Trump administration; Epstein's connections to political figures were of significant media interest"
+    },
+    "summary": "Email exchange between Michael Wolff and Jeffrey Epstein discussing potential content for Wolff's book involving Epstein and Steve Bannon discussing Donald Trump, with Epstein praising Bannon's political strategy ahead of midterm elections."
+  }
+}

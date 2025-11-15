@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026428.txt",
+  "file_name": "HOUSE_OVERSIGHT_026428.txt",
+  "processed_at": "2025-11-15T02:44:36.054881",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-28",
+      "subject": "Ref. : TR:",
+      "document_id": "",
+      "sender": "jeffrey E. (jeevacation@gmail.com)",
+      "recipients": [
+        "Lesley Groff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jeffrey E.",
+        "Lesley Groff",
+        "jean",
+        "Jean HUGUEN",
+        "Plant",
+        "trump"
+      ],
+      "organizations": [],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Business dealings",
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "professional",
+        "description": "Email correspondence regarding travel arrangements"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "jean/Jean HUGUEN",
+        "relationship_type": "professional",
+        "description": "Business associates coordinating meeting schedule"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "trump",
+        "relationship_type": "connection",
+        "description": "Mentioned as reason for schedule conflict"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, direct",
+      "emotional_indicators": [
+        "urgency",
+        "business-like"
+      ],
+      "purpose": "To coordinate rescheduling of a business trip and meeting due to Trump-related time conflicts",
+      "significance": "Shows Jeffrey Epstein's involvement in business dealings and his reference to Trump-related matters occupying his time shortly after the 2016 election"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "can you delay your trip one week, . trump related issues occupying my time.",
+      "From our side we could postponed the trip ,visit the 2 works from Plant Thursday the 15th and have our meeting Friday the 16th all of us"
+    ],
+    "red_flags": [
+      "Reference to Trump-related matters during transition period after 2016 election"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found - appears to be routine business scheduling"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "No illegal activity discussed - routine business communication about scheduling a meeting"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email from Jeffrey Epstein referencing Trump-related matters during the presidential transition period, which could be of media interest given later investigations into their relationship"
+    },
+    "summary": "Jeffrey Epstein emails Lesley Groff requesting to delay a business trip by one week due to Trump-related issues occupying his time, with subsequent email chain showing coordination of rescheduled meeting dates with business associates for November 15-16, 2016."
+  }
+}

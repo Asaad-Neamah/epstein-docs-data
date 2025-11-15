@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033144.txt",
+  "file_name": "HOUSE_OVERSIGHT_033144.txt",
+  "processed_at": "2025-11-15T02:57:07.833896",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-13",
+      "subject": "trump goin to lutniks house on thurs",
+      "document_id": "",
+      "sender": "J [jeevacation@gmail.com]",
+      "recipients": [
+        "Richard Kahn",
+        "Darren lndyke"
+      ]
+    },
+    "entities": {
+      "people": [
+        "J",
+        "Richard Kahn",
+        "Darren lndyke",
+        "trump",
+        "lutnik"
+      ],
+      "organizations": [],
+      "locations": [
+        "lutniks house"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "J",
+        "entity_2": "Richard Kahn",
+        "relationship_type": "professional",
+        "description": "Sender to recipient communication"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "Darren lndyke",
+        "relationship_type": "professional",
+        "description": "Sender to recipient communication"
+      },
+      {
+        "entity_1": "trump",
+        "entity_2": "lutnik",
+        "relationship_type": "social/political",
+        "description": "Trump visiting Lutnik's house"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informational",
+      "emotional_indicators": [
+        "urgency in notification"
+      ],
+      "purpose": "To inform recipients about Trump's upcoming visit to Lutnik's house",
+      "significance": "Documents communication about high-profile political figure's movements and connections"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "trump goin to lutniks house on thurs",
+      "please note"
+    ],
+    "red_flags": [
+      "Informal communication about high-profile political figure's private movements"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be simple informational communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - simply sharing information about Trump's travel plans"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Information about Trump's private movements and connections would be of significant media interest"
+    },
+    "summary": "Email from 'J' to Richard Kahn and Darren lndyke informing them that Trump will be visiting Lutnik's house on Thursday, with a request to 'please note' this information."
+  }
+}

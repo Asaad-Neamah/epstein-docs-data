@@ -1,0 +1,123 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_025941.txt",
+  "file_name": "HOUSE_OVERSIGHT_025941.txt",
+  "processed_at": "2025-11-15T02:43:45.001090",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-05-15",
+      "subject": "Fwd: New York Post: Jeffrey Epstein sex abuse probe reopened",
+      "document_id": "",
+      "sender": "Darren Indyke",
+      "recipients": [
+        "Ghislaine Maxwell",
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Darren Indyke",
+        "Ghislaine Maxwell",
+        "Jeffrey Epstein",
+        "Julia Marsh",
+        "Bruce Golding",
+        "Bradley Edwards",
+        "Jack Scarola"
+      ],
+      "organizations": [
+        "New York Post",
+        "U.S. Attorney's Office",
+        "FBI",
+        "Palm Beach Police",
+        "Florida police"
+      ],
+      "locations": [
+        "New York",
+        "Palm Beach",
+        "Florida"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Media/journalist interactions",
+      "Allegations/complaints"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Darren Indyke",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal_representation",
+        "description": "Indyke appears to be Epstein's attorney forwarding legal news"
+      },
+      {
+        "entity_1": "Darren Indyke",
+        "entity_2": "Ghislaine Maxwell",
+        "relationship_type": "professional",
+        "description": "Indyke is sharing legal information with Maxwell"
+      },
+      {
+        "entity_1": "Bradley Edwards",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal_adversary",
+        "description": "Edwards is described as a 'victims lawyer' involved in litigation against Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, professional",
+      "emotional_indicators": [],
+      "purpose": "To inform Epstein and Maxwell about media coverage regarding the reopening of a sex abuse probe",
+      "significance": "Shows Epstein's legal team monitoring media coverage of ongoing investigations against him"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "Sex abuse investigation",
+        "Potential criminal probe reopening"
+      ]
+    },
+    "notable_quotes": [
+      "Jeffrey Epstein sex abuse probe reopened",
+      "The feds have reopened their investigation into billionaire pedophile Jeffrey Epstein",
+      "victims lawyer Bradley Edwards said the feds are 'taking another look' at the hedge-fund manager"
+    ],
+    "red_flags": [
+      "Reopened sex abuse investigation",
+      "Reference to 'billionaire pedophile' in media",
+      "Federal authorities reinvestigating case"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This email forwards a news article about legal proceedings and investigations involving Epstein, but contains no first-hand evidence of illegal activity by the sender"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Forwarded New York Post article by Julia Marsh and Bruce Golding",
+        "Media coverage of reopened Epstein investigation"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be media coverage of legal proceedings that were likely public knowledge at the time"
+    },
+    "summary": "Attorney Darren Indyke forwards a New York Post article to Ghislaine Maxwell and Jeffrey Epstein reporting that federal authorities have reopened their investigation into Epstein's sex abuse case, with victims' lawyer Bradley Edwards confirming the feds are 'taking another look' at the hedge-fund manager."
+  }
+}

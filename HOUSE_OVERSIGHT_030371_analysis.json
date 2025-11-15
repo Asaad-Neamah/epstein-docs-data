@@ -1,0 +1,116 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030371.txt",
+  "file_name": "HOUSE_OVERSIGHT_030371.txt",
+  "processed_at": "2025-11-15T02:49:35.387124",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2015-10-26",
+      "subject": "draft",
+      "document_id": "",
+      "sender": "jeffrey E.",
+      "recipients": [
+        "Melanie Spinella",
+        "Brad Wechsler"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jeffrey E.",
+        "jeffrey epstein",
+        "Melanie Spinella",
+        "Brad Wechsler",
+        "obama"
+      ],
+      "organizations": [
+        "phaidon",
+        "art space"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Melanie Spinella",
+        "relationship_type": "professional",
+        "description": "Sender providing financial calculations to recipient"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Brad Wechsler",
+        "relationship_type": "professional",
+        "description": "Financial calculations reviewed with Brad"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "96 million",
+        "106 million",
+        "$8 - 15m",
+        "90 and 98 million",
+        "28%",
+        "3.8%",
+        "12%",
+        "43%",
+        "38.7 - 44 m"
+      ],
+      "transactions": [
+        "combined basis 96 million",
+        "add ten for restructuring",
+        "total sale price for both approx $8-15m",
+        "tax savings 38.7-44m"
+      ],
+      "assets": [
+        "phaidon and art space"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, technical",
+      "emotional_indicators": [],
+      "purpose": "To share financial calculations regarding potential tax losses and savings from the sale of Phaidon and Art Space assets",
+      "significance": "Shows detailed financial planning involving significant monetary amounts and tax strategy considerations"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "basis 106. mi. subtract total sale price, for both, lets say approx $8 - 15m . leaving loss of between 90 and 98 million long term loss",
+      "AMT rate 28 % obama. tax 3.8%. city and state 12% total aprox 43 %. tax rate. savings 38.7 - 44 m"
+    ],
+    "red_flags": [
+      "Unusually large financial loss calculations",
+      "Complex tax strategy involving significant amounts"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this financial communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "first_hand",
+      "description": "Document contains routine financial calculations and tax planning discussions - no evidence of illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Financial dealings involving Jeffrey Epstein would be of media interest given his notoriety, but this specific tax calculation appears to be private business correspondence"
+    },
+    "summary": "Jeffrey Epstein emails financial calculations to Melanie Spinella regarding potential tax losses and savings from the sale of Phaidon and Art Space assets, showing a planned $90-98 million loss that would generate $38.7-44 million in tax savings."
+  }
+}

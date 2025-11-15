@@ -1,0 +1,106 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033304.txt",
+  "file_name": "HOUSE_OVERSIGHT_033304.txt",
+  "processed_at": "2025-11-15T02:58:05.538011",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-07-06",
+      "subject": "Jared Kushner: The Donald Trump I Know I I Observer",
+      "document_id": "HOUSE OVERSIGHT 033304",
+      "sender": "Richard Kahn",
+      "recipients": [
+        "Darren Indyke",
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Richard Kahn",
+        "Darren Indyke",
+        "Jeffrey Epstein",
+        "Jared Kushner",
+        "Donald Trump"
+      ],
+      "organizations": [
+        "Observer"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "Professional/Associate",
+        "description": "Kahn is sending Epstein an article about Jared Kushner and Donald Trump"
+      },
+      {
+        "entity_1": "Richard Kahn",
+        "entity_2": "Darren Indyke",
+        "relationship_type": "Professional/Associate",
+        "description": "Kahn is copying Indyke on the email to Epstein"
+      },
+      {
+        "entity_1": "Jared Kushner",
+        "entity_2": "Donald Trump",
+        "relationship_type": "Family/Political",
+        "description": "Article discusses Kushner's relationship with Trump, his father-in-law"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "Informative, professional",
+      "emotional_indicators": [
+        "Urgency (marked as high importance)"
+      ],
+      "purpose": "To share a news article about Jared Kushner's perspective on Donald Trump during the 2016 presidential campaign",
+      "significance": "Shows communication between Epstein associates about Trump family members during the 2016 election period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [],
+    "red_flags": [
+      "High importance marking on political article sharing",
+      "Communication about Trump family during election campaign"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - simply sharing a news article"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains only a link to a news article about Jared Kushner and Donald Trump - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Observer article about Jared Kushner and Donald Trump",
+        "Media coverage of political figures during 2016 campaign"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing a publicly available news article from Observer.com about Jared Kushner's relationship with Donald Trump during the 2016 presidential campaign"
+    },
+    "summary": "Richard Kahn emails Jeffrey Epstein and Darren Indyke a link to an Observer article titled 'Jared Kushner: The Donald Trump I Know,' marked as high importance, during the 2016 presidential campaign period."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030217.txt",
+  "file_name": "HOUSE_OVERSIGHT_030217.txt",
+  "processed_at": "2025-11-15T02:49:13.299959",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-09-05",
+      "subject": "Flight time OMAA - BQK",
+      "document_id": "",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)",
+        "Rich Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey",
+        "Eric",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "Abu Dhabi",
+        "Stambaugh",
+        "Shannon Ireland",
+        "Jacksonville",
+        "Brunswick GA"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Financial transactions/money flow"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Eric",
+        "entity_2": "Trump",
+        "relationship_type": "professional",
+        "description": "Eric completed Trump's interior on his 757 at Stambaugh, they have worked together in the past"
+      },
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional",
+        "description": "Larry is providing flight cost estimates to Jeffrey"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$37,038.00",
+        "$1.74 per gallon",
+        "$1.94 per gallon",
+        "$3.50 per gallon",
+        "$10,396.50",
+        "$11,591.50",
+        "$1,050.00",
+        "$3,500.00",
+        "$10,000.00",
+        "$500.00"
+      ],
+      "transactions": [
+        "Estimated flight cost from Abu Dhabi to Stambaugh"
+      ],
+      "assets": [
+        "Trump's 757 aircraft"
+      ]
+    },
+    "analysis": {
+      "tone": "professional, technical",
+      "emotional_indicators": [],
+      "purpose": "To provide detailed flight cost estimates for a trip from Abu Dhabi to Stambaugh via Shannon Ireland and Jacksonville",
+      "significance": "Shows logistical planning and cost estimation for private aircraft travel involving Trump's 757"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Eric completed Trump's interior on his 757 at Stambaugh, they have worked together in the past"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - this is a straightforward flight logistics email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - this is a routine flight logistics and cost estimation email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Private flight logistics email that would typically not be public unless released through investigative processes"
+    },
+    "summary": "Larry Visoski provides detailed flight cost estimates ($37,038) for a trip from Abu Dhabi to Stambaugh on Trump's 757 aircraft, noting that Eric previously completed interior work on Trump's plane and they have worked together in the past."
+  }
+}

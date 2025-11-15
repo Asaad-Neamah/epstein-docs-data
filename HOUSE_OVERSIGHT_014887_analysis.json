@@ -1,0 +1,172 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_014887.txt",
+  "file_name": "HOUSE_OVERSIGHT_014887.txt",
+  "processed_at": "2025-11-15T02:37:50.857625",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "research_report",
+      "date": "2017-04-06",
+      "subject": "1Q Internet Sector Preview",
+      "document_id": "",
+      "sender": "Justin Post",
+      "recipients": [
+        "amanda.ens@baml.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Justin Post",
+        "Nat Schindler",
+        "Ryan Goodman",
+        "Jason Mitchell",
+        "Akshay Bhatia"
+      ],
+      "organizations": [
+        "BofA Merrill Lynch",
+        "Alphabet",
+        "Amazon",
+        "eBay",
+        "Expedia",
+        "Facebook",
+        "Netflix",
+        "Priceline",
+        "Snap",
+        "TripAdvisor",
+        "Twitter",
+        "Yahoo",
+        "Zillow",
+        "BankRate",
+        "Quotient",
+        "Care.com",
+        "Fitbit",
+        "GoPro",
+        "GrubHub",
+        "Match.com",
+        "OnDeck Capital",
+        "Pandora",
+        "LendingTree",
+        "Trivago",
+        "Wayfair",
+        "Wix",
+        "Yelp",
+        "Zynga"
+      ],
+      "locations": [
+        "US",
+        "Europe",
+        "UK",
+        "Middle East",
+        "Australia",
+        "Singapore",
+        "China",
+        "India",
+        "Japan"
+      ],
+      "financial_entities": [
+        "BofA Merrill Lynch",
+        "Apple",
+        "Samsung",
+        "Verizon",
+        "Emaar Malls",
+        "Walmart"
+      ]
+    },
+    "themes": [
+      "Financial transactions/money flow",
+      "Business dealings",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "BofA Merrill Lynch",
+        "entity_2": "eBay",
+        "relationship_type": "financial_advisor",
+        "description": "Acting as financial advisor for credit card extension"
+      },
+      {
+        "entity_1": "BofA Merrill Lynch",
+        "entity_2": "Verizon",
+        "relationship_type": "financial_advisor",
+        "description": "Advising on Yahoo acquisition"
+      },
+      {
+        "entity_1": "Amazon",
+        "entity_2": "Souq.com",
+        "relationship_type": "acquisition",
+        "description": "Amazon acquiring Middle Eastern eCommerce platform"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [
+        "$650mn",
+        "$800mn",
+        "$1.5bn",
+        "$500mn/year"
+      ],
+      "transactions": [
+        "Amazon acquisition of Souq.com",
+        "Verizon acquisition of Yahoo"
+      ],
+      "assets": [
+        "AWS",
+        "Prime Instant Video",
+        "Google Cloud"
+      ]
+    },
+    "analysis": {
+      "tone": "professional",
+      "emotional_indicators": [
+        "optimism",
+        "caution"
+      ],
+      "purpose": "Provide Q1 2017 earnings preview and analysis for internet sector companies",
+      "significance": "Comprehensive sector analysis from major financial institution during key earnings period"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "CFPB potential regulation of Zillow's mortgage referral system",
+        "YouTube advertiser boycott concerns"
+      ]
+    },
+    "notable_quotes": [
+      "For large-caps, Street 2017 EPS estimates are down 8% YTD while the average stock price is up 9% YTD; suggesting macro and 2H optimism is driving stocks",
+      "Amazon announced that it has an agreement to acquire Souq.com, the leading eCommerce platform in the Middle East",
+      "The Consumer Financial Protection Bureau (CFPB) has indicated that it views Zillow's mortgage referral system as potentially violating parts of the Real Estate Settlement Procedures Act"
+    ],
+    "red_flags": [
+      "High volatility in internet stocks despite earnings estimate declines",
+      "Regulatory concerns around Zillow's mortgage business",
+      "YouTube advertiser boycott impact"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion in this financial research document"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Document is a financial research report containing market analysis and earnings previews - no illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to Financial Times interview with Expedia CEO",
+        "TechCrunch report on Match.com's 'Select' app",
+        "Media coverage of various company developments"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Public financial research report from major investment bank covering well-known public companies"
+    },
+    "summary": "BofA Merrill Lynch's Q1 2017 internet sector preview analyzes earnings expectations for 30 covered stocks, noting that while EPS estimates are down YTD, stock prices are up, suggesting macro optimism is driving performance. The report covers key themes including advertising revenue initiatives, competitive pressures, and regulatory concerns, with detailed company-specific analysis and estimates."
+  }
+}

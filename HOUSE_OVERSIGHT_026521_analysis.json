@@ -1,0 +1,121 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026521.txt",
+  "file_name": "HOUSE_OVERSIGHT_026521.txt",
+  "processed_at": "2025-11-15T02:44:51.261070",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "academic_paper",
+      "date": "",
+      "subject": "Cooperating Without Looking",
+      "document_id": "",
+      "sender": "",
+      "recipients": []
+    },
+    "entities": {
+      "people": [
+        "Moshe Hoffman",
+        "Erez Yoeli",
+        "Martin Nowak",
+        "John Kerry",
+        "John Maynard Keynes",
+        "Shakespeare",
+        "Juliet",
+        "Romeo",
+        "Paris",
+        "Frank",
+        "Keri Hu"
+      ],
+      "organizations": [
+        "University of California at San Diego",
+        "Harvard University",
+        "Federal Trade Commission",
+        "John Templeton Foundation",
+        "National Science Foundation",
+        "Army Research Office",
+        "Republican presidential campaign"
+      ],
+      "locations": [
+        "La Jolla, CA",
+        "Cambridge, MA",
+        "Washington, DC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Research/analysis"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Moshe Hoffman",
+        "entity_2": "Erez Yoeli",
+        "relationship_type": "research_collaboration",
+        "description": "Co-authors who contributed equally to the research paper"
+      },
+      {
+        "entity_1": "Moshe Hoffman",
+        "entity_2": "Martin Nowak",
+        "relationship_type": "research_collaboration",
+        "description": "Co-authors working together on game theory research"
+      },
+      {
+        "entity_1": "Researchers",
+        "entity_2": "Funding organizations",
+        "relationship_type": "funding_recipient",
+        "description": "Research funded by John Templeton Foundation, NSF, and Army Research Office"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "academic",
+      "emotional_indicators": [
+        "analytical",
+        "objective"
+      ],
+      "purpose": "To present a game theory model explaining why people trust those who cooperate without calculating costs",
+      "significance": "Provides theoretical framework for understanding trust, political consistency, intuitive cooperation, and emotional commitments"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "We trust more those who cooperate without calculating the costs because they will cooperate even when those costs are high.",
+      "People who calculate costs of trading off against sacred values are less trustworthy when it comes to safeguarding these values than people who consider them sacred.",
+      "Love has the property that we behave altruistically towards our partners regardless of what temptations arise."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - purely academic research paper"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "Academic research paper with no illegal activity discussed or evidenced"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to 2004 Republican presidential campaign television ad showing John Kerry",
+        "Mention of Washington Post article about Obama's 'romnesia' speech"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Academic research published in what appears to be a scientific journal, discussing game theory applications to human behavior and trust"
+    },
+    "summary": "This academic paper presents a game theory model called the 'envelope game' that explains why people trust those who cooperate without calculating costs (CWOL). The research shows that CWOL behavior signals trustworthiness in repeated interactions and applies this framework to explain political consistency, intuitive cooperation, taboo trade-offs, and emotional commitments like love."
+  }
+}

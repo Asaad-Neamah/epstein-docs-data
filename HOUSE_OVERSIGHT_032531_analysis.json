@@ -1,0 +1,114 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032531.txt",
+  "file_name": "HOUSE_OVERSIGHT_032531.txt",
+  "processed_at": "2025-11-15T02:54:57.496049",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-05-08",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 032531",
+      "sender": "",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jonathan Farkas",
+        "Trump",
+        "Somers",
+        "Woody Johnson",
+        "Suzanne Johnson"
+      ],
+      "organizations": [
+        "White House Fellowship Commission"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Political connections/influence",
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jonathan Farkas",
+        "entity_2": "Somers",
+        "relationship_type": "personal",
+        "description": "Dating/romantic interest mentioned"
+      },
+      {
+        "entity_1": "Somers",
+        "entity_2": "Trump administration",
+        "relationship_type": "political",
+        "description": "Received appointment to White House Fellowship Commission"
+      },
+      {
+        "entity_1": "Woody Johnson",
+        "entity_2": "Suzanne Johnson",
+        "relationship_type": "personal/business",
+        "description": "Couple who facilitated the appointment"
+      },
+      {
+        "entity_1": "Woody Johnson",
+        "entity_2": "Somers",
+        "relationship_type": "political",
+        "description": "Helped secure White House appointment"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, warning",
+      "emotional_indicators": [
+        "concern",
+        "skepticism",
+        "urgency"
+      ],
+      "purpose": "To warn about an untrustworthy person and share information about political appointments",
+      "significance": "Shows discussion of White House appointments and personal relationships among influential circles"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "careful she is nottrustworthy at ALLL",
+      "Somers got an appointment from Trump she is on The White House Fellowship Commison it came through Woody and Suzanne Johnson because she bundled"
+    ],
+    "red_flags": [
+      "Warning about someone being 'nottrustworthy at ALLL'",
+      "Discussion of political appointments through personal connections"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be a warning about someone's trustworthiness"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - only personal relationship commentary and political appointment information"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Discusses White House appointments and political connections during Trump administration, which could be of media interest"
+    },
+    "summary": "Email exchange warning about an untrustworthy woman named Somers who received a White House Fellowship Commission appointment through Woody and Suzanne Johnson, with Jonathan Farkas mentioning he's dating her but doesn't expect romance to develop."
+  }
+}

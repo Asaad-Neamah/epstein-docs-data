@@ -1,0 +1,101 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033566.txt",
+  "file_name": "HOUSE_OVERSIGHT_033566.txt",
+  "processed_at": "2025-11-15T02:59:07.337352",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-03-15",
+      "subject": "NY Post: Vanessa Trump files for divorce from Donald Trump Jr.",
+      "document_id": "",
+      "sender": "Dangene and Jennie Enterprise",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Vanessa Trump",
+        "Donald Trump Jr."
+      ],
+      "organizations": [
+        "New York Post"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Vanessa Trump",
+        "entity_2": "Donald Trump Jr.",
+        "relationship_type": "marital",
+        "description": "Divorce filing mentioned in the forwarded news article"
+      },
+      {
+        "entity_1": "Dangene and Jennie Enterprise",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "communication",
+        "description": "Sender forwarding news article to Epstein"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative, casual",
+      "emotional_indicators": [
+        "interest",
+        "sharing"
+      ],
+      "purpose": "To share a news article about the Trump family divorce with Jeffrey Epstein",
+      "significance": "Shows communication about Trump family personal matters being shared with Epstein"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "I thought you'd be interested in this story:",
+      "Vanessa Trump files for divorce from Donald Trump Jr. EXCLUSIVE"
+    ],
+    "red_flags": [
+      "Sharing of Trump family personal matters with Epstein"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of threats, coercion, or leverage being used - appears to be simple information sharing"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document is forwarding a news article about third-party events (Trump divorce) - no first-hand illegal activity by sender or Epstein"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Forwarding of New York Post exclusive article about Trump divorce",
+        "Includes link to PageSix.com article"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "The Trump family divorce was widely covered in media at the time and is public knowledge"
+    },
+    "summary": "An email forwarding a New York Post exclusive article about Vanessa Trump filing for divorce from Donald Trump Jr. to Jeffrey Epstein, indicating interest in sharing Trump family news with Epstein."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_029977.txt",
+  "file_name": "HOUSE_OVERSIGHT_029977.txt",
+  "processed_at": "2025-11-15T02:48:53.380107",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2012-09-28",
+      "subject": "Re: 3:00 Wheels up!!",
+      "document_id": "",
+      "sender": "Larry",
+      "recipients": [
+        "Lesley Groff",
+        "Richard Barnnet",
+        "Louella Rabuyo",
+        "Januiz Banasiak",
+        "Rich Kahn",
+        "Darren Indyke",
+        "Francis Derby",
+        "Derby Je vacation"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lesley Groff",
+        "Larry",
+        "JEE",
+        "Vice President Biden"
+      ],
+      "organizations": [],
+      "locations": [
+        "West Palm Beach",
+        "Palm Beach",
+        "Galaxy ramp"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry",
+        "entity_2": "Lesley Groff",
+        "relationship_type": "professional",
+        "description": "Larry is providing flight logistics information to Lesley Groff"
+      },
+      {
+        "entity_1": "JEE",
+        "entity_2": "Vice President Biden",
+        "relationship_type": "coordination",
+        "description": "Flight scheduling appears to be coordinated around Vice President Biden's travel plans"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, urgent",
+      "emotional_indicators": [
+        "urgency",
+        "coordination focus"
+      ],
+      "purpose": "To coordinate flight departure timing and ground transportation logistics around Vice President Biden's travel schedule",
+      "significance": "Shows coordination of private flight logistics with government official travel schedules"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Please inform JEE, Vice President Biden is in West Palm Beach and is schedule to depart between 5pm and 6pm today.",
+      "The airport will be closed between 5pm and 6pm. Flight time is 2+21min. we'll need wheels up at 4pm or 2pm."
+    ],
+    "red_flags": [
+      "Coordination of private travel with government official's schedule",
+      "Airport closure for government travel"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present - appears to be routine travel coordination"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed - routine travel logistics coordination"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Coordination between private entities and government officials' travel schedules could be of media interest"
+    },
+    "summary": "Email chain coordinating private flight departure timing around Vice President Biden's travel schedule in West Palm Beach, with discussion of airport closures and ground transportation arrangements for a 3:00 PM wheels-up time."
+  }
+}

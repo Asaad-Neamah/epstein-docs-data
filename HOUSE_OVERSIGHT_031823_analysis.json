@@ -1,0 +1,88 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_031823.txt",
+  "file_name": "HOUSE_OVERSIGHT_031823.txt",
+  "processed_at": "2025-11-15T02:53:06.676102",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-03-26",
+      "subject": "From Fox News - Federal judge overseeing key lawsuit relating to pedophile Jeffrey Epstein dies",
+      "document_id": "",
+      "sender": "DAVID SCHOEN",
+      "recipients": [
+        "jeevacation@gmail.com"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "Fox News",
+        "U.S. District Court"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Clinton",
+        "relationship_type": "political",
+        "description": "Described as 'Clinton-connected financier'"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "informative",
+      "emotional_indicators": [],
+      "purpose": "To share a news article about the death of a judge overseeing a lawsuit involving Jeffrey Epstein",
+      "significance": "Documents awareness of legal proceedings involving Epstein and sharing of media coverage about his case"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "A U.S. District Court judge in New York who was presiding over a lawsuit involving a wealthy, Clinton-connected financier and sex offender died Sunday at the age of 96."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "This is a forwarded news article about legal proceedings, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Fox News article about judge's death and Epstein lawsuit"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "This appears to be sharing publicly available news coverage about Jeffrey Epstein's legal cases"
+    },
+    "summary": "David Schoen forwards a Fox News article to an email address about the death of a 96-year-old federal judge who was presiding over a lawsuit involving Jeffrey Epstein, described as a Clinton-connected financier and sex offender."
+  }
+}

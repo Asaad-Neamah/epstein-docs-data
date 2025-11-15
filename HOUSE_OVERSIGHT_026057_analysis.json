@@ -1,0 +1,113 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026057.txt",
+  "file_name": "HOUSE_OVERSIGHT_026057.txt",
+  "processed_at": "2025-11-15T02:43:39.592421",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2017-02-03",
+      "subject": "Re: Kuhn",
+      "document_id": "",
+      "sender": "Robert Kuhn",
+      "recipients": [
+        "jeffrey E. [jeevacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Robert Kuhn",
+        "Jeffrey E.",
+        "Giulio Tononi"
+      ],
+      "organizations": [
+        "Closer To Truth",
+        "PBS",
+        "New York Times",
+        "BBC"
+      ],
+      "locations": [
+        "Madison",
+        "New York",
+        "Washington"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Travel/logistics",
+      "Business dealings"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Robert Kuhn",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "professional",
+        "description": "Business collaboration on television series production"
+      },
+      {
+        "entity_1": "Robert Kuhn",
+        "entity_2": "Giulio Tononi",
+        "relationship_type": "professional/personal",
+        "description": "Colleagues and friends working on consciousness theory and television content"
+      },
+      {
+        "entity_1": "Closer To Truth",
+        "entity_2": "Jeffrey E.",
+        "relationship_type": "financial",
+        "description": "Funding proposal for television series from Jeffrey Epstein's foundation"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, enthusiastic, collaborative",
+      "emotional_indicators": [
+        "excitement",
+        "anticipation"
+      ],
+      "purpose": "To discuss a television series proposal on sleep and dreams, share media links, and arrange meetings",
+      "significance": "Shows professional collaboration between Robert Kuhn and Jeffrey Epstein on educational media production"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "First serious, independent confirmation of Giulio Tononi's theory. This constitutes the primary part of our Episode 6",
+      "Love to meet - on Sleep/Dreams and all sorts of fun stuff to cheer our 2017"
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail, coercion, or leverage found in this professional communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains shared news articles and professional proposals only - no first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "References to New York Times article on sleep research",
+        "BBC interview excerpt",
+        "PBS television series proposal"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": false,
+      "context": "Document discusses publicly available media content and educational television production"
+    },
+    "summary": "Robert Kuhn emails Jeffrey Epstein regarding a proposed PBS television series on sleep and dreams, sharing news articles about sleep research and arranging meetings during Kuhn's visit to New York in early 2017."
+  }
+}

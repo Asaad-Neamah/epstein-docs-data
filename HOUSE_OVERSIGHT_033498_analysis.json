@@ -1,0 +1,120 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033498.txt",
+  "file_name": "HOUSE_OVERSIGHT_033498.txt",
+  "processed_at": "2025-11-15T02:58:48.214166",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email chain",
+      "date": "2009-08-11",
+      "subject": "RE: FW: Jane Doe",
+      "document_id": "",
+      "sender": "Jessica Cadwell",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Jessica Cadwell",
+        "Jeffrey Epstein",
+        "Jacquie Johnson",
+        "Bradley J. Edwards",
+        "Robert D. Critton Jr.",
+        "Jane Doe",
+        "Maxwell",
+        "Mr. Trump"
+      ],
+      "organizations": [
+        "BURMAN CRITTON LUTTIER & COLEMAN, LLP",
+        "Milton Center for girls",
+        "Department of Juvenile Justice"
+      ],
+      "locations": [
+        "Florida",
+        "West Palm Beach, FL 33401"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Jessica Cadwell",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "legal representation",
+        "description": "Paralegal communicating with client about legal proceedings"
+      },
+      {
+        "entity_1": "Jessica Cadwell",
+        "entity_2": "Jacquie Johnson",
+        "relationship_type": "legal professional",
+        "description": "Legal professionals coordinating deposition schedules and document requests"
+      },
+      {
+        "entity_1": "Bradley J. Edwards",
+        "entity_2": "Jane Doe",
+        "relationship_type": "legal representation",
+        "description": "Attorney representing Jane Doe in legal proceedings"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, procedural",
+      "emotional_indicators": [
+        "urgency",
+        "coordination"
+      ],
+      "purpose": "Coordinate deposition schedules and document requests related to legal proceedings involving Jane Doe",
+      "significance": "Shows legal team coordination around depositions of key figures including Jeffrey Epstein, Maxwell, and Mr. Trump in a case involving Jane Doe"
+    },
+    "legal_compliance": {
+      "concerns": [
+        "HIPAA release requirements",
+        "protective order filing",
+        "deposition scheduling conflicts"
+      ]
+    },
+    "notable_quotes": [
+      "Please notice the deposition of Ms. Maxwell has been rescheduled from 8/17 to 9/23.",
+      "Mr. Trump's deposition is scheduled for August 18, 2009.",
+      "I need a date for the deposition of Mr. Epstein."
+    ],
+    "red_flags": [
+      "Multiple high-profile individuals involved in same legal proceedings",
+      "Emergency protective order filed",
+      "Juvenile justice facility records being sought"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion found - appears to be routine legal correspondence about deposition scheduling and document requests"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No evidence of illegal activity - this is legal procedural communication about scheduling depositions and obtaining records"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This appears to be legal correspondence related to proceedings involving Jeffrey Epstein and other high-profile individuals, which would likely be of media interest given subsequent public revelations about Epstein's activities"
+    },
+    "summary": "Legal email chain discussing deposition scheduling for Jeffrey Epstein, Maxwell, and Mr. Trump in a case involving Jane Doe, including coordination of document requests and HIPAA releases for juvenile justice facility records."
+  }
+}

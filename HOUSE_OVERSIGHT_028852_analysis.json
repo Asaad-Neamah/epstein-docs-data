@@ -1,0 +1,111 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_028852.txt",
+  "file_name": "HOUSE_OVERSIGHT_028852.txt",
+  "processed_at": "2025-11-15T02:46:39.411363",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2014-07-17",
+      "subject": "Reminder Ed Boyden",
+      "document_id": "",
+      "sender": "Lesley Groff",
+      "recipients": [
+        "Jeffrey Epstein"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Lesley Groff",
+        "Jeffrey Epstein",
+        "Ed Boyden",
+        "Neil Gershenfeld"
+      ],
+      "organizations": [
+        "MIT Media Lab",
+        "McGovern Institute",
+        "MIT Center for Neurobiological Engineering",
+        "New York Stem Cell Foundation",
+        "Obama BRAIN Initiative"
+      ],
+      "locations": [
+        "Cambridge, MA",
+        "E15-401",
+        "E15-421",
+        "20 Ames St."
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Travel/logistics"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Lesley Groff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "employment",
+        "description": "Assistant to Jeffrey Epstein"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ed Boyden",
+        "relationship_type": "professional",
+        "description": "Scheduling calls and meetings"
+      },
+      {
+        "entity_1": "Ed Boyden",
+        "entity_2": "MIT",
+        "relationship_type": "employment",
+        "description": "Associate Professor and Co-Director at MIT"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, courteous",
+      "emotional_indicators": [
+        "apologetic tone from Boyden",
+        "professional courtesy"
+      ],
+      "purpose": "To schedule a call between Jeffrey Epstein and Ed Boyden, following up on a previously canceled meeting",
+      "significance": "Shows Epstein's connections to prominent MIT researchers and involvement with scientific initiatives"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Sorry again for that last minute cancellation in the Spring -- alas, the perils of running a new center, that I no longer control my schedule like in the good old days.",
+      "But the Obama BRAIN Initiative is running strong, and MIT has a good bid for a seat at the table, so that is good."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this email exchange"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Shows Epstein's connections to academic researchers at MIT, which may be of interest given his later legal troubles"
+    },
+    "summary": "Email exchange between Jeffrey Epstein's assistant and MIT professor Ed Boyden regarding scheduling a call, with references to the Obama BRAIN Initiative and previous canceled meetings, showing Epstein's connections to academic research institutions."
+  }
+}

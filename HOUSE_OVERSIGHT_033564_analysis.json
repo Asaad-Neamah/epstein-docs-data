@@ -1,0 +1,100 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033564.txt",
+  "file_name": "HOUSE_OVERSIGHT_033564.txt",
+  "processed_at": "2025-11-15T02:58:59.789228",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-05-19",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "Ken Starr"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "Ken Starr",
+        "Jeffrey Epstein"
+      ],
+      "organizations": [
+        "Trump White House"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Personal relationships",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Jeffrey Epstein",
+        "relationship_type": "professional/personal",
+        "description": "Wolff indicates Epstein has told him about Starr and their friendship"
+      },
+      {
+        "entity_1": "Jeffrey Epstein",
+        "entity_2": "Ken Starr",
+        "relationship_type": "friendship",
+        "description": "Epstein has reportedly told Wolff about his friendship with Starr"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, friendly, and solicitous",
+      "emotional_indicators": [
+        "delighted",
+        "pleasure",
+        "look forward"
+      ],
+      "purpose": "To establish contact with Ken Starr for research purposes and offer a book",
+      "significance": "Shows Jeffrey Epstein facilitating connections between Michael Wolff (author) and Ken Starr (former independent counsel)"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Jeffrey has long told me about your friendship and the respect he has for you.",
+      "Any counsel and background you might provide would aid me enormously and enrich the book."
+    ],
+    "red_flags": [
+      "Epstein acting as intermediary between author and former prosecutor"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Michael Wolff is an author working on books about Trump White House and legal cases"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Shows Jeffrey Epstein's connections to both Michael Wolff (author) and Ken Starr (former independent counsel)"
+    },
+    "summary": "Michael Wolff emails Ken Starr to establish contact, mentioning that Jeffrey Epstein has spoken about their friendship, and offers to send his book about the Trump White House while seeking counsel for his upcoming book on legal cases against Trump."
+  }
+}

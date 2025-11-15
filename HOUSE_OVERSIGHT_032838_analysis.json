@@ -1,0 +1,97 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032838.txt",
+  "file_name": "HOUSE_OVERSIGHT_032838.txt",
+  "processed_at": "2025-11-15T02:55:45.332186",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-05-14",
+      "subject": "Re:",
+      "document_id": "HOUSE OVERSIGHT 032838",
+      "sender": "Merwin Dela cruz",
+      "recipients": [
+        "J",
+        "Richard Kahn"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Merwin Dela cruz",
+        "J",
+        "Richard Kahn",
+        "presidnet trump"
+      ],
+      "organizations": [
+        "secret service"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Merwin Dela cruz",
+        "entity_2": "J",
+        "relationship_type": "professional",
+        "description": "Merwin addresses J as 'sir' and responds to his notification"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "presidnet trump",
+        "relationship_type": "proximity",
+        "description": "J indicates President Trump will be at their neighbors' location"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, courteous",
+      "emotional_indicators": [
+        "appreciation",
+        "alertness"
+      ],
+      "purpose": "To acknowledge receipt of information about President Trump's visit and potential Secret Service presence",
+      "significance": "Shows communication about presidential movements and security arrangements"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "presidnet trump is going to be at our neighbors on thurs, so dont be surprsised if secret service check in",
+      "Thank you for the heads up sir."
+    ],
+    "red_flags": [],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this communication"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": false,
+      "context": "Communication about presidential movements and security arrangements, not likely public information at the time"
+    },
+    "summary": "Merwin Dela cruz acknowledges a notification from J that President Trump will be visiting their neighbors, warning of potential Secret Service presence and security checks on Thursday."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_030649.txt",
+  "file_name": "HOUSE_OVERSIGHT_030649.txt",
+  "processed_at": "2025-11-15T02:50:04.694348",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-11-28",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Michael Wolff",
+      "recipients": [
+        "jeffrey E. [jeeyacation@gmail.com]"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Michael Wolff",
+        "jeffrey E.",
+        "Roger",
+        "Steve Bannon",
+        "Trump"
+      ],
+      "organizations": [],
+      "locations": [
+        "New York",
+        "Palm Beach"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Travel/logistics",
+      "Personal relationships",
+      "Political connections/influence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "jeffrey E.",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about travel plans and potential meetings with Roger"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump circle",
+        "relationship_type": "media access",
+        "description": "Wolff claims to have exclusive access to Trump's inner circle"
+      },
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Roger",
+        "relationship_type": "acquaintance",
+        "description": "Epstein inquiring about Roger's location and wanting to meet"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, informal",
+      "emotional_indicators": [
+        "eagerness",
+        "opportunistic"
+      ],
+      "purpose": "Coordinate travel plans and propose meetings, share media access information, and hint at business ideas",
+      "significance": "Shows Epstein's connections to media figures and interest in Trump circle access during transition period"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "it's suddenly made me the only liberal-media guy with access to Trump circle",
+      "I have a bit of an idea for you re media and Saudi friends"
+    ],
+    "red_flags": [
+      "Vague reference to 'Saudi friends' and media ideas",
+      "Informal communication about high-level political access"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Email contains sharing of a Hollywood Reporter article about Steve Bannon, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to Hollywood Reporter article about Steve Bannon",
+        "Wolff positioning himself as having exclusive Trump circle access",
+        "Mention of 'media and Saudi friends' idea"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Steve Bannon's role in Trump administration was widely covered; Epstein's connections to media figures were part of public investigations"
+    },
+    "summary": "Michael Wolff emails Jeffrey Epstein about travel coordination and proposes meetings with an unidentified 'Roger,' while boasting about his exclusive media access to Trump's inner circle and hinting at business ideas involving media and Saudi connections."
+  }
+}

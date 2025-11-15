@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\001\\HOUSE_OVERSIGHT_026934.txt",
+  "file_name": "HOUSE_OVERSIGHT_026934.txt",
+  "processed_at": "2025-11-15T02:45:24.568644",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2018-12-23",
+      "subject": "LSJ Trip",
+      "document_id": "HOUSE OVERSIGHT 026934",
+      "sender": "Larry Visoski",
+      "recipients": [
+        "Je vacation (jeevacation@gmail.com)"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Larry Visoski",
+        "Jeffrey",
+        "Pres Trump",
+        "Darren",
+        "Dave"
+      ],
+      "organizations": [],
+      "locations": [
+        "PBI (Palm Beach International Airport)",
+        "LSJ",
+        "Boca (likely Boca Raton)"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Travel/logistics",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Larry Visoski",
+        "entity_2": "Jeffrey",
+        "relationship_type": "professional/service",
+        "description": "Larry appears to be arranging transportation logistics for Jeffrey"
+      },
+      {
+        "entity_1": "Jeffrey",
+        "entity_2": "Pres Trump",
+        "relationship_type": "acquaintance/connection",
+        "description": "Mention of President Trump's potential travel to PBI suggests some connection"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "professional, service-oriented, accommodating",
+      "emotional_indicators": [],
+      "purpose": "To arrange transportation logistics for Jeffrey Epstein's departure on December 26th, 2018",
+      "significance": "Shows logistical coordination for Epstein's travel and mentions connection to President Trump"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Since Pres Trump didn't come to PBI Yet,",
+      "at this time no TSA issue in PBI"
+    ],
+    "red_flags": [
+      "Mention of TSA status at PBI airport"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion present in this logistical email"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email"
+    },
+    "media_journalist_refs": {
+      "mentioned": false,
+      "details": []
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "This email references Jeffrey Epstein's travel arrangements and mentions President Trump, which would be of media interest given the known connections between Epstein and Trump"
+    },
+    "summary": "Larry Visoski emails Jeffrey Epstein to arrange transportation logistics for his December 26th departure, mentioning that President Trump didn't come to Palm Beach and confirming there are no TSA issues at PBI airport at that time."
+  }
+}

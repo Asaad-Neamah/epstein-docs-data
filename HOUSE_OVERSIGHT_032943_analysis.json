@@ -1,0 +1,98 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_032943.txt",
+  "file_name": "HOUSE_OVERSIGHT_032943.txt",
+  "processed_at": "2025-11-15T02:56:11.062784",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2016-12-13",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "jeffrey E. [jeevacation@gmail.com]",
+      "recipients": [
+        "Michael Wolff"
+      ]
+    },
+    "entities": {
+      "people": [
+        "jeffrey E.",
+        "Michael Wolff"
+      ],
+      "organizations": [
+        "Trump people"
+      ],
+      "locations": [],
+      "financial_entities": []
+    },
+    "themes": [
+      "Communications/correspondence",
+      "Personal relationships"
+    ],
+    "relationships": [
+      {
+        "entity_1": "jeffrey E.",
+        "entity_2": "Michael Wolff",
+        "relationship_type": "professional/personal",
+        "description": "Communicating about scheduling a meeting, with casual tone suggesting familiarity"
+      },
+      {
+        "entity_1": "Michael Wolff",
+        "entity_2": "Trump people",
+        "relationship_type": "professional",
+        "description": "Wolff indicates he is with Trump people and cannot meet due to this engagement"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "casual, familiar",
+      "emotional_indicators": [
+        "friendly rapport",
+        "informal communication style"
+      ],
+      "purpose": "Reschedule a meeting from tomorrow to today at 12:00, and comment on Wolff's article",
+      "significance": "Shows communication between Jeffrey Epstein and journalist Michael Wolff, with reference to Trump connections"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "btw, liked your fake news article",
+      "I can't. With the Trump people today."
+    ],
+    "red_flags": [
+      "Use of personal email for potentially sensitive communications"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No indicators of blackmail or coercion found in this communication"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": true,
+      "is_shared_content": false,
+      "content_type": "none",
+      "description": "No illegal activity discussed or evidenced in this email exchange"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "Reference to 'fake news article' written by Michael Wolff, who is a journalist"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": false,
+      "media_worthy": true,
+      "context": "Email shows connection between Jeffrey Epstein and journalist Michael Wolff during Trump transition period (December 2016)"
+    },
+    "summary": "Jeffrey Epstein emails journalist Michael Wolff to reschedule a meeting from tomorrow to today at 12:00, and compliments Wolff's 'fake news article.' Wolff responds that he cannot meet because he is 'with the Trump people today.'"
+  }
+}

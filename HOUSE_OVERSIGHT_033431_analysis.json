@@ -1,0 +1,104 @@
+{
+  "file": "C:\\Users\\asaad\\Downloads\\TEXT-20251115T055740Z-1-001\\TEXT\\002\\HOUSE_OVERSIGHT_033431.txt",
+  "file_name": "HOUSE_OVERSIGHT_033431.txt",
+  "processed_at": "2025-11-15T02:58:46.844609",
+  "model_used": "deepseek-v3-1",
+  "status": "success",
+  "analysis": {
+    "metadata": {
+      "document_type": "email",
+      "date": "2019-02-21",
+      "subject": "Re:",
+      "document_id": "",
+      "sender": "Weingarten, Reid",
+      "recipients": [
+        "J"
+      ]
+    },
+    "entities": {
+      "people": [
+        "Weingarten, Reid",
+        "J",
+        "Michael Cohen"
+      ],
+      "organizations": [
+        "CNBC"
+      ],
+      "locations": [
+        "DC"
+      ],
+      "financial_entities": []
+    },
+    "themes": [
+      "Legal matters/litigation",
+      "Communications/correspondence"
+    ],
+    "relationships": [
+      {
+        "entity_1": "Weingarten, Reid",
+        "entity_2": "J",
+        "relationship_type": "professional",
+        "description": "Email correspondence discussing legal matters and scheduling"
+      },
+      {
+        "entity_1": "J",
+        "entity_2": "Michael Cohen",
+        "relationship_type": "informational",
+        "description": "J sharing news article about Michael Cohen's legal case"
+      }
+    ],
+    "financial_info": {
+      "amounts_mentioned": [],
+      "transactions": [],
+      "assets": []
+    },
+    "analysis": {
+      "tone": "concerned, urgent",
+      "emotional_indicators": [
+        "urgency",
+        "concern",
+        "trust issues"
+      ],
+      "purpose": "To discuss scheduling of an individual (likely a legal client or associate) and share news about Michael Cohen's prison surrender date delay",
+      "significance": "Shows communication between legal professionals during a high-profile legal case, with expressions of trust and urgency"
+    },
+    "legal_compliance": {
+      "concerns": []
+    },
+    "notable_quotes": [
+      "Of course I trust you...what is going on?",
+      "Trust me"
+    ],
+    "red_flags": [
+      "Vague subject matter",
+      "Urgent tone about scheduling",
+      "Trust-related statements in professional context"
+    ],
+    "blackmail_indicators": {
+      "likelihood": "none",
+      "evidence": [],
+      "description": "No evidence of blackmail or coercion - appears to be professional communication about scheduling and sharing legal news"
+    },
+    "illegal_activity": {
+      "severity": "none",
+      "categories": [],
+      "evidence": [],
+      "is_from_jeffrey_epstein": false,
+      "is_shared_content": true,
+      "content_type": "shared_article",
+      "description": "Document contains shared news article about Michael Cohen's legal proceedings, not first-hand illegal activity"
+    },
+    "media_journalist_refs": {
+      "mentioned": true,
+      "details": [
+        "CNBC news article about Michael Cohen's prison surrender date delay"
+      ]
+    },
+    "public_knowledge": {
+      "likely_public": true,
+      "media_worthy": true,
+      "context": "Michael Cohen's legal case was widely publicized in 2019 as part of investigations related to former President Trump"
+    },
+    "summary": "Email exchange between Reid Weingarten and 'J' discussing scheduling of an individual in DC and sharing a CNBC news article about Michael Cohen's prison surrender date being delayed until May 6, 2019, with expressions of trust and urgency in their communication."
+  }
+}
